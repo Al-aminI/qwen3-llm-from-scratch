@@ -1,0 +1,1998 @@
+[
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "fire",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "fire",
+        "description": "fire",
+        "detail": "fire",
+        "documentation": {}
+    },
+    {
+        "label": "PaliGemmaProcessor",
+        "importPath": "processing_paligemma",
+        "description": "processing_paligemma",
+        "isExtraImport": true,
+        "detail": "processing_paligemma",
+        "documentation": {}
+    },
+    {
+        "label": "KVCache",
+        "importPath": "modeling_gemma",
+        "description": "modeling_gemma",
+        "isExtraImport": true,
+        "detail": "modeling_gemma",
+        "documentation": {}
+    },
+    {
+        "label": "PaliGemmaForConditionalGeneration",
+        "importPath": "modeling_gemma",
+        "description": "modeling_gemma",
+        "isExtraImport": true,
+        "detail": "modeling_gemma",
+        "documentation": {}
+    },
+    {
+        "label": "PaliGemmaForConditionalGeneration",
+        "importPath": "modeling_gemma",
+        "description": "modeling_gemma",
+        "isExtraImport": true,
+        "detail": "modeling_gemma",
+        "documentation": {}
+    },
+    {
+        "label": "PaliGemmaConfig",
+        "importPath": "modeling_gemma",
+        "description": "modeling_gemma",
+        "isExtraImport": true,
+        "detail": "modeling_gemma",
+        "documentation": {}
+    },
+    {
+        "label": "load_hf_model",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "CrossEntropyLoss",
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "isExtraImport": true,
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "SiglipVisionConfig",
+        "importPath": "modeling_siglip",
+        "description": "modeling_siglip",
+        "isExtraImport": true,
+        "detail": "modeling_siglip",
+        "documentation": {}
+    },
+    {
+        "label": "SiglipVisionModel",
+        "importPath": "modeling_siglip",
+        "description": "modeling_siglip",
+        "isExtraImport": true,
+        "detail": "modeling_siglip",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "safe_open",
+        "importPath": "safetensors",
+        "description": "safetensors",
+        "isExtraImport": true,
+        "detail": "safetensors",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn.functional",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn.functional",
+        "description": "torch.nn.functional",
+        "detail": "torch.nn.functional",
+        "documentation": {}
+    },
+    {
+        "label": "torch.utils.data",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "autocast",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "GradScaler",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "autocast",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "GradScaler",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "autocast",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "GradScaler",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "SmallModelConfig",
+        "importPath": "qwen3_small_config",
+        "description": "qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "importPath": "qwen3_small_config",
+        "description": "qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_cache_data",
+        "importPath": "qwen3_small_config",
+        "description": "qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "TextTokenDataset",
+        "importPath": "qwen3_small_config",
+        "description": "qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "Muon",
+        "importPath": "qwen3_small_config",
+        "description": "qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "SmallModelConfig",
+        "importPath": "qwen3_small_config",
+        "description": "qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "SmallModelConfig",
+        "importPath": "qwen3_small_config",
+        "description": "qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "importPath": "qwen3_small_config",
+        "description": "qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_cache_data",
+        "importPath": "qwen3_small_config",
+        "description": "qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "TextTokenDataset",
+        "importPath": "qwen3_small_config",
+        "description": "qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "Qwen3Attention",
+        "importPath": "qwen3_core_components",
+        "description": "qwen3_core_components",
+        "isExtraImport": true,
+        "detail": "qwen3_core_components",
+        "documentation": {}
+    },
+    {
+        "label": "SwiGLUFeedForward",
+        "importPath": "qwen3_core_components",
+        "description": "qwen3_core_components",
+        "isExtraImport": true,
+        "detail": "qwen3_core_components",
+        "documentation": {}
+    },
+    {
+        "label": "TransformerBlock",
+        "importPath": "qwen3_core_components",
+        "description": "qwen3_core_components",
+        "isExtraImport": true,
+        "detail": "qwen3_core_components",
+        "documentation": {}
+    },
+    {
+        "label": "RMSNorm",
+        "importPath": "qwen3_core_components",
+        "description": "qwen3_core_components",
+        "isExtraImport": true,
+        "detail": "qwen3_core_components",
+        "documentation": {}
+    },
+    {
+        "label": "Rotary",
+        "importPath": "qwen3_core_components",
+        "description": "qwen3_core_components",
+        "isExtraImport": true,
+        "detail": "qwen3_core_components",
+        "documentation": {}
+    },
+    {
+        "label": "repeat_kv",
+        "importPath": "qwen3_core_components",
+        "description": "qwen3_core_components",
+        "isExtraImport": true,
+        "detail": "qwen3_core_components",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "MinimalLLM",
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "isExtraImport": true,
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "generate_text",
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "isExtraImport": true,
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "MinimalLLM",
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "isExtraImport": true,
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "train_model",
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "isExtraImport": true,
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "generate_text",
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "isExtraImport": true,
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "move_inputs_to_device",
+        "kind": 2,
+        "importPath": "pytorch-paligemma.inference",
+        "description": "pytorch-paligemma.inference",
+        "peekOfCode": "def move_inputs_to_device(model_inputs: dict, device: str):\n    model_inputs = {k: v.to(device) for k, v in model_inputs.items()}\n    return model_inputs\ndef get_model_inputs(\n    processor: PaliGemmaProcessor, prompt: str, image_file_path: str, device: str\n):\n    image = Image.open(image_file_path)\n    images = [image]\n    prompts = [prompt]\n    model_inputs = processor(text=prompts, images=images)",
+        "detail": "pytorch-paligemma.inference",
+        "documentation": {}
+    },
+    {
+        "label": "get_model_inputs",
+        "kind": 2,
+        "importPath": "pytorch-paligemma.inference",
+        "description": "pytorch-paligemma.inference",
+        "peekOfCode": "def get_model_inputs(\n    processor: PaliGemmaProcessor, prompt: str, image_file_path: str, device: str\n):\n    image = Image.open(image_file_path)\n    images = [image]\n    prompts = [prompt]\n    model_inputs = processor(text=prompts, images=images)\n    model_inputs = move_inputs_to_device(model_inputs, device)\n    return model_inputs\ndef test_inference(",
+        "detail": "pytorch-paligemma.inference",
+        "documentation": {}
+    },
+    {
+        "label": "test_inference",
+        "kind": 2,
+        "importPath": "pytorch-paligemma.inference",
+        "description": "pytorch-paligemma.inference",
+        "peekOfCode": "def test_inference(\n    model: PaliGemmaForConditionalGeneration,\n    processor: PaliGemmaProcessor,\n    device: str,\n    prompt: str,\n    image_file_path: str,\n    max_tokens_to_generate: int,\n    temperature: float,\n    top_p: float,\n    do_sample: bool,",
+        "detail": "pytorch-paligemma.inference",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "pytorch-paligemma.inference",
+        "description": "pytorch-paligemma.inference",
+        "peekOfCode": "def main(\n    model_path: str = None,\n    prompt: str = None,\n    image_file_path: str = None,\n    max_tokens_to_generate: int = 100,\n    temperature: float = 0.8,\n    top_p: float = 0.9,\n    do_sample: bool = False,\n    only_cpu: bool = False,\n):",
+        "detail": "pytorch-paligemma.inference",
+        "documentation": {}
+    },
+    {
+        "label": "KVCache",
+        "kind": 6,
+        "importPath": "pytorch-paligemma.modeling_gemma",
+        "description": "pytorch-paligemma.modeling_gemma",
+        "peekOfCode": "class KVCache():\n    def __init__(self) -> None:\n        self.key_cache: List[torch.Tensor] = []\n        self.value_cache: List[torch.Tensor] = []\n    def num_items(self) -> int:\n        if len(self.key_cache) == 0:\n            return 0\n        else:\n            # The shape of the key_cache is [Batch_Size, Num_Heads_KV, Seq_Len, Head_Dim]\n            return self.key_cache[0].shape[-2]",
+        "detail": "pytorch-paligemma.modeling_gemma",
+        "documentation": {}
+    },
+    {
+        "label": "GemmaConfig",
+        "kind": 6,
+        "importPath": "pytorch-paligemma.modeling_gemma",
+        "description": "pytorch-paligemma.modeling_gemma",
+        "peekOfCode": "class GemmaConfig():\n    def __init__(\n        self,\n        vocab_size,\n        hidden_size,\n        intermediate_size,\n        num_hidden_layers,\n        num_attention_heads,\n        num_key_value_heads,\n        head_dim=256,",
+        "detail": "pytorch-paligemma.modeling_gemma",
+        "documentation": {}
+    },
+    {
+        "label": "PaliGemmaConfig",
+        "kind": 6,
+        "importPath": "pytorch-paligemma.modeling_gemma",
+        "description": "pytorch-paligemma.modeling_gemma",
+        "peekOfCode": "class PaliGemmaConfig():\n    def __init__(\n        self,\n        vision_config=None,\n        text_config=None,\n        ignore_index=-100,\n        image_token_index=256000,\n        vocab_size=257152,\n        projection_dim=2048,\n        hidden_size=2048,",
+        "detail": "pytorch-paligemma.modeling_gemma",
+        "documentation": {}
+    },
+    {
+        "label": "GemmaRMSNorm",
+        "kind": 6,
+        "importPath": "pytorch-paligemma.modeling_gemma",
+        "description": "pytorch-paligemma.modeling_gemma",
+        "peekOfCode": "class GemmaRMSNorm(nn.Module):\n    def __init__(self, dim: int, eps: float = 1e-6):\n        super().__init__()\n        self.eps = eps\n        self.weight = nn.Parameter(torch.zeros(dim))\n    def _norm(self, x):\n        return x * torch.rsqrt(x.pow(2).mean(-1, keepdim=True) + self.eps)\n    def forward(self, x):\n        output = self._norm(x.float())\n        # Llama does x.to(float16) * w whilst Gemma is (x * w).to(float16)",
+        "detail": "pytorch-paligemma.modeling_gemma",
+        "documentation": {}
+    },
+    {
+        "label": "GemmaRotaryEmbedding",
+        "kind": 6,
+        "importPath": "pytorch-paligemma.modeling_gemma",
+        "description": "pytorch-paligemma.modeling_gemma",
+        "peekOfCode": "class GemmaRotaryEmbedding(nn.Module):\n    def __init__(self, dim, max_position_embeddings=2048, base=10000, device=None):\n        super().__init__()\n        self.dim = dim # it is set to the head_dim\n        self.max_position_embeddings = max_position_embeddings\n        self.base = base\n        # Calculate the theta according to the formula theta_i = base^(-2i/dim) where i = 0, 1, 2, ..., dim // 2\n        inv_freq = 1.0 / (self.base ** (torch.arange(0, self.dim, 2, dtype=torch.int64).float() / self.dim))\n        self.register_buffer(\"inv_freq\", tensor=inv_freq, persistent=False)\n    @torch.no_grad()",
+        "detail": "pytorch-paligemma.modeling_gemma",
+        "documentation": {}
+    },
+    {
+        "label": "GemmaMLP",
+        "kind": 6,
+        "importPath": "pytorch-paligemma.modeling_gemma",
+        "description": "pytorch-paligemma.modeling_gemma",
+        "peekOfCode": "class GemmaMLP(nn.Module):\n    def __init__(self, config):\n        super().__init__()\n        self.config = config\n        self.hidden_size = config.hidden_size\n        self.intermediate_size = config.intermediate_size\n        self.gate_proj = nn.Linear(self.hidden_size, self.intermediate_size, bias=False)\n        self.up_proj = nn.Linear(self.hidden_size, self.intermediate_size, bias=False)\n        self.down_proj = nn.Linear(self.intermediate_size, self.hidden_size, bias=False)\n    def forward(self, x):",
+        "detail": "pytorch-paligemma.modeling_gemma",
+        "documentation": {}
+    },
+    {
+        "label": "GemmaAttention",
+        "kind": 6,
+        "importPath": "pytorch-paligemma.modeling_gemma",
+        "description": "pytorch-paligemma.modeling_gemma",
+        "peekOfCode": "class GemmaAttention(nn.Module):\n    def __init__(self, config: GemmaConfig, layer_idx: Optional[int] = None):\n        super().__init__()\n        self.config = config\n        self.layer_idx = layer_idx\n        self.attention_dropout = config.attention_dropout\n        self.hidden_size = config.hidden_size\n        self.num_heads = config.num_attention_heads\n        self.head_dim = config.head_dim\n        self.num_key_value_heads = config.num_key_value_heads",
+        "detail": "pytorch-paligemma.modeling_gemma",
+        "documentation": {}
+    },
+    {
+        "label": "GemmaDecoderLayer",
+        "kind": 6,
+        "importPath": "pytorch-paligemma.modeling_gemma",
+        "description": "pytorch-paligemma.modeling_gemma",
+        "peekOfCode": "class GemmaDecoderLayer(nn.Module):\n    def __init__(self, config: GemmaConfig, layer_idx: int):\n        super().__init__()\n        self.hidden_size = config.hidden_size\n        self.self_attn = GemmaAttention(config=config, layer_idx=layer_idx)\n        self.mlp = GemmaMLP(config)\n        self.input_layernorm = GemmaRMSNorm(config.hidden_size, eps=config.rms_norm_eps)\n        self.post_attention_layernorm = GemmaRMSNorm(config.hidden_size, eps=config.rms_norm_eps)\n    def forward(\n        self,",
+        "detail": "pytorch-paligemma.modeling_gemma",
+        "documentation": {}
+    },
+    {
+        "label": "GemmaModel",
+        "kind": 6,
+        "importPath": "pytorch-paligemma.modeling_gemma",
+        "description": "pytorch-paligemma.modeling_gemma",
+        "peekOfCode": "class GemmaModel(nn.Module):\n    def __init__(self, config: GemmaConfig):\n        super().__init__()\n        self.config = config\n        self.padding_idx = config.pad_token_id\n        self.vocab_size = config.vocab_size\n        self.embed_tokens = nn.Embedding(config.vocab_size, config.hidden_size, self.padding_idx)\n        self.layers = nn.ModuleList(\n            [GemmaDecoderLayer(config, layer_idx) for layer_idx in range(config.num_hidden_layers)]\n        )",
+        "detail": "pytorch-paligemma.modeling_gemma",
+        "documentation": {}
+    },
+    {
+        "label": "GemmaForCausalLM",
+        "kind": 6,
+        "importPath": "pytorch-paligemma.modeling_gemma",
+        "description": "pytorch-paligemma.modeling_gemma",
+        "peekOfCode": "class GemmaForCausalLM(nn.Module):\n    def __init__(self, config):\n        super().__init__()\n        self.config = config\n        self.model = GemmaModel(config)\n        self.vocab_size = config.vocab_size\n        self.lm_head = nn.Linear(config.hidden_size, config.vocab_size, bias=False)\n    def get_input_embeddings(self):\n        return self.model.embed_tokens\n    def tie_weights(self):",
+        "detail": "pytorch-paligemma.modeling_gemma",
+        "documentation": {}
+    },
+    {
+        "label": "PaliGemmaMultiModalProjector",
+        "kind": 6,
+        "importPath": "pytorch-paligemma.modeling_gemma",
+        "description": "pytorch-paligemma.modeling_gemma",
+        "peekOfCode": "class PaliGemmaMultiModalProjector(nn.Module):\n    def __init__(self, config: PaliGemmaConfig):\n        super().__init__()\n        self.linear = nn.Linear(config.vision_config.hidden_size, config.vision_config.projection_dim, bias=True)\n    def forward(self, image_features):\n        # [Batch_Size, Num_Patches, Embed_Dim] -> [Batch_Size, Num_Patches, Projection_Dim]\n        hidden_states = self.linear(image_features)\n        return hidden_states\nclass PaliGemmaForConditionalGeneration(nn.Module):\n    def __init__(self, config: PaliGemmaConfig):",
+        "detail": "pytorch-paligemma.modeling_gemma",
+        "documentation": {}
+    },
+    {
+        "label": "PaliGemmaForConditionalGeneration",
+        "kind": 6,
+        "importPath": "pytorch-paligemma.modeling_gemma",
+        "description": "pytorch-paligemma.modeling_gemma",
+        "peekOfCode": "class PaliGemmaForConditionalGeneration(nn.Module):\n    def __init__(self, config: PaliGemmaConfig):\n        super().__init__()\n        self.config = config\n        self.vision_tower = SiglipVisionModel(config.vision_config)\n        self.multi_modal_projector = PaliGemmaMultiModalProjector(config)\n        self.vocab_size = config.vocab_size\n        language_model = GemmaForCausalLM(config.text_config)\n        self.language_model = language_model\n        self.pad_token_id = self.config.pad_token_id if self.config.pad_token_id is not None else -1",
+        "detail": "pytorch-paligemma.modeling_gemma",
+        "documentation": {}
+    },
+    {
+        "label": "rotate_half",
+        "kind": 2,
+        "importPath": "pytorch-paligemma.modeling_gemma",
+        "description": "pytorch-paligemma.modeling_gemma",
+        "peekOfCode": "def rotate_half(x):\n    # Build the [-x2, x1, -x4, x3, ...] tensor for the sin part of the positional encoding.\n    x1 = x[..., : x.shape[-1] // 2] # Takes the first half of the last dimension\n    x2 = x[..., x.shape[-1] // 2 :] # Takes the second half of the last dimension\n    return torch.cat((-x2, x1), dim=-1)\ndef apply_rotary_pos_emb(q, k, cos, sin, unsqueeze_dim=1):\n    cos = cos.unsqueeze(unsqueeze_dim) # Add the head dimension\n    sin = sin.unsqueeze(unsqueeze_dim) # Add the head dimension\n    # Apply the formula (34) of the Rotary Positional Encoding paper.\n    q_embed = (q * cos) + (rotate_half(q) * sin)",
+        "detail": "pytorch-paligemma.modeling_gemma",
+        "documentation": {}
+    },
+    {
+        "label": "apply_rotary_pos_emb",
+        "kind": 2,
+        "importPath": "pytorch-paligemma.modeling_gemma",
+        "description": "pytorch-paligemma.modeling_gemma",
+        "peekOfCode": "def apply_rotary_pos_emb(q, k, cos, sin, unsqueeze_dim=1):\n    cos = cos.unsqueeze(unsqueeze_dim) # Add the head dimension\n    sin = sin.unsqueeze(unsqueeze_dim) # Add the head dimension\n    # Apply the formula (34) of the Rotary Positional Encoding paper.\n    q_embed = (q * cos) + (rotate_half(q) * sin)\n    k_embed = (k * cos) + (rotate_half(k) * sin)\n    return q_embed, k_embed\nclass GemmaMLP(nn.Module):\n    def __init__(self, config):\n        super().__init__()",
+        "detail": "pytorch-paligemma.modeling_gemma",
+        "documentation": {}
+    },
+    {
+        "label": "repeat_kv",
+        "kind": 2,
+        "importPath": "pytorch-paligemma.modeling_gemma",
+        "description": "pytorch-paligemma.modeling_gemma",
+        "peekOfCode": "def repeat_kv(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:\n    batch, num_key_value_heads, slen, head_dim = hidden_states.shape\n    if n_rep == 1:\n        return hidden_states\n    hidden_states = hidden_states[:, :, None, :, :].expand(batch, num_key_value_heads, n_rep, slen, head_dim)\n    return hidden_states.reshape(batch, num_key_value_heads * n_rep, slen, head_dim)\nclass GemmaAttention(nn.Module):\n    def __init__(self, config: GemmaConfig, layer_idx: Optional[int] = None):\n        super().__init__()\n        self.config = config",
+        "detail": "pytorch-paligemma.modeling_gemma",
+        "documentation": {}
+    },
+    {
+        "label": "SiglipVisionConfig",
+        "kind": 6,
+        "importPath": "pytorch-paligemma.modeling_siglip",
+        "description": "pytorch-paligemma.modeling_siglip",
+        "peekOfCode": "class SiglipVisionConfig:\n    def __init__(\n        self,\n        hidden_size=768,\n        intermediate_size=3072,\n        num_hidden_layers=12,\n        num_attention_heads=12,\n        num_channels=3,\n        image_size=224,\n        patch_size=16,",
+        "detail": "pytorch-paligemma.modeling_siglip",
+        "documentation": {}
+    },
+    {
+        "label": "SiglipVisionEmbeddings",
+        "kind": 6,
+        "importPath": "pytorch-paligemma.modeling_siglip",
+        "description": "pytorch-paligemma.modeling_siglip",
+        "peekOfCode": "class SiglipVisionEmbeddings(nn.Module):\n    def __init__(self, config: SiglipVisionConfig):\n        super().__init__()\n        self.config = config\n        self.embed_dim = config.hidden_size\n        self.image_size = config.image_size\n        self.patch_size = config.patch_size\n        self.patch_embedding = nn.Conv2d(\n            in_channels=config.num_channels,\n            out_channels=self.embed_dim,",
+        "detail": "pytorch-paligemma.modeling_siglip",
+        "documentation": {}
+    },
+    {
+        "label": "SiglipAttention",
+        "kind": 6,
+        "importPath": "pytorch-paligemma.modeling_siglip",
+        "description": "pytorch-paligemma.modeling_siglip",
+        "peekOfCode": "class SiglipAttention(nn.Module):\n    \"\"\"Multi-headed attention from 'Attention Is All You Need' paper\"\"\"\n    def __init__(self, config):\n        super().__init__()\n        self.config = config\n        self.embed_dim = config.hidden_size\n        self.num_heads = config.num_attention_heads\n        self.head_dim = self.embed_dim // self.num_heads\n        self.scale = self.head_dim**-0.5 # Equivalent to 1 / sqrt(self.head_dim)\n        self.dropout = config.attention_dropout",
+        "detail": "pytorch-paligemma.modeling_siglip",
+        "documentation": {}
+    },
+    {
+        "label": "SiglipMLP",
+        "kind": 6,
+        "importPath": "pytorch-paligemma.modeling_siglip",
+        "description": "pytorch-paligemma.modeling_siglip",
+        "peekOfCode": "class SiglipMLP(nn.Module):\n    def __init__(self, config):\n        super().__init__()\n        self.config = config\n        self.fc1 = nn.Linear(config.hidden_size, config.intermediate_size)\n        self.fc2 = nn.Linear(config.intermediate_size, config.hidden_size)\n    def forward(self, hidden_states: torch.Tensor) -> torch.Tensor:\n        # [Batch_Size, Num_Patches, Embed_Dim] -> [Batch_Size, Num_Patches, Intermediate_Size]\n        hidden_states = self.fc1(hidden_states)\n        # hidden_states: [Batch_Size, Num_Patches, Intermediate_Size]",
+        "detail": "pytorch-paligemma.modeling_siglip",
+        "documentation": {}
+    },
+    {
+        "label": "SiglipEncoderLayer",
+        "kind": 6,
+        "importPath": "pytorch-paligemma.modeling_siglip",
+        "description": "pytorch-paligemma.modeling_siglip",
+        "peekOfCode": "class SiglipEncoderLayer(nn.Module):\n    def __init__(self, config: SiglipVisionConfig):\n        super().__init__()\n        self.embed_dim = config.hidden_size\n        self.self_attn = SiglipAttention(config)\n        self.layer_norm1 = nn.LayerNorm(self.embed_dim, eps=config.layer_norm_eps)\n        self.mlp = SiglipMLP(config)\n        self.layer_norm2 = nn.LayerNorm(self.embed_dim, eps=config.layer_norm_eps)\n    # Ignore copy\n    def forward(",
+        "detail": "pytorch-paligemma.modeling_siglip",
+        "documentation": {}
+    },
+    {
+        "label": "SiglipEncoder",
+        "kind": 6,
+        "importPath": "pytorch-paligemma.modeling_siglip",
+        "description": "pytorch-paligemma.modeling_siglip",
+        "peekOfCode": "class SiglipEncoder(nn.Module):\n    def __init__(self, config: SiglipVisionConfig):\n        super().__init__()\n        self.config = config\n        self.layers = nn.ModuleList(\n            [SiglipEncoderLayer(config) for _ in range(config.num_hidden_layers)]\n        )\n    # Ignore copy\n    def forward(\n        self,",
+        "detail": "pytorch-paligemma.modeling_siglip",
+        "documentation": {}
+    },
+    {
+        "label": "SiglipVisionTransformer",
+        "kind": 6,
+        "importPath": "pytorch-paligemma.modeling_siglip",
+        "description": "pytorch-paligemma.modeling_siglip",
+        "peekOfCode": "class SiglipVisionTransformer(nn.Module):\n    def __init__(self, config: SiglipVisionConfig):\n        super().__init__()\n        self.config = config\n        embed_dim = config.hidden_size\n        self.embeddings = SiglipVisionEmbeddings(config)\n        self.encoder = SiglipEncoder(config)\n        self.post_layernorm = nn.LayerNorm(embed_dim, eps=config.layer_norm_eps)\n    def forward(self, pixel_values: torch.Tensor) -> torch.Tensor:\n        # pixel_values: [Batch_Size, Channels, Height, Width] -> [Batch_Size, Num_Patches, Embed_Dim]",
+        "detail": "pytorch-paligemma.modeling_siglip",
+        "documentation": {}
+    },
+    {
+        "label": "SiglipVisionModel",
+        "kind": 6,
+        "importPath": "pytorch-paligemma.modeling_siglip",
+        "description": "pytorch-paligemma.modeling_siglip",
+        "peekOfCode": "class SiglipVisionModel(nn.Module):\n    def __init__(self, config: SiglipVisionConfig):\n        super().__init__()\n        self.config = config\n        self.vision_model = SiglipVisionTransformer(config)\n    def forward(self, pixel_values) -> Tuple:\n        # [Batch_Size, Channels, Height, Width] -> [Batch_Size, Num_Patches, Embed_Dim]\n        return self.vision_model(pixel_values=pixel_values)",
+        "detail": "pytorch-paligemma.modeling_siglip",
+        "documentation": {}
+    },
+    {
+        "label": "PaliGemmaProcessor",
+        "kind": 6,
+        "importPath": "pytorch-paligemma.processing_paligemma",
+        "description": "pytorch-paligemma.processing_paligemma",
+        "peekOfCode": "class PaliGemmaProcessor:\n    IMAGE_TOKEN = \"<image>\"\n    def __init__(self, tokenizer, num_image_tokens: int, image_size: int):\n        super().__init__()\n        self.image_seq_length = num_image_tokens\n        self.image_size = image_size\n        # Tokenizer described here: https://github.com/google-research/big_vision/blob/main/big_vision/configs/proj/paligemma/README.md#tokenizer\n        tokens_to_add = {\"additional_special_tokens\": [self.IMAGE_TOKEN]}\n        tokenizer.add_special_tokens(tokens_to_add)\n        EXTRA_TOKENS = [",
+        "detail": "pytorch-paligemma.processing_paligemma",
+        "documentation": {}
+    },
+    {
+        "label": "add_image_tokens_to_prompt",
+        "kind": 2,
+        "importPath": "pytorch-paligemma.processing_paligemma",
+        "description": "pytorch-paligemma.processing_paligemma",
+        "peekOfCode": "def add_image_tokens_to_prompt(prefix_prompt, bos_token, image_seq_len, image_token):\n    # Quoting from the blog (https://huggingface.co/blog/paligemma#detailed-inference-process):\n    #   The input text is tokenized normally.\n    #   A <bos> token is added at the beginning, and an additional newline token (\\n) is appended.\n    #   This newline token is an essential part of the input prompt the model was trained with, so adding it explicitly ensures it's always there.\n    #   The tokenized text is also prefixed with a fixed number of <image> tokens.\n    # NOTE: from the paper it looks like the `\\n` should be tokenized separately, but in the HF implementation this is not done.\n    #       ref to HF implementation: https://github.com/huggingface/transformers/blob/7f79a97399bb52aad8460e1da2f36577d5dccfed/src/transformers/models/paligemma/processing_paligemma.py#L55-L73\n    return f\"{image_token * image_seq_len}{bos_token}{prefix_prompt}\\n\"\ndef rescale(",
+        "detail": "pytorch-paligemma.processing_paligemma",
+        "documentation": {}
+    },
+    {
+        "label": "rescale",
+        "kind": 2,
+        "importPath": "pytorch-paligemma.processing_paligemma",
+        "description": "pytorch-paligemma.processing_paligemma",
+        "peekOfCode": "def rescale(\n    image: np.ndarray, scale: float, dtype: np.dtype = np.float32\n) -> np.ndarray:\n    rescaled_image = image * scale\n    rescaled_image = rescaled_image.astype(dtype)\n    return rescaled_image\ndef resize(\n    image: Image,\n    size: Tuple[int, int],\n    resample: Image.Resampling = None,",
+        "detail": "pytorch-paligemma.processing_paligemma",
+        "documentation": {}
+    },
+    {
+        "label": "resize",
+        "kind": 2,
+        "importPath": "pytorch-paligemma.processing_paligemma",
+        "description": "pytorch-paligemma.processing_paligemma",
+        "peekOfCode": "def resize(\n    image: Image,\n    size: Tuple[int, int],\n    resample: Image.Resampling = None,\n    reducing_gap: Optional[int] = None,\n) -> np.ndarray:\n    height, width = size\n    resized_image = image.resize(\n        (width, height), resample=resample, reducing_gap=reducing_gap\n    )",
+        "detail": "pytorch-paligemma.processing_paligemma",
+        "documentation": {}
+    },
+    {
+        "label": "normalize",
+        "kind": 2,
+        "importPath": "pytorch-paligemma.processing_paligemma",
+        "description": "pytorch-paligemma.processing_paligemma",
+        "peekOfCode": "def normalize(\n    image: np.ndarray,\n    mean: Union[float, Iterable[float]],\n    std: Union[float, Iterable[float]],\n) -> np.ndarray:\n    mean = np.array(mean, dtype=image.dtype)\n    std = np.array(std, dtype=image.dtype)\n    image = (image - mean) / std\n    return image\ndef process_images(",
+        "detail": "pytorch-paligemma.processing_paligemma",
+        "documentation": {}
+    },
+    {
+        "label": "process_images",
+        "kind": 2,
+        "importPath": "pytorch-paligemma.processing_paligemma",
+        "description": "pytorch-paligemma.processing_paligemma",
+        "peekOfCode": "def process_images(\n    images: List[Image.Image],\n    size: Dict[str, int] = None,\n    resample: Image.Resampling = None,\n    rescale_factor: float = None,\n    image_mean: Optional[Union[float, List[float]]] = None,\n    image_std: Optional[Union[float, List[float]]] = None,\n) -> List[np.ndarray]:\n    height, width = size[0], size[1]\n    images = [",
+        "detail": "pytorch-paligemma.processing_paligemma",
+        "documentation": {}
+    },
+    {
+        "label": "IMAGENET_STANDARD_MEAN",
+        "kind": 5,
+        "importPath": "pytorch-paligemma.processing_paligemma",
+        "description": "pytorch-paligemma.processing_paligemma",
+        "peekOfCode": "IMAGENET_STANDARD_MEAN = [0.5, 0.5, 0.5]\nIMAGENET_STANDARD_STD = [0.5, 0.5, 0.5]\ndef add_image_tokens_to_prompt(prefix_prompt, bos_token, image_seq_len, image_token):\n    # Quoting from the blog (https://huggingface.co/blog/paligemma#detailed-inference-process):\n    #   The input text is tokenized normally.\n    #   A <bos> token is added at the beginning, and an additional newline token (\\n) is appended.\n    #   This newline token is an essential part of the input prompt the model was trained with, so adding it explicitly ensures it's always there.\n    #   The tokenized text is also prefixed with a fixed number of <image> tokens.\n    # NOTE: from the paper it looks like the `\\n` should be tokenized separately, but in the HF implementation this is not done.\n    #       ref to HF implementation: https://github.com/huggingface/transformers/blob/7f79a97399bb52aad8460e1da2f36577d5dccfed/src/transformers/models/paligemma/processing_paligemma.py#L55-L73",
+        "detail": "pytorch-paligemma.processing_paligemma",
+        "documentation": {}
+    },
+    {
+        "label": "IMAGENET_STANDARD_STD",
+        "kind": 5,
+        "importPath": "pytorch-paligemma.processing_paligemma",
+        "description": "pytorch-paligemma.processing_paligemma",
+        "peekOfCode": "IMAGENET_STANDARD_STD = [0.5, 0.5, 0.5]\ndef add_image_tokens_to_prompt(prefix_prompt, bos_token, image_seq_len, image_token):\n    # Quoting from the blog (https://huggingface.co/blog/paligemma#detailed-inference-process):\n    #   The input text is tokenized normally.\n    #   A <bos> token is added at the beginning, and an additional newline token (\\n) is appended.\n    #   This newline token is an essential part of the input prompt the model was trained with, so adding it explicitly ensures it's always there.\n    #   The tokenized text is also prefixed with a fixed number of <image> tokens.\n    # NOTE: from the paper it looks like the `\\n` should be tokenized separately, but in the HF implementation this is not done.\n    #       ref to HF implementation: https://github.com/huggingface/transformers/blob/7f79a97399bb52aad8460e1da2f36577d5dccfed/src/transformers/models/paligemma/processing_paligemma.py#L55-L73\n    return f\"{image_token * image_seq_len}{bos_token}{prefix_prompt}\\n\"",
+        "detail": "pytorch-paligemma.processing_paligemma",
+        "documentation": {}
+    },
+    {
+        "label": "load_hf_model",
+        "kind": 2,
+        "importPath": "pytorch-paligemma.utils",
+        "description": "pytorch-paligemma.utils",
+        "peekOfCode": "def load_hf_model(model_path: str, device: str) -> Tuple[PaliGemmaForConditionalGeneration, AutoTokenizer]:\n    # Load the tokenizer\n    tokenizer = AutoTokenizer.from_pretrained(model_path, padding_side=\"right\")\n    assert tokenizer.padding_side == \"right\"\n    # Find all the *.safetensors files\n    safetensors_files = glob.glob(os.path.join(model_path, \"*.safetensors\"))\n    # ... and load them one by one in the tensors dictionary\n    tensors = {}\n    for safetensors_file in safetensors_files:\n        with safe_open(safetensors_file, framework=\"pt\", device=\"cpu\") as f:",
+        "detail": "pytorch-paligemma.utils",
+        "documentation": {}
+    },
+    {
+        "label": "MinimalLLM",
+        "kind": 6,
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "peekOfCode": "class MinimalLLM(nn.Module):\n    \"\"\"\n    🏗️ COMPLETE QWEN3-STYLE LANGUAGE MODEL\n    This is the full language model that combines all components:\n    🧠 Architecture:\n    1. Token Embedding: Convert token IDs to vectors\n    2. Positional Dropout: Prevent overfitting on positions\n    3. Transformer Blocks: Stack of attention + feed-forward layers\n    4. Final Normalization: RMSNorm before output\n    5. Language Modeling Head: Convert vectors back to token probabilities",
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_model",
+        "kind": 2,
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "peekOfCode": "def evaluate_model(model: nn.Module, val_loader: DataLoader, config: SmallModelConfig):\n    \"\"\"\n    📊 MODEL EVALUATION FUNCTION\n    This function evaluates the model's performance on validation data:\n    🎯 Metrics Computed:\n    1. Loss: Cross-entropy loss (lower is better)\n    2. Accuracy: Percentage of correct next-token predictions\n    3. Perplexity: exp(loss) - measures model's \"surprise\" (lower is better)\n    🔍 Why these metrics matter:\n    - Loss: Direct measure of how well the model predicts",
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "setup_muon_optimizer",
+        "kind": 2,
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "peekOfCode": "def setup_muon_optimizer(model: nn.Module, config: SmallModelConfig):\n    \"\"\"\n    🚀 HYBRID OPTIMIZER SETUP\n    This function sets up a hybrid optimization strategy:\n    - Muon optimizer for 2D parameters (attention and feed-forward weights)\n    - AdamW optimizer for other parameters (embeddings, norms, biases)\n    🎯 Why hybrid approach:\n    - Muon works best on 2D matrices (attention, feed-forward)\n    - AdamW is better for 1D parameters (embeddings, biases)\n    - This gives us the best of both worlds",
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "train_model",
+        "kind": 2,
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "peekOfCode": "def train_model(config: SmallModelConfig, train_loader: DataLoader, val_loader: DataLoader):\n    \"\"\"\n    🔄 COMPLETE TRAINING LOOP\n    This is the heart of the training process, implementing:\n    🎯 Key Features:\n    1. Gradient Accumulation: Simulate larger batch sizes\n    2. Mixed Precision: Faster training with minimal accuracy loss\n    3. Learning Rate Scheduling: Warmup + cosine decay\n    4. Gradient Clipping: Prevent gradient explosions\n    5. Model Checkpointing: Save best model",
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "generate_text",
+        "kind": 2,
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "peekOfCode": "def generate_text(model: nn.Module, tokenizer, prompt: str, max_length: int = 100,\n                 temperature: float = 0.8, top_k: int = 50, top_p: float = 0.9):\n    \"\"\"\n    🔮 TEXT GENERATION FUNCTION\n    This function generates text using the trained model with advanced sampling:\n    🎯 Sampling Strategies:\n    1. Temperature Scaling: Controls randomness (0.1 = focused, 2.0 = random)\n    2. Top-k Sampling: Only consider top k most likely tokens\n    3. Top-p (Nucleus) Sampling: Consider tokens until cumulative probability reaches p\n    🔍 How it works:",
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "Rotary",
+        "kind": 6,
+        "importPath": "qwen3_core_components",
+        "description": "qwen3_core_components",
+        "peekOfCode": "class Rotary(nn.Module):\n    \"\"\"\n    🔄 ROTARY POSITIONAL EMBEDDINGS (RoPE)\n    This is one of the most important innovations in modern transformers!\n    🎯 What RoPE does:\n    - Encodes position information by ROTATING vectors\n    - Unlike traditional positional embeddings that just ADD position info\n    - Allows the model to understand relative positions naturally\n    🧮 The Math:\n    - For each position i, we compute rotation angles based on i",
+        "detail": "qwen3_core_components",
+        "documentation": {}
+    },
+    {
+        "label": "Qwen3Attention",
+        "kind": 6,
+        "importPath": "qwen3_core_components",
+        "description": "qwen3_core_components",
+        "peekOfCode": "class Qwen3Attention(nn.Module):\n    \"\"\"\n    🎯 GROUPED-QUERY ATTENTION (GQA) IMPLEMENTATION\n    This is the heart of modern transformer attention mechanisms!\n    🧠 Key Innovations:\n    1. Grouped-Query Attention: Fewer KV heads than Query heads\n    2. QK-Normalization: Normalizes queries and keys for stability\n    3. RoPE: Rotary positional embeddings\n    4. Scaled dot-product attention: The core attention mechanism\n    🔍 How it works:",
+        "detail": "qwen3_core_components",
+        "documentation": {}
+    },
+    {
+        "label": "SwiGLUFeedForward",
+        "kind": 6,
+        "importPath": "qwen3_core_components",
+        "description": "qwen3_core_components",
+        "peekOfCode": "class SwiGLUFeedForward(nn.Module):\n    \"\"\"\n    🔥 SWIGLU FEED-FORWARD NETWORK\n    SwiGLU is a modern activation function that combines:\n    - Swish activation: x * sigmoid(x) (smooth, non-monotonic)\n    - GLU (Gated Linear Unit): element-wise multiplication with a gate\n    🧮 The Math:\n    SwiGLU(x) = Swish(W1(x)) ⊙ W2(x)\n    Where:\n    - W1(x) is the \"gate\" (controls information flow)",
+        "detail": "qwen3_core_components",
+        "documentation": {}
+    },
+    {
+        "label": "TransformerBlock",
+        "kind": 6,
+        "importPath": "qwen3_core_components",
+        "description": "qwen3_core_components",
+        "peekOfCode": "class TransformerBlock(nn.Module):\n    \"\"\"\n    🏗️ TRANSFORMER BLOCK - THE BUILDING BLOCK OF MODERN LLMs\n    This combines all the components into a complete transformer layer:\n    🧠 Architecture:\n    1. Pre-norm attention (RMSNorm before attention)\n    2. Residual connection (x + attention(x))\n    3. Pre-norm feed-forward (RMSNorm before SwiGLU)\n    4. Residual connection (x + feedforward(x))\n    🔍 Pre-norm vs Post-norm:",
+        "detail": "qwen3_core_components",
+        "documentation": {}
+    },
+    {
+        "label": "RMSNorm",
+        "kind": 6,
+        "importPath": "qwen3_core_components",
+        "description": "qwen3_core_components",
+        "peekOfCode": "class RMSNorm(nn.Module):\n    \"\"\"\n    📐 RMSNorm - ROOT MEAN SQUARE NORMALIZATION\n    This is a modern alternative to LayerNorm that's more efficient:\n    🧮 The Math:\n    RMSNorm(x) = x / sqrt(mean(x²) + ε) * g\n    Where:\n    - x is the input\n    - mean(x²) is the mean of squared values\n    - ε is a small constant (1e-6)",
+        "detail": "qwen3_core_components",
+        "documentation": {}
+    },
+    {
+        "label": "repeat_kv",
+        "kind": 2,
+        "importPath": "qwen3_core_components",
+        "description": "qwen3_core_components",
+        "peekOfCode": "def repeat_kv(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:\n    \"\"\"\n    🔑 GROUPED-QUERY ATTENTION HELPER\n    This implements the key innovation in GQA:\n    - Fewer Key-Value heads than Query heads\n    - Each KV head is \"shared\" across multiple Query heads\n    - Massive memory savings with minimal performance loss\n    🧮 Example:\n    - 8 Query heads, 2 KV heads\n    - KV head 1 is used by Query heads 1,2,3,4",
+        "detail": "qwen3_core_components",
+        "documentation": {}
+    },
+    {
+        "label": "ModelConfig",
+        "kind": 6,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "class ModelConfig:\n    # Model architecture\n    d_model: int = 384\n    n_heads: int = 8\n    n_layers: int = 6\n    d_ff: int = 1536\n    batch_size: int = 24\n    max_steps: int = 2000\n    # Qwen3-like parameters\n    n_kv_heads: int = 4  # For Grouped-Query Attention",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "Muon",
+        "kind": 6,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "class Muon(torch.optim.Optimizer):\n    \"\"\"Muon - MomentUm Orthogonalized by Newton-schulz\"\"\"\n    def __init__(self, params, lr=0.02, momentum=0.95, nesterov=True, ns_steps=5):\n        defaults = dict(lr=lr, momentum=momentum, nesterov=nesterov, ns_steps=ns_steps)\n        super().__init__(params, defaults)\n    @torch.no_grad()\n    def step(self):\n        for group in self.param_groups:\n            for p in group[\"params\"]:\n                if p.grad is None:",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "TextTokenDataset",
+        "kind": 6,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "class TextTokenDataset(Dataset):\n    def __init__(self, tokens: List[int], seq_len: int = 512):\n        self.tokens = tokens\n        self.seq_len = seq_len\n    def __len__(self):\n        return max(0, len(self.tokens) - self.seq_len)\n    def __getitem__(self, idx):\n        x = torch.tensor(self.tokens[idx:idx + self.seq_len], dtype=torch.long)\n        y = torch.tensor(self.tokens[idx + 1:idx + self.seq_len + 1], dtype=torch.long)\n        return x, y",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "Rotary",
+        "kind": 6,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "class Rotary(nn.Module):\n    def __init__(self, dim: int, max_seq_len: int):\n        super().__init__()\n        angular_freq = (1 / 10000) ** torch.linspace(0, 1, steps=dim//4, dtype=torch.float32)\n        angular_freq = torch.cat([angular_freq, angular_freq.new_zeros(dim//4)])\n        t = torch.arange(max_seq_len, dtype=torch.float32)\n        theta = torch.einsum(\"i,j -> ij\", t, angular_freq)\n        self.register_buffer('cos', theta.cos(), persistent=False)\n        self.register_buffer('sin', theta.sin(), persistent=False)\n    def forward(self, x_BTHD: torch.Tensor):",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "Qwen3Attention",
+        "kind": 6,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "class Qwen3Attention(nn.Module):\n    def __init__(self, config: ModelConfig):\n        super().__init__()\n        self.d_model = config.d_model\n        self.n_heads = config.n_heads\n        self.n_kv_heads = config.n_kv_heads\n        self.n_kv_groups = config.n_kv_groups\n        self.d_k = config.d_k\n        # Separate linear layers for Q, K, V\n        self.q_proj = nn.Linear(self.d_model, self.n_heads * self.d_k, bias=config.attention_bias)",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "SwiGLUFeedForward",
+        "kind": 6,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "class SwiGLUFeedForward(nn.Module):\n    def __init__(self, d_model: int, d_ff: int, dropout: float = 0.1):\n        super().__init__()\n        self.gate_proj = nn.Linear(d_model, d_ff, bias=False)\n        self.down_proj = nn.Linear(d_ff, d_model, bias=False)\n        self.up_proj = nn.Linear(d_model, d_ff, bias=False)\n        self.dropout = nn.Dropout(dropout)\n    def forward(self, x):\n        # Implementation of the SwiGLU activation function\n        # F.silu is the Swish activation function",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "TransformerBlock",
+        "kind": 6,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "class TransformerBlock(nn.Module):\n    def __init__(self, config: ModelConfig):  # Pass the entire config object\n        super().__init__()\n        self.attention = Qwen3Attention(config)\n        self.feed_forward = SwiGLUFeedForward(config.d_model, config.d_ff, config.dropout)\n        self.norm1 = nn.RMSNorm(config.d_model, eps=config.rms_norm_eps)\n        self.norm2 = nn.RMSNorm(config.d_model, eps=config.rms_norm_eps)\n        self.dropout = nn.Dropout(config.dropout)\n    def forward(self, x):\n        attn_out = self.attention(self.norm1(x))",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "MinimalLLM",
+        "kind": 6,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "class MinimalLLM(nn.Module):\n    def __init__(self, config: ModelConfig):\n        super().__init__()\n        self.config = config\n        self.token_embedding = nn.Embedding(config.vocab_size, config.d_model)\n        self.position_dropout = nn.Dropout(config.dropout)\n        self.transformer_blocks = nn.ModuleList([\n            TransformerBlock(config) for _ in range(config.n_layers)\n        ])\n        self.norm = nn.RMSNorm(config.d_model, eps=config.rms_norm_eps)",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "kind": 2,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "def set_seed(seed: int = 42):\n    \"\"\"Set all random seeds for reproducibility\"\"\"\n    random.seed(seed)\n    np.random.seed(seed)\n    torch.manual_seed(seed)\n    torch.cuda.manual_seed_all(seed)\n    torch.backends.cudnn.deterministic = True\n    torch.backends.cudnn.benchmark = False\n    print(f\"🌱 Set all seeds to {seed}\")\n\"\"\" ## 3. Model Configuration",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "repeat_kv",
+        "kind": 2,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "def repeat_kv(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:\n    \"\"\"\n    This is the equivalent of torch.repeat_interleave(x, dim=1, repeats=n_rep).\n    The hidden states go from (batch, num_key_value_heads, seqlen, head_dim)\n    to (batch, num_attention_heads, seqlen, head_dim)\n    \"\"\"\n    # Extract dimensions from input tensor\n    batch, num_key_value_heads, slen, head_dim = hidden_states.shape\n    # Early return if no repetition is needed\n    if n_rep == 1:",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "my_repeat_kv",
+        "kind": 2,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "def my_repeat_kv(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:\n    \"\"\"\n    TODO: Implement this function!\n    Input: (batch, num_key_value_heads, seqlen, head_dim)\n    Output: (batch, num_key_value_heads * n_rep, seqlen, head_dim)\n    \"\"\"\n    # Get dimensions\n    batch, num_key_value_heads, slen, head_dim = hidden_states.shape\n    # Handle n_rep = 1 case\n    if n_rep == 1:",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "repeat_kv_solution",
+        "kind": 2,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "def repeat_kv_solution(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:\n    batch, num_key_value_heads, slen, head_dim = hidden_states.shape\n    if n_rep == 1:\n        return hidden_states\n    hidden_states = hidden_states[:, :, None, :, :].expand(batch, num_key_value_heads, n_rep, slen, head_dim)\n    return hidden_states.reshape(batch, num_key_value_heads * n_rep, slen, head_dim)\nkeys_repeated = repeat_kv_solution(keys, n_rep)\nvalues_repeated = repeat_kv_solution(values, n_rep)\nprint(f\"Repeated keys shape: {keys_repeated.shape}\")\nprint(f\"Repeated values shape: {values_repeated.shape}\")",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "zeropower_via_newtonschulz5",
+        "kind": 2,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "def zeropower_via_newtonschulz5(G: torch.Tensor, steps: int = 5) -> torch.Tensor:\n    \"\"\"Newton-Schulz iteration to compute the zeroth power / orthogonalization of G.\"\"\"\n    assert G.ndim >= 2\n    a, b, c = (3.4445, -4.7750, 2.0315)\n    X = G.bfloat16()\n    if G.size(-2) > G.size(-1):\n        X = X.mT\n    X = X / (X.norm(dim=(-2, -1), keepdim=True) + 1e-7)\n    for _ in range(steps):\n        A = X @ X.mT",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_cache_data",
+        "kind": 2,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "def load_and_cache_data(config: ModelConfig, cache_dir: str = \"data_cache\"):\n    \"\"\"Load and cache tokenized data to avoid reprocessing\"\"\"\n    os.makedirs(cache_dir, exist_ok=True)\n    cache_file = f\"{cache_dir}/tokenized_data_{config.num_documents}_{config.max_tokens}.pkl\"\n    # Check if cached data exists\n    if os.path.exists(cache_file):\n        print(f\"📦 Loading cached data from {cache_file}\")\n        with open(cache_file, 'rb') as f:\n            cached_data = pickle.load(f)\n        texts = cached_data['texts']",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_model",
+        "kind": 2,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "def evaluate_model(model: nn.Module, val_loader: DataLoader, config: ModelConfig):\n    \"\"\"Evaluate model performance\"\"\"\n    model.eval()\n    total_loss = 0\n    total_tokens = 0\n    total_correct = 0\n    device = next(model.parameters()).device\n    with torch.no_grad():  # Disable gradient computation for evaluation (saves memory and computation)\n        for i, (x, y) in enumerate(val_loader):\n            # Stop evaluation after specified number of steps to limit eval time",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "setup_muon_optimizer",
+        "kind": 2,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "def setup_muon_optimizer(model: nn.Module, config: ModelConfig):\n    \"\"\"Setup Muon optimizer with hybrid approach\"\"\"\n    muon_params = []\n    adamw_params = []\n    for name, param in model.named_parameters():\n        if (param.ndim == 2 and\n            'token_embedding' not in name and\n            'norm' not in name and\n            param.requires_grad):\n            muon_params.append(param)",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "train_model",
+        "kind": 2,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "def train_model(config: ModelConfig, train_loader: DataLoader, val_loader: DataLoader):\n    \"\"\"Train the model with Muon optimizer\"\"\"\n    print(f\"\\n🚀 Training Small model with Muon optimizer\")\n    # Initialize model\n    set_seed(42)\n    model = MinimalLLM(config)\n    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')\n    model = model.to(device)\n    total_params = sum(p.numel() for p in model.parameters())\n    print(f\"  📊 Total parameters: {total_params:,}\")",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "load_trained_model",
+        "kind": 2,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "def load_trained_model(model_path: str = \"final_model.pt\"):\n    \"\"\"Load a trained model from checkpoint\"\"\"\n    print(f\" Loading model from {model_path}\")\n    # Add ModelConfig to safe globals for PyTorch 2.6+\n    from torch.serialization import add_safe_globals\n    add_safe_globals([ModelConfig])\n    try:\n        checkpoint = torch.load(model_path, map_location='cpu')\n        config = checkpoint['config']\n    except Exception as e:",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "generate_text",
+        "kind": 2,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "def generate_text(model: nn.Module, tokenizer, prompt: str, max_length: int = 100,\n                 temperature: float = 0.8, top_k: int = 50, top_p: float = 0.9):\n    \"\"\"Generate text using the trained model\"\"\"\n    model.eval()\n    device = next(model.parameters()).device\n    # Tokenize prompt\n    input_ids = tokenizer.encode(prompt, add_special_tokens=False, return_tensors='pt').to(device)\n    generated_ids = input_ids.clone()\n    with torch.no_grad():\n        for _ in range(max_length):",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "interactive_inference",
+        "kind": 2,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "def interactive_inference(model_path: str = \"final_model.pt\"):\n    \"\"\"Interactive inference session\"\"\"\n    print(\"🤖 Starting interactive inference session\")\n    print(\"Type 'quit' to exit\")\n    # Load model and tokenizer\n    model, config = load_trained_model(model_path)\n    # Load tokenizer (assuming we have the same one used during training)\n    tokenizer = AutoTokenizer.from_pretrained(\"HuggingFaceTB/SmolLM-135M\")\n    if tokenizer.pad_token is None:\n        tokenizer.pad_token = tokenizer.eos_token",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "demo_inference",
+        "kind": 2,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "def demo_inference(model_path: str = \"final_model.pt\"):\n    \"\"\"Run a quick demo of the model's capabilities\"\"\"\n    print(\"🎭 Running inference demo\")\n    # Load model and tokenizer\n    model, config = load_trained_model(model_path)\n    tokenizer = AutoTokenizer.from_pretrained(\"HuggingFaceTB/SmolLM-135M\")\n    if tokenizer.pad_token is None:\n        tokenizer.pad_token = tokenizer.eos_token\n    # Demo prompts\n    demo_prompts = [",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "x = torch.tensor([1, 2, 3])\nprint(f\"1D tensor: {x}\")\nprint(f\"Shape: {x.shape}\")\ny = torch.tensor([[1, 2, 3], [4, 5, 6]])\nprint(f\"2D tensor:\\n{y}\")\nprint(f\"Shape: {y.shape}\")\nz = torch.tensor([[[1, 2], [3, 4]], [[5, 6], [7, 8]]])\nprint(f\"3D tensor:\\n{z}\")\nprint(f\"Shape: {z.shape}\")\n# TODO: Create a 4D tensor of shape (2, 3, 4, 5) filled with ones",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "y = torch.tensor([[1, 2, 3], [4, 5, 6]])\nprint(f\"2D tensor:\\n{y}\")\nprint(f\"Shape: {y.shape}\")\nz = torch.tensor([[[1, 2], [3, 4]], [[5, 6], [7, 8]]])\nprint(f\"3D tensor:\\n{z}\")\nprint(f\"Shape: {z.shape}\")\n# TODO: Create a 4D tensor of shape (2, 3, 4, 5) filled with ones\n# Your code here:\n# tensor_4d = ?\n# =============================================================================",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "z",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "z = torch.tensor([[[1, 2], [3, 4]], [[5, 6], [7, 8]]])\nprint(f\"3D tensor:\\n{z}\")\nprint(f\"Shape: {z.shape}\")\n# TODO: Create a 4D tensor of shape (2, 3, 4, 5) filled with ones\n# Your code here:\n# tensor_4d = ?\n# =============================================================================\n# EXERCISE 2: Understanding None Indexing (Adding Dimensions)\n# =============================================================================\nprint(\"\\n\\n📝 Exercise 2: Adding Dimensions with None\")",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "a",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "a = torch.tensor([1, 2, 3, 4])\nprint(f\"Original: {a.shape} -> {a}\")\n# Add dimension at different positions\na_new_dim0 = a[None, :]  # or a.unsqueeze(0)\nprint(f\"Add dim at 0: {a_new_dim0.shape} -> {a_new_dim0}\")\na_new_dim1 = a[:, None]  # or a.unsqueeze(1)\nprint(f\"Add dim at 1: {a_new_dim1.shape} -> {a_new_dim1}\")\na_new_dim_end = a[..., None]  # or a.unsqueeze(-1)\nprint(f\"Add dim at end: {a_new_dim_end.shape} -> {a_new_dim_end}\")\n# Multiple dimensions",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "a_new_dim0",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "a_new_dim0 = a[None, :]  # or a.unsqueeze(0)\nprint(f\"Add dim at 0: {a_new_dim0.shape} -> {a_new_dim0}\")\na_new_dim1 = a[:, None]  # or a.unsqueeze(1)\nprint(f\"Add dim at 1: {a_new_dim1.shape} -> {a_new_dim1}\")\na_new_dim_end = a[..., None]  # or a.unsqueeze(-1)\nprint(f\"Add dim at end: {a_new_dim_end.shape} -> {a_new_dim_end}\")\n# Multiple dimensions\na_multi = a[None, :, None, None]\nprint(f\"Multiple dims: {a_multi.shape}\")\n# TODO: Take tensor [1, 2, 3] and make it shape (1, 3, 1, 1)",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "a_new_dim1",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "a_new_dim1 = a[:, None]  # or a.unsqueeze(1)\nprint(f\"Add dim at 1: {a_new_dim1.shape} -> {a_new_dim1}\")\na_new_dim_end = a[..., None]  # or a.unsqueeze(-1)\nprint(f\"Add dim at end: {a_new_dim_end.shape} -> {a_new_dim_end}\")\n# Multiple dimensions\na_multi = a[None, :, None, None]\nprint(f\"Multiple dims: {a_multi.shape}\")\n# TODO: Take tensor [1, 2, 3] and make it shape (1, 3, 1, 1)\n# Your code here:\n# result = ?",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "a_new_dim_end",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "a_new_dim_end = a[..., None]  # or a.unsqueeze(-1)\nprint(f\"Add dim at end: {a_new_dim_end.shape} -> {a_new_dim_end}\")\n# Multiple dimensions\na_multi = a[None, :, None, None]\nprint(f\"Multiple dims: {a_multi.shape}\")\n# TODO: Take tensor [1, 2, 3] and make it shape (1, 3, 1, 1)\n# Your code here:\n# result = ?\n# =============================================================================\n# EXERCISE 3: Basic expand() Operation",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "a_multi",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "a_multi = a[None, :, None, None]\nprint(f\"Multiple dims: {a_multi.shape}\")\n# TODO: Take tensor [1, 2, 3] and make it shape (1, 3, 1, 1)\n# Your code here:\n# result = ?\n# =============================================================================\n# EXERCISE 3: Basic expand() Operation\n# =============================================================================\nprint(\"\\n\\n📝 Exercise 3: Understanding expand()\")\nprint(\"-\" * 40)",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "b",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "b = torch.tensor([[1, 2, 3]])  # Shape: (1, 3)\nprint(f\"Original: {b.shape} -> {b}\")\n# Expand the first dimension\nb_expanded = b.expand(4, 3)  # Repeat the row 4 times\nprint(f\"Expanded: {b_expanded.shape}\")\nprint(b_expanded)\n# Expand with -1 (keep original size)\nc = torch.tensor([[1], [2], [3]])  # Shape: (3, 1)\nprint(f\"\\nOriginal c: {c.shape}\")\nprint(c)",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "b_expanded",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "b_expanded = b.expand(4, 3)  # Repeat the row 4 times\nprint(f\"Expanded: {b_expanded.shape}\")\nprint(b_expanded)\n# Expand with -1 (keep original size)\nc = torch.tensor([[1], [2], [3]])  # Shape: (3, 1)\nprint(f\"\\nOriginal c: {c.shape}\")\nprint(c)\nc_expanded = c.expand(-1, 5)  # Keep dim 0, expand dim 1 to 5\nprint(f\"Expanded c: {c_expanded.shape}\")\nprint(c_expanded)",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "c = torch.tensor([[1], [2], [3]])  # Shape: (3, 1)\nprint(f\"\\nOriginal c: {c.shape}\")\nprint(c)\nc_expanded = c.expand(-1, 5)  # Keep dim 0, expand dim 1 to 5\nprint(f\"Expanded c: {c_expanded.shape}\")\nprint(c_expanded)\n# TODO: Create tensor [[1, 2]] and expand it to shape (3, 4)\n# Your code here:\n# d = ?\n# d_expanded = ?",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "c_expanded",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "c_expanded = c.expand(-1, 5)  # Keep dim 0, expand dim 1 to 5\nprint(f\"Expanded c: {c_expanded.shape}\")\nprint(c_expanded)\n# TODO: Create tensor [[1, 2]] and expand it to shape (3, 4)\n# Your code here:\n# d = ?\n# d_expanded = ?\n# =============================================================================\n# EXERCISE 4: repeat() vs expand() vs repeat_interleave()\n# =============================================================================",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "original",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "original = torch.tensor([1, 2, 3])\nprint(f\"Original: {original}\")\n# Method 1: repeat() - actually copies data\nrepeated = original.repeat(2)  # Repeat entire tensor 2 times\nprint(f\"repeat(2): {repeated}\")\nrepeated_2d = original.repeat(2, 1)  # 2D repetition\nprint(f\"repeat(2, 1) on [1,2,3]: shape {repeated_2d.shape}\")\nprint(repeated_2d)\n# Method 2: expand() - creates view (memory efficient)\noriginal_2d = original.unsqueeze(0)  # Make it (1, 3)",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "repeated",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "repeated = original.repeat(2)  # Repeat entire tensor 2 times\nprint(f\"repeat(2): {repeated}\")\nrepeated_2d = original.repeat(2, 1)  # 2D repetition\nprint(f\"repeat(2, 1) on [1,2,3]: shape {repeated_2d.shape}\")\nprint(repeated_2d)\n# Method 2: expand() - creates view (memory efficient)\noriginal_2d = original.unsqueeze(0)  # Make it (1, 3)\nexpanded = original_2d.expand(3, -1)\nprint(f\"expand(3, -1): shape {expanded.shape}\")\nprint(expanded)",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "repeated_2d",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "repeated_2d = original.repeat(2, 1)  # 2D repetition\nprint(f\"repeat(2, 1) on [1,2,3]: shape {repeated_2d.shape}\")\nprint(repeated_2d)\n# Method 2: expand() - creates view (memory efficient)\noriginal_2d = original.unsqueeze(0)  # Make it (1, 3)\nexpanded = original_2d.expand(3, -1)\nprint(f\"expand(3, -1): shape {expanded.shape}\")\nprint(expanded)\n# Method 3: repeat_interleave() - repeats each element\ninterleaved = torch.repeat_interleave(original, 2)",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "original_2d",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "original_2d = original.unsqueeze(0)  # Make it (1, 3)\nexpanded = original_2d.expand(3, -1)\nprint(f\"expand(3, -1): shape {expanded.shape}\")\nprint(expanded)\n# Method 3: repeat_interleave() - repeats each element\ninterleaved = torch.repeat_interleave(original, 2)\nprint(f\"repeat_interleave(2): {interleaved}\")\n# TODO: What's the difference between these results?\n# torch.tensor([1, 2]).repeat(3) vs torch.repeat_interleave(torch.tensor([1, 2]), 3)\n# =============================================================================",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "expanded",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "expanded = original_2d.expand(3, -1)\nprint(f\"expand(3, -1): shape {expanded.shape}\")\nprint(expanded)\n# Method 3: repeat_interleave() - repeats each element\ninterleaved = torch.repeat_interleave(original, 2)\nprint(f\"repeat_interleave(2): {interleaved}\")\n# TODO: What's the difference between these results?\n# torch.tensor([1, 2]).repeat(3) vs torch.repeat_interleave(torch.tensor([1, 2]), 3)\n# =============================================================================\n# EXERCISE 5: Working with 3D Tensors",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "interleaved",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "interleaved = torch.repeat_interleave(original, 2)\nprint(f\"repeat_interleave(2): {interleaved}\")\n# TODO: What's the difference between these results?\n# torch.tensor([1, 2]).repeat(3) vs torch.repeat_interleave(torch.tensor([1, 2]), 3)\n# =============================================================================\n# EXERCISE 5: Working with 3D Tensors\n# =============================================================================\nprint(\"\\n\\n📝 Exercise 5: 3D Tensor Manipulations\")\nprint(\"-\" * 40)\n# Create a 3D tensor: (batch=2, heads=3, features=4)",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "tensor_3d",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "tensor_3d = torch.arange(24).reshape(2, 3, 4)\nprint(f\"3D tensor shape: {tensor_3d.shape}\")\nprint(f\"3D tensor:\\n{tensor_3d}\")\n# Add a dimension in the middle\ntensor_4d = tensor_3d[:, :, None, :]  # Shape: (2, 3, 1, 4)\nprint(f\"\\nAfter adding dim: {tensor_4d.shape}\")\n# Expand the new dimension\ntensor_expanded = tensor_4d.expand(2, 3, 5, 4)  # Shape: (2, 3, 5, 4)\nprint(f\"After expand: {tensor_expanded.shape}\")\nprint(f\"First batch, first head:\\n{tensor_expanded[0, 0]}\")",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "tensor_4d",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "tensor_4d = tensor_3d[:, :, None, :]  # Shape: (2, 3, 1, 4)\nprint(f\"\\nAfter adding dim: {tensor_4d.shape}\")\n# Expand the new dimension\ntensor_expanded = tensor_4d.expand(2, 3, 5, 4)  # Shape: (2, 3, 5, 4)\nprint(f\"After expand: {tensor_expanded.shape}\")\nprint(f\"First batch, first head:\\n{tensor_expanded[0, 0]}\")\n# TODO: Take the expanded tensor and reshape it to merge dimensions 1 and 2\n# Target shape: (2, 15, 4)  # 3 * 5 = 15\n# Your code here:\n# merged = ?",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "tensor_expanded",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "tensor_expanded = tensor_4d.expand(2, 3, 5, 4)  # Shape: (2, 3, 5, 4)\nprint(f\"After expand: {tensor_expanded.shape}\")\nprint(f\"First batch, first head:\\n{tensor_expanded[0, 0]}\")\n# TODO: Take the expanded tensor and reshape it to merge dimensions 1 and 2\n# Target shape: (2, 15, 4)  # 3 * 5 = 15\n# Your code here:\n# merged = ?\n# =============================================================================\n# EXERCISE 6: Simulating the repeat_kv Pattern\n# =============================================================================",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "kv_tensor",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "kv_tensor = torch.arange(48).reshape(2, 3, 4, 2)\nprint(f\"KV tensor shape: {kv_tensor.shape}\")\nprint(f\"KV tensor (batch 0, head 0):\\n{kv_tensor[0, 0]}\")\nn_rep = 2  # Each KV head needs to be repeated 2 times\n# Step 1: Add dimension for repetition\nstep1 = kv_tensor[:, :, None, :, :]  # Shape: (2, 3, 1, 4, 2)\nprint(f\"\\nStep 1 - Add dimension: {step1.shape}\")\n# Step 2: Expand the new dimension\nstep2 = step1.expand(2, 3, n_rep, 4, 2)  # Shape: (2, 3, 2, 4, 2)\nprint(f\"Step 2 - Expand: {step2.shape}\")",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "n_rep",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "n_rep = 2  # Each KV head needs to be repeated 2 times\n# Step 1: Add dimension for repetition\nstep1 = kv_tensor[:, :, None, :, :]  # Shape: (2, 3, 1, 4, 2)\nprint(f\"\\nStep 1 - Add dimension: {step1.shape}\")\n# Step 2: Expand the new dimension\nstep2 = step1.expand(2, 3, n_rep, 4, 2)  # Shape: (2, 3, 2, 4, 2)\nprint(f\"Step 2 - Expand: {step2.shape}\")\n# Step 3: Reshape to merge heads\nfinal = step2.reshape(2, 3 * n_rep, 4, 2)  # Shape: (2, 6, 4, 2)\nprint(f\"Step 3 - Final: {final.shape}\")",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "step1",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "step1 = kv_tensor[:, :, None, :, :]  # Shape: (2, 3, 1, 4, 2)\nprint(f\"\\nStep 1 - Add dimension: {step1.shape}\")\n# Step 2: Expand the new dimension\nstep2 = step1.expand(2, 3, n_rep, 4, 2)  # Shape: (2, 3, 2, 4, 2)\nprint(f\"Step 2 - Expand: {step2.shape}\")\n# Step 3: Reshape to merge heads\nfinal = step2.reshape(2, 3 * n_rep, 4, 2)  # Shape: (2, 6, 4, 2)\nprint(f\"Step 3 - Final: {final.shape}\")\n# Verify: each original head should appear n_rep times\nprint(f\"\\nOriginal head 0:\\n{kv_tensor[0, 0]}\")",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "step2",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "step2 = step1.expand(2, 3, n_rep, 4, 2)  # Shape: (2, 3, 2, 4, 2)\nprint(f\"Step 2 - Expand: {step2.shape}\")\n# Step 3: Reshape to merge heads\nfinal = step2.reshape(2, 3 * n_rep, 4, 2)  # Shape: (2, 6, 4, 2)\nprint(f\"Step 3 - Final: {final.shape}\")\n# Verify: each original head should appear n_rep times\nprint(f\"\\nOriginal head 0:\\n{kv_tensor[0, 0]}\")\nprint(f\"Repeated head 0 (position 0):\\n{final[0, 0]}\")\nprint(f\"Repeated head 0 (position 1):\\n{final[0, 1]}\")\nprint(f\"Original head 1:\\n{kv_tensor[0, 1]}\")",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "final",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "final = step2.reshape(2, 3 * n_rep, 4, 2)  # Shape: (2, 6, 4, 2)\nprint(f\"Step 3 - Final: {final.shape}\")\n# Verify: each original head should appear n_rep times\nprint(f\"\\nOriginal head 0:\\n{kv_tensor[0, 0]}\")\nprint(f\"Repeated head 0 (position 0):\\n{final[0, 0]}\")\nprint(f\"Repeated head 0 (position 1):\\n{final[0, 1]}\")\nprint(f\"Original head 1:\\n{kv_tensor[0, 1]}\")\nprint(f\"Repeated head 1 (position 2):\\n{final[0, 2]}\")\n# TODO: Verify that final[0, 0] equals final[0, 1] (same repeated head)\n# =============================================================================",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "test_tensor",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "test_tensor = torch.arange(24).reshape(1, 3, 4, 2)\nprint(f\"Test input shape: {test_tensor.shape}\")\n# TODO: Uncomment when you implement the function\n# result = my_repeat_kv(test_tensor, 2)\n# print(f\"Result shape: {result.shape}\")\n# =============================================================================\n# EXERCISE 8: Advanced Patterns\n# =============================================================================\nprint(\"\\n\\n📝 Exercise 8: Advanced Repetition Patterns\")\nprint(\"-\" * 40)",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "base = torch.tensor([[1, 2], [3, 4]])  # Shape: (2, 2)\nprint(f\"Base tensor:\\n{base}\")\n# Repeat 3 times along dim 0, 2 times along dim 1\npattern1 = base.repeat(3, 2)\nprint(f\"Pattern 1 - repeat(3, 2):\\n{pattern1}\")\n# Pattern 2: Using repeat_interleave along specific dimensions\npattern2 = torch.repeat_interleave(base, 2, dim=0)\nprint(f\"Pattern 2 - repeat_interleave along dim 0:\\n{pattern2}\")\npattern3 = torch.repeat_interleave(base, 2, dim=1)\nprint(f\"Pattern 3 - repeat_interleave along dim 1:\\n{pattern3}\")",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "pattern1",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "pattern1 = base.repeat(3, 2)\nprint(f\"Pattern 1 - repeat(3, 2):\\n{pattern1}\")\n# Pattern 2: Using repeat_interleave along specific dimensions\npattern2 = torch.repeat_interleave(base, 2, dim=0)\nprint(f\"Pattern 2 - repeat_interleave along dim 0:\\n{pattern2}\")\npattern3 = torch.repeat_interleave(base, 2, dim=1)\nprint(f\"Pattern 3 - repeat_interleave along dim 1:\\n{pattern3}\")\n# TODO: Create a pattern where you repeat_interleave along dim 0 with repeats [1, 3]\n# (first row once, second row three times)\n# =============================================================================",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "pattern2",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "pattern2 = torch.repeat_interleave(base, 2, dim=0)\nprint(f\"Pattern 2 - repeat_interleave along dim 0:\\n{pattern2}\")\npattern3 = torch.repeat_interleave(base, 2, dim=1)\nprint(f\"Pattern 3 - repeat_interleave along dim 1:\\n{pattern3}\")\n# TODO: Create a pattern where you repeat_interleave along dim 0 with repeats [1, 3]\n# (first row once, second row three times)\n# =============================================================================\n# EXERCISE 9: Memory Efficiency Test\n# =============================================================================\nprint(\"\\n\\n📝 Exercise 9: Memory Usage Comparison\")",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "pattern3",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "pattern3 = torch.repeat_interleave(base, 2, dim=1)\nprint(f\"Pattern 3 - repeat_interleave along dim 1:\\n{pattern3}\")\n# TODO: Create a pattern where you repeat_interleave along dim 0 with repeats [1, 3]\n# (first row once, second row three times)\n# =============================================================================\n# EXERCISE 9: Memory Efficiency Test\n# =============================================================================\nprint(\"\\n\\n📝 Exercise 9: Memory Usage Comparison\")\nprint(\"-\" * 40)\nlarge_tensor = torch.randn(100, 50)",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "large_tensor",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "large_tensor = torch.randn(100, 50)\nprint(f\"Original tensor memory: {large_tensor.numel() * large_tensor.element_size()} bytes\")\n# Method 1: expand (memory efficient - creates view)\nexpanded = large_tensor.unsqueeze(0).expand(10, -1, -1)\nprint(f\"Expanded tensor shares memory: {expanded.storage().data_ptr() == large_tensor.storage().data_ptr()}\")\n# Method 2: repeat (creates copy)\nrepeated = large_tensor.repeat(10, 1)\nprint(f\"Repeated tensor shares memory: {repeated.storage().data_ptr() == large_tensor.storage().data_ptr()}\")\n# TODO: What happens if you modify the original tensor? Will the expanded version change too?\n# =============================================================================",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "expanded",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "expanded = large_tensor.unsqueeze(0).expand(10, -1, -1)\nprint(f\"Expanded tensor shares memory: {expanded.storage().data_ptr() == large_tensor.storage().data_ptr()}\")\n# Method 2: repeat (creates copy)\nrepeated = large_tensor.repeat(10, 1)\nprint(f\"Repeated tensor shares memory: {repeated.storage().data_ptr() == large_tensor.storage().data_ptr()}\")\n# TODO: What happens if you modify the original tensor? Will the expanded version change too?\n# =============================================================================\n# EXERCISE 10: Real-World Application - Attention Mechanism\n# =============================================================================\nprint(\"\\n\\n📝 Exercise 10: Attention Mechanism Context\")",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "repeated",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "repeated = large_tensor.repeat(10, 1)\nprint(f\"Repeated tensor shares memory: {repeated.storage().data_ptr() == large_tensor.storage().data_ptr()}\")\n# TODO: What happens if you modify the original tensor? Will the expanded version change too?\n# =============================================================================\n# EXERCISE 10: Real-World Application - Attention Mechanism\n# =============================================================================\nprint(\"\\n\\n📝 Exercise 10: Attention Mechanism Context\")\nprint(\"-\" * 40)\n# Simulate a real attention scenario\nbatch_size = 2",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "batch_size",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "batch_size = 2\nseq_len = 8\nnum_query_heads = 12\nnum_kv_heads = 4  # Fewer KV heads than query heads (Grouped Query Attention)\nhead_dim = 64\nprint(f\"Scenario: {num_query_heads} query heads, {num_kv_heads} KV heads\")\nprint(f\"Need to repeat each KV head {num_query_heads // num_kv_heads} times\")\n# Create mock key and value tensors\nkeys = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nvalues = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "seq_len",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "seq_len = 8\nnum_query_heads = 12\nnum_kv_heads = 4  # Fewer KV heads than query heads (Grouped Query Attention)\nhead_dim = 64\nprint(f\"Scenario: {num_query_heads} query heads, {num_kv_heads} KV heads\")\nprint(f\"Need to repeat each KV head {num_query_heads // num_kv_heads} times\")\n# Create mock key and value tensors\nkeys = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nvalues = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nprint(f\"Original keys shape: {keys.shape}\")",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "num_query_heads",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "num_query_heads = 12\nnum_kv_heads = 4  # Fewer KV heads than query heads (Grouped Query Attention)\nhead_dim = 64\nprint(f\"Scenario: {num_query_heads} query heads, {num_kv_heads} KV heads\")\nprint(f\"Need to repeat each KV head {num_query_heads // num_kv_heads} times\")\n# Create mock key and value tensors\nkeys = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nvalues = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nprint(f\"Original keys shape: {keys.shape}\")\nprint(f\"Original values shape: {values.shape}\")",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "num_kv_heads",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "num_kv_heads = 4  # Fewer KV heads than query heads (Grouped Query Attention)\nhead_dim = 64\nprint(f\"Scenario: {num_query_heads} query heads, {num_kv_heads} KV heads\")\nprint(f\"Need to repeat each KV head {num_query_heads // num_kv_heads} times\")\n# Create mock key and value tensors\nkeys = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nvalues = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nprint(f\"Original keys shape: {keys.shape}\")\nprint(f\"Original values shape: {values.shape}\")\n# Apply repeat_kv to match query heads",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "head_dim",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "head_dim = 64\nprint(f\"Scenario: {num_query_heads} query heads, {num_kv_heads} KV heads\")\nprint(f\"Need to repeat each KV head {num_query_heads // num_kv_heads} times\")\n# Create mock key and value tensors\nkeys = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nvalues = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nprint(f\"Original keys shape: {keys.shape}\")\nprint(f\"Original values shape: {values.shape}\")\n# Apply repeat_kv to match query heads\nn_rep = num_query_heads // num_kv_heads",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "keys",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "keys = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nvalues = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nprint(f\"Original keys shape: {keys.shape}\")\nprint(f\"Original values shape: {values.shape}\")\n# Apply repeat_kv to match query heads\nn_rep = num_query_heads // num_kv_heads\ndef repeat_kv_solution(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:\n    batch, num_key_value_heads, slen, head_dim = hidden_states.shape\n    if n_rep == 1:\n        return hidden_states",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "values",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "values = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nprint(f\"Original keys shape: {keys.shape}\")\nprint(f\"Original values shape: {values.shape}\")\n# Apply repeat_kv to match query heads\nn_rep = num_query_heads // num_kv_heads\ndef repeat_kv_solution(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:\n    batch, num_key_value_heads, slen, head_dim = hidden_states.shape\n    if n_rep == 1:\n        return hidden_states\n    hidden_states = hidden_states[:, :, None, :, :].expand(batch, num_key_value_heads, n_rep, slen, head_dim)",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "n_rep",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "n_rep = num_query_heads // num_kv_heads\ndef repeat_kv_solution(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:\n    batch, num_key_value_heads, slen, head_dim = hidden_states.shape\n    if n_rep == 1:\n        return hidden_states\n    hidden_states = hidden_states[:, :, None, :, :].expand(batch, num_key_value_heads, n_rep, slen, head_dim)\n    return hidden_states.reshape(batch, num_key_value_heads * n_rep, slen, head_dim)\nkeys_repeated = repeat_kv_solution(keys, n_rep)\nvalues_repeated = repeat_kv_solution(values, n_rep)\nprint(f\"Repeated keys shape: {keys_repeated.shape}\")",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "keys_repeated",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "keys_repeated = repeat_kv_solution(keys, n_rep)\nvalues_repeated = repeat_kv_solution(values, n_rep)\nprint(f\"Repeated keys shape: {keys_repeated.shape}\")\nprint(f\"Repeated values shape: {values_repeated.shape}\")\n# TODO: Verify that we now have the same number of heads for keys, values, and queries\nprint(f\"Success! KV heads now match query heads: {keys_repeated.shape[1] == num_query_heads}\")\nprint(\"\\n🎉 Exercises Complete!\")\nprint(\"Next steps:\")\nprint(\"1. Try modifying the dimensions and see how shapes change\")\nprint(\"2. Experiment with different n_rep values\")",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "values_repeated",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "values_repeated = repeat_kv_solution(values, n_rep)\nprint(f\"Repeated keys shape: {keys_repeated.shape}\")\nprint(f\"Repeated values shape: {values_repeated.shape}\")\n# TODO: Verify that we now have the same number of heads for keys, values, and queries\nprint(f\"Success! KV heads now match query heads: {keys_repeated.shape[1] == num_query_heads}\")\nprint(\"\\n🎉 Exercises Complete!\")\nprint(\"Next steps:\")\nprint(\"1. Try modifying the dimensions and see how shapes change\")\nprint(\"2. Experiment with different n_rep values\")\nprint(\"3. Compare memory usage between expand() and repeat()\")",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "`output",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "`output = gate(x) * value(x)`\nlike:\n`light = brightness_control × light_source`\n## 11. Transformer Block\n Each transformer block combines attention and feed-forward layers with residual\n connections and normalization. We use RMSNorm instead of LayerNorm for better\n training stability.\n\"\"\"\nclass TransformerBlock(nn.Module):\n    def __init__(self, config: ModelConfig):  # Pass the entire config object",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "`light",
+        "kind": 5,
+        "importPath": "qwen3_from_scratch",
+        "description": "qwen3_from_scratch",
+        "peekOfCode": "`light = brightness_control × light_source`\n## 11. Transformer Block\n Each transformer block combines attention and feed-forward layers with residual\n connections and normalization. We use RMSNorm instead of LayerNorm for better\n training stability.\n\"\"\"\nclass TransformerBlock(nn.Module):\n    def __init__(self, config: ModelConfig):  # Pass the entire config object\n        super().__init__()\n        self.attention = Qwen3Attention(config)",
+        "detail": "qwen3_from_scratch",
+        "documentation": {}
+    },
+    {
+        "label": "SmallModelConfig",
+        "kind": 6,
+        "importPath": "qwen3_small_config",
+        "description": "qwen3_small_config",
+        "peekOfCode": "class SmallModelConfig:\n    \"\"\"\n    🎯 SMALL CONFIGURATION FOR FAST TRAINING\n    This configuration is optimized for:\n    - Fast training on CPU/limited GPU\n    - Learning the concepts without waiting hours\n    - Still demonstrating all key components\n    \"\"\"\n    # Model architecture - MUCH SMALLER\n    d_model: int = 128          # Reduced from 384 (3x smaller)",
+        "detail": "qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "Muon",
+        "kind": 6,
+        "importPath": "qwen3_small_config",
+        "description": "qwen3_small_config",
+        "peekOfCode": "class Muon(torch.optim.Optimizer):\n    \"\"\"\n    🚀 MUON OPTIMIZER: MomentUm Orthogonalized by Newton-schulz\n    This is a revolutionary optimizer that combines:\n    1. Momentum (like Adam) - remembers past gradients\n    2. Orthogonalization (Newton-Schulz) - makes gradients \"well-behaved\"\n    3. Adaptive learning rates - adjusts based on matrix dimensions\n    🎯 Why Muon is special:\n    - 30-50% faster convergence than Adam\n    - More stable training (fewer gradient explosions)",
+        "detail": "qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "TextTokenDataset",
+        "kind": 6,
+        "importPath": "qwen3_small_config",
+        "description": "qwen3_small_config",
+        "peekOfCode": "class TextTokenDataset(Dataset):\n    \"\"\"\n    📚 CUSTOM DATASET FOR LANGUAGE MODELING\n    This creates training examples for our language model:\n    🎯 What it does:\n    - Takes a long sequence of tokens\n    - Creates sliding windows of fixed length\n    - Each example: input sequence + target sequence (shifted by 1)\n    📖 Example:\n    Original text: \"The cat sat on the mat\"",
+        "detail": "qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "kind": 2,
+        "importPath": "qwen3_small_config",
+        "description": "qwen3_small_config",
+        "peekOfCode": "def set_seed(seed: int = 42):\n    \"\"\"Set all random seeds for reproducibility\"\"\"\n    random.seed(seed)\n    np.random.seed(seed)\n    torch.manual_seed(seed)\n    torch.cuda.manual_seed_all(seed)\n    torch.backends.cudnn.deterministic = True\n    torch.backends.cudnn.benchmark = False\n    print(f\"🌱 Set all seeds to {seed}\")\n@dataclass",
+        "detail": "qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "repeat_kv",
+        "kind": 2,
+        "importPath": "qwen3_small_config",
+        "description": "qwen3_small_config",
+        "peekOfCode": "def repeat_kv(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:\n    \"\"\"\n    🔑 KEY COMPONENT: Grouped-Query Attention (GQA)\n    GQA is a memory-efficient attention mechanism where:\n    - We have fewer Key-Value heads than Query heads\n    - Each KV head is \"repeated\" to match the number of Query heads\n    - This reduces memory usage while maintaining performance\n    Example:\n    - 4 Query heads, 2 KV heads → each KV head repeated 2 times\n    - Memory savings: 50% reduction in KV cache memory",
+        "detail": "qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "zeropower_via_newtonschulz5",
+        "kind": 2,
+        "importPath": "qwen3_small_config",
+        "description": "qwen3_small_config",
+        "peekOfCode": "def zeropower_via_newtonschulz5(G: torch.Tensor, steps: int = 5) -> torch.Tensor:\n    \"\"\"\n    🔬 NEWTON-SCHULZ ORTHOGONALIZATION\n    This is the mathematical heart of the Muon optimizer:\n    🎯 What it does:\n    - Takes a matrix G (gradients)\n    - Makes it \"orthogonal\" (like rotating it to be perfectly aligned)\n    - Uses Newton-Schulz iteration (a fast numerical method)\n    🧮 Why orthogonalization helps:\n    - Orthogonal matrices preserve vector lengths and angles",
+        "detail": "qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_cache_data",
+        "kind": 2,
+        "importPath": "qwen3_small_config",
+        "description": "qwen3_small_config",
+        "peekOfCode": "def load_and_cache_data(config: SmallModelConfig, cache_dir: str = \"data_cache\"):\n    \"\"\"\n    📦 SMART DATA LOADING WITH CACHING\n    This function demonstrates modern ML data handling:\n    🎯 Key features:\n    1. Caching: Avoids reprocessing the same data\n    2. Streaming: Loads large datasets without memory issues\n    3. Tokenization: Converts text to numbers the model can understand\n    4. Efficient storage: Uses pickle for fast loading\n    🔄 The process:",
+        "detail": "qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "load_model",
+        "kind": 2,
+        "importPath": "serve_qwen3",
+        "description": "serve_qwen3",
+        "peekOfCode": "def load_model(model_path: str = \"final_model.pt\"):\n    \"\"\"\n    📦 LOAD THE TRAINED MODEL\n    This function loads the trained model and tokenizer for serving.\n    \"\"\"\n    global model, tokenizer, config\n    if not os.path.exists(model_path):\n        raise FileNotFoundError(f\"Model file {model_path} not found!\")\n    print(f\"📦 Loading model from {model_path}\")\n    # Load checkpoint",
+        "detail": "serve_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "health_check",
+        "kind": 2,
+        "importPath": "serve_qwen3",
+        "description": "serve_qwen3",
+        "peekOfCode": "def health_check():\n    \"\"\"\n    🏥 HEALTH CHECK ENDPOINT\n    Returns the health status of the model server.\n    \"\"\"\n    return jsonify({\n        'status': 'healthy',\n        'model_loaded': model is not None,\n        'device': str(next(model.parameters()).device) if model else None\n    })",
+        "detail": "serve_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "generate",
+        "kind": 2,
+        "importPath": "serve_qwen3",
+        "description": "serve_qwen3",
+        "peekOfCode": "def generate():\n    \"\"\"\n    🔮 TEXT GENERATION ENDPOINT\n    Generates text based on the provided prompt.\n    Expected JSON payload:\n    {\n        \"prompt\": \"Your text prompt here\",\n        \"max_length\": 100,\n        \"temperature\": 0.8,\n        \"top_k\": 50,",
+        "detail": "serve_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "model_info",
+        "kind": 2,
+        "importPath": "serve_qwen3",
+        "description": "serve_qwen3",
+        "peekOfCode": "def model_info():\n    \"\"\"\n    📊 MODEL INFORMATION ENDPOINT\n    Returns information about the loaded model.\n    \"\"\"\n    if model is None:\n        return jsonify({'error': 'Model not loaded'}), 500\n    return jsonify({\n        'model_type': 'Qwen3-style Language Model',\n        'parameters': sum(p.numel() for p in model.parameters()),",
+        "detail": "serve_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "serve_qwen3",
+        "description": "serve_qwen3",
+        "peekOfCode": "def home():\n    \"\"\"\n    🏠 HOME ENDPOINT\n    Returns a simple HTML interface for testing the model.\n    \"\"\"\n    return '''\n    <!DOCTYPE html>\n    <html>\n    <head>\n        <title>Qwen3 Model Server</title>",
+        "detail": "serve_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "serve_qwen3",
+        "description": "serve_qwen3",
+        "peekOfCode": "def main():\n    \"\"\"\n    🚀 MAIN SERVER FUNCTION\n    Starts the Flask server to serve the Qwen3 model.\n    \"\"\"\n    import argparse\n    parser = argparse.ArgumentParser(description='Serve Qwen3 model')\n    parser.add_argument('--model', default='final_model.pt', help='Path to model file')\n    parser.add_argument('--host', default='0.0.0.0', help='Host to bind to')\n    parser.add_argument('--port', type=int, default=5003, help='Port to bind to')",
+        "detail": "serve_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "serve_qwen3",
+        "description": "serve_qwen3",
+        "peekOfCode": "app = Flask(__name__)\n# Global variables for model and tokenizer\nmodel = None\ntokenizer = None\nconfig = None\ndef load_model(model_path: str = \"final_model.pt\"):\n    \"\"\"\n    📦 LOAD THE TRAINED MODEL\n    This function loads the trained model and tokenizer for serving.\n    \"\"\"",
+        "detail": "serve_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "serve_qwen3",
+        "description": "serve_qwen3",
+        "peekOfCode": "model = None\ntokenizer = None\nconfig = None\ndef load_model(model_path: str = \"final_model.pt\"):\n    \"\"\"\n    📦 LOAD THE TRAINED MODEL\n    This function loads the trained model and tokenizer for serving.\n    \"\"\"\n    global model, tokenizer, config\n    if not os.path.exists(model_path):",
+        "detail": "serve_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "tokenizer",
+        "kind": 5,
+        "importPath": "serve_qwen3",
+        "description": "serve_qwen3",
+        "peekOfCode": "tokenizer = None\nconfig = None\ndef load_model(model_path: str = \"final_model.pt\"):\n    \"\"\"\n    📦 LOAD THE TRAINED MODEL\n    This function loads the trained model and tokenizer for serving.\n    \"\"\"\n    global model, tokenizer, config\n    if not os.path.exists(model_path):\n        raise FileNotFoundError(f\"Model file {model_path} not found!\")",
+        "detail": "serve_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "serve_qwen3",
+        "description": "serve_qwen3",
+        "peekOfCode": "config = None\ndef load_model(model_path: str = \"final_model.pt\"):\n    \"\"\"\n    📦 LOAD THE TRAINED MODEL\n    This function loads the trained model and tokenizer for serving.\n    \"\"\"\n    global model, tokenizer, config\n    if not os.path.exists(model_path):\n        raise FileNotFoundError(f\"Model file {model_path} not found!\")\n    print(f\"📦 Loading model from {model_path}\")",
+        "detail": "serve_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "train_qwen3",
+        "description": "train_qwen3",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN TRAINING FUNCTION\n    This function orchestrates the entire training process:\n    1. System check and configuration\n    2. Data loading and preparation\n    3. Model training\n    4. Results reporting\n    \"\"\"\n    print(\"🚀 QWEN3 FROM SCRATCH - TRAINING SCRIPT\")",
+        "detail": "train_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "demo_inference",
+        "kind": 2,
+        "importPath": "train_qwen3",
+        "description": "train_qwen3",
+        "peekOfCode": "def demo_inference(model_path: str = \"final_model.pt\"):\n    \"\"\"\n    🎭 DEMO INFERENCE FUNCTION\n    This function demonstrates the trained model's capabilities\n    \"\"\"\n    print(\"🎭 Running inference demo\")\n    # Load model\n    if not os.path.exists(model_path):\n        print(f\"❌ Model file {model_path} not found!\")\n        print(\"💡 Please run training first with: python train_qwen3.py\")",
+        "detail": "train_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "interactive_inference",
+        "kind": 2,
+        "importPath": "train_qwen3",
+        "description": "train_qwen3",
+        "peekOfCode": "def interactive_inference(model_path: str = \"final_model.pt\"):\n    \"\"\"\n    🤖 INTERACTIVE INFERENCE SESSION\n    This function allows you to interact with the trained model\n    \"\"\"\n    print(\"🤖 Starting interactive inference session\")\n    print(\"Type 'quit' to exit\")\n    # Load model\n    if not os.path.exists(model_path):\n        print(f\"❌ Model file {model_path} not found!\")",
+        "detail": "train_qwen3",
+        "documentation": {}
+    }
+]
