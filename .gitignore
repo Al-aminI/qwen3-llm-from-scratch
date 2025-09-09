@@ -2,3 +2,6 @@
 /pytorch-peligemma
 .venv
 /data_cache
+*.pt
+data_cache
+pytorch-peligemma
