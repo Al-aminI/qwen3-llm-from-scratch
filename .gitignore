@@ -1,7 +1,50 @@
-.pt
-/pytorch-peligemma
-.venv
-/data_cache
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Model checkpoints and weights
 *.pt
-data_cache
-pytorch-peligemma
+*.pth
+*.bin
+*.safetensors
+
+# Data cache directory
+data_cache/
+/data_cache
+
+# PyTorch model files
+models/
+checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
