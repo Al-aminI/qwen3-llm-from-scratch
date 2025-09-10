@@ -1,0 +1,22 @@
+include README.md
+include LICENSE
+include pyproject.toml
+include MANIFEST.in
+recursive-include fast_inference *.py
+recursive-include fast_inference *.md
+recursive-include fast_inference *.txt
+recursive-include fast_inference *.yml
+recursive-include fast_inference *.yaml
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
+recursive-exclude * .DS_Store
+recursive-exclude * .git*
+recursive-exclude * .pytest_cache
+recursive-exclude * .mypy_cache
+recursive-exclude * .coverage
+recursive-exclude * htmlcov
+recursive-exclude * .tox
+recursive-exclude * .venv
+recursive-exclude * build
+recursive-exclude * dist
+recursive-exclude * *.egg-info
