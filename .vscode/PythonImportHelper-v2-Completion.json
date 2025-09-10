@@ -426,6 +426,414 @@
         "documentation": {}
     },
     {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
         "label": "List",
         "importPath": "typing",
         "description": "typing",
@@ -789,6 +1197,54 @@
         "documentation": {}
     },
     {
+        "label": "AutoModel",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoModelForSequenceClassification",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
         "label": "AutoTokenizer",
         "importPath": "transformers",
         "description": "transformers",
@@ -914,14 +1370,6 @@
         "documentation": {}
     },
     {
-        "label": "Dataset",
-        "importPath": "torch.utils.data",
-        "description": "torch.utils.data",
-        "isExtraImport": true,
-        "detail": "torch.utils.data",
-        "documentation": {}
-    },
-    {
         "label": "DataLoader",
         "importPath": "torch.utils.data",
         "description": "torch.utils.data",
@@ -959,6 +1407,70 @@
         "description": "torch.utils.data",
         "isExtraImport": true,
         "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "autocast",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "GradScaler",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "autocast",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "GradScaler",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
         "documentation": {}
     },
     {
@@ -1083,6 +1595,30 @@
         "documentation": {}
     },
     {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
         "label": "tqdm",
         "importPath": "tqdm",
         "description": "tqdm",
@@ -1165,6 +1701,22 @@
     },
     {
         "label": "asdict",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
         "importPath": "dataclasses",
         "description": "dataclasses",
         "isExtraImport": true,
@@ -1619,6 +2171,30 @@
         "documentation": {}
     },
     {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
         "label": "argparse",
         "kind": 6,
         "isExtraImport": true,
@@ -1633,6 +2209,62 @@
         "description": "setuptools",
         "isExtraImport": true,
         "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "SmallModelConfig",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "SmallModelConfig",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "SmallModelConfig",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "config.qwen3_small_config",
         "documentation": {}
     },
     {
@@ -1836,6 +2468,30 @@
         "documentation": {}
     },
     {
+        "label": "MinimalLLM",
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "isExtraImport": true,
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "MinimalLLM",
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "isExtraImport": true,
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "MinimalLLM",
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "isExtraImport": true,
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
         "label": "generate_text",
         "importPath": "qwen3_complete_model",
         "description": "qwen3_complete_model",
@@ -1961,6 +2617,514 @@
         "description": "qwen3_complete_model",
         "isExtraImport": true,
         "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "LoRATrainingConfig",
+        "importPath": "lora_qlora.core.training.config",
+        "description": "lora_qlora.core.training.config",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.training.config",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRATrainingConfig",
+        "importPath": "lora_qlora.core.training.config",
+        "description": "lora_qlora.core.training.config",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.training.config",
+        "documentation": {}
+    },
+    {
+        "label": "LoRATrainingConfig",
+        "importPath": "lora_qlora.core.training.config",
+        "description": "lora_qlora.core.training.config",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.training.config",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRATrainingConfig",
+        "importPath": "lora_qlora.core.training.config",
+        "description": "lora_qlora.core.training.config",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.training.config",
+        "documentation": {}
+    },
+    {
+        "label": "LoRATrainingConfig",
+        "importPath": "lora_qlora.core.training.config",
+        "description": "lora_qlora.core.training.config",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.training.config",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRATrainingConfig",
+        "importPath": "lora_qlora.core.training.config",
+        "description": "lora_qlora.core.training.config",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.training.config",
+        "documentation": {}
+    },
+    {
+        "label": "LoRATrainingConfig",
+        "importPath": "lora_qlora.core.training.config",
+        "description": "lora_qlora.core.training.config",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.training.config",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRATrainingConfig",
+        "importPath": "lora_qlora.core.training.config",
+        "description": "lora_qlora.core.training.config",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.training.config",
+        "documentation": {}
+    },
+    {
+        "label": "LoRATrainer",
+        "importPath": "lora_qlora.core.training.trainer",
+        "description": "lora_qlora.core.training.trainer",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.training.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRATrainer",
+        "importPath": "lora_qlora.core.training.trainer",
+        "description": "lora_qlora.core.training.trainer",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.training.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "LoRATrainer",
+        "importPath": "lora_qlora.core.training.trainer",
+        "description": "lora_qlora.core.training.trainer",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.training.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRATrainer",
+        "importPath": "lora_qlora.core.training.trainer",
+        "description": "lora_qlora.core.training.trainer",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.training.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "LoRATrainer",
+        "importPath": "lora_qlora.core.training.trainer",
+        "description": "lora_qlora.core.training.trainer",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.training.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRATrainer",
+        "importPath": "lora_qlora.core.training.trainer",
+        "description": "lora_qlora.core.training.trainer",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.training.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "importPath": "lora_qlora.utils.data",
+        "description": "lora_qlora.utils.data",
+        "isExtraImport": true,
+        "detail": "lora_qlora.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_data",
+        "importPath": "lora_qlora.utils.data",
+        "description": "lora_qlora.utils.data",
+        "isExtraImport": true,
+        "detail": "lora_qlora.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "split_data",
+        "importPath": "lora_qlora.utils.data",
+        "description": "lora_qlora.utils.data",
+        "isExtraImport": true,
+        "detail": "lora_qlora.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "balance_data",
+        "importPath": "lora_qlora.utils.data",
+        "description": "lora_qlora.utils.data",
+        "isExtraImport": true,
+        "detail": "lora_qlora.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "importPath": "lora_qlora.utils.data",
+        "description": "lora_qlora.utils.data",
+        "isExtraImport": true,
+        "detail": "lora_qlora.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_data",
+        "importPath": "lora_qlora.utils.data",
+        "description": "lora_qlora.utils.data",
+        "isExtraImport": true,
+        "detail": "lora_qlora.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "split_data",
+        "importPath": "lora_qlora.utils.data",
+        "description": "lora_qlora.utils.data",
+        "isExtraImport": true,
+        "detail": "lora_qlora.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "importPath": "lora_qlora.utils.config",
+        "description": "lora_qlora.utils.config",
+        "isExtraImport": true,
+        "detail": "lora_qlora.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "save_config",
+        "importPath": "lora_qlora.utils.config",
+        "description": "lora_qlora.utils.config",
+        "isExtraImport": true,
+        "detail": "lora_qlora.utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "UniversalLoRATrainer",
+        "importPath": "lora_qlora.core.training.universal_trainer",
+        "description": "lora_qlora.core.training.universal_trainer",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.training.universal_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "fine_tune_huggingface_model",
+        "importPath": "lora_qlora.core.training.universal_trainer",
+        "description": "lora_qlora.core.training.universal_trainer",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.training.universal_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "fine_tune_custom_model",
+        "importPath": "lora_qlora.core.training.universal_trainer",
+        "description": "lora_qlora.core.training.universal_trainer",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.training.universal_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "LoRADataset",
+        "importPath": "lora_qlora.core.training.dataset",
+        "description": "lora_qlora.core.training.dataset",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.training.dataset",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRADataset",
+        "importPath": "lora_qlora.core.training.dataset",
+        "description": "lora_qlora.core.training.dataset",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.training.dataset",
+        "documentation": {}
+    },
+    {
+        "label": "LoRALayer",
+        "importPath": "lora_qlora.core.lora.lora_layer",
+        "description": "lora_qlora.core.lora.lora_layer",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.lora.lora_layer",
+        "documentation": {}
+    },
+    {
+        "label": "LoRALinear",
+        "importPath": "lora_qlora.core.lora.lora_linear",
+        "description": "lora_qlora.core.lora.lora_linear",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.lora.lora_linear",
+        "documentation": {}
+    },
+    {
+        "label": "LoRAManager",
+        "importPath": "lora_qlora.core.lora.lora_manager",
+        "description": "lora_qlora.core.lora.lora_manager",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.lora.lora_manager",
+        "documentation": {}
+    },
+    {
+        "label": "QuantizationConfig",
+        "importPath": "lora_qlora.core.quantization.quantization_expert",
+        "description": "lora_qlora.core.quantization.quantization_expert",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.quantization.quantization_expert",
+        "documentation": {}
+    },
+    {
+        "label": "QuantizationConfig",
+        "importPath": "lora_qlora.core.quantization.quantization_expert",
+        "description": "lora_qlora.core.quantization.quantization_expert",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.quantization.quantization_expert",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRALayer",
+        "importPath": "lora_qlora.core.qlora.qlora_layer",
+        "description": "lora_qlora.core.qlora.qlora_layer",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.qlora.qlora_layer",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRALinear",
+        "importPath": "lora_qlora.core.qlora.qlora_linear",
+        "description": "lora_qlora.core.qlora.qlora_linear",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.qlora.qlora_linear",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRAManager",
+        "importPath": "lora_qlora.core.qlora.qlora_manager",
+        "description": "lora_qlora.core.qlora.qlora_manager",
+        "isExtraImport": true,
+        "detail": "lora_qlora.core.qlora.qlora_manager",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "LoRAManager",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRAManager",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QuantizationConfig",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QuantizationExpert",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "LoRAManager",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRAManager",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QuantizationConfig",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QuantizationBenchmark",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "LoRALayer",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "LoRALinear",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "LoRAManager",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QuantizationConfig",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRALayer",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRALinear",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRAManager",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QuantizationConfig",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "LoRALayer",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "LoRALinear",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "LoRAManager",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRALayer",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRALinear",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRAManager",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QuantizationConfig",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
         "documentation": {}
     },
     {
@@ -2139,166 +3303,6 @@
         "importPath": "matplotlib.pyplot",
         "description": "matplotlib.pyplot",
         "detail": "matplotlib.pyplot",
-        "documentation": {}
-    },
-    {
-        "label": "QuantizationExpert",
-        "importPath": "quantization_tutorial",
-        "description": "quantization_tutorial",
-        "isExtraImport": true,
-        "detail": "quantization_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "LoRAManager",
-        "importPath": "quantization_tutorial",
-        "description": "quantization_tutorial",
-        "isExtraImport": true,
-        "detail": "quantization_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "QLoRAManager",
-        "importPath": "quantization_tutorial",
-        "description": "quantization_tutorial",
-        "isExtraImport": true,
-        "detail": "quantization_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "QuantizationConfig",
-        "importPath": "quantization_tutorial",
-        "description": "quantization_tutorial",
-        "isExtraImport": true,
-        "detail": "quantization_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "QuantizationBenchmark",
-        "importPath": "quantization_tutorial",
-        "description": "quantization_tutorial",
-        "isExtraImport": true,
-        "detail": "quantization_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "LoRALayer",
-        "importPath": "quantization_tutorial",
-        "description": "quantization_tutorial",
-        "isExtraImport": true,
-        "detail": "quantization_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "LoRALinear",
-        "importPath": "quantization_tutorial",
-        "description": "quantization_tutorial",
-        "isExtraImport": true,
-        "detail": "quantization_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "LoRAManager",
-        "importPath": "quantization_tutorial",
-        "description": "quantization_tutorial",
-        "isExtraImport": true,
-        "detail": "quantization_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "QuantizationConfig",
-        "importPath": "quantization_tutorial",
-        "description": "quantization_tutorial",
-        "isExtraImport": true,
-        "detail": "quantization_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "QLoRALayer",
-        "importPath": "quantization_tutorial",
-        "description": "quantization_tutorial",
-        "isExtraImport": true,
-        "detail": "quantization_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "QLoRALinear",
-        "importPath": "quantization_tutorial",
-        "description": "quantization_tutorial",
-        "isExtraImport": true,
-        "detail": "quantization_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "QLoRAManager",
-        "importPath": "quantization_tutorial",
-        "description": "quantization_tutorial",
-        "isExtraImport": true,
-        "detail": "quantization_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "QuantizationConfig",
-        "importPath": "quantization_tutorial",
-        "description": "quantization_tutorial",
-        "isExtraImport": true,
-        "detail": "quantization_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "LoRALayer",
-        "importPath": "quantization_tutorial",
-        "description": "quantization_tutorial",
-        "isExtraImport": true,
-        "detail": "quantization_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "LoRALinear",
-        "importPath": "quantization_tutorial",
-        "description": "quantization_tutorial",
-        "isExtraImport": true,
-        "detail": "quantization_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "LoRAManager",
-        "importPath": "quantization_tutorial",
-        "description": "quantization_tutorial",
-        "isExtraImport": true,
-        "detail": "quantization_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "QLoRALayer",
-        "importPath": "quantization_tutorial",
-        "description": "quantization_tutorial",
-        "isExtraImport": true,
-        "detail": "quantization_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "QLoRALinear",
-        "importPath": "quantization_tutorial",
-        "description": "quantization_tutorial",
-        "isExtraImport": true,
-        "detail": "quantization_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "QLoRAManager",
-        "importPath": "quantization_tutorial",
-        "description": "quantization_tutorial",
-        "isExtraImport": true,
-        "detail": "quantization_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "QuantizationConfig",
-        "importPath": "quantization_tutorial",
-        "description": "quantization_tutorial",
-        "isExtraImport": true,
-        "detail": "quantization_tutorial",
         "documentation": {}
     },
     {
@@ -3226,6 +4230,510 @@
         "description": "qwen-llm.fast_inference.cli",
         "peekOfCode": "def main():\n    \"\"\"Main CLI entry point.\"\"\"\n    parser = argparse.ArgumentParser(\n        description=\"Fast Inference Engine CLI\",\n        formatter_class=argparse.RawDescriptionHelpFormatter,\n        epilog=\"\"\"\nExamples:\n  # Generate text from a prompt\n  fast-inference generate --model-path model.pt --tokenizer-path tokenizer --prompts \"Hello, world!\"\n  # Generate from file",
         "detail": "qwen-llm.fast_inference.cli",
+        "documentation": {}
+    },
+    {
+        "label": "LoRALayer",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.core.lora.lora_layer",
+        "description": "qwen-llm.lora_qlora.core.lora.lora_layer",
+        "peekOfCode": "class LoRALayer(nn.Module):\n    \"\"\"\n    🎯 LORA LAYER IMPLEMENTATION\n    LoRA (Low-Rank Adaptation) decomposes weight updates into low-rank matrices.\n    Mathematical Foundation:\n    W = W₀ + ΔW = W₀ + BA\n    Where:\n    - W₀: Original frozen weights\n    - B: Low-rank matrix (d × r)\n    - A: Low-rank matrix (r × k)",
+        "detail": "qwen-llm.lora_qlora.core.lora.lora_layer",
+        "documentation": {}
+    },
+    {
+        "label": "LoRALinear",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.core.lora.lora_linear",
+        "description": "qwen-llm.lora_qlora.core.lora.lora_linear",
+        "peekOfCode": "class LoRALinear(nn.Module):\n    \"\"\"\n    🎯 LORA LINEAR LAYER\n    Combines original linear layer with LoRA adaptation.\n    This layer maintains the original linear layer's functionality while adding\n    LoRA adaptation for efficient fine-tuning.\n    \"\"\"\n    def __init__(self, original_layer: nn.Linear, rank: int = 16, alpha: float = 32.0, dropout: float = 0.1):\n        \"\"\"\n        Initialize LoRA linear layer.",
+        "detail": "qwen-llm.lora_qlora.core.lora.lora_linear",
+        "documentation": {}
+    },
+    {
+        "label": "LoRAManager",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.core.lora.lora_manager",
+        "description": "qwen-llm.lora_qlora.core.lora.lora_manager",
+        "peekOfCode": "class LoRAManager:\n    \"\"\"\n    🎯 LORA MANAGER\n    Manages LoRA adaptation for entire models.\n    This class provides functionality to:\n    - Apply LoRA to specified modules in a model\n    - Track and manage LoRA layers\n    - Analyze parameter counts and memory usage\n    - Save and load LoRA weights\n    \"\"\"",
+        "detail": "qwen-llm.lora_qlora.core.lora.lora_manager",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRALayer",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.core.qlora.qlora_layer",
+        "description": "qwen-llm.lora_qlora.core.qlora.qlora_layer",
+        "peekOfCode": "class QLoRALayer(nn.Module):\n    \"\"\"\n    🎯 QLORA LAYER\n    QLoRA layer combining 4-bit quantization with LoRA adaptation.\n    This layer provides:\n    - 4-bit quantized weights for memory efficiency\n    - LoRA adaptation for fine-tuning\n    - Efficient forward pass with quantized operations\n    \"\"\"\n    def __init__(self, in_features: int, out_features: int, rank: int = 16, alpha: float = 1.0, dropout: float = 0.0):",
+        "detail": "qwen-llm.lora_qlora.core.qlora.qlora_layer",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRALinear",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.core.qlora.qlora_linear",
+        "description": "qwen-llm.lora_qlora.core.qlora.qlora_linear",
+        "peekOfCode": "class QLoRALinear(nn.Module):\n    \"\"\"\n    🎯 QLORA LINEAR LAYER\n    QLoRA linear layer combining 4-bit quantization with LoRA adaptation.\n    This layer provides:\n    - 4-bit quantized weights for memory efficiency\n    - LoRA adaptation for fine-tuning\n    - Efficient forward pass with quantized operations\n    \"\"\"\n    def __init__(self, original_layer: nn.Linear, rank: int = 16, alpha: float = 1.0, dropout: float = 0.0):",
+        "detail": "qwen-llm.lora_qlora.core.qlora.qlora_linear",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRAManager",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.core.qlora.qlora_manager",
+        "description": "qwen-llm.lora_qlora.core.qlora.qlora_manager",
+        "peekOfCode": "class QLoRAManager:\n    \"\"\"\n    🎯 QLORA MANAGER\n    Manages QLoRA adaptation for entire models.\n    This class provides functionality to:\n    - Apply QLoRA to specified modules in a model\n    - Track and manage QLoRA layers\n    - Analyze parameter counts and memory usage\n    - Save and load QLoRA weights\n    \"\"\"",
+        "detail": "qwen-llm.lora_qlora.core.qlora.qlora_manager",
+        "documentation": {}
+    },
+    {
+        "label": "QuantizationConfig",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.core.quantization.quantization_expert",
+        "description": "qwen-llm.lora_qlora.core.quantization.quantization_expert",
+        "peekOfCode": "class QuantizationConfig:\n    \"\"\"\n    🎯 QUANTIZATION CONFIGURATION\n    Configuration for different quantization techniques.\n    \"\"\"\n    # Basic quantization\n    bits: int = 8  # Number of bits for quantization (4, 8, 16)\n    symmetric: bool = True  # Symmetric vs asymmetric quantization\n    # LoRA parameters\n    lora_rank: int = 16  # Rank of LoRA adaptation",
+        "detail": "qwen-llm.lora_qlora.core.quantization.quantization_expert",
+        "documentation": {}
+    },
+    {
+        "label": "QuantizationExpert",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.core.quantization.quantization_expert",
+        "description": "qwen-llm.lora_qlora.core.quantization.quantization_expert",
+        "peekOfCode": "class QuantizationExpert:\n    \"\"\"\n    🎓 QUANTIZATION EXPERT CLASS\n    This class demonstrates different quantization techniques and their trade-offs.\n    \"\"\"\n    def __init__(self):\n        self.quantization_methods = {\n            'fp32': self._fp32_quantization,\n            'fp16': self._fp16_quantization,\n            'int8': self._int8_quantization,",
+        "detail": "qwen-llm.lora_qlora.core.quantization.quantization_expert",
+        "documentation": {}
+    },
+    {
+        "label": "LoRATrainingConfig",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.core.training.config",
+        "description": "qwen-llm.lora_qlora.core.training.config",
+        "peekOfCode": "class LoRATrainingConfig:\n    \"\"\"\n    🎯 LORA TRAINING CONFIGURATION\n    Configuration for LoRA fine-tuning following the original approach.\n    \"\"\"\n    # Model parameters\n    pretrained_model_path: str = \"models/final_model1.pt\"\n    tokenizer_path: str = \"HuggingFaceTB/SmolLM-135M\"\n    # LoRA parameters\n    lora_rank: int = 16",
+        "detail": "qwen-llm.lora_qlora.core.training.config",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRATrainingConfig",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.core.training.config",
+        "description": "qwen-llm.lora_qlora.core.training.config",
+        "peekOfCode": "class QLoRATrainingConfig:\n    \"\"\"\n    🎯 QLORA TRAINING CONFIGURATION\n    Configuration for QLoRA fine-tuning following the original approach.\n    \"\"\"\n    # Model parameters\n    pretrained_model_path: str = \"models/final_model1.pt\"\n    tokenizer_path: str = \"HuggingFaceTB/SmolLM-135M\"\n    # QLoRA parameters\n    lora_rank: int = 16",
+        "detail": "qwen-llm.lora_qlora.core.training.config",
+        "documentation": {}
+    },
+    {
+        "label": "create_lora_config",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.core.training.config",
+        "description": "qwen-llm.lora_qlora.core.training.config",
+        "peekOfCode": "def create_lora_config(\n    pretrained_model_path: str = \"models/final_model1.pt\",\n    lora_rank: int = 16,\n    lora_alpha: float = 32.0,\n    learning_rate: float = 1e-4,\n    num_epochs: int = 3,\n    batch_size: int = 8,\n    num_samples: int = 1000\n) -> LoRATrainingConfig:\n    \"\"\"",
+        "detail": "qwen-llm.lora_qlora.core.training.config",
+        "documentation": {}
+    },
+    {
+        "label": "create_qlora_config",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.core.training.config",
+        "description": "qwen-llm.lora_qlora.core.training.config",
+        "peekOfCode": "def create_qlora_config(\n    pretrained_model_path: str = \"models/final_model1.pt\",\n    lora_rank: int = 16,\n    lora_alpha: float = 32.0,\n    qlora_bits: int = 4,\n    learning_rate: float = 2e-4,\n    num_epochs: int = 3,\n    batch_size: int = 8,\n    num_samples: int = 1000\n) -> QLoRATrainingConfig:",
+        "detail": "qwen-llm.lora_qlora.core.training.config",
+        "documentation": {}
+    },
+    {
+        "label": "LoRADataset",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.core.training.dataset",
+        "description": "qwen-llm.lora_qlora.core.training.dataset",
+        "peekOfCode": "class LoRADataset(Dataset):\n    \"\"\"\n    📚 LORA DATASET CLASS\n    Custom dataset for LoRA fine-tuning on IMDB sentiment analysis.\n    \"\"\"\n    def __init__(self, texts: List[str], labels: List[int], tokenizer: AutoTokenizer, max_length: int = 256):\n        \"\"\"\n        Initialize LoRA dataset.\n        Args:\n            texts: List of text samples",
+        "detail": "qwen-llm.lora_qlora.core.training.dataset",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRADataset",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.core.training.dataset",
+        "description": "qwen-llm.lora_qlora.core.training.dataset",
+        "peekOfCode": "class QLoRADataset(Dataset):\n    \"\"\"\n    📚 QLORA DATASET CLASS\n    Custom dataset for QLoRA fine-tuning on IMDB sentiment analysis.\n    \"\"\"\n    def __init__(self, texts: List[str], labels: List[int], tokenizer: AutoTokenizer, max_length: int = 256):\n        \"\"\"\n        Initialize QLoRA dataset.\n        Args:\n            texts: List of text samples",
+        "detail": "qwen-llm.lora_qlora.core.training.dataset",
+        "documentation": {}
+    },
+    {
+        "label": "load_data_for_lora",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.core.training.dataset",
+        "description": "qwen-llm.lora_qlora.core.training.dataset",
+        "peekOfCode": "def load_data_for_lora(tokenizer: AutoTokenizer, max_length: int = 256, num_samples: int = 1000):\n    \"\"\"\n    📊 LOAD DATA FOR LORA FINE-TUNING\n    Loads IMDB dataset for LoRA fine-tuning.\n    Args:\n        tokenizer: Tokenizer for encoding text\n        max_length: Maximum sequence length\n        num_samples: Number of samples to use\n    Returns:\n        Tuple of (train_dataset, test_dataset)",
+        "detail": "qwen-llm.lora_qlora.core.training.dataset",
+        "documentation": {}
+    },
+    {
+        "label": "load_data_for_qlora",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.core.training.dataset",
+        "description": "qwen-llm.lora_qlora.core.training.dataset",
+        "peekOfCode": "def load_data_for_qlora(tokenizer: AutoTokenizer, max_length: int = 256, num_samples: int = 1000):\n    \"\"\"\n    📊 LOAD DATA FOR QLORA FINE-TUNING\n    Loads IMDB dataset for QLoRA fine-tuning.\n    Args:\n        tokenizer: Tokenizer for encoding text\n        max_length: Maximum sequence length\n        num_samples: Number of samples to use\n    Returns:\n        Tuple of (train_dataset, test_dataset)",
+        "detail": "qwen-llm.lora_qlora.core.training.dataset",
+        "documentation": {}
+    },
+    {
+        "label": "LoRAClassifier",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.core.training.trainer",
+        "description": "qwen-llm.lora_qlora.core.training.trainer",
+        "peekOfCode": "class LoRAClassifier(nn.Module):\n    \"\"\"\n    🎯 LORA CLASSIFIER\n    Combines pre-trained model with LoRA adaptation and classification head.\n    \"\"\"\n    def __init__(self, pretrained_model: MinimalLLM, num_classes: int = 2, dropout: float = 0.1):\n        super().__init__()\n        self.pretrained_model = pretrained_model\n        # Add classification head\n        self.classifier = nn.Sequential(",
+        "detail": "qwen-llm.lora_qlora.core.training.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRAClassifier",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.core.training.trainer",
+        "description": "qwen-llm.lora_qlora.core.training.trainer",
+        "peekOfCode": "class QLoRAClassifier(nn.Module):\n    \"\"\"\n    🎯 QLORA CLASSIFIER\n    Combines pre-trained model with QLoRA adaptation and classification head.\n    \"\"\"\n    def __init__(self, pretrained_model: MinimalLLM, num_classes: int = 2, dropout: float = 0.1):\n        super().__init__()\n        self.pretrained_model = pretrained_model\n        # Add classification head\n        self.classifier = nn.Sequential(",
+        "detail": "qwen-llm.lora_qlora.core.training.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "LoRATrainer",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.core.training.trainer",
+        "description": "qwen-llm.lora_qlora.core.training.trainer",
+        "peekOfCode": "class LoRATrainer:\n    \"\"\"\n    🎯 LORA TRAINER\n    Trainer class for LoRA fine-tuning following the original approach.\n    \"\"\"\n    def __init__(self, config: LoRATrainingConfig):\n        \"\"\"\n        Initialize LoRA trainer.\n        Args:\n            config: LoRA training configuration",
+        "detail": "qwen-llm.lora_qlora.core.training.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRATrainer",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.core.training.trainer",
+        "description": "qwen-llm.lora_qlora.core.training.trainer",
+        "peekOfCode": "class QLoRATrainer:\n    \"\"\"\n    🎯 QLORA TRAINER\n    Trainer class for QLoRA fine-tuning following the original approach.\n    \"\"\"\n    def __init__(self, config: QLoRATrainingConfig):\n        \"\"\"\n        Initialize QLoRA trainer.\n        Args:\n            config: QLoRA training configuration",
+        "detail": "qwen-llm.lora_qlora.core.training.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "UniversalLoRAClassifier",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.core.training.universal_trainer",
+        "description": "qwen-llm.lora_qlora.core.training.universal_trainer",
+        "peekOfCode": "class UniversalLoRAClassifier(nn.Module):\n    \"\"\"\n    🎯 UNIVERSAL LORA CLASSIFIER\n    Works with any base model (HuggingFace or custom).\n    \"\"\"\n    def __init__(self, base_model: nn.Module, num_classes: int = 2, dropout: float = 0.1, \n                 model_type: str = \"custom\", hidden_size: Optional[int] = None):\n        super().__init__()\n        self.base_model = base_model\n        self.model_type = model_type",
+        "detail": "qwen-llm.lora_qlora.core.training.universal_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "UniversalQLoRAClassifier",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.core.training.universal_trainer",
+        "description": "qwen-llm.lora_qlora.core.training.universal_trainer",
+        "peekOfCode": "class UniversalQLoRAClassifier(nn.Module):\n    \"\"\"\n    🎯 UNIVERSAL QLORA CLASSIFIER\n    Works with any base model (HuggingFace or custom).\n    \"\"\"\n    def __init__(self, base_model: nn.Module, num_classes: int = 2, dropout: float = 0.1, \n                 model_type: str = \"custom\", hidden_size: Optional[int] = None):\n        super().__init__()\n        self.base_model = base_model\n        self.model_type = model_type",
+        "detail": "qwen-llm.lora_qlora.core.training.universal_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "UniversalLoRATrainer",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.core.training.universal_trainer",
+        "description": "qwen-llm.lora_qlora.core.training.universal_trainer",
+        "peekOfCode": "class UniversalLoRATrainer:\n    \"\"\"\n    🎯 UNIVERSAL LORA TRAINER\n    Can work with any base model (HuggingFace or custom).\n    \"\"\"\n    def __init__(self, config: LoRATrainingConfig):\n        \"\"\"\n        Initialize Universal LoRA trainer.\n        Args:\n            config: LoRA training configuration",
+        "detail": "qwen-llm.lora_qlora.core.training.universal_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "fine_tune_huggingface_model",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.core.training.universal_trainer",
+        "description": "qwen-llm.lora_qlora.core.training.universal_trainer",
+        "peekOfCode": "def fine_tune_huggingface_model(model_name: str, config: LoRATrainingConfig):\n    \"\"\"\n    Fine-tune a HuggingFace model with LoRA.\n    Args:\n        model_name: HuggingFace model name (e.g., \"bert-base-uncased\")\n        config: LoRA training configuration\n    \"\"\"\n    trainer = UniversalLoRATrainer(config)\n    trainer.setup_model(model_name_or_path=model_name, model_type=\"huggingface\")\n    trainer.load_data()",
+        "detail": "qwen-llm.lora_qlora.core.training.universal_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "fine_tune_custom_model",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.core.training.universal_trainer",
+        "description": "qwen-llm.lora_qlora.core.training.universal_trainer",
+        "peekOfCode": "def fine_tune_custom_model(model_path: str, config: LoRATrainingConfig):\n    \"\"\"\n    Fine-tune your custom model with LoRA.\n    Args:\n        model_path: Path to your custom model\n        config: LoRA training configuration\n    \"\"\"\n    config.pretrained_model_path = model_path\n    trainer = UniversalLoRATrainer(config)\n    trainer.setup_model(model_type=\"custom\")",
+        "detail": "qwen-llm.lora_qlora.core.training.universal_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "compare_lora_qlora",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.examples.advanced.custom_training",
+        "description": "qwen-llm.lora_qlora.examples.advanced.custom_training",
+        "peekOfCode": "def compare_lora_qlora():\n    \"\"\"Compare LoRA and QLoRA performance.\"\"\"\n    print(\"🎯 LoRA vs QLoRA Comparison\")\n    print(\"=\" * 50)\n    # Common configuration\n    common_config = {\n        'model_name': \"Qwen/Qwen2.5-0.5B\",\n        'data_path': \"data/classification_data.json\",\n        'num_epochs': 2,\n        'batch_size': 8,",
+        "detail": "qwen-llm.lora_qlora.examples.advanced.custom_training",
+        "documentation": {}
+    },
+    {
+        "label": "hyperparameter_search",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.examples.advanced.custom_training",
+        "description": "qwen-llm.lora_qlora.examples.advanced.custom_training",
+        "peekOfCode": "def hyperparameter_search():\n    \"\"\"Perform hyperparameter search.\"\"\"\n    print(\"🎯 Hyperparameter Search\")\n    print(\"=\" * 50)\n    # Define search space\n    lora_ranks = [8, 16, 32, 64]\n    lora_alphas = [16.0, 32.0, 64.0, 128.0]\n    learning_rates = [1e-4, 2e-4, 5e-4, 1e-3]\n    best_config = None\n    best_score = 0.0",
+        "detail": "qwen-llm.lora_qlora.examples.advanced.custom_training",
+        "documentation": {}
+    },
+    {
+        "label": "custom_data_processing",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.examples.advanced.custom_training",
+        "description": "qwen-llm.lora_qlora.examples.advanced.custom_training",
+        "peekOfCode": "def custom_data_processing():\n    \"\"\"Demonstrate custom data processing.\"\"\"\n    print(\"🎯 Custom Data Processing\")\n    print(\"=\" * 50)\n    # Load and preprocess data\n    data = load_data(\"data/classification_data.json\")\n    print(f\"Original data size: {len(data)}\")\n    # Preprocess\n    processed_data = preprocess_data(data)\n    print(f\"Processed data size: {len(processed_data)}\")",
+        "detail": "qwen-llm.lora_qlora.examples.advanced.custom_training",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.examples.advanced.custom_training",
+        "description": "qwen-llm.lora_qlora.examples.advanced.custom_training",
+        "peekOfCode": "def main():\n    \"\"\"Main function for advanced examples.\"\"\"\n    print(\"🎯 Advanced LoRA/QLoRA Examples\")\n    print(\"=\" * 50)\n    # Run examples\n    compare_lora_qlora()\n    print(\"\\n\" + \"=\" * 50)\n    hyperparameter_search()\n    print(\"\\n\" + \"=\" * 50)\n    custom_data_processing()",
+        "detail": "qwen-llm.lora_qlora.examples.advanced.custom_training",
+        "documentation": {}
+    },
+    {
+        "label": "example_huggingface_models",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.examples.advanced.universal_example",
+        "description": "qwen-llm.lora_qlora.examples.advanced.universal_example",
+        "peekOfCode": "def example_huggingface_models():\n    \"\"\"\n    🎯 EXAMPLE: Fine-tune HuggingFace models with LoRA\n    \"\"\"\n    print(\"🎯 HuggingFace Models with LoRA\")\n    print(\"=\" * 50)\n    # Example 1: BERT\n    print(\"\\n1. Fine-tuning BERT with LoRA:\")\n    config = LoRATrainingConfig(\n        num_epochs=1,",
+        "detail": "qwen-llm.lora_qlora.examples.advanced.universal_example",
+        "documentation": {}
+    },
+    {
+        "label": "example_custom_model",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.examples.advanced.universal_example",
+        "description": "qwen-llm.lora_qlora.examples.advanced.universal_example",
+        "peekOfCode": "def example_custom_model():\n    \"\"\"\n    🎯 EXAMPLE: Fine-tune your custom model with LoRA\n    \"\"\"\n    print(\"\\n🎯 Custom Model with LoRA\")\n    print(\"=\" * 50)\n    config = LoRATrainingConfig(\n        pretrained_model_path=\"models/final_model1.pt\",\n        num_epochs=1,\n        batch_size=4,",
+        "detail": "qwen-llm.lora_qlora.examples.advanced.universal_example",
+        "documentation": {}
+    },
+    {
+        "label": "example_manual_setup",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.examples.advanced.universal_example",
+        "description": "qwen-llm.lora_qlora.examples.advanced.universal_example",
+        "peekOfCode": "def example_manual_setup():\n    \"\"\"\n    🎯 EXAMPLE: Manual setup for more control\n    \"\"\"\n    print(\"\\n🎯 Manual Setup Example\")\n    print(\"=\" * 50)\n    # Create config\n    config = LoRATrainingConfig(\n        num_epochs=1,\n        batch_size=4,",
+        "detail": "qwen-llm.lora_qlora.examples.advanced.universal_example",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.examples.advanced.universal_example",
+        "description": "qwen-llm.lora_qlora.examples.advanced.universal_example",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN FUNCTION\n    Demonstrates different ways to use the universal trainer.\n    \"\"\"\n    print(\"🎯 Universal LoRA Fine-tuning Examples\")\n    print(\"=\" * 60)\n    # Example 1: HuggingFace models\n    example_huggingface_models()\n    # Example 2: Custom model",
+        "detail": "qwen-llm.lora_qlora.examples.advanced.universal_example",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.examples.basic.lora_example",
+        "description": "qwen-llm.lora_qlora.examples.basic.lora_example",
+        "peekOfCode": "def main():\n    \"\"\"Main function for LoRA example.\"\"\"\n    print(\"🎯 LoRA Fine-tuning Example\")\n    print(\"=\" * 50)\n    # Configuration following original approach\n    config = LoRATrainingConfig(\n        pretrained_model_path=\"models/final_model1.pt\",\n        num_epochs=1,\n        batch_size=4,\n        learning_rate=1e-4,",
+        "detail": "qwen-llm.lora_qlora.examples.basic.lora_example",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.examples.basic.qlora_example",
+        "description": "qwen-llm.lora_qlora.examples.basic.qlora_example",
+        "peekOfCode": "def main():\n    \"\"\"Main function for QLoRA example.\"\"\"\n    print(\"🎯 QLoRA Fine-tuning Example\")\n    print(\"=\" * 50)\n    # Configuration following original approach\n    config = QLoRATrainingConfig(\n        pretrained_model_path=\"models/final_model1.pt\",\n        num_epochs=1,\n        batch_size=4,\n        learning_rate=2e-4,",
+        "detail": "qwen-llm.lora_qlora.examples.basic.qlora_example",
+        "documentation": {}
+    },
+    {
+        "label": "TestTrainingPipeline",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.tests.integration.test_training_pipeline",
+        "description": "qwen-llm.lora_qlora.tests.integration.test_training_pipeline",
+        "peekOfCode": "class TestTrainingPipeline(unittest.TestCase):\n    \"\"\"Test cases for training pipeline.\"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        # Create temporary directory\n        self.temp_dir = tempfile.mkdtemp()\n        # Create sample data\n        self.sample_data = [\n            {\"text\": \"This is a positive review\", \"label\": 1},\n            {\"text\": \"This is a negative review\", \"label\": 0},",
+        "detail": "qwen-llm.lora_qlora.tests.integration.test_training_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "TestLoRALayer",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.tests.unit.test_lora",
+        "description": "qwen-llm.lora_qlora.tests.unit.test_lora",
+        "peekOfCode": "class TestLoRALayer(unittest.TestCase):\n    \"\"\"Test cases for LoRALayer.\"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        self.in_features = 128\n        self.out_features = 64\n        self.rank = 16\n        self.alpha = 32.0\n        self.dropout = 0.1\n        self.lora_layer = LoRALayer(",
+        "detail": "qwen-llm.lora_qlora.tests.unit.test_lora",
+        "documentation": {}
+    },
+    {
+        "label": "TestLoRALinear",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.tests.unit.test_lora",
+        "description": "qwen-llm.lora_qlora.tests.unit.test_lora",
+        "peekOfCode": "class TestLoRALinear(unittest.TestCase):\n    \"\"\"Test cases for LoRALinear.\"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        self.in_features = 128\n        self.out_features = 64\n        self.rank = 16\n        self.alpha = 32.0\n        self.dropout = 0.1\n        # Create original linear layer",
+        "detail": "qwen-llm.lora_qlora.tests.unit.test_lora",
+        "documentation": {}
+    },
+    {
+        "label": "TestLoRAManager",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.tests.unit.test_lora",
+        "description": "qwen-llm.lora_qlora.tests.unit.test_lora",
+        "peekOfCode": "class TestLoRAManager(unittest.TestCase):\n    \"\"\"Test cases for LoRAManager.\"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        # Create a simple model\n        self.model = nn.Sequential(\n            nn.Linear(128, 64),\n            nn.ReLU(),\n            nn.Linear(64, 32),\n            nn.ReLU(),",
+        "detail": "qwen-llm.lora_qlora.tests.unit.test_lora",
+        "documentation": {}
+    },
+    {
+        "label": "TestQLoRALayer",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.tests.unit.test_qlora",
+        "description": "qwen-llm.lora_qlora.tests.unit.test_qlora",
+        "peekOfCode": "class TestQLoRALayer(unittest.TestCase):\n    \"\"\"Test cases for QLoRALayer.\"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        self.in_features = 128\n        self.out_features = 64\n        self.rank = 16\n        self.alpha = 32.0\n        self.dropout = 0.1\n        self.qlora_layer = QLoRALayer(",
+        "detail": "qwen-llm.lora_qlora.tests.unit.test_qlora",
+        "documentation": {}
+    },
+    {
+        "label": "TestQLoRALinear",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.tests.unit.test_qlora",
+        "description": "qwen-llm.lora_qlora.tests.unit.test_qlora",
+        "peekOfCode": "class TestQLoRALinear(unittest.TestCase):\n    \"\"\"Test cases for QLoRALinear.\"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        self.in_features = 128\n        self.out_features = 64\n        self.rank = 16\n        self.alpha = 32.0\n        self.dropout = 0.1\n        # Create original linear layer",
+        "detail": "qwen-llm.lora_qlora.tests.unit.test_qlora",
+        "documentation": {}
+    },
+    {
+        "label": "TestQLoRAManager",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.tests.unit.test_qlora",
+        "description": "qwen-llm.lora_qlora.tests.unit.test_qlora",
+        "peekOfCode": "class TestQLoRAManager(unittest.TestCase):\n    \"\"\"Test cases for QLoRAManager.\"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        # Create a simple model\n        self.model = nn.Sequential(\n            nn.Linear(128, 64),\n            nn.ReLU(),\n            nn.Linear(64, 32),\n            nn.ReLU(),",
+        "detail": "qwen-llm.lora_qlora.tests.unit.test_qlora",
+        "documentation": {}
+    },
+    {
+        "label": "load_config",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.utils.config.config",
+        "description": "qwen-llm.lora_qlora.utils.config.config",
+        "peekOfCode": "def load_config(config_path: Union[str, Path]) -> Dict[str, Any]:\n    \"\"\"\n    🎯 LOAD CONFIGURATION\n    Load configuration from file.\n    Args:\n        config_path: Path to configuration file\n    Returns:\n        Configuration dictionary\n    \"\"\"\n    config_path = Path(config_path)",
+        "detail": "qwen-llm.lora_qlora.utils.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "save_config",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.utils.config.config",
+        "description": "qwen-llm.lora_qlora.utils.config.config",
+        "peekOfCode": "def save_config(config: Dict[str, Any], config_path: Union[str, Path], format: str = 'json'):\n    \"\"\"\n    🎯 SAVE CONFIGURATION\n    Save configuration to file.\n    Args:\n        config: Configuration dictionary\n        config_path: Path to save configuration\n        format: File format ('json' or 'yaml')\n    \"\"\"\n    config_path = Path(config_path)",
+        "detail": "qwen-llm.lora_qlora.utils.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "merge_configs",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.utils.config.config",
+        "description": "qwen-llm.lora_qlora.utils.config.config",
+        "peekOfCode": "def merge_configs(base_config: Dict[str, Any], override_config: Dict[str, Any]) -> Dict[str, Any]:\n    \"\"\"\n    🎯 MERGE CONFIGURATIONS\n    Merge two configurations with override taking precedence.\n    Args:\n        base_config: Base configuration\n        override_config: Override configuration\n    Returns:\n        Merged configuration\n    \"\"\"",
+        "detail": "qwen-llm.lora_qlora.utils.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "validate_config",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.utils.config.config",
+        "description": "qwen-llm.lora_qlora.utils.config.config",
+        "peekOfCode": "def validate_config(config: Dict[str, Any], required_keys: list) -> bool:\n    \"\"\"\n    🎯 VALIDATE CONFIGURATION\n    Validate that configuration contains required keys.\n    Args:\n        config: Configuration to validate\n        required_keys: List of required keys\n    Returns:\n        True if valid, False otherwise\n    \"\"\"",
+        "detail": "qwen-llm.lora_qlora.utils.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "get_config_value",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.utils.config.config",
+        "description": "qwen-llm.lora_qlora.utils.config.config",
+        "peekOfCode": "def get_config_value(config: Dict[str, Any], key: str, default: Any = None) -> Any:\n    \"\"\"\n    🎯 GET CONFIG VALUE\n    Get configuration value with default fallback.\n    Args:\n        config: Configuration dictionary\n        key: Key to retrieve\n        default: Default value if key not found\n    Returns:\n        Configuration value or default",
+        "detail": "qwen-llm.lora_qlora.utils.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "update_config",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.utils.config.config",
+        "description": "qwen-llm.lora_qlora.utils.config.config",
+        "peekOfCode": "def update_config(config: Dict[str, Any], updates: Dict[str, Any]) -> Dict[str, Any]:\n    \"\"\"\n    🎯 UPDATE CONFIGURATION\n    Update configuration with new values.\n    Args:\n        config: Configuration to update\n        updates: Updates to apply\n    Returns:\n        Updated configuration\n    \"\"\"",
+        "detail": "qwen-llm.lora_qlora.utils.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.utils.data.data",
+        "description": "qwen-llm.lora_qlora.utils.data.data",
+        "peekOfCode": "def load_data(data_path: str, format: str = 'auto') -> List[Dict[str, Any]]:\n    \"\"\"\n    🎯 LOAD DATA\n    Load data from file.\n    Args:\n        data_path: Path to data file\n        format: Data format ('json', 'csv', 'auto')\n    Returns:\n        List of data samples\n    \"\"\"",
+        "detail": "qwen-llm.lora_qlora.utils.data.data",
+        "documentation": {}
+    },
+    {
+        "label": "preprocess_data",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.utils.data.data",
+        "description": "qwen-llm.lora_qlora.utils.data.data",
+        "peekOfCode": "def preprocess_data(data: List[Dict[str, Any]], text_field: str = 'text', label_field: str = 'label') -> List[Dict[str, Any]]:\n    \"\"\"\n    🎯 PREPROCESS DATA\n    Preprocess data for training.\n    Args:\n        data: Raw data\n        text_field: Name of text field\n        label_field: Name of label field\n    Returns:\n        Preprocessed data",
+        "detail": "qwen-llm.lora_qlora.utils.data.data",
+        "documentation": {}
+    },
+    {
+        "label": "split_data",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.utils.data.data",
+        "description": "qwen-llm.lora_qlora.utils.data.data",
+        "peekOfCode": "def split_data(data: List[Dict[str, Any]], train_split: float = 0.8, val_split: float = 0.1, test_split: float = 0.1, random_seed: int = 42) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]], List[Dict[str, Any]]]:\n    \"\"\"\n    🎯 SPLIT DATA\n    Split data into train, validation, and test sets.\n    Args:\n        data: Data to split\n        train_split: Training set proportion\n        val_split: Validation set proportion\n        test_split: Test set proportion\n        random_seed: Random seed for reproducibility",
+        "detail": "qwen-llm.lora_qlora.utils.data.data",
+        "documentation": {}
+    },
+    {
+        "label": "balance_data",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.utils.data.data",
+        "description": "qwen-llm.lora_qlora.utils.data.data",
+        "peekOfCode": "def balance_data(data: List[Dict[str, Any]], label_field: str = 'label', method: str = 'undersample') -> List[Dict[str, Any]]:\n    \"\"\"\n    🎯 BALANCE DATA\n    Balance data by class distribution.\n    Args:\n        data: Data to balance\n        label_field: Name of label field\n        method: Balancing method ('undersample', 'oversample')\n    Returns:\n        Balanced data",
+        "detail": "qwen-llm.lora_qlora.utils.data.data",
+        "documentation": {}
+    },
+    {
+        "label": "filter_data",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.utils.data.data",
+        "description": "qwen-llm.lora_qlora.utils.data.data",
+        "peekOfCode": "def filter_data(data: List[Dict[str, Any]], min_length: int = 10, max_length: int = 1000) -> List[Dict[str, Any]]:\n    \"\"\"\n    🎯 FILTER DATA\n    Filter data by text length.\n    Args:\n        data: Data to filter\n        min_length: Minimum text length\n        max_length: Maximum text length\n    Returns:\n        Filtered data",
+        "detail": "qwen-llm.lora_qlora.utils.data.data",
+        "documentation": {}
+    },
+    {
+        "label": "get_data_stats",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_qlora.utils.data.data",
+        "description": "qwen-llm.lora_qlora.utils.data.data",
+        "peekOfCode": "def get_data_stats(data: List[Dict[str, Any]], label_field: str = 'label') -> Dict[str, Any]:\n    \"\"\"\n    🎯 GET DATA STATISTICS\n    Get statistics about the data.\n    Args:\n        data: Data to analyze\n        label_field: Name of label field\n    Returns:\n        Data statistics\n    \"\"\"",
+        "detail": "qwen-llm.lora_qlora.utils.data.data",
+        "documentation": {}
+    },
+    {
+        "label": "ModelServer",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.utils.serving.serving",
+        "description": "qwen-llm.lora_qlora.utils.serving.serving",
+        "peekOfCode": "class ModelServer:\n    \"\"\"\n    🎯 MODEL SERVER\n    Server for serving trained LoRA and QLoRA models using your custom MinimalLLM.\n    This class provides:\n    - Model loading and initialization\n    - Inference capabilities\n    - Batch processing\n    - Performance monitoring\n    \"\"\"",
+        "detail": "qwen-llm.lora_qlora.utils.serving.serving",
+        "documentation": {}
+    },
+    {
+        "label": "InferenceEngine",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_qlora.utils.serving.serving",
+        "description": "qwen-llm.lora_qlora.utils.serving.serving",
+        "peekOfCode": "class InferenceEngine:\n    \"\"\"\n    🎯 INFERENCE ENGINE\n    High-performance inference engine for LoRA and QLoRA models.\n    This class provides:\n    - Optimized inference\n    - Caching mechanisms\n    - Performance monitoring\n    - Batch processing\n    \"\"\"",
+        "detail": "qwen-llm.lora_qlora.utils.serving.serving",
         "documentation": {}
     },
     {

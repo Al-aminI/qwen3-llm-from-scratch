@@ -36,15 +36,16 @@ __email__ = "team@lora-qlora.com"
 from .core.quantization import QuantizationExpert, QuantizationConfig
 from .core.lora import LoRALayer, LoRALinear, LoRAManager
 from .core.qlora import QLoRALayer, QLoRALinear, QLoRAManager
-from .core.training import LoRATrainer, QLoRATrainer, create_lora_trainer, create_qlora_trainer
+from .core.training import (
+    LoRATrainingConfig, QLoRATrainingConfig,
+    LoRADataset, QLoRADataset,
+    LoRATrainer, QLoRATrainer
+)
 
 # Utilities
-from .utils.config import LoRAConfig, QLoRAConfig, TrainingConfig
-from .utils.data import LoRADataset, QLoRADataset, create_dataloader
-from .utils.serving import LoRAServer, QLoRAServer, create_server
-
-# Convenience functions
-from .core.training import create_lora_trainer, create_qlora_trainer
+from .utils.config import load_config, save_config, merge_configs
+from .utils.data import load_data, preprocess_data, split_data
+from .utils.serving import ModelServer, InferenceEngine
 
 __all__ = [
     # Core classes
@@ -56,24 +57,22 @@ __all__ = [
     "QLoRALayer",
     "QLoRALinear",
     "QLoRAManager",
-    "LoRATrainer",
-    "QLoRATrainer",
-    
-    # Utilities
-    "LoRAConfig",
-    "QLoRAConfig", 
-    "TrainingConfig",
+    # Training components
+    "LoRATrainingConfig",
+    "QLoRATrainingConfig",
     "LoRADataset",
     "QLoRADataset",
-    "create_dataloader",
-    "LoRAServer",
-    "QLoRAServer",
-    "create_server",
-    
-    # Convenience functions
-    "create_lora_trainer",
-    "create_qlora_trainer",
-    
+    "LoRATrainer",
+    "QLoRATrainer",
+    # Utilities
+    "load_config",
+    "save_config",
+    "merge_configs",
+    "load_data",
+    "preprocess_data",
+    "split_data",
+    "ModelServer",
+    "InferenceEngine",
     # Version info
     "__version__",
     "__author__",
