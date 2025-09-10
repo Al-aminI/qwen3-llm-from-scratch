@@ -167,6 +167,9 @@ self.lm_head.weight = self.token_embedding.weight
 # Activate virtual environment
 source .venv/bin/activate
 
+# Navigate to qwen-llm directory
+cd qwen-llm
+
 # Train the model
 python train_qwen3.py
 ```
@@ -192,12 +195,16 @@ python serve_qwen3.py
 
 ```
 arch/
-├── qwen3_small_config.py      # Configuration and data loading
-├── qwen3_core_components.py   # Core neural network components
-├── qwen3_complete_model.py    # Complete model and training
-├── train_qwen3.py            # Main training script
-├── serve_qwen3.py            # Web serving script
-├── final_model.pt            # Trained model checkpoint
+├── qwen-llm/                 # Main Qwen3 implementation
+│   ├── config/
+│   │   └── qwen3_small_config.py  # Configuration and data loading
+│   ├── qwen3_core_components.py   # Core neural network components
+│   ├── qwen3_complete_model.py    # Complete model and training
+│   ├── train_qwen3.py            # Main training script
+│   └── serve_qwen3.py            # Web serving script
+├── models/
+│   ├── final_model1.pt       # Trained model checkpoint
+│   └── best_model1.pt        # Best model during training
 └── data_cache/               # Cached tokenized data
 ```
 
@@ -242,7 +249,7 @@ Perfect for understanding how state-of-the-art language models work under the ho
 
 ## 🏆 Success Metrics
 
-✅ **Model Trained**: Successfully trained a 7M parameter model
+✅ **Model Trained**: Successfully trained a 7M parameter model (saved in models/ directory)
 ✅ **Components Implemented**: All modern transformer components
 ✅ **Training Pipeline**: Complete end-to-end training system
 ✅ **Serving Ready**: Web interface for model interaction

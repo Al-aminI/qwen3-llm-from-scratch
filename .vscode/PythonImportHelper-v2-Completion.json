@@ -202,7 +202,135 @@
         "documentation": {}
     },
     {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
         "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -227,6 +355,30 @@
     },
     {
         "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -298,6 +450,38 @@
         "importPath": "numpy",
         "description": "numpy",
         "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
         "documentation": {}
     },
     {
@@ -442,6 +626,38 @@
         "documentation": {}
     },
     {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
         "label": "autocast",
         "importPath": "torch.cuda.amp",
         "description": "torch.cuda.amp",
@@ -487,6 +703,119 @@
         "description": "torch.cuda.amp",
         "isExtraImport": true,
         "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "autocast",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "GradScaler",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "autocast",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "GradScaler",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
         "documentation": {}
     },
     {
@@ -499,27 +828,35 @@
         "documentation": {}
     },
     {
-        "label": "tqdm",
-        "importPath": "tqdm",
-        "description": "tqdm",
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
         "isExtraImport": true,
-        "detail": "tqdm",
+        "detail": "dataclasses",
         "documentation": {}
     },
     {
-        "label": "tqdm",
-        "importPath": "tqdm",
-        "description": "tqdm",
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
         "isExtraImport": true,
-        "detail": "tqdm",
+        "detail": "dataclasses",
         "documentation": {}
     },
     {
-        "label": "tqdm",
-        "importPath": "tqdm",
-        "description": "tqdm",
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
         "isExtraImport": true,
-        "detail": "tqdm",
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
         "documentation": {}
     },
     {
@@ -552,86 +889,507 @@
         "description": "dataclasses",
         "isExtraImport": true,
         "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "psutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "psutil",
+        "description": "psutil",
+        "detail": "psutil",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
         "documentation": {}
     },
     {
         "label": "SmallModelConfig",
-        "importPath": "qwen3_small_config",
-        "description": "qwen3_small_config",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
         "isExtraImport": true,
-        "detail": "qwen3_small_config",
+        "detail": "config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "SmallModelConfig",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "SmallModelConfig",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "config.qwen3_small_config",
         "documentation": {}
     },
     {
         "label": "set_seed",
-        "importPath": "qwen3_small_config",
-        "description": "qwen3_small_config",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
         "isExtraImport": true,
-        "detail": "qwen3_small_config",
+        "detail": "config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "SmallModelConfig",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "SmallModelConfig",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "SmallModelConfig",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "SmallModelConfig",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "config.qwen3_small_config",
         "documentation": {}
     },
     {
         "label": "load_and_cache_data",
-        "importPath": "qwen3_small_config",
-        "description": "qwen3_small_config",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
         "isExtraImport": true,
-        "detail": "qwen3_small_config",
+        "detail": "config.qwen3_small_config",
         "documentation": {}
     },
     {
         "label": "TextTokenDataset",
-        "importPath": "qwen3_small_config",
-        "description": "qwen3_small_config",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
         "isExtraImport": true,
-        "detail": "qwen3_small_config",
+        "detail": "config.qwen3_small_config",
         "documentation": {}
     },
     {
         "label": "Muon",
-        "importPath": "qwen3_small_config",
-        "description": "qwen3_small_config",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
         "isExtraImport": true,
-        "detail": "qwen3_small_config",
+        "detail": "config.qwen3_small_config",
         "documentation": {}
     },
     {
         "label": "SmallModelConfig",
-        "importPath": "qwen3_small_config",
-        "description": "qwen3_small_config",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
         "isExtraImport": true,
-        "detail": "qwen3_small_config",
+        "detail": "config.qwen3_small_config",
         "documentation": {}
     },
     {
         "label": "SmallModelConfig",
-        "importPath": "qwen3_small_config",
-        "description": "qwen3_small_config",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
         "isExtraImport": true,
-        "detail": "qwen3_small_config",
+        "detail": "config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "SmallModelConfig",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "config.qwen3_small_config",
         "documentation": {}
     },
     {
         "label": "set_seed",
-        "importPath": "qwen3_small_config",
-        "description": "qwen3_small_config",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
         "isExtraImport": true,
-        "detail": "qwen3_small_config",
+        "detail": "config.qwen3_small_config",
         "documentation": {}
     },
     {
         "label": "load_and_cache_data",
-        "importPath": "qwen3_small_config",
-        "description": "qwen3_small_config",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
         "isExtraImport": true,
-        "detail": "qwen3_small_config",
+        "detail": "config.qwen3_small_config",
         "documentation": {}
     },
     {
         "label": "TextTokenDataset",
-        "importPath": "qwen3_small_config",
-        "description": "qwen3_small_config",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
         "isExtraImport": true,
-        "detail": "qwen3_small_config",
+        "detail": "config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "config.qwen3_small_config",
+        "description": "config.qwen3_small_config",
+        "isExtraImport": true,
+        "detail": "config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "MinimalLLM",
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "isExtraImport": true,
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "MinimalLLM",
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "isExtraImport": true,
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "MinimalLLM",
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "isExtraImport": true,
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "MinimalLLM",
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "isExtraImport": true,
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "MinimalLLM",
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "isExtraImport": true,
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "MinimalLLM",
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "isExtraImport": true,
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "MinimalLLM",
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "isExtraImport": true,
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "MinimalLLM",
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "isExtraImport": true,
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "generate_text",
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "isExtraImport": true,
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "MinimalLLM",
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "isExtraImport": true,
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "train_model",
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "isExtraImport": true,
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "resume_training",
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "isExtraImport": true,
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "generate_text",
+        "importPath": "qwen3_complete_model",
+        "description": "qwen3_complete_model",
+        "isExtraImport": true,
+        "detail": "qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "QuantizationExpert",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "LoRAManager",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRAManager",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QuantizationConfig",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QuantizationBenchmark",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "LoRALayer",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "LoRALinear",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "LoRAManager",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QuantizationConfig",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRALayer",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRALinear",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRAManager",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QuantizationConfig",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "LoRALayer",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "LoRALinear",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "LoRAManager",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRALayer",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRALinear",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRAManager",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QuantizationConfig",
+        "importPath": "quantization_tutorial",
+        "description": "quantization_tutorial",
+        "isExtraImport": true,
+        "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "FineTuneConfig",
+        "importPath": "finetune_imdb",
+        "description": "finetune_imdb",
+        "isExtraImport": true,
+        "detail": "finetune_imdb",
+        "documentation": {}
+    },
+    {
+        "label": "load_imdb_data",
+        "importPath": "finetune_imdb",
+        "description": "finetune_imdb",
+        "isExtraImport": true,
+        "detail": "finetune_imdb",
+        "documentation": {}
+    },
+    {
+        "label": "SentimentClassifier",
+        "importPath": "finetune_imdb",
+        "description": "finetune_imdb",
+        "isExtraImport": true,
+        "detail": "finetune_imdb",
         "documentation": {}
     },
     {
@@ -683,46 +1441,27 @@
         "documentation": {}
     },
     {
-        "label": "random",
-        "kind": 6,
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
         "isExtraImport": true,
-        "importPath": "random",
-        "description": "random",
-        "detail": "random",
+        "detail": "flask",
         "documentation": {}
     },
     {
-        "label": "load_dataset",
-        "importPath": "datasets",
-        "description": "datasets",
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
         "isExtraImport": true,
-        "detail": "datasets",
+        "detail": "flask",
         "documentation": {}
     },
     {
-        "label": "load_dataset",
-        "importPath": "datasets",
-        "description": "datasets",
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
         "isExtraImport": true,
-        "detail": "datasets",
-        "documentation": {}
-    },
-    {
-        "label": "warnings",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "warnings",
-        "description": "warnings",
-        "detail": "warnings",
-        "documentation": {}
-    },
-    {
-        "label": "pickle",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "pickle",
-        "description": "pickle",
-        "detail": "pickle",
+        "detail": "flask",
         "documentation": {}
     },
     {
@@ -750,43 +1489,12 @@
         "documentation": {}
     },
     {
-        "label": "MinimalLLM",
-        "importPath": "qwen3_complete_model",
-        "description": "qwen3_complete_model",
+        "label": "argparse",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "qwen3_complete_model",
-        "documentation": {}
-    },
-    {
-        "label": "generate_text",
-        "importPath": "qwen3_complete_model",
-        "description": "qwen3_complete_model",
-        "isExtraImport": true,
-        "detail": "qwen3_complete_model",
-        "documentation": {}
-    },
-    {
-        "label": "MinimalLLM",
-        "importPath": "qwen3_complete_model",
-        "description": "qwen3_complete_model",
-        "isExtraImport": true,
-        "detail": "qwen3_complete_model",
-        "documentation": {}
-    },
-    {
-        "label": "train_model",
-        "importPath": "qwen3_complete_model",
-        "description": "qwen3_complete_model",
-        "isExtraImport": true,
-        "detail": "qwen3_complete_model",
-        "documentation": {}
-    },
-    {
-        "label": "generate_text",
-        "importPath": "qwen3_complete_model",
-        "description": "qwen3_complete_model",
-        "isExtraImport": true,
-        "detail": "qwen3_complete_model",
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
         "documentation": {}
     },
     {
@@ -1114,885 +1822,786 @@
         "documentation": {}
     },
     {
-        "label": "MinimalLLM",
+        "label": "SmallModelConfig",
         "kind": 6,
-        "importPath": "qwen3_complete_model",
-        "description": "qwen3_complete_model",
-        "peekOfCode": "class MinimalLLM(nn.Module):\n    \"\"\"\n    🏗️ COMPLETE QWEN3-STYLE LANGUAGE MODEL\n    This is the full language model that combines all components:\n    🧠 Architecture:\n    1. Token Embedding: Convert token IDs to vectors\n    2. Positional Dropout: Prevent overfitting on positions\n    3. Transformer Blocks: Stack of attention + feed-forward layers\n    4. Final Normalization: RMSNorm before output\n    5. Language Modeling Head: Convert vectors back to token probabilities",
-        "detail": "qwen3_complete_model",
+        "importPath": "qwen-llm.config.qwen3_small_config",
+        "description": "qwen-llm.config.qwen3_small_config",
+        "peekOfCode": "class SmallModelConfig:\n    \"\"\"\n    🎯 SMALL CONFIGURATION FOR FAST TRAINING\n    This configuration is optimized for:\n    - Fast training on CPU/limited GPU\n    - Learning the concepts without waiting hours\n    - Still demonstrating all key components\n    \"\"\"\n    # Model architecture - MUCH SMALLER\n    d_model: int = 128          # Reduced from 384 (3x smaller)",
+        "detail": "qwen-llm.config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "Muon",
+        "kind": 6,
+        "importPath": "qwen-llm.config.qwen3_small_config",
+        "description": "qwen-llm.config.qwen3_small_config",
+        "peekOfCode": "class Muon(torch.optim.Optimizer):\n    \"\"\"\n    🚀 MUON OPTIMIZER: MomentUm Orthogonalized by Newton-schulz\n    This is a revolutionary optimizer that combines:\n    1. Momentum (like Adam) - remembers past gradients\n    2. Orthogonalization (Newton-Schulz) - makes gradients \"well-behaved\"\n    3. Adaptive learning rates - adjusts based on matrix dimensions\n    🎯 Why Muon is special:\n    - 30-50% faster convergence than Adam\n    - More stable training (fewer gradient explosions)",
+        "detail": "qwen-llm.config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "TextTokenDataset",
+        "kind": 6,
+        "importPath": "qwen-llm.config.qwen3_small_config",
+        "description": "qwen-llm.config.qwen3_small_config",
+        "peekOfCode": "class TextTokenDataset(Dataset):\n    \"\"\"\n    📚 CUSTOM DATASET FOR LANGUAGE MODELING\n    This creates training examples for our language model:\n    🎯 What it does:\n    - Takes a long sequence of tokens\n    - Creates sliding windows of fixed length\n    - Each example: input sequence + target sequence (shifted by 1)\n    📖 Example:\n    Original text: \"The cat sat on the mat\"",
+        "detail": "qwen-llm.config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "kind": 2,
+        "importPath": "qwen-llm.config.qwen3_small_config",
+        "description": "qwen-llm.config.qwen3_small_config",
+        "peekOfCode": "def set_seed(seed: int = 42):\n    \"\"\"Set all random seeds for reproducibility\"\"\"\n    random.seed(seed)\n    np.random.seed(seed)\n    torch.manual_seed(seed)\n    torch.cuda.manual_seed_all(seed)\n    torch.backends.cudnn.deterministic = True\n    torch.backends.cudnn.benchmark = False\n    print(f\"🌱 Set all seeds to {seed}\")\n@dataclass",
+        "detail": "qwen-llm.config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "repeat_kv",
+        "kind": 2,
+        "importPath": "qwen-llm.config.qwen3_small_config",
+        "description": "qwen-llm.config.qwen3_small_config",
+        "peekOfCode": "def repeat_kv(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:\n    \"\"\"\n    🔑 KEY COMPONENT: Grouped-Query Attention (GQA)\n    GQA is a memory-efficient attention mechanism where:\n    - We have fewer Key-Value heads than Query heads\n    - Each KV head is \"repeated\" to match the number of Query heads\n    - This reduces memory usage while maintaining performance\n    Example:\n    - 4 Query heads, 2 KV heads → each KV head repeated 2 times\n    - Memory savings: 50% reduction in KV cache memory",
+        "detail": "qwen-llm.config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "zeropower_via_newtonschulz5",
+        "kind": 2,
+        "importPath": "qwen-llm.config.qwen3_small_config",
+        "description": "qwen-llm.config.qwen3_small_config",
+        "peekOfCode": "def zeropower_via_newtonschulz5(G: torch.Tensor, steps: int = 5) -> torch.Tensor:\n    \"\"\"\n    🔬 NEWTON-SCHULZ ORTHOGONALIZATION\n    This is the mathematical heart of the Muon optimizer:\n    🎯 What it does:\n    - Takes a matrix G (gradients)\n    - Makes it \"orthogonal\" (like rotating it to be perfectly aligned)\n    - Uses Newton-Schulz iteration (a fast numerical method)\n    🧮 Why orthogonalization helps:\n    - Orthogonal matrices preserve vector lengths and angles",
+        "detail": "qwen-llm.config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_cache_data",
+        "kind": 2,
+        "importPath": "qwen-llm.config.qwen3_small_config",
+        "description": "qwen-llm.config.qwen3_small_config",
+        "peekOfCode": "def load_and_cache_data(config: SmallModelConfig, cache_dir: str = \"data_cache\"):\n    \"\"\"\n    📦 SMART DATA LOADING WITH CACHING\n    This function demonstrates modern ML data handling:\n    🎯 Key features:\n    1. Caching: Avoids reprocessing the same data\n    2. Streaming: Loads large datasets without memory issues\n    3. Tokenization: Converts text to numbers the model can understand\n    4. Efficient storage: Uses pickle for fast loading\n    🔄 The process:",
+        "detail": "qwen-llm.config.qwen3_small_config",
+        "documentation": {}
+    },
+    {
+        "label": "BenchmarkConfig",
+        "kind": 6,
+        "importPath": "qwen-llm.benchmark_quantization",
+        "description": "qwen-llm.benchmark_quantization",
+        "peekOfCode": "class BenchmarkConfig:\n    \"\"\"\n    🎯 BENCHMARK CONFIGURATION\n    \"\"\"\n    # Model parameters\n    d_model: int = 128\n    n_layers: int = 3\n    vocab_size: int = 1000\n    # Benchmark parameters\n    num_samples: int = 100",
+        "detail": "qwen-llm.benchmark_quantization",
+        "documentation": {}
+    },
+    {
+        "label": "QuantizationBenchmarker",
+        "kind": 6,
+        "importPath": "qwen-llm.benchmark_quantization",
+        "description": "qwen-llm.benchmark_quantization",
+        "peekOfCode": "class QuantizationBenchmarker:\n    \"\"\"\n    📊 QUANTIZATION BENCHMARKER\n    Comprehensive benchmarking of different quantization techniques.\n    \"\"\"\n    def __init__(self, config: BenchmarkConfig):\n        self.config = config\n        self.results = {}\n        self.device = 'cuda' if torch.cuda.is_available() else 'cpu'\n        # Create test data",
+        "detail": "qwen-llm.benchmark_quantization",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.benchmark_quantization",
+        "description": "qwen-llm.benchmark_quantization",
+        "peekOfCode": "def main():\n    \"\"\"Main benchmark function\"\"\"\n    print(\"🎯 QUANTIZATION BENCHMARK\")\n    print(\"=\" * 40)\n    # Create benchmark config\n    config = BenchmarkConfig()\n    config.d_model = 128\n    config.n_layers = 3\n    config.vocab_size = 1000\n    config.num_samples = 100",
+        "detail": "qwen-llm.benchmark_quantization",
+        "documentation": {}
+    },
+    {
+        "label": "convert_checkpoint",
+        "kind": 2,
+        "importPath": "qwen-llm.convert_checkpoint",
+        "description": "qwen-llm.convert_checkpoint",
+        "peekOfCode": "def convert_checkpoint(old_path: str, new_path: str):\n    \"\"\"\n    Convert old checkpoint to new format\n    \"\"\"\n    print(f\"🔄 Converting checkpoint from {old_path} to {new_path}\")\n    try:\n        # Try to load the old checkpoint\n        print(\"📦 Loading old checkpoint...\")\n        checkpoint = torch.load(old_path, map_location='cpu', weights_only=True)\n        # Extract only the essential data",
+        "detail": "qwen-llm.convert_checkpoint",
+        "documentation": {}
+    },
+    {
+        "label": "demo_finetune",
+        "kind": 2,
+        "importPath": "qwen-llm.demo_finetune",
+        "description": "qwen-llm.demo_finetune",
+        "peekOfCode": "def demo_finetune():\n    \"\"\"\n    🎯 DEMO FINE-TUNING PROCESS\n    Demonstrates the fine-tuning process with a small subset of data.\n    \"\"\"\n    print(\"🎯 IMDB Sentiment Analysis Fine-tuning Demo\")\n    print(\"=\" * 50)\n    # Create config for demo (smaller dataset, fewer epochs)\n    config = FineTuneConfig()\n    config.batch_size = 8",
+        "detail": "qwen-llm.demo_finetune",
+        "documentation": {}
+    },
+    {
+        "label": "FineTuneConfig",
+        "kind": 6,
+        "importPath": "qwen-llm.finetune_imdb",
+        "description": "qwen-llm.finetune_imdb",
+        "peekOfCode": "class FineTuneConfig:\n    \"\"\"\n    🎯 FINE-TUNING CONFIGURATION\n    Configuration for fine-tuning the pre-trained model on IMDB sentiment analysis.\n    \"\"\"\n    # Model architecture\n    d_model: int = 128\n    n_heads: int = 4\n    n_layers: int = 3\n    d_ff: int = 512",
+        "detail": "qwen-llm.finetune_imdb",
+        "documentation": {}
+    },
+    {
+        "label": "IMDBDataset",
+        "kind": 6,
+        "importPath": "qwen-llm.finetune_imdb",
+        "description": "qwen-llm.finetune_imdb",
+        "peekOfCode": "class IMDBDataset(Dataset):\n    \"\"\"\n    📚 IMDB DATASET CLASS\n    Custom dataset class for IMDB sentiment analysis.\n    Handles tokenization and padding of movie reviews.\n    \"\"\"\n    def __init__(self, texts: List[str], labels: List[int], tokenizer, max_length: int = 512):\n        self.texts = texts\n        self.labels = labels\n        self.tokenizer = tokenizer",
+        "detail": "qwen-llm.finetune_imdb",
+        "documentation": {}
+    },
+    {
+        "label": "SentimentClassifier",
+        "kind": 6,
+        "importPath": "qwen-llm.finetune_imdb",
+        "description": "qwen-llm.finetune_imdb",
+        "peekOfCode": "class SentimentClassifier(nn.Module):\n    \"\"\"\n    🎯 SENTIMENT CLASSIFICATION MODEL\n    This model adds a classification head on top of our pre-trained Qwen3 model.\n    It freezes the pre-trained weights and only trains the classification layer.\n    \"\"\"\n    def __init__(self, pretrained_model: MinimalLLM, num_classes: int = 2, dropout: float = 0.1):\n        super().__init__()\n        self.pretrained_model = pretrained_model\n        # Freeze pre-trained model parameters",
+        "detail": "qwen-llm.finetune_imdb",
+        "documentation": {}
+    },
+    {
+        "label": "load_imdb_data",
+        "kind": 2,
+        "importPath": "qwen-llm.finetune_imdb",
+        "description": "qwen-llm.finetune_imdb",
+        "peekOfCode": "def load_imdb_data(config: FineTuneConfig):\n    \"\"\"\n    📊 LOAD IMDB DATASET\n    Loads and prepares the IMDB sentiment analysis dataset.\n    \"\"\"\n    print(\"📊 Loading IMDB dataset...\")\n    # Load dataset\n    dataset = load_dataset(\"imdb\")\n    # Load tokenizer (same as used in pre-training)\n    tokenizer = AutoTokenizer.from_pretrained(\"HuggingFaceTB/SmolLM-135M\")",
+        "detail": "qwen-llm.finetune_imdb",
         "documentation": {}
     },
     {
         "label": "evaluate_model",
         "kind": 2,
-        "importPath": "qwen3_complete_model",
-        "description": "qwen3_complete_model",
+        "importPath": "qwen-llm.finetune_imdb",
+        "description": "qwen-llm.finetune_imdb",
+        "peekOfCode": "def evaluate_model(model: SentimentClassifier, test_loader: DataLoader, config: FineTuneConfig):\n    \"\"\"\n    📊 EVALUATE MODEL PERFORMANCE\n    Evaluates the model on the test set and returns accuracy and loss.\n    \"\"\"\n    model.eval()\n    total_loss = 0\n    correct = 0\n    total = 0\n    with torch.no_grad():",
+        "detail": "qwen-llm.finetune_imdb",
+        "documentation": {}
+    },
+    {
+        "label": "fine_tune_model",
+        "kind": 2,
+        "importPath": "qwen-llm.finetune_imdb",
+        "description": "qwen-llm.finetune_imdb",
+        "peekOfCode": "def fine_tune_model(config: FineTuneConfig, pretrained_model_path: str):\n    \"\"\"\n    🎯 FINE-TUNE MODEL ON IMDB SENTIMENT ANALYSIS\n    Fine-tunes the pre-trained model on IMDB sentiment analysis task.\n    \"\"\"\n    print(\"🎯 Starting IMDB Sentiment Analysis Fine-tuning\")\n    print(\"=\" * 60)\n    # Set seed for reproducibility\n    set_seed(42)\n    # Load data",
+        "detail": "qwen-llm.finetune_imdb",
+        "documentation": {}
+    },
+    {
+        "label": "test_sentiment_classifier",
+        "kind": 2,
+        "importPath": "qwen-llm.finetune_imdb",
+        "description": "qwen-llm.finetune_imdb",
+        "peekOfCode": "def test_sentiment_classifier(model_path: str = \"models/imdb_sentiment_classifier.pt\"):\n    \"\"\"\n    🧪 TEST SENTIMENT CLASSIFIER\n    Tests the fine-tuned sentiment classifier on sample texts.\n    \"\"\"\n    print(\"🧪 Testing Sentiment Classifier\")\n    print(\"=\" * 40)\n    # Load model\n    checkpoint = torch.load(model_path, map_location='cpu')\n    config = checkpoint['config']",
+        "detail": "qwen-llm.finetune_imdb",
+        "documentation": {}
+    },
+    {
+        "label": "LoRATrainingConfig",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_finetune",
+        "description": "qwen-llm.lora_finetune",
+        "peekOfCode": "class LoRATrainingConfig:\n    \"\"\"\n    🎯 LORA TRAINING CONFIGURATION\n    \"\"\"\n    # Model parameters\n    pretrained_model_path: str = \"models/final_model1.pt\"\n    # LoRA parameters\n    lora_rank: int = 16\n    lora_alpha: float = 32.0\n    lora_dropout: float = 0.1",
+        "detail": "qwen-llm.lora_finetune",
+        "documentation": {}
+    },
+    {
+        "label": "LoRADataset",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_finetune",
+        "description": "qwen-llm.lora_finetune",
+        "peekOfCode": "class LoRADataset(Dataset):\n    \"\"\"\n    📚 LORA DATASET CLASS\n    Custom dataset for LoRA fine-tuning on IMDB sentiment analysis.\n    \"\"\"\n    def __init__(self, texts: List[str], labels: List[int], tokenizer, max_length: int = 256):\n        self.texts = texts\n        self.labels = labels\n        self.tokenizer = tokenizer\n        self.max_length = max_length",
+        "detail": "qwen-llm.lora_finetune",
+        "documentation": {}
+    },
+    {
+        "label": "LoRAClassifier",
+        "kind": 6,
+        "importPath": "qwen-llm.lora_finetune",
+        "description": "qwen-llm.lora_finetune",
+        "peekOfCode": "class LoRAClassifier(nn.Module):\n    \"\"\"\n    🎯 LORA CLASSIFIER\n    Combines pre-trained model with LoRA adaptation and classification head.\n    \"\"\"\n    def __init__(self, pretrained_model: MinimalLLM, num_classes: int = 2, dropout: float = 0.1):\n        super().__init__()\n        self.pretrained_model = pretrained_model\n        # Add classification head\n        self.classifier = nn.Sequential(",
+        "detail": "qwen-llm.lora_finetune",
+        "documentation": {}
+    },
+    {
+        "label": "load_data_for_lora",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_finetune",
+        "description": "qwen-llm.lora_finetune",
+        "peekOfCode": "def load_data_for_lora(config: LoRATrainingConfig):\n    \"\"\"\n    📊 LOAD DATA FOR LORA FINE-TUNING\n    \"\"\"\n    print(\"📊 Loading data for LoRA fine-tuning...\")\n    # Load dataset\n    if config.dataset_name == \"imdb\":\n        dataset = load_dataset(\"imdb\")\n        train_texts = dataset['train']['text'][:config.num_samples]\n        train_labels = dataset['train']['label'][:config.num_samples]",
+        "detail": "qwen-llm.lora_finetune",
+        "documentation": {}
+    },
+    {
+        "label": "setup_lora_model",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_finetune",
+        "description": "qwen-llm.lora_finetune",
+        "peekOfCode": "def setup_lora_model(config: LoRATrainingConfig, tokenizer):\n    \"\"\"\n    🏗️ SETUP LORA MODEL\n    Loads pre-trained model and applies LoRA adaptation.\n    \"\"\"\n    print(f\"🏗️ Setting up LoRA model...\")\n    # Load pre-trained model\n    print(f\"📦 Loading pre-trained model from {config.pretrained_model_path}\")\n    checkpoint = torch.load(config.pretrained_model_path, map_location='cpu')\n    # Create model config",
+        "detail": "qwen-llm.lora_finetune",
+        "documentation": {}
+    },
+    {
+        "label": "train_lora_model",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_finetune",
+        "description": "qwen-llm.lora_finetune",
+        "peekOfCode": "def train_lora_model(classifier: LoRAClassifier, lora_manager: LoRAManager, \n                    train_loader: DataLoader, test_loader: DataLoader, config: LoRATrainingConfig):\n    \"\"\"\n    🎯 TRAIN LORA MODEL\n    Fine-tunes the model using LoRA adaptation.\n    \"\"\"\n    print(f\"🎯 Starting LoRA fine-tuning...\")\n    # Setup optimizer (only for trainable parameters)\n    trainable_params = lora_manager.get_trainable_parameters()\n    trainable_params.extend([p for p in classifier.classifier.parameters()])",
+        "detail": "qwen-llm.lora_finetune",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_lora_model",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_finetune",
+        "description": "qwen-llm.lora_finetune",
+        "peekOfCode": "def evaluate_lora_model(classifier: LoRAClassifier, test_loader: DataLoader, config: LoRATrainingConfig):\n    \"\"\"\n    📊 EVALUATE LORA MODEL\n    \"\"\"\n    classifier.eval()\n    total_loss = 0\n    correct = 0\n    total = 0\n    with torch.no_grad():\n        for batch in tqdm(test_loader, desc=\"Evaluating\"):",
+        "detail": "qwen-llm.lora_finetune",
+        "documentation": {}
+    },
+    {
+        "label": "save_lora_model",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_finetune",
+        "description": "qwen-llm.lora_finetune",
+        "peekOfCode": "def save_lora_model(classifier: LoRAClassifier, lora_manager: LoRAManager, \n                   config: LoRATrainingConfig, final_accuracy: float):\n    \"\"\"\n    💾 SAVE LORA MODEL\n    Saves the LoRA-adapted model and LoRA weights separately.\n    \"\"\"\n    print(f\"💾 Saving LoRA model...\")\n    # Save LoRA weights\n    lora_weights = {}\n    for name, lora_layer in lora_manager.lora_layers.items():",
+        "detail": "qwen-llm.lora_finetune",
+        "documentation": {}
+    },
+    {
+        "label": "test_lora_model",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_finetune",
+        "description": "qwen-llm.lora_finetune",
+        "peekOfCode": "def test_lora_model(model_path: str = \"models/lora_sentiment_classifier.pt\"):\n    \"\"\"\n    🧪 TEST LORA MODEL\n    Tests the LoRA fine-tuned model on sample texts.\n    \"\"\"\n    print(\"🧪 Testing LoRA Model\")\n    print(\"=\" * 40)\n    # Load model\n    checkpoint = torch.load(model_path, map_location='cpu')\n    config = checkpoint['config']",
+        "detail": "qwen-llm.lora_finetune",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.lora_finetune",
+        "description": "qwen-llm.lora_finetune",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN LORA FINE-TUNING FUNCTION\n    \"\"\"\n    print(\"🎯 LORA FINE-TUNING FOR SENTIMENT ANALYSIS\")\n    print(\"=\" * 60)\n    # Set seed\n    set_seed(42)\n    # Create config\n    config = LoRATrainingConfig()",
+        "detail": "qwen-llm.lora_finetune",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRATrainingConfig",
+        "kind": 6,
+        "importPath": "qwen-llm.qlora_finetune",
+        "description": "qwen-llm.qlora_finetune",
+        "peekOfCode": "class QLoRATrainingConfig:\n    \"\"\"\n    🎯 QLORA TRAINING CONFIGURATION\n    \"\"\"\n    # Model parameters\n    pretrained_model_path: str = \"models/final_model1.pt\"\n    # QLoRA parameters\n    lora_rank: int = 16\n    lora_alpha: float = 32.0\n    lora_dropout: float = 0.1",
+        "detail": "qwen-llm.qlora_finetune",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRADataset",
+        "kind": 6,
+        "importPath": "qwen-llm.qlora_finetune",
+        "description": "qwen-llm.qlora_finetune",
+        "peekOfCode": "class QLoRADataset(Dataset):\n    \"\"\"\n    📚 QLORA DATASET CLASS\n    Custom dataset for QLoRA fine-tuning on IMDB sentiment analysis.\n    \"\"\"\n    def __init__(self, texts: List[str], labels: List[int], tokenizer, max_length: int = 256):\n        self.texts = texts\n        self.labels = labels\n        self.tokenizer = tokenizer\n        self.max_length = max_length",
+        "detail": "qwen-llm.qlora_finetune",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRAClassifier",
+        "kind": 6,
+        "importPath": "qwen-llm.qlora_finetune",
+        "description": "qwen-llm.qlora_finetune",
+        "peekOfCode": "class QLoRAClassifier(nn.Module):\n    \"\"\"\n    🎯 QLORA CLASSIFIER\n    Combines pre-trained model with QLoRA adaptation and classification head.\n    \"\"\"\n    def __init__(self, pretrained_model: MinimalLLM, num_classes: int = 2, dropout: float = 0.1):\n        super().__init__()\n        self.pretrained_model = pretrained_model\n        # Add classification head\n        self.classifier = nn.Sequential(",
+        "detail": "qwen-llm.qlora_finetune",
+        "documentation": {}
+    },
+    {
+        "label": "load_data_for_qlora",
+        "kind": 2,
+        "importPath": "qwen-llm.qlora_finetune",
+        "description": "qwen-llm.qlora_finetune",
+        "peekOfCode": "def load_data_for_qlora(config: QLoRATrainingConfig):\n    \"\"\"\n    📊 LOAD DATA FOR QLORA FINE-TUNING\n    \"\"\"\n    print(\"📊 Loading data for QLoRA fine-tuning...\")\n    # Load dataset\n    if config.dataset_name == \"imdb\":\n        dataset = load_dataset(\"imdb\")\n        train_texts = dataset['train']['text'][:config.num_samples]\n        train_labels = dataset['train']['label'][:config.num_samples]",
+        "detail": "qwen-llm.qlora_finetune",
+        "documentation": {}
+    },
+    {
+        "label": "setup_qlora_model",
+        "kind": 2,
+        "importPath": "qwen-llm.qlora_finetune",
+        "description": "qwen-llm.qlora_finetune",
+        "peekOfCode": "def setup_qlora_model(config: QLoRATrainingConfig, tokenizer):\n    \"\"\"\n    🏗️ SETUP QLORA MODEL\n    Loads pre-trained model and applies QLoRA adaptation.\n    \"\"\"\n    print(f\"🏗️ Setting up QLoRA model...\")\n    # Load pre-trained model\n    print(f\"📦 Loading pre-trained model from {config.pretrained_model_path}\")\n    checkpoint = torch.load(config.pretrained_model_path, map_location='cpu')\n    # Create model config",
+        "detail": "qwen-llm.qlora_finetune",
+        "documentation": {}
+    },
+    {
+        "label": "train_qlora_model",
+        "kind": 2,
+        "importPath": "qwen-llm.qlora_finetune",
+        "description": "qwen-llm.qlora_finetune",
+        "peekOfCode": "def train_qlora_model(classifier: QLoRAClassifier, qlora_manager: QLoRAManager, \n                      train_loader: DataLoader, test_loader: DataLoader, config: QLoRATrainingConfig):\n    \"\"\"\n    🎯 TRAIN QLORA MODEL\n    Fine-tunes the model using QLoRA adaptation.\n    \"\"\"\n    print(f\"🎯 Starting QLoRA fine-tuning...\")\n    # Setup optimizer (only for trainable parameters)\n    trainable_params = qlora_manager.get_trainable_parameters()\n    trainable_params.extend([p for p in classifier.classifier.parameters()])",
+        "detail": "qwen-llm.qlora_finetune",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_qlora_model",
+        "kind": 2,
+        "importPath": "qwen-llm.qlora_finetune",
+        "description": "qwen-llm.qlora_finetune",
+        "peekOfCode": "def evaluate_qlora_model(classifier: QLoRAClassifier, test_loader: DataLoader, config: QLoRATrainingConfig):\n    \"\"\"\n    📊 EVALUATE QLORA MODEL\n    \"\"\"\n    classifier.eval()\n    total_loss = 0\n    correct = 0\n    total = 0\n    with torch.no_grad():\n        for batch in tqdm(test_loader, desc=\"Evaluating\"):",
+        "detail": "qwen-llm.qlora_finetune",
+        "documentation": {}
+    },
+    {
+        "label": "save_qlora_model",
+        "kind": 2,
+        "importPath": "qwen-llm.qlora_finetune",
+        "description": "qwen-llm.qlora_finetune",
+        "peekOfCode": "def save_qlora_model(classifier: QLoRAClassifier, qlora_manager: QLoRAManager, \n                     config: QLoRATrainingConfig, final_accuracy: float):\n    \"\"\"\n    💾 SAVE QLORA MODEL\n    Saves the QLoRA-adapted model and QLoRA weights separately.\n    \"\"\"\n    print(f\"💾 Saving QLoRA model...\")\n    # Save QLoRA weights\n    qlora_weights = {}\n    for name, qlora_layer in qlora_manager.qlora_layers.items():",
+        "detail": "qwen-llm.qlora_finetune",
+        "documentation": {}
+    },
+    {
+        "label": "test_qlora_model",
+        "kind": 2,
+        "importPath": "qwen-llm.qlora_finetune",
+        "description": "qwen-llm.qlora_finetune",
+        "peekOfCode": "def test_qlora_model(model_path: str = \"models/qlora_sentiment_classifier.pt\"):\n    \"\"\"\n    🧪 TEST QLORA MODEL\n    Tests the QLoRA fine-tuned model on sample texts.\n    \"\"\"\n    print(\"🧪 Testing QLoRA Model\")\n    print(\"=\" * 40)\n    # Load model\n    checkpoint = torch.load(model_path, map_location='cpu')\n    config = checkpoint['config']",
+        "detail": "qwen-llm.qlora_finetune",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.qlora_finetune",
+        "description": "qwen-llm.qlora_finetune",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN QLORA FINE-TUNING FUNCTION\n    \"\"\"\n    print(\"🎯 QLORA FINE-TUNING FOR SENTIMENT ANALYSIS\")\n    print(\"=\" * 60)\n    # Set seed\n    set_seed(42)\n    # Create config\n    config = QLoRATrainingConfig()",
+        "detail": "qwen-llm.qlora_finetune",
+        "documentation": {}
+    },
+    {
+        "label": "QuantizationConfig",
+        "kind": 6,
+        "importPath": "qwen-llm.quantization_tutorial",
+        "description": "qwen-llm.quantization_tutorial",
+        "peekOfCode": "class QuantizationConfig:\n    \"\"\"\n    🎯 QUANTIZATION CONFIGURATION\n    Configuration for different quantization techniques.\n    \"\"\"\n    # Basic quantization\n    bits: int = 8  # Number of bits for quantization (4, 8, 16)\n    symmetric: bool = True  # Symmetric vs asymmetric quantization\n    # LoRA parameters\n    lora_rank: int = 16  # Rank of LoRA adaptation",
+        "detail": "qwen-llm.quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QuantizationExpert",
+        "kind": 6,
+        "importPath": "qwen-llm.quantization_tutorial",
+        "description": "qwen-llm.quantization_tutorial",
+        "peekOfCode": "class QuantizationExpert:\n    \"\"\"\n    🎓 QUANTIZATION EXPERT CLASS\n    This class demonstrates different quantization techniques and their trade-offs.\n    \"\"\"\n    def __init__(self):\n        self.quantization_methods = {\n            'fp32': self._fp32_quantization,\n            'fp16': self._fp16_quantization,\n            'int8': self._int8_quantization,",
+        "detail": "qwen-llm.quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "LoRALayer",
+        "kind": 6,
+        "importPath": "qwen-llm.quantization_tutorial",
+        "description": "qwen-llm.quantization_tutorial",
+        "peekOfCode": "class LoRALayer(nn.Module):\n    \"\"\"\n    🎯 LORA LAYER IMPLEMENTATION\n    LoRA (Low-Rank Adaptation) decomposes weight updates into low-rank matrices.\n    Mathematical Foundation:\n    W = W₀ + ΔW = W₀ + BA\n    Where:\n    - W₀: Original frozen weights\n    - B: Low-rank matrix (d × r)\n    - A: Low-rank matrix (r × k)",
+        "detail": "qwen-llm.quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "LoRALinear",
+        "kind": 6,
+        "importPath": "qwen-llm.quantization_tutorial",
+        "description": "qwen-llm.quantization_tutorial",
+        "peekOfCode": "class LoRALinear(nn.Module):\n    \"\"\"\n    🎯 LORA LINEAR LAYER\n    Combines original linear layer with LoRA adaptation.\n    \"\"\"\n    def __init__(self, original_layer: nn.Linear, rank: int = 16, alpha: float = 32.0, dropout: float = 0.1):\n        super().__init__()\n        self.original_layer = original_layer\n        self.lora = LoRALayer(\n            original_layer.in_features,",
+        "detail": "qwen-llm.quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "LoRAManager",
+        "kind": 6,
+        "importPath": "qwen-llm.quantization_tutorial",
+        "description": "qwen-llm.quantization_tutorial",
+        "peekOfCode": "class LoRAManager:\n    \"\"\"\n    🎯 LORA MANAGER\n    Manages LoRA adaptation for entire models.\n    \"\"\"\n    def __init__(self, model: nn.Module, config: QuantizationConfig):\n        self.model = model\n        self.config = config\n        self.lora_layers = {}\n        self.original_layers = {}",
+        "detail": "qwen-llm.quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRALayer",
+        "kind": 6,
+        "importPath": "qwen-llm.quantization_tutorial",
+        "description": "qwen-llm.quantization_tutorial",
+        "peekOfCode": "class QLoRALayer(nn.Module):\n    \"\"\"\n    🎯 QLORA LAYER IMPLEMENTATION\n    QLoRA combines LoRA with 4-bit quantization for maximum efficiency.\n    Key Innovation:\n    - Quantizes base model to 4-bit\n    - Uses LoRA for adaptation\n    - Enables fine-tuning on consumer hardware\n    Memory Savings:\n    - 4-bit quantization: 8x reduction",
+        "detail": "qwen-llm.quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRALinear",
+        "kind": 6,
+        "importPath": "qwen-llm.quantization_tutorial",
+        "description": "qwen-llm.quantization_tutorial",
+        "peekOfCode": "class QLoRALinear(nn.Module):\n    \"\"\"\n    🎯 QLORA LINEAR LAYER\n    Combines quantized base weights with LoRA adaptation.\n    \"\"\"\n    def __init__(self, original_layer: nn.Linear, rank: int = 16, alpha: float = 32.0, \n                 dropout: float = 0.1, bits: int = 4):\n        super().__init__()\n        self.original_layer = original_layer\n        self.qlora = QLoRALayer(",
+        "detail": "qwen-llm.quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QLoRAManager",
+        "kind": 6,
+        "importPath": "qwen-llm.quantization_tutorial",
+        "description": "qwen-llm.quantization_tutorial",
+        "peekOfCode": "class QLoRAManager:\n    \"\"\"\n    🎯 QLORA MANAGER\n    Manages QLoRA adaptation for entire models.\n    \"\"\"\n    def __init__(self, model: nn.Module, config: QuantizationConfig):\n        self.model = model\n        self.config = config\n        self.qlora_layers = {}\n        self.original_layers = {}",
+        "detail": "qwen-llm.quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "QuantizationBenchmark",
+        "kind": 6,
+        "importPath": "qwen-llm.quantization_tutorial",
+        "description": "qwen-llm.quantization_tutorial",
+        "peekOfCode": "class QuantizationBenchmark:\n    \"\"\"\n    📊 QUANTIZATION BENCHMARK\n    Comprehensive benchmarking of different quantization techniques.\n    \"\"\"\n    def __init__(self):\n        self.results = {}\n    def benchmark_model(self, model: nn.Module, test_data: torch.Tensor, \n                       configs: List[QuantizationConfig]) -> Dict:\n        \"\"\"",
+        "detail": "qwen-llm.quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "demo_quantization",
+        "kind": 2,
+        "importPath": "qwen-llm.quantization_tutorial",
+        "description": "qwen-llm.quantization_tutorial",
+        "peekOfCode": "def demo_quantization():\n    \"\"\"\n    🎯 QUANTIZATION DEMO\n    Demonstrates different quantization techniques on our Qwen3 model.\n    \"\"\"\n    print(\"🎯 QUANTIZATION EXPERT TUTORIAL\")\n    print(\"=\" * 50)\n    # Create a small model for demo\n    config = SmallModelConfig()\n    config.d_model = 64  # Smaller for demo",
+        "detail": "qwen-llm.quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "demo_lora",
+        "kind": 2,
+        "importPath": "qwen-llm.quantization_tutorial",
+        "description": "qwen-llm.quantization_tutorial",
+        "peekOfCode": "def demo_lora():\n    \"\"\"\n    🎯 LORA DEMO\n    Demonstrates LoRA adaptation on our Qwen3 model.\n    \"\"\"\n    print(\"\\n🎯 LORA (LOW-RANK ADAPTATION) DEMO\")\n    print(\"=\" * 50)\n    # Create model\n    config = SmallModelConfig()\n    config.d_model = 128",
+        "detail": "qwen-llm.quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "demo_qlora",
+        "kind": 2,
+        "importPath": "qwen-llm.quantization_tutorial",
+        "description": "qwen-llm.quantization_tutorial",
+        "peekOfCode": "def demo_qlora():\n    \"\"\"\n    🎯 QLORA DEMO\n    Demonstrates QLoRA adaptation on our Qwen3 model.\n    \"\"\"\n    print(\"\\n🎯 QLORA (QUANTIZED LORA) DEMO\")\n    print(\"=\" * 50)\n    # Create model\n    config = SmallModelConfig()\n    config.d_model = 128",
+        "detail": "qwen-llm.quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "MinimalLLM",
+        "kind": 6,
+        "importPath": "qwen-llm.qwen3_complete_model",
+        "description": "qwen-llm.qwen3_complete_model",
+        "peekOfCode": "class MinimalLLM(nn.Module):\n    \"\"\"\n    🏗️ COMPLETE QWEN3-STYLE LANGUAGE MODEL\n    This is the full language model that combines all components:\n    🧠 Architecture:\n    1. Token Embedding: Convert token IDs to vectors\n    2. Positional Dropout: Prevent overfitting on positions\n    3. Transformer Blocks: Stack of attention + feed-forward layers\n    4. Final Normalization: RMSNorm before output\n    5. Language Modeling Head: Convert vectors back to token probabilities",
+        "detail": "qwen-llm.qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_model",
+        "kind": 2,
+        "importPath": "qwen-llm.qwen3_complete_model",
+        "description": "qwen-llm.qwen3_complete_model",
         "peekOfCode": "def evaluate_model(model: nn.Module, val_loader: DataLoader, config: SmallModelConfig):\n    \"\"\"\n    📊 MODEL EVALUATION FUNCTION\n    This function evaluates the model's performance on validation data:\n    🎯 Metrics Computed:\n    1. Loss: Cross-entropy loss (lower is better)\n    2. Accuracy: Percentage of correct next-token predictions\n    3. Perplexity: exp(loss) - measures model's \"surprise\" (lower is better)\n    🔍 Why these metrics matter:\n    - Loss: Direct measure of how well the model predicts",
-        "detail": "qwen3_complete_model",
+        "detail": "qwen-llm.qwen3_complete_model",
         "documentation": {}
     },
     {
         "label": "setup_muon_optimizer",
         "kind": 2,
-        "importPath": "qwen3_complete_model",
-        "description": "qwen3_complete_model",
+        "importPath": "qwen-llm.qwen3_complete_model",
+        "description": "qwen-llm.qwen3_complete_model",
         "peekOfCode": "def setup_muon_optimizer(model: nn.Module, config: SmallModelConfig):\n    \"\"\"\n    🚀 HYBRID OPTIMIZER SETUP\n    This function sets up a hybrid optimization strategy:\n    - Muon optimizer for 2D parameters (attention and feed-forward weights)\n    - AdamW optimizer for other parameters (embeddings, norms, biases)\n    🎯 Why hybrid approach:\n    - Muon works best on 2D matrices (attention, feed-forward)\n    - AdamW is better for 1D parameters (embeddings, biases)\n    - This gives us the best of both worlds",
-        "detail": "qwen3_complete_model",
+        "detail": "qwen-llm.qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "load_checkpoint",
+        "kind": 2,
+        "importPath": "qwen-llm.qwen3_complete_model",
+        "description": "qwen-llm.qwen3_complete_model",
+        "peekOfCode": "def load_checkpoint(model_path: str, config: SmallModelConfig):\n    \"\"\"\n    📦 LOAD CHECKPOINT FOR RESUMING TRAINING\n    This function loads a previously trained model checkpoint and returns\n    the model, optimizers, schedulers, and training state.\n    \"\"\"\n    print(f\"📦 Loading checkpoint from {model_path}\")\n    # Load checkpoint with safe loading to handle import path changes\n    try:\n        # Try loading with weights_only=False to handle custom classes",
+        "detail": "qwen-llm.qwen3_complete_model",
+        "documentation": {}
+    },
+    {
+        "label": "resume_training",
+        "kind": 2,
+        "importPath": "qwen-llm.qwen3_complete_model",
+        "description": "qwen-llm.qwen3_complete_model",
+        "peekOfCode": "def resume_training(config: SmallModelConfig, train_loader: DataLoader, val_loader: DataLoader, checkpoint_path: str):\n    \"\"\"\n    🔄 RESUME TRAINING FROM CHECKPOINT\n    This function resumes training from a previously saved checkpoint.\n    It loads the model state and continues training from where it left off.\n    Args:\n        config: Model configuration\n        train_loader: Training data loader\n        val_loader: Validation data loader\n        checkpoint_path: Path to the checkpoint file",
+        "detail": "qwen-llm.qwen3_complete_model",
         "documentation": {}
     },
     {
         "label": "train_model",
         "kind": 2,
-        "importPath": "qwen3_complete_model",
-        "description": "qwen3_complete_model",
+        "importPath": "qwen-llm.qwen3_complete_model",
+        "description": "qwen-llm.qwen3_complete_model",
         "peekOfCode": "def train_model(config: SmallModelConfig, train_loader: DataLoader, val_loader: DataLoader):\n    \"\"\"\n    🔄 COMPLETE TRAINING LOOP\n    This is the heart of the training process, implementing:\n    🎯 Key Features:\n    1. Gradient Accumulation: Simulate larger batch sizes\n    2. Mixed Precision: Faster training with minimal accuracy loss\n    3. Learning Rate Scheduling: Warmup + cosine decay\n    4. Gradient Clipping: Prevent gradient explosions\n    5. Model Checkpointing: Save best model",
-        "detail": "qwen3_complete_model",
+        "detail": "qwen-llm.qwen3_complete_model",
         "documentation": {}
     },
     {
         "label": "generate_text",
         "kind": 2,
-        "importPath": "qwen3_complete_model",
-        "description": "qwen3_complete_model",
+        "importPath": "qwen-llm.qwen3_complete_model",
+        "description": "qwen-llm.qwen3_complete_model",
         "peekOfCode": "def generate_text(model: nn.Module, tokenizer, prompt: str, max_length: int = 100,\n                 temperature: float = 0.8, top_k: int = 50, top_p: float = 0.9):\n    \"\"\"\n    🔮 TEXT GENERATION FUNCTION\n    This function generates text using the trained model with advanced sampling:\n    🎯 Sampling Strategies:\n    1. Temperature Scaling: Controls randomness (0.1 = focused, 2.0 = random)\n    2. Top-k Sampling: Only consider top k most likely tokens\n    3. Top-p (Nucleus) Sampling: Consider tokens until cumulative probability reaches p\n    🔍 How it works:",
-        "detail": "qwen3_complete_model",
+        "detail": "qwen-llm.qwen3_complete_model",
         "documentation": {}
     },
     {
         "label": "Rotary",
         "kind": 6,
-        "importPath": "qwen3_core_components",
-        "description": "qwen3_core_components",
+        "importPath": "qwen-llm.qwen3_core_components",
+        "description": "qwen-llm.qwen3_core_components",
         "peekOfCode": "class Rotary(nn.Module):\n    \"\"\"\n    🔄 ROTARY POSITIONAL EMBEDDINGS (RoPE)\n    This is one of the most important innovations in modern transformers!\n    🎯 What RoPE does:\n    - Encodes position information by ROTATING vectors\n    - Unlike traditional positional embeddings that just ADD position info\n    - Allows the model to understand relative positions naturally\n    🧮 The Math:\n    - For each position i, we compute rotation angles based on i",
-        "detail": "qwen3_core_components",
+        "detail": "qwen-llm.qwen3_core_components",
         "documentation": {}
     },
     {
         "label": "Qwen3Attention",
         "kind": 6,
-        "importPath": "qwen3_core_components",
-        "description": "qwen3_core_components",
+        "importPath": "qwen-llm.qwen3_core_components",
+        "description": "qwen-llm.qwen3_core_components",
         "peekOfCode": "class Qwen3Attention(nn.Module):\n    \"\"\"\n    🎯 GROUPED-QUERY ATTENTION (GQA) IMPLEMENTATION\n    This is the heart of modern transformer attention mechanisms!\n    🧠 Key Innovations:\n    1. Grouped-Query Attention: Fewer KV heads than Query heads\n    2. QK-Normalization: Normalizes queries and keys for stability\n    3. RoPE: Rotary positional embeddings\n    4. Scaled dot-product attention: The core attention mechanism\n    🔍 How it works:",
-        "detail": "qwen3_core_components",
+        "detail": "qwen-llm.qwen3_core_components",
         "documentation": {}
     },
     {
         "label": "SwiGLUFeedForward",
         "kind": 6,
-        "importPath": "qwen3_core_components",
-        "description": "qwen3_core_components",
+        "importPath": "qwen-llm.qwen3_core_components",
+        "description": "qwen-llm.qwen3_core_components",
         "peekOfCode": "class SwiGLUFeedForward(nn.Module):\n    \"\"\"\n    🔥 SWIGLU FEED-FORWARD NETWORK\n    SwiGLU is a modern activation function that combines:\n    - Swish activation: x * sigmoid(x) (smooth, non-monotonic)\n    - GLU (Gated Linear Unit): element-wise multiplication with a gate\n    🧮 The Math:\n    SwiGLU(x) = Swish(W1(x)) ⊙ W2(x)\n    Where:\n    - W1(x) is the \"gate\" (controls information flow)",
-        "detail": "qwen3_core_components",
+        "detail": "qwen-llm.qwen3_core_components",
         "documentation": {}
     },
     {
         "label": "TransformerBlock",
         "kind": 6,
-        "importPath": "qwen3_core_components",
-        "description": "qwen3_core_components",
+        "importPath": "qwen-llm.qwen3_core_components",
+        "description": "qwen-llm.qwen3_core_components",
         "peekOfCode": "class TransformerBlock(nn.Module):\n    \"\"\"\n    🏗️ TRANSFORMER BLOCK - THE BUILDING BLOCK OF MODERN LLMs\n    This combines all the components into a complete transformer layer:\n    🧠 Architecture:\n    1. Pre-norm attention (RMSNorm before attention)\n    2. Residual connection (x + attention(x))\n    3. Pre-norm feed-forward (RMSNorm before SwiGLU)\n    4. Residual connection (x + feedforward(x))\n    🔍 Pre-norm vs Post-norm:",
-        "detail": "qwen3_core_components",
+        "detail": "qwen-llm.qwen3_core_components",
         "documentation": {}
     },
     {
         "label": "RMSNorm",
         "kind": 6,
-        "importPath": "qwen3_core_components",
-        "description": "qwen3_core_components",
+        "importPath": "qwen-llm.qwen3_core_components",
+        "description": "qwen-llm.qwen3_core_components",
         "peekOfCode": "class RMSNorm(nn.Module):\n    \"\"\"\n    📐 RMSNorm - ROOT MEAN SQUARE NORMALIZATION\n    This is a modern alternative to LayerNorm that's more efficient:\n    🧮 The Math:\n    RMSNorm(x) = x / sqrt(mean(x²) + ε) * g\n    Where:\n    - x is the input\n    - mean(x²) is the mean of squared values\n    - ε is a small constant (1e-6)",
-        "detail": "qwen3_core_components",
+        "detail": "qwen-llm.qwen3_core_components",
         "documentation": {}
     },
     {
         "label": "repeat_kv",
         "kind": 2,
-        "importPath": "qwen3_core_components",
-        "description": "qwen3_core_components",
+        "importPath": "qwen-llm.qwen3_core_components",
+        "description": "qwen-llm.qwen3_core_components",
         "peekOfCode": "def repeat_kv(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:\n    \"\"\"\n    🔑 GROUPED-QUERY ATTENTION HELPER\n    This implements the key innovation in GQA:\n    - Fewer Key-Value heads than Query heads\n    - Each KV head is \"shared\" across multiple Query heads\n    - Massive memory savings with minimal performance loss\n    🧮 Example:\n    - 8 Query heads, 2 KV heads\n    - KV head 1 is used by Query heads 1,2,3,4",
-        "detail": "qwen3_core_components",
+        "detail": "qwen-llm.qwen3_core_components",
         "documentation": {}
     },
     {
-        "label": "ModelConfig",
+        "label": "QuantizedModelServer",
         "kind": 6,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "class ModelConfig:\n    # Model architecture\n    d_model: int = 384\n    n_heads: int = 8\n    n_layers: int = 6\n    d_ff: int = 1536\n    batch_size: int = 24\n    max_steps: int = 2000\n    # Qwen3-like parameters\n    n_kv_heads: int = 4  # For Grouped-Query Attention",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "Muon",
-        "kind": 6,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "class Muon(torch.optim.Optimizer):\n    \"\"\"Muon - MomentUm Orthogonalized by Newton-schulz\"\"\"\n    def __init__(self, params, lr=0.02, momentum=0.95, nesterov=True, ns_steps=5):\n        defaults = dict(lr=lr, momentum=momentum, nesterov=nesterov, ns_steps=ns_steps)\n        super().__init__(params, defaults)\n    @torch.no_grad()\n    def step(self):\n        for group in self.param_groups:\n            for p in group[\"params\"]:\n                if p.grad is None:",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "TextTokenDataset",
-        "kind": 6,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "class TextTokenDataset(Dataset):\n    def __init__(self, tokens: List[int], seq_len: int = 512):\n        self.tokens = tokens\n        self.seq_len = seq_len\n    def __len__(self):\n        return max(0, len(self.tokens) - self.seq_len)\n    def __getitem__(self, idx):\n        x = torch.tensor(self.tokens[idx:idx + self.seq_len], dtype=torch.long)\n        y = torch.tensor(self.tokens[idx + 1:idx + self.seq_len + 1], dtype=torch.long)\n        return x, y",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "Rotary",
-        "kind": 6,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "class Rotary(nn.Module):\n    def __init__(self, dim: int, max_seq_len: int):\n        super().__init__()\n        angular_freq = (1 / 10000) ** torch.linspace(0, 1, steps=dim//4, dtype=torch.float32)\n        angular_freq = torch.cat([angular_freq, angular_freq.new_zeros(dim//4)])\n        t = torch.arange(max_seq_len, dtype=torch.float32)\n        theta = torch.einsum(\"i,j -> ij\", t, angular_freq)\n        self.register_buffer('cos', theta.cos(), persistent=False)\n        self.register_buffer('sin', theta.sin(), persistent=False)\n    def forward(self, x_BTHD: torch.Tensor):",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "Qwen3Attention",
-        "kind": 6,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "class Qwen3Attention(nn.Module):\n    def __init__(self, config: ModelConfig):\n        super().__init__()\n        self.d_model = config.d_model\n        self.n_heads = config.n_heads\n        self.n_kv_heads = config.n_kv_heads\n        self.n_kv_groups = config.n_kv_groups\n        self.d_k = config.d_k\n        # Separate linear layers for Q, K, V\n        self.q_proj = nn.Linear(self.d_model, self.n_heads * self.d_k, bias=config.attention_bias)",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "SwiGLUFeedForward",
-        "kind": 6,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "class SwiGLUFeedForward(nn.Module):\n    def __init__(self, d_model: int, d_ff: int, dropout: float = 0.1):\n        super().__init__()\n        self.gate_proj = nn.Linear(d_model, d_ff, bias=False)\n        self.down_proj = nn.Linear(d_ff, d_model, bias=False)\n        self.up_proj = nn.Linear(d_model, d_ff, bias=False)\n        self.dropout = nn.Dropout(dropout)\n    def forward(self, x):\n        # Implementation of the SwiGLU activation function\n        # F.silu is the Swish activation function",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "TransformerBlock",
-        "kind": 6,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "class TransformerBlock(nn.Module):\n    def __init__(self, config: ModelConfig):  # Pass the entire config object\n        super().__init__()\n        self.attention = Qwen3Attention(config)\n        self.feed_forward = SwiGLUFeedForward(config.d_model, config.d_ff, config.dropout)\n        self.norm1 = nn.RMSNorm(config.d_model, eps=config.rms_norm_eps)\n        self.norm2 = nn.RMSNorm(config.d_model, eps=config.rms_norm_eps)\n        self.dropout = nn.Dropout(config.dropout)\n    def forward(self, x):\n        attn_out = self.attention(self.norm1(x))",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "MinimalLLM",
-        "kind": 6,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "class MinimalLLM(nn.Module):\n    def __init__(self, config: ModelConfig):\n        super().__init__()\n        self.config = config\n        self.token_embedding = nn.Embedding(config.vocab_size, config.d_model)\n        self.position_dropout = nn.Dropout(config.dropout)\n        self.transformer_blocks = nn.ModuleList([\n            TransformerBlock(config) for _ in range(config.n_layers)\n        ])\n        self.norm = nn.RMSNorm(config.d_model, eps=config.rms_norm_eps)",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "set_seed",
-        "kind": 2,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "def set_seed(seed: int = 42):\n    \"\"\"Set all random seeds for reproducibility\"\"\"\n    random.seed(seed)\n    np.random.seed(seed)\n    torch.manual_seed(seed)\n    torch.cuda.manual_seed_all(seed)\n    torch.backends.cudnn.deterministic = True\n    torch.backends.cudnn.benchmark = False\n    print(f\"🌱 Set all seeds to {seed}\")\n\"\"\" ## 3. Model Configuration",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "repeat_kv",
-        "kind": 2,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "def repeat_kv(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:\n    \"\"\"\n    This is the equivalent of torch.repeat_interleave(x, dim=1, repeats=n_rep).\n    The hidden states go from (batch, num_key_value_heads, seqlen, head_dim)\n    to (batch, num_attention_heads, seqlen, head_dim)\n    \"\"\"\n    # Extract dimensions from input tensor\n    batch, num_key_value_heads, slen, head_dim = hidden_states.shape\n    # Early return if no repetition is needed\n    if n_rep == 1:",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "my_repeat_kv",
-        "kind": 2,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "def my_repeat_kv(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:\n    \"\"\"\n    TODO: Implement this function!\n    Input: (batch, num_key_value_heads, seqlen, head_dim)\n    Output: (batch, num_key_value_heads * n_rep, seqlen, head_dim)\n    \"\"\"\n    # Get dimensions\n    batch, num_key_value_heads, slen, head_dim = hidden_states.shape\n    # Handle n_rep = 1 case\n    if n_rep == 1:",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "repeat_kv_solution",
-        "kind": 2,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "def repeat_kv_solution(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:\n    batch, num_key_value_heads, slen, head_dim = hidden_states.shape\n    if n_rep == 1:\n        return hidden_states\n    hidden_states = hidden_states[:, :, None, :, :].expand(batch, num_key_value_heads, n_rep, slen, head_dim)\n    return hidden_states.reshape(batch, num_key_value_heads * n_rep, slen, head_dim)\nkeys_repeated = repeat_kv_solution(keys, n_rep)\nvalues_repeated = repeat_kv_solution(values, n_rep)\nprint(f\"Repeated keys shape: {keys_repeated.shape}\")\nprint(f\"Repeated values shape: {values_repeated.shape}\")",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "zeropower_via_newtonschulz5",
-        "kind": 2,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "def zeropower_via_newtonschulz5(G: torch.Tensor, steps: int = 5) -> torch.Tensor:\n    \"\"\"Newton-Schulz iteration to compute the zeroth power / orthogonalization of G.\"\"\"\n    assert G.ndim >= 2\n    a, b, c = (3.4445, -4.7750, 2.0315)\n    X = G.bfloat16()\n    if G.size(-2) > G.size(-1):\n        X = X.mT\n    X = X / (X.norm(dim=(-2, -1), keepdim=True) + 1e-7)\n    for _ in range(steps):\n        A = X @ X.mT",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "load_and_cache_data",
-        "kind": 2,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "def load_and_cache_data(config: ModelConfig, cache_dir: str = \"data_cache\"):\n    \"\"\"Load and cache tokenized data to avoid reprocessing\"\"\"\n    os.makedirs(cache_dir, exist_ok=True)\n    cache_file = f\"{cache_dir}/tokenized_data_{config.num_documents}_{config.max_tokens}.pkl\"\n    # Check if cached data exists\n    if os.path.exists(cache_file):\n        print(f\"📦 Loading cached data from {cache_file}\")\n        with open(cache_file, 'rb') as f:\n            cached_data = pickle.load(f)\n        texts = cached_data['texts']",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "evaluate_model",
-        "kind": 2,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "def evaluate_model(model: nn.Module, val_loader: DataLoader, config: ModelConfig):\n    \"\"\"Evaluate model performance\"\"\"\n    model.eval()\n    total_loss = 0\n    total_tokens = 0\n    total_correct = 0\n    device = next(model.parameters()).device\n    with torch.no_grad():  # Disable gradient computation for evaluation (saves memory and computation)\n        for i, (x, y) in enumerate(val_loader):\n            # Stop evaluation after specified number of steps to limit eval time",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "setup_muon_optimizer",
-        "kind": 2,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "def setup_muon_optimizer(model: nn.Module, config: ModelConfig):\n    \"\"\"Setup Muon optimizer with hybrid approach\"\"\"\n    muon_params = []\n    adamw_params = []\n    for name, param in model.named_parameters():\n        if (param.ndim == 2 and\n            'token_embedding' not in name and\n            'norm' not in name and\n            param.requires_grad):\n            muon_params.append(param)",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "train_model",
-        "kind": 2,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "def train_model(config: ModelConfig, train_loader: DataLoader, val_loader: DataLoader):\n    \"\"\"Train the model with Muon optimizer\"\"\"\n    print(f\"\\n🚀 Training Small model with Muon optimizer\")\n    # Initialize model\n    set_seed(42)\n    model = MinimalLLM(config)\n    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')\n    model = model.to(device)\n    total_params = sum(p.numel() for p in model.parameters())\n    print(f\"  📊 Total parameters: {total_params:,}\")",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "load_trained_model",
-        "kind": 2,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "def load_trained_model(model_path: str = \"final_model.pt\"):\n    \"\"\"Load a trained model from checkpoint\"\"\"\n    print(f\" Loading model from {model_path}\")\n    # Add ModelConfig to safe globals for PyTorch 2.6+\n    from torch.serialization import add_safe_globals\n    add_safe_globals([ModelConfig])\n    try:\n        checkpoint = torch.load(model_path, map_location='cpu')\n        config = checkpoint['config']\n    except Exception as e:",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "generate_text",
-        "kind": 2,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "def generate_text(model: nn.Module, tokenizer, prompt: str, max_length: int = 100,\n                 temperature: float = 0.8, top_k: int = 50, top_p: float = 0.9):\n    \"\"\"Generate text using the trained model\"\"\"\n    model.eval()\n    device = next(model.parameters()).device\n    # Tokenize prompt\n    input_ids = tokenizer.encode(prompt, add_special_tokens=False, return_tensors='pt').to(device)\n    generated_ids = input_ids.clone()\n    with torch.no_grad():\n        for _ in range(max_length):",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "interactive_inference",
-        "kind": 2,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "def interactive_inference(model_path: str = \"final_model.pt\"):\n    \"\"\"Interactive inference session\"\"\"\n    print(\"🤖 Starting interactive inference session\")\n    print(\"Type 'quit' to exit\")\n    # Load model and tokenizer\n    model, config = load_trained_model(model_path)\n    # Load tokenizer (assuming we have the same one used during training)\n    tokenizer = AutoTokenizer.from_pretrained(\"HuggingFaceTB/SmolLM-135M\")\n    if tokenizer.pad_token is None:\n        tokenizer.pad_token = tokenizer.eos_token",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "demo_inference",
-        "kind": 2,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "def demo_inference(model_path: str = \"final_model.pt\"):\n    \"\"\"Run a quick demo of the model's capabilities\"\"\"\n    print(\"🎭 Running inference demo\")\n    # Load model and tokenizer\n    model, config = load_trained_model(model_path)\n    tokenizer = AutoTokenizer.from_pretrained(\"HuggingFaceTB/SmolLM-135M\")\n    if tokenizer.pad_token is None:\n        tokenizer.pad_token = tokenizer.eos_token\n    # Demo prompts\n    demo_prompts = [",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "x",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "x = torch.tensor([1, 2, 3])\nprint(f\"1D tensor: {x}\")\nprint(f\"Shape: {x.shape}\")\ny = torch.tensor([[1, 2, 3], [4, 5, 6]])\nprint(f\"2D tensor:\\n{y}\")\nprint(f\"Shape: {y.shape}\")\nz = torch.tensor([[[1, 2], [3, 4]], [[5, 6], [7, 8]]])\nprint(f\"3D tensor:\\n{z}\")\nprint(f\"Shape: {z.shape}\")\n# TODO: Create a 4D tensor of shape (2, 3, 4, 5) filled with ones",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "y",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "y = torch.tensor([[1, 2, 3], [4, 5, 6]])\nprint(f\"2D tensor:\\n{y}\")\nprint(f\"Shape: {y.shape}\")\nz = torch.tensor([[[1, 2], [3, 4]], [[5, 6], [7, 8]]])\nprint(f\"3D tensor:\\n{z}\")\nprint(f\"Shape: {z.shape}\")\n# TODO: Create a 4D tensor of shape (2, 3, 4, 5) filled with ones\n# Your code here:\n# tensor_4d = ?\n# =============================================================================",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "z",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "z = torch.tensor([[[1, 2], [3, 4]], [[5, 6], [7, 8]]])\nprint(f\"3D tensor:\\n{z}\")\nprint(f\"Shape: {z.shape}\")\n# TODO: Create a 4D tensor of shape (2, 3, 4, 5) filled with ones\n# Your code here:\n# tensor_4d = ?\n# =============================================================================\n# EXERCISE 2: Understanding None Indexing (Adding Dimensions)\n# =============================================================================\nprint(\"\\n\\n📝 Exercise 2: Adding Dimensions with None\")",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "a",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "a = torch.tensor([1, 2, 3, 4])\nprint(f\"Original: {a.shape} -> {a}\")\n# Add dimension at different positions\na_new_dim0 = a[None, :]  # or a.unsqueeze(0)\nprint(f\"Add dim at 0: {a_new_dim0.shape} -> {a_new_dim0}\")\na_new_dim1 = a[:, None]  # or a.unsqueeze(1)\nprint(f\"Add dim at 1: {a_new_dim1.shape} -> {a_new_dim1}\")\na_new_dim_end = a[..., None]  # or a.unsqueeze(-1)\nprint(f\"Add dim at end: {a_new_dim_end.shape} -> {a_new_dim_end}\")\n# Multiple dimensions",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "a_new_dim0",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "a_new_dim0 = a[None, :]  # or a.unsqueeze(0)\nprint(f\"Add dim at 0: {a_new_dim0.shape} -> {a_new_dim0}\")\na_new_dim1 = a[:, None]  # or a.unsqueeze(1)\nprint(f\"Add dim at 1: {a_new_dim1.shape} -> {a_new_dim1}\")\na_new_dim_end = a[..., None]  # or a.unsqueeze(-1)\nprint(f\"Add dim at end: {a_new_dim_end.shape} -> {a_new_dim_end}\")\n# Multiple dimensions\na_multi = a[None, :, None, None]\nprint(f\"Multiple dims: {a_multi.shape}\")\n# TODO: Take tensor [1, 2, 3] and make it shape (1, 3, 1, 1)",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "a_new_dim1",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "a_new_dim1 = a[:, None]  # or a.unsqueeze(1)\nprint(f\"Add dim at 1: {a_new_dim1.shape} -> {a_new_dim1}\")\na_new_dim_end = a[..., None]  # or a.unsqueeze(-1)\nprint(f\"Add dim at end: {a_new_dim_end.shape} -> {a_new_dim_end}\")\n# Multiple dimensions\na_multi = a[None, :, None, None]\nprint(f\"Multiple dims: {a_multi.shape}\")\n# TODO: Take tensor [1, 2, 3] and make it shape (1, 3, 1, 1)\n# Your code here:\n# result = ?",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "a_new_dim_end",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "a_new_dim_end = a[..., None]  # or a.unsqueeze(-1)\nprint(f\"Add dim at end: {a_new_dim_end.shape} -> {a_new_dim_end}\")\n# Multiple dimensions\na_multi = a[None, :, None, None]\nprint(f\"Multiple dims: {a_multi.shape}\")\n# TODO: Take tensor [1, 2, 3] and make it shape (1, 3, 1, 1)\n# Your code here:\n# result = ?\n# =============================================================================\n# EXERCISE 3: Basic expand() Operation",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "a_multi",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "a_multi = a[None, :, None, None]\nprint(f\"Multiple dims: {a_multi.shape}\")\n# TODO: Take tensor [1, 2, 3] and make it shape (1, 3, 1, 1)\n# Your code here:\n# result = ?\n# =============================================================================\n# EXERCISE 3: Basic expand() Operation\n# =============================================================================\nprint(\"\\n\\n📝 Exercise 3: Understanding expand()\")\nprint(\"-\" * 40)",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "b",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "b = torch.tensor([[1, 2, 3]])  # Shape: (1, 3)\nprint(f\"Original: {b.shape} -> {b}\")\n# Expand the first dimension\nb_expanded = b.expand(4, 3)  # Repeat the row 4 times\nprint(f\"Expanded: {b_expanded.shape}\")\nprint(b_expanded)\n# Expand with -1 (keep original size)\nc = torch.tensor([[1], [2], [3]])  # Shape: (3, 1)\nprint(f\"\\nOriginal c: {c.shape}\")\nprint(c)",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "b_expanded",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "b_expanded = b.expand(4, 3)  # Repeat the row 4 times\nprint(f\"Expanded: {b_expanded.shape}\")\nprint(b_expanded)\n# Expand with -1 (keep original size)\nc = torch.tensor([[1], [2], [3]])  # Shape: (3, 1)\nprint(f\"\\nOriginal c: {c.shape}\")\nprint(c)\nc_expanded = c.expand(-1, 5)  # Keep dim 0, expand dim 1 to 5\nprint(f\"Expanded c: {c_expanded.shape}\")\nprint(c_expanded)",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "c",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "c = torch.tensor([[1], [2], [3]])  # Shape: (3, 1)\nprint(f\"\\nOriginal c: {c.shape}\")\nprint(c)\nc_expanded = c.expand(-1, 5)  # Keep dim 0, expand dim 1 to 5\nprint(f\"Expanded c: {c_expanded.shape}\")\nprint(c_expanded)\n# TODO: Create tensor [[1, 2]] and expand it to shape (3, 4)\n# Your code here:\n# d = ?\n# d_expanded = ?",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "c_expanded",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "c_expanded = c.expand(-1, 5)  # Keep dim 0, expand dim 1 to 5\nprint(f\"Expanded c: {c_expanded.shape}\")\nprint(c_expanded)\n# TODO: Create tensor [[1, 2]] and expand it to shape (3, 4)\n# Your code here:\n# d = ?\n# d_expanded = ?\n# =============================================================================\n# EXERCISE 4: repeat() vs expand() vs repeat_interleave()\n# =============================================================================",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "original",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "original = torch.tensor([1, 2, 3])\nprint(f\"Original: {original}\")\n# Method 1: repeat() - actually copies data\nrepeated = original.repeat(2)  # Repeat entire tensor 2 times\nprint(f\"repeat(2): {repeated}\")\nrepeated_2d = original.repeat(2, 1)  # 2D repetition\nprint(f\"repeat(2, 1) on [1,2,3]: shape {repeated_2d.shape}\")\nprint(repeated_2d)\n# Method 2: expand() - creates view (memory efficient)\noriginal_2d = original.unsqueeze(0)  # Make it (1, 3)",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "repeated",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "repeated = original.repeat(2)  # Repeat entire tensor 2 times\nprint(f\"repeat(2): {repeated}\")\nrepeated_2d = original.repeat(2, 1)  # 2D repetition\nprint(f\"repeat(2, 1) on [1,2,3]: shape {repeated_2d.shape}\")\nprint(repeated_2d)\n# Method 2: expand() - creates view (memory efficient)\noriginal_2d = original.unsqueeze(0)  # Make it (1, 3)\nexpanded = original_2d.expand(3, -1)\nprint(f\"expand(3, -1): shape {expanded.shape}\")\nprint(expanded)",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "repeated_2d",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "repeated_2d = original.repeat(2, 1)  # 2D repetition\nprint(f\"repeat(2, 1) on [1,2,3]: shape {repeated_2d.shape}\")\nprint(repeated_2d)\n# Method 2: expand() - creates view (memory efficient)\noriginal_2d = original.unsqueeze(0)  # Make it (1, 3)\nexpanded = original_2d.expand(3, -1)\nprint(f\"expand(3, -1): shape {expanded.shape}\")\nprint(expanded)\n# Method 3: repeat_interleave() - repeats each element\ninterleaved = torch.repeat_interleave(original, 2)",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "original_2d",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "original_2d = original.unsqueeze(0)  # Make it (1, 3)\nexpanded = original_2d.expand(3, -1)\nprint(f\"expand(3, -1): shape {expanded.shape}\")\nprint(expanded)\n# Method 3: repeat_interleave() - repeats each element\ninterleaved = torch.repeat_interleave(original, 2)\nprint(f\"repeat_interleave(2): {interleaved}\")\n# TODO: What's the difference between these results?\n# torch.tensor([1, 2]).repeat(3) vs torch.repeat_interleave(torch.tensor([1, 2]), 3)\n# =============================================================================",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "expanded",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "expanded = original_2d.expand(3, -1)\nprint(f\"expand(3, -1): shape {expanded.shape}\")\nprint(expanded)\n# Method 3: repeat_interleave() - repeats each element\ninterleaved = torch.repeat_interleave(original, 2)\nprint(f\"repeat_interleave(2): {interleaved}\")\n# TODO: What's the difference between these results?\n# torch.tensor([1, 2]).repeat(3) vs torch.repeat_interleave(torch.tensor([1, 2]), 3)\n# =============================================================================\n# EXERCISE 5: Working with 3D Tensors",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "interleaved",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "interleaved = torch.repeat_interleave(original, 2)\nprint(f\"repeat_interleave(2): {interleaved}\")\n# TODO: What's the difference between these results?\n# torch.tensor([1, 2]).repeat(3) vs torch.repeat_interleave(torch.tensor([1, 2]), 3)\n# =============================================================================\n# EXERCISE 5: Working with 3D Tensors\n# =============================================================================\nprint(\"\\n\\n📝 Exercise 5: 3D Tensor Manipulations\")\nprint(\"-\" * 40)\n# Create a 3D tensor: (batch=2, heads=3, features=4)",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "tensor_3d",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "tensor_3d = torch.arange(24).reshape(2, 3, 4)\nprint(f\"3D tensor shape: {tensor_3d.shape}\")\nprint(f\"3D tensor:\\n{tensor_3d}\")\n# Add a dimension in the middle\ntensor_4d = tensor_3d[:, :, None, :]  # Shape: (2, 3, 1, 4)\nprint(f\"\\nAfter adding dim: {tensor_4d.shape}\")\n# Expand the new dimension\ntensor_expanded = tensor_4d.expand(2, 3, 5, 4)  # Shape: (2, 3, 5, 4)\nprint(f\"After expand: {tensor_expanded.shape}\")\nprint(f\"First batch, first head:\\n{tensor_expanded[0, 0]}\")",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "tensor_4d",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "tensor_4d = tensor_3d[:, :, None, :]  # Shape: (2, 3, 1, 4)\nprint(f\"\\nAfter adding dim: {tensor_4d.shape}\")\n# Expand the new dimension\ntensor_expanded = tensor_4d.expand(2, 3, 5, 4)  # Shape: (2, 3, 5, 4)\nprint(f\"After expand: {tensor_expanded.shape}\")\nprint(f\"First batch, first head:\\n{tensor_expanded[0, 0]}\")\n# TODO: Take the expanded tensor and reshape it to merge dimensions 1 and 2\n# Target shape: (2, 15, 4)  # 3 * 5 = 15\n# Your code here:\n# merged = ?",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "tensor_expanded",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "tensor_expanded = tensor_4d.expand(2, 3, 5, 4)  # Shape: (2, 3, 5, 4)\nprint(f\"After expand: {tensor_expanded.shape}\")\nprint(f\"First batch, first head:\\n{tensor_expanded[0, 0]}\")\n# TODO: Take the expanded tensor and reshape it to merge dimensions 1 and 2\n# Target shape: (2, 15, 4)  # 3 * 5 = 15\n# Your code here:\n# merged = ?\n# =============================================================================\n# EXERCISE 6: Simulating the repeat_kv Pattern\n# =============================================================================",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "kv_tensor",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "kv_tensor = torch.arange(48).reshape(2, 3, 4, 2)\nprint(f\"KV tensor shape: {kv_tensor.shape}\")\nprint(f\"KV tensor (batch 0, head 0):\\n{kv_tensor[0, 0]}\")\nn_rep = 2  # Each KV head needs to be repeated 2 times\n# Step 1: Add dimension for repetition\nstep1 = kv_tensor[:, :, None, :, :]  # Shape: (2, 3, 1, 4, 2)\nprint(f\"\\nStep 1 - Add dimension: {step1.shape}\")\n# Step 2: Expand the new dimension\nstep2 = step1.expand(2, 3, n_rep, 4, 2)  # Shape: (2, 3, 2, 4, 2)\nprint(f\"Step 2 - Expand: {step2.shape}\")",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "n_rep",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "n_rep = 2  # Each KV head needs to be repeated 2 times\n# Step 1: Add dimension for repetition\nstep1 = kv_tensor[:, :, None, :, :]  # Shape: (2, 3, 1, 4, 2)\nprint(f\"\\nStep 1 - Add dimension: {step1.shape}\")\n# Step 2: Expand the new dimension\nstep2 = step1.expand(2, 3, n_rep, 4, 2)  # Shape: (2, 3, 2, 4, 2)\nprint(f\"Step 2 - Expand: {step2.shape}\")\n# Step 3: Reshape to merge heads\nfinal = step2.reshape(2, 3 * n_rep, 4, 2)  # Shape: (2, 6, 4, 2)\nprint(f\"Step 3 - Final: {final.shape}\")",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "step1",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "step1 = kv_tensor[:, :, None, :, :]  # Shape: (2, 3, 1, 4, 2)\nprint(f\"\\nStep 1 - Add dimension: {step1.shape}\")\n# Step 2: Expand the new dimension\nstep2 = step1.expand(2, 3, n_rep, 4, 2)  # Shape: (2, 3, 2, 4, 2)\nprint(f\"Step 2 - Expand: {step2.shape}\")\n# Step 3: Reshape to merge heads\nfinal = step2.reshape(2, 3 * n_rep, 4, 2)  # Shape: (2, 6, 4, 2)\nprint(f\"Step 3 - Final: {final.shape}\")\n# Verify: each original head should appear n_rep times\nprint(f\"\\nOriginal head 0:\\n{kv_tensor[0, 0]}\")",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "step2",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "step2 = step1.expand(2, 3, n_rep, 4, 2)  # Shape: (2, 3, 2, 4, 2)\nprint(f\"Step 2 - Expand: {step2.shape}\")\n# Step 3: Reshape to merge heads\nfinal = step2.reshape(2, 3 * n_rep, 4, 2)  # Shape: (2, 6, 4, 2)\nprint(f\"Step 3 - Final: {final.shape}\")\n# Verify: each original head should appear n_rep times\nprint(f\"\\nOriginal head 0:\\n{kv_tensor[0, 0]}\")\nprint(f\"Repeated head 0 (position 0):\\n{final[0, 0]}\")\nprint(f\"Repeated head 0 (position 1):\\n{final[0, 1]}\")\nprint(f\"Original head 1:\\n{kv_tensor[0, 1]}\")",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "final",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "final = step2.reshape(2, 3 * n_rep, 4, 2)  # Shape: (2, 6, 4, 2)\nprint(f\"Step 3 - Final: {final.shape}\")\n# Verify: each original head should appear n_rep times\nprint(f\"\\nOriginal head 0:\\n{kv_tensor[0, 0]}\")\nprint(f\"Repeated head 0 (position 0):\\n{final[0, 0]}\")\nprint(f\"Repeated head 0 (position 1):\\n{final[0, 1]}\")\nprint(f\"Original head 1:\\n{kv_tensor[0, 1]}\")\nprint(f\"Repeated head 1 (position 2):\\n{final[0, 2]}\")\n# TODO: Verify that final[0, 0] equals final[0, 1] (same repeated head)\n# =============================================================================",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "test_tensor",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "test_tensor = torch.arange(24).reshape(1, 3, 4, 2)\nprint(f\"Test input shape: {test_tensor.shape}\")\n# TODO: Uncomment when you implement the function\n# result = my_repeat_kv(test_tensor, 2)\n# print(f\"Result shape: {result.shape}\")\n# =============================================================================\n# EXERCISE 8: Advanced Patterns\n# =============================================================================\nprint(\"\\n\\n📝 Exercise 8: Advanced Repetition Patterns\")\nprint(\"-\" * 40)",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "base",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "base = torch.tensor([[1, 2], [3, 4]])  # Shape: (2, 2)\nprint(f\"Base tensor:\\n{base}\")\n# Repeat 3 times along dim 0, 2 times along dim 1\npattern1 = base.repeat(3, 2)\nprint(f\"Pattern 1 - repeat(3, 2):\\n{pattern1}\")\n# Pattern 2: Using repeat_interleave along specific dimensions\npattern2 = torch.repeat_interleave(base, 2, dim=0)\nprint(f\"Pattern 2 - repeat_interleave along dim 0:\\n{pattern2}\")\npattern3 = torch.repeat_interleave(base, 2, dim=1)\nprint(f\"Pattern 3 - repeat_interleave along dim 1:\\n{pattern3}\")",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "pattern1",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "pattern1 = base.repeat(3, 2)\nprint(f\"Pattern 1 - repeat(3, 2):\\n{pattern1}\")\n# Pattern 2: Using repeat_interleave along specific dimensions\npattern2 = torch.repeat_interleave(base, 2, dim=0)\nprint(f\"Pattern 2 - repeat_interleave along dim 0:\\n{pattern2}\")\npattern3 = torch.repeat_interleave(base, 2, dim=1)\nprint(f\"Pattern 3 - repeat_interleave along dim 1:\\n{pattern3}\")\n# TODO: Create a pattern where you repeat_interleave along dim 0 with repeats [1, 3]\n# (first row once, second row three times)\n# =============================================================================",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "pattern2",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "pattern2 = torch.repeat_interleave(base, 2, dim=0)\nprint(f\"Pattern 2 - repeat_interleave along dim 0:\\n{pattern2}\")\npattern3 = torch.repeat_interleave(base, 2, dim=1)\nprint(f\"Pattern 3 - repeat_interleave along dim 1:\\n{pattern3}\")\n# TODO: Create a pattern where you repeat_interleave along dim 0 with repeats [1, 3]\n# (first row once, second row three times)\n# =============================================================================\n# EXERCISE 9: Memory Efficiency Test\n# =============================================================================\nprint(\"\\n\\n📝 Exercise 9: Memory Usage Comparison\")",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "pattern3",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "pattern3 = torch.repeat_interleave(base, 2, dim=1)\nprint(f\"Pattern 3 - repeat_interleave along dim 1:\\n{pattern3}\")\n# TODO: Create a pattern where you repeat_interleave along dim 0 with repeats [1, 3]\n# (first row once, second row three times)\n# =============================================================================\n# EXERCISE 9: Memory Efficiency Test\n# =============================================================================\nprint(\"\\n\\n📝 Exercise 9: Memory Usage Comparison\")\nprint(\"-\" * 40)\nlarge_tensor = torch.randn(100, 50)",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "large_tensor",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "large_tensor = torch.randn(100, 50)\nprint(f\"Original tensor memory: {large_tensor.numel() * large_tensor.element_size()} bytes\")\n# Method 1: expand (memory efficient - creates view)\nexpanded = large_tensor.unsqueeze(0).expand(10, -1, -1)\nprint(f\"Expanded tensor shares memory: {expanded.storage().data_ptr() == large_tensor.storage().data_ptr()}\")\n# Method 2: repeat (creates copy)\nrepeated = large_tensor.repeat(10, 1)\nprint(f\"Repeated tensor shares memory: {repeated.storage().data_ptr() == large_tensor.storage().data_ptr()}\")\n# TODO: What happens if you modify the original tensor? Will the expanded version change too?\n# =============================================================================",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "expanded",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "expanded = large_tensor.unsqueeze(0).expand(10, -1, -1)\nprint(f\"Expanded tensor shares memory: {expanded.storage().data_ptr() == large_tensor.storage().data_ptr()}\")\n# Method 2: repeat (creates copy)\nrepeated = large_tensor.repeat(10, 1)\nprint(f\"Repeated tensor shares memory: {repeated.storage().data_ptr() == large_tensor.storage().data_ptr()}\")\n# TODO: What happens if you modify the original tensor? Will the expanded version change too?\n# =============================================================================\n# EXERCISE 10: Real-World Application - Attention Mechanism\n# =============================================================================\nprint(\"\\n\\n📝 Exercise 10: Attention Mechanism Context\")",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "repeated",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "repeated = large_tensor.repeat(10, 1)\nprint(f\"Repeated tensor shares memory: {repeated.storage().data_ptr() == large_tensor.storage().data_ptr()}\")\n# TODO: What happens if you modify the original tensor? Will the expanded version change too?\n# =============================================================================\n# EXERCISE 10: Real-World Application - Attention Mechanism\n# =============================================================================\nprint(\"\\n\\n📝 Exercise 10: Attention Mechanism Context\")\nprint(\"-\" * 40)\n# Simulate a real attention scenario\nbatch_size = 2",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "batch_size",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "batch_size = 2\nseq_len = 8\nnum_query_heads = 12\nnum_kv_heads = 4  # Fewer KV heads than query heads (Grouped Query Attention)\nhead_dim = 64\nprint(f\"Scenario: {num_query_heads} query heads, {num_kv_heads} KV heads\")\nprint(f\"Need to repeat each KV head {num_query_heads // num_kv_heads} times\")\n# Create mock key and value tensors\nkeys = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nvalues = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "seq_len",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "seq_len = 8\nnum_query_heads = 12\nnum_kv_heads = 4  # Fewer KV heads than query heads (Grouped Query Attention)\nhead_dim = 64\nprint(f\"Scenario: {num_query_heads} query heads, {num_kv_heads} KV heads\")\nprint(f\"Need to repeat each KV head {num_query_heads // num_kv_heads} times\")\n# Create mock key and value tensors\nkeys = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nvalues = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nprint(f\"Original keys shape: {keys.shape}\")",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "num_query_heads",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "num_query_heads = 12\nnum_kv_heads = 4  # Fewer KV heads than query heads (Grouped Query Attention)\nhead_dim = 64\nprint(f\"Scenario: {num_query_heads} query heads, {num_kv_heads} KV heads\")\nprint(f\"Need to repeat each KV head {num_query_heads // num_kv_heads} times\")\n# Create mock key and value tensors\nkeys = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nvalues = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nprint(f\"Original keys shape: {keys.shape}\")\nprint(f\"Original values shape: {values.shape}\")",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "num_kv_heads",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "num_kv_heads = 4  # Fewer KV heads than query heads (Grouped Query Attention)\nhead_dim = 64\nprint(f\"Scenario: {num_query_heads} query heads, {num_kv_heads} KV heads\")\nprint(f\"Need to repeat each KV head {num_query_heads // num_kv_heads} times\")\n# Create mock key and value tensors\nkeys = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nvalues = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nprint(f\"Original keys shape: {keys.shape}\")\nprint(f\"Original values shape: {values.shape}\")\n# Apply repeat_kv to match query heads",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "head_dim",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "head_dim = 64\nprint(f\"Scenario: {num_query_heads} query heads, {num_kv_heads} KV heads\")\nprint(f\"Need to repeat each KV head {num_query_heads // num_kv_heads} times\")\n# Create mock key and value tensors\nkeys = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nvalues = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nprint(f\"Original keys shape: {keys.shape}\")\nprint(f\"Original values shape: {values.shape}\")\n# Apply repeat_kv to match query heads\nn_rep = num_query_heads // num_kv_heads",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "keys",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "keys = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nvalues = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nprint(f\"Original keys shape: {keys.shape}\")\nprint(f\"Original values shape: {values.shape}\")\n# Apply repeat_kv to match query heads\nn_rep = num_query_heads // num_kv_heads\ndef repeat_kv_solution(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:\n    batch, num_key_value_heads, slen, head_dim = hidden_states.shape\n    if n_rep == 1:\n        return hidden_states",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "values",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "values = torch.randn(batch_size, num_kv_heads, seq_len, head_dim)\nprint(f\"Original keys shape: {keys.shape}\")\nprint(f\"Original values shape: {values.shape}\")\n# Apply repeat_kv to match query heads\nn_rep = num_query_heads // num_kv_heads\ndef repeat_kv_solution(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:\n    batch, num_key_value_heads, slen, head_dim = hidden_states.shape\n    if n_rep == 1:\n        return hidden_states\n    hidden_states = hidden_states[:, :, None, :, :].expand(batch, num_key_value_heads, n_rep, slen, head_dim)",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "n_rep",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "n_rep = num_query_heads // num_kv_heads\ndef repeat_kv_solution(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:\n    batch, num_key_value_heads, slen, head_dim = hidden_states.shape\n    if n_rep == 1:\n        return hidden_states\n    hidden_states = hidden_states[:, :, None, :, :].expand(batch, num_key_value_heads, n_rep, slen, head_dim)\n    return hidden_states.reshape(batch, num_key_value_heads * n_rep, slen, head_dim)\nkeys_repeated = repeat_kv_solution(keys, n_rep)\nvalues_repeated = repeat_kv_solution(values, n_rep)\nprint(f\"Repeated keys shape: {keys_repeated.shape}\")",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "keys_repeated",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "keys_repeated = repeat_kv_solution(keys, n_rep)\nvalues_repeated = repeat_kv_solution(values, n_rep)\nprint(f\"Repeated keys shape: {keys_repeated.shape}\")\nprint(f\"Repeated values shape: {values_repeated.shape}\")\n# TODO: Verify that we now have the same number of heads for keys, values, and queries\nprint(f\"Success! KV heads now match query heads: {keys_repeated.shape[1] == num_query_heads}\")\nprint(\"\\n🎉 Exercises Complete!\")\nprint(\"Next steps:\")\nprint(\"1. Try modifying the dimensions and see how shapes change\")\nprint(\"2. Experiment with different n_rep values\")",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "values_repeated",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "values_repeated = repeat_kv_solution(values, n_rep)\nprint(f\"Repeated keys shape: {keys_repeated.shape}\")\nprint(f\"Repeated values shape: {values_repeated.shape}\")\n# TODO: Verify that we now have the same number of heads for keys, values, and queries\nprint(f\"Success! KV heads now match query heads: {keys_repeated.shape[1] == num_query_heads}\")\nprint(\"\\n🎉 Exercises Complete!\")\nprint(\"Next steps:\")\nprint(\"1. Try modifying the dimensions and see how shapes change\")\nprint(\"2. Experiment with different n_rep values\")\nprint(\"3. Compare memory usage between expand() and repeat()\")",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "`output",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "`output = gate(x) * value(x)`\nlike:\n`light = brightness_control × light_source`\n## 11. Transformer Block\n Each transformer block combines attention and feed-forward layers with residual\n connections and normalization. We use RMSNorm instead of LayerNorm for better\n training stability.\n\"\"\"\nclass TransformerBlock(nn.Module):\n    def __init__(self, config: ModelConfig):  # Pass the entire config object",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "`light",
-        "kind": 5,
-        "importPath": "qwen3_from_scratch",
-        "description": "qwen3_from_scratch",
-        "peekOfCode": "`light = brightness_control × light_source`\n## 11. Transformer Block\n Each transformer block combines attention and feed-forward layers with residual\n connections and normalization. We use RMSNorm instead of LayerNorm for better\n training stability.\n\"\"\"\nclass TransformerBlock(nn.Module):\n    def __init__(self, config: ModelConfig):  # Pass the entire config object\n        super().__init__()\n        self.attention = Qwen3Attention(config)",
-        "detail": "qwen3_from_scratch",
-        "documentation": {}
-    },
-    {
-        "label": "SmallModelConfig",
-        "kind": 6,
-        "importPath": "qwen3_small_config",
-        "description": "qwen3_small_config",
-        "peekOfCode": "class SmallModelConfig:\n    \"\"\"\n    🎯 SMALL CONFIGURATION FOR FAST TRAINING\n    This configuration is optimized for:\n    - Fast training on CPU/limited GPU\n    - Learning the concepts without waiting hours\n    - Still demonstrating all key components\n    \"\"\"\n    # Model architecture - MUCH SMALLER\n    d_model: int = 128          # Reduced from 384 (3x smaller)",
-        "detail": "qwen3_small_config",
-        "documentation": {}
-    },
-    {
-        "label": "Muon",
-        "kind": 6,
-        "importPath": "qwen3_small_config",
-        "description": "qwen3_small_config",
-        "peekOfCode": "class Muon(torch.optim.Optimizer):\n    \"\"\"\n    🚀 MUON OPTIMIZER: MomentUm Orthogonalized by Newton-schulz\n    This is a revolutionary optimizer that combines:\n    1. Momentum (like Adam) - remembers past gradients\n    2. Orthogonalization (Newton-Schulz) - makes gradients \"well-behaved\"\n    3. Adaptive learning rates - adjusts based on matrix dimensions\n    🎯 Why Muon is special:\n    - 30-50% faster convergence than Adam\n    - More stable training (fewer gradient explosions)",
-        "detail": "qwen3_small_config",
-        "documentation": {}
-    },
-    {
-        "label": "TextTokenDataset",
-        "kind": 6,
-        "importPath": "qwen3_small_config",
-        "description": "qwen3_small_config",
-        "peekOfCode": "class TextTokenDataset(Dataset):\n    \"\"\"\n    📚 CUSTOM DATASET FOR LANGUAGE MODELING\n    This creates training examples for our language model:\n    🎯 What it does:\n    - Takes a long sequence of tokens\n    - Creates sliding windows of fixed length\n    - Each example: input sequence + target sequence (shifted by 1)\n    📖 Example:\n    Original text: \"The cat sat on the mat\"",
-        "detail": "qwen3_small_config",
-        "documentation": {}
-    },
-    {
-        "label": "set_seed",
-        "kind": 2,
-        "importPath": "qwen3_small_config",
-        "description": "qwen3_small_config",
-        "peekOfCode": "def set_seed(seed: int = 42):\n    \"\"\"Set all random seeds for reproducibility\"\"\"\n    random.seed(seed)\n    np.random.seed(seed)\n    torch.manual_seed(seed)\n    torch.cuda.manual_seed_all(seed)\n    torch.backends.cudnn.deterministic = True\n    torch.backends.cudnn.benchmark = False\n    print(f\"🌱 Set all seeds to {seed}\")\n@dataclass",
-        "detail": "qwen3_small_config",
-        "documentation": {}
-    },
-    {
-        "label": "repeat_kv",
-        "kind": 2,
-        "importPath": "qwen3_small_config",
-        "description": "qwen3_small_config",
-        "peekOfCode": "def repeat_kv(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:\n    \"\"\"\n    🔑 KEY COMPONENT: Grouped-Query Attention (GQA)\n    GQA is a memory-efficient attention mechanism where:\n    - We have fewer Key-Value heads than Query heads\n    - Each KV head is \"repeated\" to match the number of Query heads\n    - This reduces memory usage while maintaining performance\n    Example:\n    - 4 Query heads, 2 KV heads → each KV head repeated 2 times\n    - Memory savings: 50% reduction in KV cache memory",
-        "detail": "qwen3_small_config",
-        "documentation": {}
-    },
-    {
-        "label": "zeropower_via_newtonschulz5",
-        "kind": 2,
-        "importPath": "qwen3_small_config",
-        "description": "qwen3_small_config",
-        "peekOfCode": "def zeropower_via_newtonschulz5(G: torch.Tensor, steps: int = 5) -> torch.Tensor:\n    \"\"\"\n    🔬 NEWTON-SCHULZ ORTHOGONALIZATION\n    This is the mathematical heart of the Muon optimizer:\n    🎯 What it does:\n    - Takes a matrix G (gradients)\n    - Makes it \"orthogonal\" (like rotating it to be perfectly aligned)\n    - Uses Newton-Schulz iteration (a fast numerical method)\n    🧮 Why orthogonalization helps:\n    - Orthogonal matrices preserve vector lengths and angles",
-        "detail": "qwen3_small_config",
-        "documentation": {}
-    },
-    {
-        "label": "load_and_cache_data",
-        "kind": 2,
-        "importPath": "qwen3_small_config",
-        "description": "qwen3_small_config",
-        "peekOfCode": "def load_and_cache_data(config: SmallModelConfig, cache_dir: str = \"data_cache\"):\n    \"\"\"\n    📦 SMART DATA LOADING WITH CACHING\n    This function demonstrates modern ML data handling:\n    🎯 Key features:\n    1. Caching: Avoids reprocessing the same data\n    2. Streaming: Loads large datasets without memory issues\n    3. Tokenization: Converts text to numbers the model can understand\n    4. Efficient storage: Uses pickle for fast loading\n    🔄 The process:",
-        "detail": "qwen3_small_config",
-        "documentation": {}
-    },
-    {
-        "label": "load_model",
-        "kind": 2,
-        "importPath": "serve_qwen3",
-        "description": "serve_qwen3",
-        "peekOfCode": "def load_model(model_path: str = \"final_model.pt\"):\n    \"\"\"\n    📦 LOAD THE TRAINED MODEL\n    This function loads the trained model and tokenizer for serving.\n    \"\"\"\n    global model, tokenizer, config\n    if not os.path.exists(model_path):\n        raise FileNotFoundError(f\"Model file {model_path} not found!\")\n    print(f\"📦 Loading model from {model_path}\")\n    # Load checkpoint",
-        "detail": "serve_qwen3",
+        "importPath": "qwen-llm.serve_quantized",
+        "description": "qwen-llm.serve_quantized",
+        "peekOfCode": "class QuantizedModelServer:\n    \"\"\"\n    🎯 QUANTIZED MODEL SERVER\n    Serves different types of quantized models for inference.\n    \"\"\"\n    def __init__(self, model_path: str, model_type: str = \"lora\"):\n        self.model_path = model_path\n        self.model_type = model_type\n        self.model = None\n        self.tokenizer = None",
+        "detail": "qwen-llm.serve_quantized",
         "documentation": {}
     },
     {
         "label": "health_check",
         "kind": 2,
-        "importPath": "serve_qwen3",
-        "description": "serve_qwen3",
-        "peekOfCode": "def health_check():\n    \"\"\"\n    🏥 HEALTH CHECK ENDPOINT\n    Returns the health status of the model server.\n    \"\"\"\n    return jsonify({\n        'status': 'healthy',\n        'model_loaded': model is not None,\n        'device': str(next(model.parameters()).device) if model else None\n    })",
-        "detail": "serve_qwen3",
-        "documentation": {}
-    },
-    {
-        "label": "generate",
-        "kind": 2,
-        "importPath": "serve_qwen3",
-        "description": "serve_qwen3",
-        "peekOfCode": "def generate():\n    \"\"\"\n    🔮 TEXT GENERATION ENDPOINT\n    Generates text based on the provided prompt.\n    Expected JSON payload:\n    {\n        \"prompt\": \"Your text prompt here\",\n        \"max_length\": 100,\n        \"temperature\": 0.8,\n        \"top_k\": 50,",
-        "detail": "serve_qwen3",
+        "importPath": "qwen-llm.serve_quantized",
+        "description": "qwen-llm.serve_quantized",
+        "peekOfCode": "def health_check():\n    \"\"\"Health check endpoint\"\"\"\n    return jsonify({'status': 'healthy', 'model_type': server.model_type})\n@app.route('/info', methods=['GET'])\ndef model_info():\n    \"\"\"Get model information\"\"\"\n    return jsonify(server.get_model_info())\n@app.route('/generate', methods=['POST'])\ndef generate():\n    \"\"\"Generate text endpoint\"\"\"",
+        "detail": "qwen-llm.serve_quantized",
         "documentation": {}
     },
     {
         "label": "model_info",
         "kind": 2,
-        "importPath": "serve_qwen3",
-        "description": "serve_qwen3",
-        "peekOfCode": "def model_info():\n    \"\"\"\n    📊 MODEL INFORMATION ENDPOINT\n    Returns information about the loaded model.\n    \"\"\"\n    if model is None:\n        return jsonify({'error': 'Model not loaded'}), 500\n    return jsonify({\n        'model_type': 'Qwen3-style Language Model',\n        'parameters': sum(p.numel() for p in model.parameters()),",
-        "detail": "serve_qwen3",
+        "importPath": "qwen-llm.serve_quantized",
+        "description": "qwen-llm.serve_quantized",
+        "peekOfCode": "def model_info():\n    \"\"\"Get model information\"\"\"\n    return jsonify(server.get_model_info())\n@app.route('/generate', methods=['POST'])\ndef generate():\n    \"\"\"Generate text endpoint\"\"\"\n    try:\n        data = request.get_json()\n        prompt = data.get('prompt', '')\n        max_length = data.get('max_length', 100)",
+        "detail": "qwen-llm.serve_quantized",
         "documentation": {}
     },
     {
-        "label": "home",
+        "label": "generate",
         "kind": 2,
-        "importPath": "serve_qwen3",
-        "description": "serve_qwen3",
-        "peekOfCode": "def home():\n    \"\"\"\n    🏠 HOME ENDPOINT\n    Returns a simple HTML interface for testing the model.\n    \"\"\"\n    return '''\n    <!DOCTYPE html>\n    <html>\n    <head>\n        <title>Qwen3 Model Server</title>",
-        "detail": "serve_qwen3",
+        "importPath": "qwen-llm.serve_quantized",
+        "description": "qwen-llm.serve_quantized",
+        "peekOfCode": "def generate():\n    \"\"\"Generate text endpoint\"\"\"\n    try:\n        data = request.get_json()\n        prompt = data.get('prompt', '')\n        max_length = data.get('max_length', 100)\n        temperature = data.get('temperature', 0.8)\n        top_k = data.get('top_k', 50)\n        top_p = data.get('top_p', 0.9)\n        if not prompt:",
+        "detail": "qwen-llm.serve_quantized",
+        "documentation": {}
+    },
+    {
+        "label": "classify",
+        "kind": 2,
+        "importPath": "qwen-llm.serve_quantized",
+        "description": "qwen-llm.serve_quantized",
+        "peekOfCode": "def classify():\n    \"\"\"Classify sentiment endpoint\"\"\"\n    try:\n        data = request.get_json()\n        text = data.get('text', '')\n        if not text:\n            return jsonify({'error': 'Text is required'}), 400\n        start_time = time.time()\n        result = server.classify_sentiment(text)\n        classification_time = time.time() - start_time",
+        "detail": "qwen-llm.serve_quantized",
+        "documentation": {}
+    },
+    {
+        "label": "benchmark",
+        "kind": 2,
+        "importPath": "qwen-llm.serve_quantized",
+        "description": "qwen-llm.serve_quantized",
+        "peekOfCode": "def benchmark():\n    \"\"\"Benchmark model performance\"\"\"\n    try:\n        data = request.get_json()\n        num_samples = data.get('num_samples', 10)\n        max_length = data.get('max_length', 50)\n        # Benchmark text generation\n        prompts = [\n            \"The weather today is\",\n            \"I think that\",",
+        "detail": "qwen-llm.serve_quantized",
         "documentation": {}
     },
     {
         "label": "main",
         "kind": 2,
-        "importPath": "serve_qwen3",
-        "description": "serve_qwen3",
-        "peekOfCode": "def main():\n    \"\"\"\n    🚀 MAIN SERVER FUNCTION\n    Starts the Flask server to serve the Qwen3 model.\n    \"\"\"\n    import argparse\n    parser = argparse.ArgumentParser(description='Serve Qwen3 model')\n    parser.add_argument('--model', default='final_model.pt', help='Path to model file')\n    parser.add_argument('--host', default='0.0.0.0', help='Host to bind to')\n    parser.add_argument('--port', type=int, default=5003, help='Port to bind to')",
-        "detail": "serve_qwen3",
+        "importPath": "qwen-llm.serve_quantized",
+        "description": "qwen-llm.serve_quantized",
+        "peekOfCode": "def main():\n    \"\"\"Main function to start the server\"\"\"\n    global server\n    parser = argparse.ArgumentParser(description='Serve quantized models')\n    parser.add_argument('--model_path', required=True, help='Path to the quantized model')\n    parser.add_argument('--model_type', choices=['lora', 'qlora', 'quantized'], \n                       default='lora', help='Type of quantized model')\n    parser.add_argument('--host', default='0.0.0.0', help='Host to bind to')\n    parser.add_argument('--port', type=int, default=5000, help='Port to bind to')\n    parser.add_argument('--debug', action='store_true', help='Enable debug mode')",
+        "detail": "qwen-llm.serve_quantized",
         "documentation": {}
     },
     {
         "label": "app",
         "kind": 5,
-        "importPath": "serve_qwen3",
-        "description": "serve_qwen3",
-        "peekOfCode": "app = Flask(__name__)\n# Global variables for model and tokenizer\nmodel = None\ntokenizer = None\nconfig = None\ndef load_model(model_path: str = \"final_model.pt\"):\n    \"\"\"\n    📦 LOAD THE TRAINED MODEL\n    This function loads the trained model and tokenizer for serving.\n    \"\"\"",
-        "detail": "serve_qwen3",
+        "importPath": "qwen-llm.serve_quantized",
+        "description": "qwen-llm.serve_quantized",
+        "peekOfCode": "app = Flask(__name__)\nserver = None\n@app.route('/health', methods=['GET'])\ndef health_check():\n    \"\"\"Health check endpoint\"\"\"\n    return jsonify({'status': 'healthy', 'model_type': server.model_type})\n@app.route('/info', methods=['GET'])\ndef model_info():\n    \"\"\"Get model information\"\"\"\n    return jsonify(server.get_model_info())",
+        "detail": "qwen-llm.serve_quantized",
         "documentation": {}
     },
     {
-        "label": "model",
+        "label": "server",
         "kind": 5,
-        "importPath": "serve_qwen3",
-        "description": "serve_qwen3",
-        "peekOfCode": "model = None\ntokenizer = None\nconfig = None\ndef load_model(model_path: str = \"final_model.pt\"):\n    \"\"\"\n    📦 LOAD THE TRAINED MODEL\n    This function loads the trained model and tokenizer for serving.\n    \"\"\"\n    global model, tokenizer, config\n    if not os.path.exists(model_path):",
-        "detail": "serve_qwen3",
+        "importPath": "qwen-llm.serve_quantized",
+        "description": "qwen-llm.serve_quantized",
+        "peekOfCode": "server = None\n@app.route('/health', methods=['GET'])\ndef health_check():\n    \"\"\"Health check endpoint\"\"\"\n    return jsonify({'status': 'healthy', 'model_type': server.model_type})\n@app.route('/info', methods=['GET'])\ndef model_info():\n    \"\"\"Get model information\"\"\"\n    return jsonify(server.get_model_info())\n@app.route('/generate', methods=['POST'])",
+        "detail": "qwen-llm.serve_quantized",
         "documentation": {}
     },
     {
-        "label": "tokenizer",
-        "kind": 5,
-        "importPath": "serve_qwen3",
-        "description": "serve_qwen3",
-        "peekOfCode": "tokenizer = None\nconfig = None\ndef load_model(model_path: str = \"final_model.pt\"):\n    \"\"\"\n    📦 LOAD THE TRAINED MODEL\n    This function loads the trained model and tokenizer for serving.\n    \"\"\"\n    global model, tokenizer, config\n    if not os.path.exists(model_path):\n        raise FileNotFoundError(f\"Model file {model_path} not found!\")",
-        "detail": "serve_qwen3",
+        "label": "load_model",
+        "kind": 2,
+        "importPath": "qwen-llm.serve_qwen3",
+        "description": "qwen-llm.serve_qwen3",
+        "peekOfCode": "def load_model(model_path: str = \"models/final_model1.pt\"):\n    \"\"\"\n    📦 LOAD THE TRAINED MODEL\n    This function loads the trained model and tokenizer for serving.\n    \"\"\"\n    global model, tokenizer, config\n    if not os.path.exists(model_path):\n        raise FileNotFoundError(f\"Model file {model_path} not found!\")\n    print(f\"📦 Loading model from {model_path}\")\n    # Load checkpoint",
+        "detail": "qwen-llm.serve_qwen3",
         "documentation": {}
     },
     {
-        "label": "config",
-        "kind": 5,
-        "importPath": "serve_qwen3",
-        "description": "serve_qwen3",
-        "peekOfCode": "config = None\ndef load_model(model_path: str = \"final_model.pt\"):\n    \"\"\"\n    📦 LOAD THE TRAINED MODEL\n    This function loads the trained model and tokenizer for serving.\n    \"\"\"\n    global model, tokenizer, config\n    if not os.path.exists(model_path):\n        raise FileNotFoundError(f\"Model file {model_path} not found!\")\n    print(f\"📦 Loading model from {model_path}\")",
-        "detail": "serve_qwen3",
+        "label": "health_check",
+        "kind": 2,
+        "importPath": "qwen-llm.serve_qwen3",
+        "description": "qwen-llm.serve_qwen3",
+        "peekOfCode": "def health_check():\n    \"\"\"\n    🏥 HEALTH CHECK ENDPOINT\n    Returns the health status of the model server.\n    \"\"\"\n    return jsonify({\n        'status': 'healthy',\n        'model_loaded': model is not None,\n        'device': str(next(model.parameters()).device) if model else None\n    })",
+        "detail": "qwen-llm.serve_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "generate",
+        "kind": 2,
+        "importPath": "qwen-llm.serve_qwen3",
+        "description": "qwen-llm.serve_qwen3",
+        "peekOfCode": "def generate():\n    \"\"\"\n    🔮 TEXT GENERATION ENDPOINT\n    Generates text based on the provided prompt.\n    Expected JSON payload:\n    {\n        \"prompt\": \"Your text prompt here\",\n        \"max_length\": 100,\n        \"temperature\": 0.8,\n        \"top_k\": 50,",
+        "detail": "qwen-llm.serve_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "model_info",
+        "kind": 2,
+        "importPath": "qwen-llm.serve_qwen3",
+        "description": "qwen-llm.serve_qwen3",
+        "peekOfCode": "def model_info():\n    \"\"\"\n    📊 MODEL INFORMATION ENDPOINT\n    Returns information about the loaded model.\n    \"\"\"\n    if model is None:\n        return jsonify({'error': 'Model not loaded'}), 500\n    return jsonify({\n        'model_type': 'Qwen3-style Language Model',\n        'parameters': sum(p.numel() for p in model.parameters()),",
+        "detail": "qwen-llm.serve_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "home",
+        "kind": 2,
+        "importPath": "qwen-llm.serve_qwen3",
+        "description": "qwen-llm.serve_qwen3",
+        "peekOfCode": "def home():\n    \"\"\"\n    🏠 HOME ENDPOINT\n    Returns a simple HTML interface for testing the model.\n    \"\"\"\n    return '''\n    <!DOCTYPE html>\n    <html>\n    <head>\n        <title>Qwen3 Model Server</title>",
+        "detail": "qwen-llm.serve_qwen3",
         "documentation": {}
     },
     {
         "label": "main",
         "kind": 2,
-        "importPath": "train_qwen3",
-        "description": "train_qwen3",
-        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN TRAINING FUNCTION\n    This function orchestrates the entire training process:\n    1. System check and configuration\n    2. Data loading and preparation\n    3. Model training\n    4. Results reporting\n    \"\"\"\n    print(\"🚀 QWEN3 FROM SCRATCH - TRAINING SCRIPT\")",
-        "detail": "train_qwen3",
+        "importPath": "qwen-llm.serve_qwen3",
+        "description": "qwen-llm.serve_qwen3",
+        "peekOfCode": "def main():\n    \"\"\"\n    🚀 MAIN SERVER FUNCTION\n    Starts the Flask server to serve the Qwen3 model.\n    \"\"\"\n    import argparse\n    parser = argparse.ArgumentParser(description='Serve Qwen3 model')\n    parser.add_argument('--model', default='models/final_model1.pt', help='Path to model file')\n    parser.add_argument('--host', default='0.0.0.0', help='Host to bind to')\n    parser.add_argument('--port', type=int, default=5003, help='Port to bind to')",
+        "detail": "qwen-llm.serve_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "qwen-llm.serve_qwen3",
+        "description": "qwen-llm.serve_qwen3",
+        "peekOfCode": "app = Flask(__name__)\n# Global variables for model and tokenizer\nmodel = None\ntokenizer = None\nconfig = None\ndef load_model(model_path: str = \"models/final_model1.pt\"):\n    \"\"\"\n    📦 LOAD THE TRAINED MODEL\n    This function loads the trained model and tokenizer for serving.\n    \"\"\"",
+        "detail": "qwen-llm.serve_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "qwen-llm.serve_qwen3",
+        "description": "qwen-llm.serve_qwen3",
+        "peekOfCode": "model = None\ntokenizer = None\nconfig = None\ndef load_model(model_path: str = \"models/final_model1.pt\"):\n    \"\"\"\n    📦 LOAD THE TRAINED MODEL\n    This function loads the trained model and tokenizer for serving.\n    \"\"\"\n    global model, tokenizer, config\n    if not os.path.exists(model_path):",
+        "detail": "qwen-llm.serve_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "tokenizer",
+        "kind": 5,
+        "importPath": "qwen-llm.serve_qwen3",
+        "description": "qwen-llm.serve_qwen3",
+        "peekOfCode": "tokenizer = None\nconfig = None\ndef load_model(model_path: str = \"models/final_model1.pt\"):\n    \"\"\"\n    📦 LOAD THE TRAINED MODEL\n    This function loads the trained model and tokenizer for serving.\n    \"\"\"\n    global model, tokenizer, config\n    if not os.path.exists(model_path):\n        raise FileNotFoundError(f\"Model file {model_path} not found!\")",
+        "detail": "qwen-llm.serve_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "qwen-llm.serve_qwen3",
+        "description": "qwen-llm.serve_qwen3",
+        "peekOfCode": "config = None\ndef load_model(model_path: str = \"models/final_model1.pt\"):\n    \"\"\"\n    📦 LOAD THE TRAINED MODEL\n    This function loads the trained model and tokenizer for serving.\n    \"\"\"\n    global model, tokenizer, config\n    if not os.path.exists(model_path):\n        raise FileNotFoundError(f\"Model file {model_path} not found!\")\n    print(f\"📦 Loading model from {model_path}\")",
+        "detail": "qwen-llm.serve_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.train_qwen3",
+        "description": "qwen-llm.train_qwen3",
+        "peekOfCode": "def main(resume_from: str = None):\n    \"\"\"\n    🎯 MAIN TRAINING FUNCTION\n    This function orchestrates the entire training process:\n    1. System check and configuration\n    2. Data loading and preparation\n    3. Model training (from scratch or resume)\n    4. Results reporting\n    Args:\n        resume_from: Path to checkpoint to resume training from",
+        "detail": "qwen-llm.train_qwen3",
         "documentation": {}
     },
     {
         "label": "demo_inference",
         "kind": 2,
-        "importPath": "train_qwen3",
-        "description": "train_qwen3",
-        "peekOfCode": "def demo_inference(model_path: str = \"final_model.pt\"):\n    \"\"\"\n    🎭 DEMO INFERENCE FUNCTION\n    This function demonstrates the trained model's capabilities\n    \"\"\"\n    print(\"🎭 Running inference demo\")\n    # Load model\n    if not os.path.exists(model_path):\n        print(f\"❌ Model file {model_path} not found!\")\n        print(\"💡 Please run training first with: python train_qwen3.py\")",
-        "detail": "train_qwen3",
+        "importPath": "qwen-llm.train_qwen3",
+        "description": "qwen-llm.train_qwen3",
+        "peekOfCode": "def demo_inference(model_path: str = \"models/final_model1.pt\"):\n    \"\"\"\n    🎭 DEMO INFERENCE FUNCTION\n    This function demonstrates the trained model's capabilities\n    \"\"\"\n    print(\"🎭 Running inference demo\")\n    # Load model\n    if not os.path.exists(model_path):\n        print(f\"❌ Model file {model_path} not found!\")\n        print(\"💡 Please run training first with: python train_qwen3.py\")",
+        "detail": "qwen-llm.train_qwen3",
         "documentation": {}
     },
     {
         "label": "interactive_inference",
         "kind": 2,
-        "importPath": "train_qwen3",
-        "description": "train_qwen3",
-        "peekOfCode": "def interactive_inference(model_path: str = \"final_model.pt\"):\n    \"\"\"\n    🤖 INTERACTIVE INFERENCE SESSION\n    This function allows you to interact with the trained model\n    \"\"\"\n    print(\"🤖 Starting interactive inference session\")\n    print(\"Type 'quit' to exit\")\n    # Load model\n    if not os.path.exists(model_path):\n        print(f\"❌ Model file {model_path} not found!\")",
-        "detail": "train_qwen3",
+        "importPath": "qwen-llm.train_qwen3",
+        "description": "qwen-llm.train_qwen3",
+        "peekOfCode": "def interactive_inference(model_path: str = \"models/final_model1.pt\"):\n    \"\"\"\n    🤖 INTERACTIVE INFERENCE SESSION\n    This function allows you to interact with the trained model\n    \"\"\"\n    print(\"🤖 Starting interactive inference session\")\n    print(\"Type 'quit' to exit\")\n    # Load model\n    if not os.path.exists(model_path):\n        print(f\"❌ Model file {model_path} not found!\")",
+        "detail": "qwen-llm.train_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "convert_checkpoint",
+        "kind": 2,
+        "importPath": "convert_checkpoint",
+        "description": "convert_checkpoint",
+        "peekOfCode": "def convert_checkpoint(old_path: str, new_path: str):\n    \"\"\"\n    Convert old checkpoint to new format\n    \"\"\"\n    print(f\"🔄 Converting checkpoint from {old_path} to {new_path}\")\n    try:\n        # Try to load the old checkpoint\n        print(\"📦 Loading old checkpoint...\")\n        checkpoint = torch.load(old_path, map_location='cpu', weights_only=False)\n        # Extract only the essential data",
+        "detail": "convert_checkpoint",
         "documentation": {}
     }
 ]
