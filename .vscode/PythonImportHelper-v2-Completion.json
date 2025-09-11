@@ -824,6 +824,46 @@
         "documentation": {}
     },
     {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
         "label": "List",
         "importPath": "typing",
         "description": "typing",
@@ -1896,6 +1936,254 @@
         "documentation": {}
     },
     {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Callable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
         "label": "Dict",
         "importPath": "typing",
         "description": "typing",
@@ -2089,22 +2377,6 @@
     },
     {
         "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Tuple",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -3816,12 +4088,331 @@
         "documentation": {}
     },
     {
-        "label": "psutil",
-        "kind": 6,
+        "label": "vector_add",
+        "importPath": "lessons.beginner.lesson_01_gpu_fundamentals",
+        "description": "lessons.beginner.lesson_01_gpu_fundamentals",
         "isExtraImport": true,
-        "importPath": "psutil",
-        "description": "psutil",
-        "detail": "psutil",
+        "detail": "lessons.beginner.lesson_01_gpu_fundamentals",
+        "documentation": {}
+    },
+    {
+        "label": "vector_add",
+        "importPath": "lessons.beginner.lesson_01_gpu_fundamentals",
+        "description": "lessons.beginner.lesson_01_gpu_fundamentals",
+        "isExtraImport": true,
+        "detail": "lessons.beginner.lesson_01_gpu_fundamentals",
+        "documentation": {}
+    },
+    {
+        "label": "coalesced_access_kernel",
+        "importPath": "lessons.beginner.lesson_02_memory_management",
+        "description": "lessons.beginner.lesson_02_memory_management",
+        "isExtraImport": true,
+        "detail": "lessons.beginner.lesson_02_memory_management",
+        "documentation": {}
+    },
+    {
+        "label": "non_coalesced_access_kernel",
+        "importPath": "lessons.beginner.lesson_02_memory_management",
+        "description": "lessons.beginner.lesson_02_memory_management",
+        "isExtraImport": true,
+        "detail": "lessons.beginner.lesson_02_memory_management",
+        "documentation": {}
+    },
+    {
+        "label": "coalesced_access_kernel",
+        "importPath": "lessons.beginner.lesson_02_memory_management",
+        "description": "lessons.beginner.lesson_02_memory_management",
+        "isExtraImport": true,
+        "detail": "lessons.beginner.lesson_02_memory_management",
+        "documentation": {}
+    },
+    {
+        "label": "non_coalesced_access_kernel",
+        "importPath": "lessons.beginner.lesson_02_memory_management",
+        "description": "lessons.beginner.lesson_02_memory_management",
+        "isExtraImport": true,
+        "detail": "lessons.beginner.lesson_02_memory_management",
+        "documentation": {}
+    },
+    {
+        "label": "element_wise_add_kernel",
+        "importPath": "lessons.beginner.lesson_03_basic_operations",
+        "description": "lessons.beginner.lesson_03_basic_operations",
+        "isExtraImport": true,
+        "detail": "lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "sum_reduction_kernel",
+        "importPath": "lessons.beginner.lesson_03_basic_operations",
+        "description": "lessons.beginner.lesson_03_basic_operations",
+        "isExtraImport": true,
+        "detail": "lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "element_wise_add_kernel",
+        "importPath": "lessons.beginner.lesson_03_basic_operations",
+        "description": "lessons.beginner.lesson_03_basic_operations",
+        "isExtraImport": true,
+        "detail": "lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "sum_reduction_kernel",
+        "importPath": "lessons.beginner.lesson_03_basic_operations",
+        "description": "lessons.beginner.lesson_03_basic_operations",
+        "isExtraImport": true,
+        "detail": "lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "basic_matmul",
+        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
+        "description": "lessons.intermediate.lesson_04_matrix_operations",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "optimized_matmul",
+        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
+        "description": "lessons.intermediate.lesson_04_matrix_operations",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "batch_matmul",
+        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
+        "description": "lessons.intermediate.lesson_04_matrix_operations",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "matrix_transpose",
+        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
+        "description": "lessons.intermediate.lesson_04_matrix_operations",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "basic_matmul",
+        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
+        "description": "lessons.intermediate.lesson_04_matrix_operations",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "optimized_matmul",
+        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
+        "description": "lessons.intermediate.lesson_04_matrix_operations",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "batch_matmul",
+        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
+        "description": "lessons.intermediate.lesson_04_matrix_operations",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "matrix_transpose",
+        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
+        "description": "lessons.intermediate.lesson_04_matrix_operations",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "shared_memory_matmul",
+        "importPath": "lessons.intermediate.lesson_05_advanced_memory",
+        "description": "lessons.intermediate.lesson_05_advanced_memory",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "cache_friendly_reduction",
+        "importPath": "lessons.intermediate.lesson_05_advanced_memory",
+        "description": "lessons.intermediate.lesson_05_advanced_memory",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "shared_memory_matmul",
+        "importPath": "lessons.intermediate.lesson_05_advanced_memory",
+        "description": "lessons.intermediate.lesson_05_advanced_memory",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "cache_friendly_reduction",
+        "importPath": "lessons.intermediate.lesson_05_advanced_memory",
+        "description": "lessons.intermediate.lesson_05_advanced_memory",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "fused_add_multiply",
+        "importPath": "lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "lessons.intermediate.lesson_06_kernel_fusion",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "fused_matmul_activation",
+        "importPath": "lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "lessons.intermediate.lesson_06_kernel_fusion",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "fused_loop",
+        "importPath": "lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "lessons.intermediate.lesson_06_kernel_fusion",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "fused_add_multiply",
+        "importPath": "lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "lessons.intermediate.lesson_06_kernel_fusion",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "fused_matmul_activation",
+        "importPath": "lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "lessons.intermediate.lesson_06_kernel_fusion",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "fused_loop",
+        "importPath": "lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "lessons.intermediate.lesson_06_kernel_fusion",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "optimized_attention",
+        "importPath": "examples.llm_inference_optimization",
+        "description": "examples.llm_inference_optimization",
+        "isExtraImport": true,
+        "detail": "examples.llm_inference_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "transformer_matmul",
+        "importPath": "examples.llm_inference_optimization",
+        "description": "examples.llm_inference_optimization",
+        "isExtraImport": true,
+        "detail": "examples.llm_inference_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "layer_norm",
+        "importPath": "examples.llm_inference_optimization",
+        "description": "examples.llm_inference_optimization",
+        "isExtraImport": true,
+        "detail": "examples.llm_inference_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "BenchmarkSuite",
+        "importPath": "utils.benchmarking",
+        "description": "utils.benchmarking",
+        "isExtraImport": true,
+        "detail": "utils.benchmarking",
+        "documentation": {}
+    },
+    {
+        "label": "BenchmarkResult",
+        "importPath": "utils.benchmarking",
+        "description": "utils.benchmarking",
+        "isExtraImport": true,
+        "detail": "utils.benchmarking",
+        "documentation": {}
+    },
+    {
+        "label": "PerformanceProfiler",
+        "importPath": "utils.profiling",
+        "description": "utils.profiling",
+        "isExtraImport": true,
+        "detail": "utils.profiling",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileResult",
+        "importPath": "utils.profiling",
+        "description": "utils.profiling",
+        "isExtraImport": true,
+        "detail": "utils.profiling",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationSuite",
+        "importPath": "utils.validation",
+        "description": "utils.validation",
+        "isExtraImport": true,
+        "detail": "utils.validation",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationResult",
+        "importPath": "utils.validation",
+        "description": "utils.validation",
+        "isExtraImport": true,
+        "detail": "utils.validation",
+        "documentation": {}
+    },
+    {
+        "label": "DataGenerator",
+        "importPath": "utils.data_generation",
+        "description": "utils.data_generation",
+        "isExtraImport": true,
+        "detail": "utils.data_generation",
+        "documentation": {}
+    },
+    {
+        "label": "DataConfig",
+        "importPath": "utils.data_generation",
+        "description": "utils.data_generation",
+        "isExtraImport": true,
+        "detail": "utils.data_generation",
+        "documentation": {}
+    },
+    {
+        "label": "PerformanceAnalyzer",
+        "importPath": "utils.performance_analysis",
+        "description": "utils.performance_analysis",
+        "isExtraImport": true,
+        "detail": "utils.performance_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "PerformanceMetrics",
+        "importPath": "utils.performance_analysis",
+        "description": "utils.performance_analysis",
+        "isExtraImport": true,
+        "detail": "utils.performance_analysis",
         "documentation": {}
     },
     {
@@ -3831,6 +4422,24 @@
         "importPath": "matplotlib.pyplot",
         "description": "matplotlib.pyplot",
         "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "psutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "psutil",
+        "description": "psutil",
+        "detail": "psutil",
+        "documentation": {}
+    },
+    {
+        "label": "GPUtil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "GPUtil",
+        "description": "GPUtil",
+        "detail": "GPUtil",
         "documentation": {}
     },
     {
@@ -3903,23 +4512,6 @@
         "description": "flask",
         "isExtraImport": true,
         "detail": "flask",
-        "documentation": {}
-    },
-    {
-        "label": "grouped_gemm_persistent",
-        "importPath": "grouped_gemm",
-        "description": "grouped_gemm",
-        "isExtraImport": true,
-        "detail": "grouped_gemm",
-        "documentation": {}
-    },
-    {
-        "label": "torch.utils.benchmark",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "torch.utils.benchmark",
-        "description": "torch.utils.benchmark",
-        "detail": "torch.utils.benchmark",
         "documentation": {}
     },
     {
@@ -5507,6 +6099,42 @@
         "documentation": {}
     },
     {
+        "label": "BenchmarkBeginnerLessons",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.benchmarks.benchmark_beginner",
+        "description": "qwen-llm.triton_tutorials.benchmarks.benchmark_beginner",
+        "peekOfCode": "class BenchmarkBeginnerLessons:\n    \"\"\"\n    📊 BENCHMARK SUITE FOR BEGINNER LESSONS\n    Benchmarks for lessons 1-3 (GPU Fundamentals, Memory Management, Basic Operations)\n    \"\"\"\n    def __init__(self, warmup_runs: int = 10, benchmark_runs: int = 100):\n        \"\"\"\n        Initialize the benchmark suite.\n        Args:\n            warmup_runs: Number of warmup runs",
+        "detail": "qwen-llm.triton_tutorials.benchmarks.benchmark_beginner",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.benchmarks.benchmark_beginner",
+        "description": "qwen-llm.triton_tutorials.benchmarks.benchmark_beginner",
+        "peekOfCode": "def main():\n    \"\"\"Main function to run beginner lesson benchmarks.\"\"\"\n    benchmark_suite = BenchmarkBeginnerLessons()\n    benchmark_suite.run_all_benchmarks()\nif __name__ == \"__main__\":\n    main()",
+        "detail": "qwen-llm.triton_tutorials.benchmarks.benchmark_beginner",
+        "documentation": {}
+    },
+    {
+        "label": "BenchmarkIntermediateLessons",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.benchmarks.benchmark_intermediate",
+        "description": "qwen-llm.triton_tutorials.benchmarks.benchmark_intermediate",
+        "peekOfCode": "class BenchmarkIntermediateLessons:\n    \"\"\"\n    📊 BENCHMARK SUITE FOR INTERMEDIATE LESSONS\n    Benchmarks for lessons 4-6 (Matrix Operations, Advanced Memory, Kernel Fusion)\n    \"\"\"\n    def __init__(self, warmup_runs: int = 10, benchmark_runs: int = 100):\n        \"\"\"\n        Initialize the benchmark suite.\n        Args:\n            warmup_runs: Number of warmup runs",
+        "detail": "qwen-llm.triton_tutorials.benchmarks.benchmark_intermediate",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.benchmarks.benchmark_intermediate",
+        "description": "qwen-llm.triton_tutorials.benchmarks.benchmark_intermediate",
+        "peekOfCode": "def main():\n    \"\"\"Main function to run intermediate lesson benchmarks.\"\"\"\n    benchmark_suite = BenchmarkIntermediateLessons()\n    benchmark_suite.run_all_benchmarks()\nif __name__ == \"__main__\":\n    main()",
+        "detail": "qwen-llm.triton_tutorials.benchmarks.benchmark_intermediate",
+        "documentation": {}
+    },
+    {
         "label": "attention_kernel",
         "kind": 2,
         "importPath": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
@@ -6071,6 +6699,555 @@
         "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
         "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN FUNCTION\n    Runs the complete lesson 4 tutorial.\n    \"\"\"\n    print(\"🔧 LESSON 4: MATRIX OPERATIONS & TILING STRATEGIES\")\n    print(\"=\" * 70)\n    print(\"This lesson covers matrix operations and optimization techniques in Triton.\")\n    # Check CUDA availability\n    if not torch.cuda.is_available():",
         "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "explain_shared_memory",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "peekOfCode": "def explain_shared_memory():\n    \"\"\"\n    📚 SHARED MEMORY OPTIMIZATION\n    Shared memory is a fast, on-chip memory that's shared among threads in a block.\n    It's crucial for optimizing memory access patterns and reducing global memory traffic.\n    \"\"\"\n    print(\"🧠 Shared Memory Optimization:\")\n    print(\"=\" * 50)\n    print(\"\"\"\n    🎯 What is Shared Memory?",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "shared_memory_matmul_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "peekOfCode": "def shared_memory_matmul_kernel(\n    a_ptr, b_ptr, c_ptr,\n    M, N, K,\n    stride_am, stride_ak,\n    stride_bk, stride_bn,\n    stride_cm, stride_cn,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n    BLOCK_SIZE_K: tl.constexpr,\n):",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "shared_memory_matmul",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "peekOfCode": "def shared_memory_matmul(a: torch.Tensor, b: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🎯 SHARED MEMORY MATRIX MULTIPLICATION WRAPPER\n    Wrapper function for shared memory matrix multiplication.\n    \"\"\"\n    # Input validation\n    assert a.is_cuda and b.is_cuda, \"Input tensors must be on GPU!\"\n    assert a.shape[1] == b.shape[0], \"Inner dimensions must match!\"\n    M, K = a.shape\n    _, N = b.shape",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "explain_memory_coalescing_patterns",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "peekOfCode": "def explain_memory_coalescing_patterns():\n    \"\"\"\n    📚 MEMORY COALESCING PATTERNS\n    Different memory access patterns have different coalescing characteristics.\n    Understanding these patterns is crucial for optimization.\n    \"\"\"\n    print(\"\\n🎯 Memory Coalescing Patterns:\")\n    print(\"=\" * 50)\n    print(\"\"\"\n    🧠 Coalescing Patterns:",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "coalesced_access_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "peekOfCode": "def coalesced_access_kernel(\n    input_ptr, output_ptr,\n    n_elements,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🎯 COALESCED ACCESS KERNEL\n    Demonstrates perfect memory coalescing.\n    \"\"\"\n    pid = tl.program_id(axis=0)",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "strided_access_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "peekOfCode": "def strided_access_kernel(\n    input_ptr, output_ptr,\n    n_elements, stride,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🎯 STRIDED ACCESS KERNEL\n    Demonstrates strided memory access.\n    \"\"\"\n    pid = tl.program_id(axis=0)",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "test_memory_coalescing",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "peekOfCode": "def test_memory_coalescing():\n    \"\"\"\n    🧪 TEST MEMORY COALESCING PATTERNS\n    Tests different memory access patterns and measures performance.\n    \"\"\"\n    print(\"\\n🧪 Testing Memory Coalescing Patterns:\")\n    print(\"=\" * 50)\n    size = 1024 * 1024  # 1M elements\n    # Create test data\n    x = torch.randn(size, device='cuda', dtype=torch.float32)",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "explain_cache_friendly_algorithms",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "peekOfCode": "def explain_cache_friendly_algorithms():\n    \"\"\"\n    📚 CACHE-FRIENDLY ALGORITHMS\n    Cache-friendly algorithms are designed to maximize cache utilization\n    and minimize cache misses.\n    \"\"\"\n    print(\"\\n🎯 Cache-Friendly Algorithms:\")\n    print(\"=\" * 50)\n    print(\"\"\"\n    🧠 Cache-Friendly Design Principles:",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "cache_friendly_reduction_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "peekOfCode": "def cache_friendly_reduction_kernel(\n    input_ptr, output_ptr,\n    n_elements,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🎯 CACHE-FRIENDLY REDUCTION KERNEL\n    Implements cache-friendly reduction using shared memory.\n    \"\"\"\n    pid = tl.program_id(axis=0)",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "cache_friendly_reduction",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "peekOfCode": "def cache_friendly_reduction(input_tensor: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🎯 CACHE-FRIENDLY REDUCTION WRAPPER\n    Wrapper function for cache-friendly reduction.\n    \"\"\"\n    # Input validation\n    assert input_tensor.is_cuda, \"Input tensor must be on GPU!\"\n    n_elements = input_tensor.numel()\n    output = torch.zeros(1, device=input_tensor.device, dtype=input_tensor.dtype)\n    # Define block size",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "explain_bandwidth_optimization",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "peekOfCode": "def explain_bandwidth_optimization():\n    \"\"\"\n    📚 BANDWIDTH OPTIMIZATION\n    Memory bandwidth is often the bottleneck in GPU kernels.\n    Optimizing bandwidth utilization is crucial for performance.\n    \"\"\"\n    print(\"\\n🎯 Bandwidth Optimization:\")\n    print(\"=\" * 50)\n    print(\"\"\"\n    🧠 Bandwidth Optimization Strategies:",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "bandwidth_optimized_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "peekOfCode": "def bandwidth_optimized_kernel(\n    input_ptr, output_ptr,\n    n_elements,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🎯 BANDWIDTH OPTIMIZED KERNEL\n    Demonstrates bandwidth optimization techniques.\n    \"\"\"\n    pid = tl.program_id(axis=0)",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "measure_memory_bandwidth",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "peekOfCode": "def measure_memory_bandwidth():\n    \"\"\"\n    📊 MEASURE MEMORY BANDWIDTH\n    Measures achieved memory bandwidth for different configurations.\n    \"\"\"\n    print(\"\\n📊 Measuring Memory Bandwidth:\")\n    print(\"=\" * 50)\n    sizes = [1024, 4096, 16384, 65536, 262144, 1048576]\n    for size in sizes:\n        print(f\"\\n📈 Size: {size:,} elements\")",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "test_advanced_memory",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "peekOfCode": "def test_advanced_memory():\n    \"\"\"\n    🧪 TEST ADVANCED MEMORY OPTIMIZATIONS\n    Tests various advanced memory optimization techniques.\n    \"\"\"\n    print(\"\\n🧪 Testing Advanced Memory Optimizations:\")\n    print(\"=\" * 50)\n    # Test shared memory matrix multiplication\n    print(\"\\n📊 Test: Shared Memory Matrix Multiplication\")\n    M, K, N = 256, 128, 192",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "benchmark_advanced_memory",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "peekOfCode": "def benchmark_advanced_memory():\n    \"\"\"\n    📊 BENCHMARK ADVANCED MEMORY OPTIMIZATIONS\n    Compares performance between different memory optimization techniques.\n    \"\"\"\n    print(\"\\n📊 Benchmarking Advanced Memory Optimizations:\")\n    print(\"=\" * 50)\n    # Benchmark shared memory matrix multiplication\n    print(\"\\n📈 Benchmark: Shared Memory Matrix Multiplication\")\n    sizes = [",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN FUNCTION\n    Runs the complete lesson 5 tutorial.\n    \"\"\"\n    print(\"🔧 LESSON 5: ADVANCED MEMORY PATTERNS & OPTIMIZATION\")\n    print(\"=\" * 70)\n    print(\"This lesson covers advanced memory optimization techniques in Triton.\")\n    # Check CUDA availability\n    if not torch.cuda.is_available():",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "explain_kernel_fusion",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "peekOfCode": "def explain_kernel_fusion():\n    \"\"\"\n    📚 KERNEL FUSION FUNDAMENTALS\n    Kernel fusion combines multiple operations into a single kernel to reduce\n    memory traffic and kernel launch overhead.\n    \"\"\"\n    print(\"🧠 Kernel Fusion Fundamentals:\")\n    print(\"=\" * 50)\n    print(\"\"\"\n    🎯 What is Kernel Fusion?",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "fused_add_multiply_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "peekOfCode": "def fused_add_multiply_kernel(\n    a_ptr, b_ptr, c_ptr, output_ptr,\n    n_elements,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🎯 FUSED ADD-MULTIPLY KERNEL\n    Fuses addition and multiplication operations:\n    output = (a + b) * c\n    This demonstrates basic horizontal fusion.",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "fused_add_multiply",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "peekOfCode": "def fused_add_multiply(a: torch.Tensor, b: torch.Tensor, c: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🎯 FUSED ADD-MULTIPLY WRAPPER\n    Wrapper function for fused add-multiply kernel.\n    \"\"\"\n    # Input validation\n    assert a.is_cuda and b.is_cuda and c.is_cuda, \"Input tensors must be on GPU!\"\n    assert a.shape == b.shape == c.shape, \"Input tensors must have the same shape!\"\n    n_elements = a.numel()\n    output = torch.empty_like(a)",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "fused_matmul_activation_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "peekOfCode": "def fused_matmul_activation_kernel(\n    a_ptr, b_ptr, output_ptr,\n    M, N, K,\n    stride_am, stride_ak,\n    stride_bk, stride_bn,\n    stride_cm, stride_cn,\n    activation_type: tl.constexpr,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n    BLOCK_SIZE_K: tl.constexpr,",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "fused_matmul_activation",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "peekOfCode": "def fused_matmul_activation(a: torch.Tensor, b: torch.Tensor, activation: str = \"relu\") -> torch.Tensor:\n    \"\"\"\n    🎯 FUSED MATRIX MULTIPLICATION + ACTIVATION WRAPPER\n    Wrapper function for fused matrix multiplication + activation.\n    \"\"\"\n    # Input validation\n    assert a.is_cuda and b.is_cuda, \"Input tensors must be on GPU!\"\n    assert a.shape[1] == b.shape[0], \"Inner dimensions must match!\"\n    M, K = a.shape\n    _, N = b.shape",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "fused_loop_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "peekOfCode": "def fused_loop_kernel(\n    input_ptr, output_ptr,\n    n_elements, num_iterations,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🎯 FUSED LOOP KERNEL\n    Demonstrates loop fusion by combining multiple operations in a loop.\n    This reduces memory traffic and improves performance.\n    \"\"\"",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "fused_loop",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "peekOfCode": "def fused_loop(input_tensor: torch.Tensor, num_iterations: int = 10) -> torch.Tensor:\n    \"\"\"\n    🎯 FUSED LOOP WRAPPER\n    Wrapper function for fused loop kernel.\n    \"\"\"\n    # Input validation\n    assert input_tensor.is_cuda, \"Input tensor must be on GPU!\"\n    n_elements = input_tensor.numel()\n    output = torch.empty_like(input_tensor)\n    # Define block size",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "explain_performance_profiling",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "peekOfCode": "def explain_performance_profiling():\n    \"\"\"\n    📚 PERFORMANCE PROFILING\n    Performance profiling is crucial for identifying bottlenecks and\n    optimizing kernel performance.\n    \"\"\"\n    print(\"\\n🎯 Performance Profiling:\")\n    print(\"=\" * 50)\n    print(\"\"\"\n    🧠 Performance Profiling Techniques:",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "profile_kernel_performance",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "peekOfCode": "def profile_kernel_performance():\n    \"\"\"\n    📊 PROFILE KERNEL PERFORMANCE\n    Profiles different kernel implementations and compares performance.\n    \"\"\"\n    print(\"\\n📊 Profiling Kernel Performance:\")\n    print(\"=\" * 50)\n    # Test different kernel implementations\n    size = 1024 * 1024  # 1M elements\n    # Create test data",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "test_kernel_fusion",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "peekOfCode": "def test_kernel_fusion():\n    \"\"\"\n    🧪 TEST KERNEL FUSION\n    Tests various kernel fusion techniques and validates correctness.\n    \"\"\"\n    print(\"\\n🧪 Testing Kernel Fusion:\")\n    print(\"=\" * 50)\n    # Test fused add-multiply\n    print(\"\\n📊 Test: Fused Add-Multiply\")\n    size = 1024",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN FUNCTION\n    Runs the complete lesson 6 tutorial.\n    \"\"\"\n    print(\"🔧 LESSON 6: KERNEL FUSION & PERFORMANCE TUNING\")\n    print(\"=\" * 70)\n    print(\"This lesson covers kernel fusion and performance optimization techniques.\")\n    # Check CUDA availability\n    if not torch.cuda.is_available():",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "TestBeginnerLessons",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.tests.test_beginner",
+        "description": "qwen-llm.triton_tutorials.tests.test_beginner",
+        "peekOfCode": "class TestBeginnerLessons(unittest.TestCase):\n    \"\"\"\n    🧪 TEST SUITE FOR BEGINNER LESSONS\n    Tests for lessons 1-3 (GPU Fundamentals, Memory Management, Basic Operations)\n    \"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        self.device = 'cuda' if torch.cuda.is_available() else 'cpu'\n        self.dtype = torch.float32\n        # Test data sizes",
+        "detail": "qwen-llm.triton_tutorials.tests.test_beginner",
+        "documentation": {}
+    },
+    {
+        "label": "TestBeginnerLessonsIntegration",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.tests.test_beginner",
+        "description": "qwen-llm.triton_tutorials.tests.test_beginner",
+        "peekOfCode": "class TestBeginnerLessonsIntegration(unittest.TestCase):\n    \"\"\"\n    🧪 INTEGRATION TESTS FOR BEGINNER LESSONS\n    Integration tests that combine multiple lessons.\n    \"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        self.device = 'cuda' if torch.cuda.is_available() else 'cpu'\n        self.dtype = torch.float32\n    def test_lesson_integration_vector_operations(self):",
+        "detail": "qwen-llm.triton_tutorials.tests.test_beginner",
+        "documentation": {}
+    },
+    {
+        "label": "TestExamples",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.tests.test_examples",
+        "description": "qwen-llm.triton_tutorials.tests.test_examples",
+        "peekOfCode": "class TestExamples(unittest.TestCase):\n    \"\"\"\n    🧪 TEST SUITE FOR EXAMPLES\n    Tests for the example implementations.\n    \"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        self.device = 'cuda' if torch.cuda.is_available() else 'cpu'\n        self.dtype = torch.float32\n        # Test data for attention",
+        "detail": "qwen-llm.triton_tutorials.tests.test_examples",
+        "documentation": {}
+    },
+    {
+        "label": "TestExamplesIntegration",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.tests.test_examples",
+        "description": "qwen-llm.triton_tutorials.tests.test_examples",
+        "peekOfCode": "class TestExamplesIntegration(unittest.TestCase):\n    \"\"\"\n    🧪 INTEGRATION TESTS FOR EXAMPLES\n    Integration tests that combine multiple examples.\n    \"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        self.device = 'cuda' if torch.cuda.is_available() else 'cpu'\n        self.dtype = torch.float32\n    def test_transformer_pipeline(self):",
+        "detail": "qwen-llm.triton_tutorials.tests.test_examples",
+        "documentation": {}
+    },
+    {
+        "label": "TestIntermediateLessons",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.tests.test_intermediate",
+        "description": "qwen-llm.triton_tutorials.tests.test_intermediate",
+        "peekOfCode": "class TestIntermediateLessons(unittest.TestCase):\n    \"\"\"\n    🧪 TEST SUITE FOR INTERMEDIATE LESSONS\n    Tests for lessons 4-6 (Matrix Operations, Advanced Memory, Kernel Fusion)\n    \"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        self.device = 'cuda' if torch.cuda.is_available() else 'cpu'\n        self.dtype = torch.float32\n        # Test matrix sizes",
+        "detail": "qwen-llm.triton_tutorials.tests.test_intermediate",
+        "documentation": {}
+    },
+    {
+        "label": "TestIntermediateLessonsIntegration",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.tests.test_intermediate",
+        "description": "qwen-llm.triton_tutorials.tests.test_intermediate",
+        "peekOfCode": "class TestIntermediateLessonsIntegration(unittest.TestCase):\n    \"\"\"\n    🧪 INTEGRATION TESTS FOR INTERMEDIATE LESSONS\n    Integration tests that combine multiple intermediate lessons.\n    \"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        self.device = 'cuda' if torch.cuda.is_available() else 'cpu'\n        self.dtype = torch.float32\n    def test_lesson_integration_matrix_operations(self):",
+        "detail": "qwen-llm.triton_tutorials.tests.test_intermediate",
+        "documentation": {}
+    },
+    {
+        "label": "TestBenchmarking",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.tests.test_utils",
+        "description": "qwen-llm.triton_tutorials.tests.test_utils",
+        "peekOfCode": "class TestBenchmarking(unittest.TestCase):\n    \"\"\"\n    🧪 TEST SUITE FOR BENCHMARKING UTILITIES\n    Tests for the benchmarking module.\n    \"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        self.device = 'cuda' if torch.cuda.is_available() else 'cpu'\n        self.dtype = torch.float32\n        self.suite = BenchmarkSuite(warmup_runs=5, benchmark_runs=10)",
+        "detail": "qwen-llm.triton_tutorials.tests.test_utils",
+        "documentation": {}
+    },
+    {
+        "label": "TestProfiling",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.tests.test_utils",
+        "description": "qwen-llm.triton_tutorials.tests.test_utils",
+        "peekOfCode": "class TestProfiling(unittest.TestCase):\n    \"\"\"\n    🧪 TEST SUITE FOR PROFILING UTILITIES\n    Tests for the profiling module.\n    \"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        self.device = 'cuda' if torch.cuda.is_available() else 'cpu'\n        self.dtype = torch.float32\n        self.profiler = PerformanceProfiler()",
+        "detail": "qwen-llm.triton_tutorials.tests.test_utils",
+        "documentation": {}
+    },
+    {
+        "label": "TestValidation",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.tests.test_utils",
+        "description": "qwen-llm.triton_tutorials.tests.test_utils",
+        "peekOfCode": "class TestValidation(unittest.TestCase):\n    \"\"\"\n    🧪 TEST SUITE FOR VALIDATION UTILITIES\n    Tests for the validation module.\n    \"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        self.device = 'cuda' if torch.cuda.is_available() else 'cpu'\n        self.dtype = torch.float32\n        self.suite = ValidationSuite(rtol=1e-5, atol=1e-6)",
+        "detail": "qwen-llm.triton_tutorials.tests.test_utils",
+        "documentation": {}
+    },
+    {
+        "label": "TestDataGeneration",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.tests.test_utils",
+        "description": "qwen-llm.triton_tutorials.tests.test_utils",
+        "peekOfCode": "class TestDataGeneration(unittest.TestCase):\n    \"\"\"\n    🧪 TEST SUITE FOR DATA GENERATION UTILITIES\n    Tests for the data generation module.\n    \"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        self.device = 'cuda' if torch.cuda.is_available() else 'cpu'\n        self.dtype = torch.float32\n        self.generator = DataGenerator(seed=42)",
+        "detail": "qwen-llm.triton_tutorials.tests.test_utils",
+        "documentation": {}
+    },
+    {
+        "label": "TestPerformanceAnalysis",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.tests.test_utils",
+        "description": "qwen-llm.triton_tutorials.tests.test_utils",
+        "peekOfCode": "class TestPerformanceAnalysis(unittest.TestCase):\n    \"\"\"\n    🧪 TEST SUITE FOR PERFORMANCE ANALYSIS UTILITIES\n    Tests for the performance analysis module.\n    \"\"\"\n    def setUp(self):\n        \"\"\"Set up test fixtures.\"\"\"\n        self.device = 'cuda' if torch.cuda.is_available() else 'cpu'\n        self.dtype = torch.float32\n        self.analyzer = PerformanceAnalyzer()",
+        "detail": "qwen-llm.triton_tutorials.tests.test_utils",
+        "documentation": {}
+    },
+    {
+        "label": "BenchmarkResult",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.utils.benchmarking",
+        "description": "qwen-llm.triton_tutorials.utils.benchmarking",
+        "peekOfCode": "class BenchmarkResult:\n    \"\"\"Results from a benchmark run.\"\"\"\n    name: str\n    triton_time: float\n    pytorch_time: float\n    speedup: float\n    memory_usage: Optional[float] = None\n    throughput: Optional[float] = None\n    error: Optional[str] = None\nclass BenchmarkSuite:",
+        "detail": "qwen-llm.triton_tutorials.utils.benchmarking",
+        "documentation": {}
+    },
+    {
+        "label": "BenchmarkSuite",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.utils.benchmarking",
+        "description": "qwen-llm.triton_tutorials.utils.benchmarking",
+        "peekOfCode": "class BenchmarkSuite:\n    \"\"\"\n    📊 BENCHMARK SUITE\n    A comprehensive benchmarking suite for Triton kernels.\n    \"\"\"\n    def __init__(self, warmup_runs: int = 10, benchmark_runs: int = 100):\n        \"\"\"\n        Initialize the benchmark suite.\n        Args:\n            warmup_runs: Number of warmup runs",
+        "detail": "qwen-llm.triton_tutorials.utils.benchmarking",
+        "documentation": {}
+    },
+    {
+        "label": "benchmark_vector_operations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.utils.benchmarking",
+        "description": "qwen-llm.triton_tutorials.utils.benchmarking",
+        "peekOfCode": "def benchmark_vector_operations():\n    \"\"\"Benchmark vector operations.\"\"\"\n    print(\"📊 Benchmarking Vector Operations:\")\n    print(\"=\" * 50)\n    suite = BenchmarkSuite()\n    # Test different sizes\n    sizes = [1024, 4096, 16384, 65536, 262144]\n    for size in sizes:\n        print(f\"\\n📈 Size: {size:,} elements\")\n        # Create test data",
+        "detail": "qwen-llm.triton_tutorials.utils.benchmarking",
+        "documentation": {}
+    },
+    {
+        "label": "benchmark_matrix_operations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.utils.benchmarking",
+        "description": "qwen-llm.triton_tutorials.utils.benchmarking",
+        "peekOfCode": "def benchmark_matrix_operations():\n    \"\"\"Benchmark matrix operations.\"\"\"\n    print(\"\\n📊 Benchmarking Matrix Operations:\")\n    print(\"=\" * 50)\n    suite = BenchmarkSuite()\n    # Test different matrix sizes\n    sizes = [\n        (256, 256, 256),\n        (512, 512, 512),\n        (1024, 1024, 1024),",
+        "detail": "qwen-llm.triton_tutorials.utils.benchmarking",
+        "documentation": {}
+    },
+    {
+        "label": "benchmark_memory_bandwidth",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.utils.benchmarking",
+        "description": "qwen-llm.triton_tutorials.utils.benchmarking",
+        "peekOfCode": "def benchmark_memory_bandwidth():\n    \"\"\"Benchmark memory bandwidth.\"\"\"\n    print(\"\\n📊 Benchmarking Memory Bandwidth:\")\n    print(\"=\" * 50)\n    suite = BenchmarkSuite()\n    # Test different sizes\n    sizes = [1024, 4096, 16384, 65536, 262144, 1048576]\n    for size in sizes:\n        print(f\"\\n📈 Size: {size:,} elements\")\n        # Benchmark memory copy",
+        "detail": "qwen-llm.triton_tutorials.utils.benchmarking",
+        "documentation": {}
+    },
+    {
+        "label": "DataConfig",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.utils.data_generation",
+        "description": "qwen-llm.triton_tutorials.utils.data_generation",
+        "peekOfCode": "class DataConfig:\n    \"\"\"Configuration for data generation.\"\"\"\n    size: int\n    dtype: torch.dtype = torch.float32\n    device: str = 'cuda' if torch.cuda.is_available() else 'cpu'\n    seed: Optional[int] = None\n    distribution: str = 'normal'  # 'normal', 'uniform', 'zeros', 'ones'\n    mean: float = 0.0\n    std: float = 1.0\n    min_val: float = 0.0",
+        "detail": "qwen-llm.triton_tutorials.utils.data_generation",
+        "documentation": {}
+    },
+    {
+        "label": "DataGenerator",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.utils.data_generation",
+        "description": "qwen-llm.triton_tutorials.utils.data_generation",
+        "peekOfCode": "class DataGenerator:\n    \"\"\"\n    📊 DATA GENERATOR\n    A utility class for generating test data for Triton kernels.\n    \"\"\"\n    def __init__(self, seed: Optional[int] = None):\n        \"\"\"\n        Initialize the data generator.\n        Args:\n            seed: Random seed for reproducibility",
+        "detail": "qwen-llm.triton_tutorials.utils.data_generation",
+        "documentation": {}
+    },
+    {
+        "label": "generate_test_data",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.utils.data_generation",
+        "description": "qwen-llm.triton_tutorials.utils.data_generation",
+        "peekOfCode": "def generate_test_data():\n    \"\"\"Generate test data for various scenarios.\"\"\"\n    print(\"📊 Generating Test Data:\")\n    print(\"=\" * 50)\n    generator = DataGenerator(seed=42)\n    # Generate vector data\n    print(\"\\n📈 Vector Data:\")\n    vector_config = DataConfig(size=1024, dtype=torch.float32, distribution='normal')\n    vector_data = generator.generate_vector(vector_config)\n    print(f\"  Generated vector: {vector_data.shape}, dtype: {vector_data.dtype}\")",
+        "detail": "qwen-llm.triton_tutorials.utils.data_generation",
+        "documentation": {}
+    },
+    {
+        "label": "generate_validation_data",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.utils.data_generation",
+        "description": "qwen-llm.triton_tutorials.utils.data_generation",
+        "peekOfCode": "def generate_validation_data():\n    \"\"\"Generate data for validation tests.\"\"\"\n    print(\"\\n📊 Generating Validation Data:\")\n    print(\"=\" * 50)\n    generator = DataGenerator(seed=123)\n    # Generate edge case data\n    edge_cases = []\n    # Single element\n    single_config = DataConfig(size=1, dtype=torch.float32, distribution='normal')\n    edge_cases.append(generator.generate_vector(single_config))",
+        "detail": "qwen-llm.triton_tutorials.utils.data_generation",
+        "documentation": {}
+    },
+    {
+        "label": "PerformanceMetrics",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.utils.performance_analysis",
+        "description": "qwen-llm.triton_tutorials.utils.performance_analysis",
+        "peekOfCode": "class PerformanceMetrics:\n    \"\"\"Performance metrics for a kernel.\"\"\"\n    name: str\n    execution_time: float\n    memory_bandwidth: float\n    arithmetic_intensity: float\n    gpu_utilization: float\n    cache_hit_rate: float\n    throughput: float\n    efficiency: float",
+        "detail": "qwen-llm.triton_tutorials.utils.performance_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "PerformanceAnalyzer",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.utils.performance_analysis",
+        "description": "qwen-llm.triton_tutorials.utils.performance_analysis",
+        "peekOfCode": "class PerformanceAnalyzer:\n    \"\"\"\n    📈 PERFORMANCE ANALYZER\n    A comprehensive performance analyzer for Triton kernels.\n    \"\"\"\n    def __init__(self):\n        \"\"\"Initialize the performance analyzer.\"\"\"\n        self.metrics = []\n        self.gpu_available = torch.cuda.is_available()\n    def analyze_kernel(self,",
+        "detail": "qwen-llm.triton_tutorials.utils.performance_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_vector_operations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.utils.performance_analysis",
+        "description": "qwen-llm.triton_tutorials.utils.performance_analysis",
+        "peekOfCode": "def analyze_vector_operations():\n    \"\"\"Analyze performance of vector operations.\"\"\"\n    print(\"📈 Analyzing Vector Operations:\")\n    print(\"=\" * 50)\n    analyzer = PerformanceAnalyzer()\n    # Test different sizes\n    sizes = [1024, 4096, 16384, 65536, 262144]\n    for size in sizes:\n        print(f\"\\n📊 Size: {size:,} elements\")\n        # Create test data",
+        "detail": "qwen-llm.triton_tutorials.utils.performance_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_matrix_operations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.utils.performance_analysis",
+        "description": "qwen-llm.triton_tutorials.utils.performance_analysis",
+        "peekOfCode": "def analyze_matrix_operations():\n    \"\"\"Analyze performance of matrix operations.\"\"\"\n    print(\"\\n📈 Analyzing Matrix Operations:\")\n    print(\"=\" * 50)\n    analyzer = PerformanceAnalyzer()\n    # Test different matrix sizes\n    sizes = [\n        (256, 256, 256),\n        (512, 512, 512),\n        (1024, 1024, 1024),",
+        "detail": "qwen-llm.triton_tutorials.utils.performance_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_scaling",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.utils.performance_analysis",
+        "description": "qwen-llm.triton_tutorials.utils.performance_analysis",
+        "peekOfCode": "def analyze_scaling():\n    \"\"\"Analyze scaling performance.\"\"\"\n    print(\"\\n📈 Analyzing Scaling Performance:\")\n    print(\"=\" * 50)\n    analyzer = PerformanceAnalyzer()\n    # Test scaling with vector addition\n    sizes = [1024, 4096, 16384, 65536, 262144, 1048576]\n    def vector_add(x, y):\n        return x + y\n    scaling_metrics = analyzer.analyze_scaling(vector_add, \"Vector Addition\", sizes)",
+        "detail": "qwen-llm.triton_tutorials.utils.performance_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "ProfileResult",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.utils.profiling",
+        "description": "qwen-llm.triton_tutorials.utils.profiling",
+        "peekOfCode": "class ProfileResult:\n    \"\"\"Results from a profiling run.\"\"\"\n    name: str\n    execution_time: float\n    memory_usage: float\n    gpu_memory_usage: float\n    gpu_utilization: float\n    cpu_utilization: float\n    throughput: Optional[float] = None\n    error: Optional[str] = None",
+        "detail": "qwen-llm.triton_tutorials.utils.profiling",
+        "documentation": {}
+    },
+    {
+        "label": "PerformanceProfiler",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.utils.profiling",
+        "description": "qwen-llm.triton_tutorials.utils.profiling",
+        "peekOfCode": "class PerformanceProfiler:\n    \"\"\"\n    🔍 PERFORMANCE PROFILER\n    A comprehensive profiler for Triton kernels and PyTorch operations.\n    \"\"\"\n    def __init__(self):\n        \"\"\"Initialize the performance profiler.\"\"\"\n        self.results = []\n        self.gpu_available = torch.cuda.is_available()\n    def profile_function(self, ",
+        "detail": "qwen-llm.triton_tutorials.utils.profiling",
+        "documentation": {}
+    },
+    {
+        "label": "profile_system_info",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.utils.profiling",
+        "description": "qwen-llm.triton_tutorials.utils.profiling",
+        "peekOfCode": "def profile_system_info():\n    \"\"\"Profile system information.\"\"\"\n    print(\"🔍 System Information:\")\n    print(\"=\" * 50)\n    # CPU information\n    print(f\"CPU: {psutil.cpu_count()} cores\")\n    print(f\"CPU Usage: {psutil.cpu_percent()}%\")\n    # Memory information\n    memory = psutil.virtual_memory()\n    print(f\"Memory: {memory.total / 1024**3:.1f} GB total, {memory.available / 1024**3:.1f} GB available\")",
+        "detail": "qwen-llm.triton_tutorials.utils.profiling",
+        "documentation": {}
+    },
+    {
+        "label": "profile_kernel_performance",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.utils.profiling",
+        "description": "qwen-llm.triton_tutorials.utils.profiling",
+        "peekOfCode": "def profile_kernel_performance():\n    \"\"\"Profile kernel performance.\"\"\"\n    print(\"\\n🔍 Profiling Kernel Performance:\")\n    print(\"=\" * 50)\n    profiler = PerformanceProfiler()\n    # Test vector operations\n    size = 1024 * 1024  # 1M elements\n    a = torch.randn(size, device='cuda' if torch.cuda.is_available() else 'cpu', dtype=torch.float32)\n    b = torch.randn(size, device='cuda' if torch.cuda.is_available() else 'cpu', dtype=torch.float32)\n    # Profile vector addition",
+        "detail": "qwen-llm.triton_tutorials.utils.profiling",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationResult",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.utils.validation",
+        "description": "qwen-llm.triton_tutorials.utils.validation",
+        "peekOfCode": "class ValidationResult:\n    \"\"\"Results from a validation test.\"\"\"\n    name: str\n    passed: bool\n    max_error: float\n    mean_error: float\n    relative_error: float\n    error_message: Optional[str] = None\nclass ValidationSuite:\n    \"\"\"",
+        "detail": "qwen-llm.triton_tutorials.utils.validation",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationSuite",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.utils.validation",
+        "description": "qwen-llm.triton_tutorials.utils.validation",
+        "peekOfCode": "class ValidationSuite:\n    \"\"\"\n    ✅ VALIDATION SUITE\n    A comprehensive validation suite for Triton kernels.\n    \"\"\"\n    def __init__(self, rtol: float = 1e-5, atol: float = 1e-6):\n        \"\"\"\n        Initialize the validation suite.\n        Args:\n            rtol: Relative tolerance for comparison",
+        "detail": "qwen-llm.triton_tutorials.utils.validation",
+        "documentation": {}
+    },
+    {
+        "label": "validate_vector_operations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.utils.validation",
+        "description": "qwen-llm.triton_tutorials.utils.validation",
+        "peekOfCode": "def validate_vector_operations():\n    \"\"\"Validate vector operations.\"\"\"\n    print(\"✅ Validating Vector Operations:\")\n    print(\"=\" * 50)\n    suite = ValidationSuite()\n    # Test different sizes\n    sizes = [1024, 4096, 16384]\n    for size in sizes:\n        print(f\"\\n📊 Size: {size:,} elements\")\n        # Create test data",
+        "detail": "qwen-llm.triton_tutorials.utils.validation",
+        "documentation": {}
+    },
+    {
+        "label": "validate_matrix_operations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.utils.validation",
+        "description": "qwen-llm.triton_tutorials.utils.validation",
+        "peekOfCode": "def validate_matrix_operations():\n    \"\"\"Validate matrix operations.\"\"\"\n    print(\"\\n✅ Validating Matrix Operations:\")\n    print(\"=\" * 50)\n    suite = ValidationSuite()\n    # Test different matrix sizes\n    sizes = [\n        (256, 256, 256),\n        (512, 512, 512),\n        (1024, 1024, 1024),",
+        "detail": "qwen-llm.triton_tutorials.utils.validation",
+        "documentation": {}
+    },
+    {
+        "label": "validate_edge_cases",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.utils.validation",
+        "description": "qwen-llm.triton_tutorials.utils.validation",
+        "peekOfCode": "def validate_edge_cases():\n    \"\"\"Validate edge cases.\"\"\"\n    print(\"\\n✅ Validating Edge Cases:\")\n    print(\"=\" * 50)\n    suite = ValidationSuite()\n    # Test edge cases\n    edge_cases = [\n        # Single element\n        (torch.tensor([1.0], device='cuda' if torch.cuda.is_available() else 'cpu'),\n         torch.tensor([2.0], device='cuda' if torch.cuda.is_available() else 'cpu')),",
+        "detail": "qwen-llm.triton_tutorials.utils.validation",
         "documentation": {}
     },
     {
@@ -6836,123 +8013,6 @@
         "description": "qwen-llm.train_qwen3",
         "peekOfCode": "def interactive_inference(model_path: str = \"models/final_model1.pt\"):\n    \"\"\"\n    🤖 INTERACTIVE INFERENCE SESSION\n    This function allows you to interact with the trained model\n    \"\"\"\n    print(\"🤖 Starting interactive inference session\")\n    print(\"Type 'quit' to exit\")\n    # Load model\n    if not os.path.exists(model_path):\n        print(f\"❌ Model file {model_path} not found!\")",
         "detail": "qwen-llm.train_qwen3",
-        "documentation": {}
-    },
-    {
-        "label": "outerk_matmul_kernel",
-        "kind": 2,
-        "importPath": "triton-tutorials.kernels.matmul_outer_k",
-        "description": "triton-tutorials.kernels.matmul_outer_k",
-        "peekOfCode": "def outerk_matmul_kernel(\n    # input pointers\n    a_ptr,\n    b_ptr,\n    # output ptr\n    c_ptr,\n    # matrix dimensions\n    M, N, K,\n    # the stride variables represent how much to increase the ptr by when moving by 1\n    # element in a particular dimension. E.g. stride_am is how much to increase a_ptr",
-        "detail": "triton-tutorials.kernels.matmul_outer_k",
-        "documentation": {}
-    },
-    {
-        "label": "triton_outer_k_matmul",
-        "kind": 2,
-        "importPath": "triton-tutorials.kernels.matmul_outer_k",
-        "description": "triton-tutorials.kernels.matmul_outer_k",
-        "peekOfCode": "def triton_outer_k_matmul(a, b):\n    \"\"\"\n    Compute matmul of C = A @ B using Triton block tiled kernel\n    Inputs:\n    a: torch.tensor of shape (M, K)\n    b: torch.tensor of shape (K, N)\n    Returns:\n    C: shape (M, N)\n    \"\"\"\n    # verify our inputs",
-        "detail": "triton-tutorials.kernels.matmul_outer_k",
-        "documentation": {}
-    },
-    {
-        "label": "benchmark_matmul",
-        "kind": 2,
-        "importPath": "triton-tutorials.kernels.matmul_outer_k",
-        "description": "triton-tutorials.kernels.matmul_outer_k",
-        "peekOfCode": "def benchmark_matmul():\n    # Create random matrices\n    M, N, K = 8192, 8192, 4096\n    a = torch.randn((M, K), device='cuda', dtype=torch.float32)\n    b = torch.randn((K, N), device='cuda', dtype=torch.float32)\n    # Verify correctness\n    torch_output = torch.matmul(a, b)\n    triton_output = triton_outer_k_matmul(a, b)\n    assert torch.allclose(torch_output, triton_output, rtol=1e-2, atol=1e-1), \\\n        \"Triton and PyTorch matmul results don't match!\"",
-        "detail": "triton-tutorials.kernels.matmul_outer_k",
-        "documentation": {}
-    },
-    {
-        "label": "vector_addition_kernel",
-        "kind": 2,
-        "importPath": "triton-tutorials.kernels.vector_addition_tutorial",
-        "description": "triton-tutorials.kernels.vector_addition_tutorial",
-        "peekOfCode": "def vector_addition_kernel(\n    # the first two arguments are pointers to the input and output tensors\n    # we will see how to pass these arguments in the wrapper function below\n    x_ptr,\n    y_ptr,\n    output_ptr,\n    # the total count of the inputs we are summing over\n    n_elements,\n    # the stride of the input and output tensors\n    # tl.constexpr is a decorator that designates a variable as a compile-time constant",
-        "detail": "triton-tutorials.kernels.vector_addition_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "vector_addition",
-        "kind": 2,
-        "importPath": "triton-tutorials.kernels.vector_addition_tutorial",
-        "description": "triton-tutorials.kernels.vector_addition_tutorial",
-        "peekOfCode": "def vector_addition(x, y):\n    # lets' first make sure that the input tensors are on the GPU\n    assert x.is_cuda and y.is_cuda, \"Input tensors must be on GPU!\"\n    # we need to also make sure that a and b are the same size\n    assert x.numel() == y.numel(), \"Input tensors must be the same size!\"\n    # the output shape is the same as the input shape\n    output = torch.empty_like(x)\n    # the grid is the number of program blocks we need to launch to handle the entire input\n    # cdiv just means ceiling division, so it returns the smallest integer >= x / y ensuring we always\n    # launch enough program blocks to handle the entire input",
-        "detail": "triton-tutorials.kernels.vector_addition_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "construct_grouped_gemm",
-        "kind": 2,
-        "importPath": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
-        "description": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
-        "peekOfCode": "def construct_grouped_gemm(\n    M: int,\n    K: int,\n    N: int,\n    num_experts: int,\n    group_size_m: int = 128,\n    device: str = \"cuda\",\n    dtype: torch.dtype = torch.bfloat16,\n) -> Tuple[torch.Tensor, torch.Tensor, torch.Tensor]:\n    \"\"\"",
-        "detail": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
-        "documentation": {}
-    },
-    {
-        "label": "pytorch_reference_gemm",
-        "kind": 2,
-        "importPath": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
-        "description": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
-        "peekOfCode": "def pytorch_reference_gemm(\n    inputs: torch.Tensor,\n    expert_weights: torch.Tensor,\n    expert_indices: torch.Tensor,\n    group_size_m: int = 128,\n) -> torch.Tensor:\n    \"\"\"\n    Reference implementation using PyTorch for verification.\n    \"\"\"\n    M_total, K = inputs.shape",
-        "detail": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
-        "documentation": {}
-    },
-    {
-        "label": "triton_gemm_func",
-        "kind": 2,
-        "importPath": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
-        "description": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
-        "peekOfCode": "def triton_gemm_func(a, b, expert_indices):\n    return grouped_gemm_persistent(a, b, expert_indices)\ndef gemm_func_torch(a, b, expert_indices):\n    return pytorch_reference_gemm(a, b, expert_indices)\nnum_threads = torch.get_num_threads()\nprint(f'Benchmarking on {num_threads} threads')\nresults = []\nfor num_groups, m, k, n in ((4, 8192, 7168, 4096), (4, 8192, 2048, 7168), (8, 4096, 7168, 4096), (8, 4096, 2048, 7168)):\n    a, b, expert_indices = construct_grouped_gemm(m, k, n, num_groups)\n    label = 'BF16 Grouped GEMM Performance'",
-        "detail": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
-        "documentation": {}
-    },
-    {
-        "label": "gemm_func_torch",
-        "kind": 2,
-        "importPath": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
-        "description": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
-        "peekOfCode": "def gemm_func_torch(a, b, expert_indices):\n    return pytorch_reference_gemm(a, b, expert_indices)\nnum_threads = torch.get_num_threads()\nprint(f'Benchmarking on {num_threads} threads')\nresults = []\nfor num_groups, m, k, n in ((4, 8192, 7168, 4096), (4, 8192, 2048, 7168), (8, 4096, 7168, 4096), (8, 4096, 2048, 7168)):\n    a, b, expert_indices = construct_grouped_gemm(m, k, n, num_groups)\n    label = 'BF16 Grouped GEMM Performance'\n    sub_label = f'num_groups: {num_groups}, m: {m}, n: {n}, k: {k}'\n    results.append(benchmark.Timer(",
-        "detail": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
-        "documentation": {}
-    },
-    {
-        "label": "num_threads",
-        "kind": 5,
-        "importPath": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
-        "description": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
-        "peekOfCode": "num_threads = torch.get_num_threads()\nprint(f'Benchmarking on {num_threads} threads')\nresults = []\nfor num_groups, m, k, n in ((4, 8192, 7168, 4096), (4, 8192, 2048, 7168), (8, 4096, 7168, 4096), (8, 4096, 2048, 7168)):\n    a, b, expert_indices = construct_grouped_gemm(m, k, n, num_groups)\n    label = 'BF16 Grouped GEMM Performance'\n    sub_label = f'num_groups: {num_groups}, m: {m}, n: {n}, k: {k}'\n    results.append(benchmark.Timer(\n        stmt='triton_gemm_func(a, b, expert_indices)',\n        setup='from __main__ import triton_gemm_func',",
-        "detail": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
-        "documentation": {}
-    },
-    {
-        "label": "results",
-        "kind": 5,
-        "importPath": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
-        "description": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
-        "peekOfCode": "results = []\nfor num_groups, m, k, n in ((4, 8192, 7168, 4096), (4, 8192, 2048, 7168), (8, 4096, 7168, 4096), (8, 4096, 2048, 7168)):\n    a, b, expert_indices = construct_grouped_gemm(m, k, n, num_groups)\n    label = 'BF16 Grouped GEMM Performance'\n    sub_label = f'num_groups: {num_groups}, m: {m}, n: {n}, k: {k}'\n    results.append(benchmark.Timer(\n        stmt='triton_gemm_func(a, b, expert_indices)',\n        setup='from __main__ import triton_gemm_func',\n        globals={'a': a, 'b' : b, 'expert_indices': expert_indices},\n        num_threads=num_threads,",
-        "detail": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
-        "documentation": {}
-    },
-    {
-        "label": "compare",
-        "kind": 5,
-        "importPath": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
-        "description": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
-        "peekOfCode": "compare = benchmark.Compare(results)\ncompare.print()",
-        "detail": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
-        "documentation": {}
-    },
-    {
-        "label": "grouped_gemm_persistent",
-        "kind": 2,
-        "importPath": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.grouped_gemm",
-        "description": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.grouped_gemm",
-        "peekOfCode": "def grouped_gemm_persistent(\n    inputs: torch.Tensor,  # [M_total, K]\n    expert_weights: torch.Tensor,  # [num_experts, N, K]\n    expert_indices: torch.Tensor,  # [M_total]\n) -> torch.Tensor:\n    return _grouped_gemm_persistent(inputs, expert_weights, expert_indices)",
-        "detail": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.grouped_gemm",
         "documentation": {}
     },
     {
