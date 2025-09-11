@@ -1,21 +1,5 @@
 [
     {
-        "label": "Image",
-        "importPath": "PIL",
-        "description": "PIL",
-        "isExtraImport": true,
-        "detail": "PIL",
-        "documentation": {}
-    },
-    {
-        "label": "Image",
-        "importPath": "PIL",
-        "description": "PIL",
-        "isExtraImport": true,
-        "detail": "PIL",
-        "documentation": {}
-    },
-    {
         "label": "torch",
         "kind": 6,
         "isExtraImport": true,
@@ -25,68 +9,866 @@
         "documentation": {}
     },
     {
-        "label": "nn",
-        "importPath": "torch",
-        "description": "torch",
-        "isExtraImport": true,
-        "detail": "torch",
-        "documentation": {}
-    },
-    {
-        "label": "fire",
+        "label": "torch.nn",
         "kind": 6,
         "isExtraImport": true,
-        "importPath": "fire",
-        "description": "fire",
-        "detail": "fire",
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
         "documentation": {}
     },
     {
-        "label": "PaliGemmaProcessor",
-        "importPath": "processing_paligemma",
-        "description": "processing_paligemma",
+        "label": "torch.nn.functional",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "processing_paligemma",
+        "importPath": "torch.nn.functional",
+        "description": "torch.nn.functional",
+        "detail": "torch.nn.functional",
         "documentation": {}
     },
     {
-        "label": "KVCache",
-        "importPath": "modeling_gemma",
-        "description": "modeling_gemma",
+        "label": "torch.utils.data",
+        "kind": 6,
         "isExtraImport": true,
-        "detail": "modeling_gemma",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "detail": "torch.utils.data",
         "documentation": {}
     },
     {
-        "label": "PaliGemmaForConditionalGeneration",
-        "importPath": "modeling_gemma",
-        "description": "modeling_gemma",
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
         "isExtraImport": true,
-        "detail": "modeling_gemma",
+        "detail": "torch.utils.data",
         "documentation": {}
     },
     {
-        "label": "PaliGemmaForConditionalGeneration",
-        "importPath": "modeling_gemma",
-        "description": "modeling_gemma",
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
         "isExtraImport": true,
-        "detail": "modeling_gemma",
+        "detail": "torch.utils.data",
         "documentation": {}
     },
     {
-        "label": "PaliGemmaConfig",
-        "importPath": "modeling_gemma",
-        "description": "modeling_gemma",
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
         "isExtraImport": true,
-        "detail": "modeling_gemma",
+        "detail": "torch.utils.data",
         "documentation": {}
     },
     {
-        "label": "load_hf_model",
-        "importPath": "utils",
-        "description": "utils",
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
         "isExtraImport": true,
-        "detail": "utils",
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "autocast",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "GradScaler",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "autocast",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "GradScaler",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "autocast",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "GradScaler",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "autocast",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "GradScaler",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "autocast",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "GradScaler",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "autocast",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "GradScaler",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "autocast",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "GradScaler",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "autocast",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "GradScaler",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoModel",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoModelForCausalLM",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoModel",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoModelForCausalLM",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoModel",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoModelForSequenceClassification",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "asdict",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
         "documentation": {}
     },
     {
@@ -115,14 +897,6 @@
     },
     {
         "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Tuple",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -138,6 +912,22 @@
         "documentation": {}
     },
     {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
         "label": "List",
         "importPath": "typing",
         "description": "typing",
@@ -147,6 +937,46 @@
     },
     {
         "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TYPE_CHECKING",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -162,87 +992,7 @@
         "documentation": {}
     },
     {
-        "label": "Tuple",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Iterable",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Tuple",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
         "label": "TYPE_CHECKING",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "TYPE_CHECKING",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Tuple",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Tuple",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -274,7 +1024,23 @@
         "documentation": {}
     },
     {
-        "label": "Tuple",
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncGenerator",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -306,7 +1072,31 @@
         "documentation": {}
     },
     {
-        "label": "TYPE_CHECKING",
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncGenerator",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -1202,224 +1992,12 @@
         "documentation": {}
     },
     {
-        "label": "torch.nn",
+        "label": "warnings",
         "kind": 6,
         "isExtraImport": true,
-        "importPath": "torch.nn",
-        "description": "torch.nn",
-        "detail": "torch.nn",
-        "documentation": {}
-    },
-    {
-        "label": "CrossEntropyLoss",
-        "importPath": "torch.nn",
-        "description": "torch.nn",
-        "isExtraImport": true,
-        "detail": "torch.nn",
-        "documentation": {}
-    },
-    {
-        "label": "math",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "math",
-        "description": "math",
-        "detail": "math",
-        "documentation": {}
-    },
-    {
-        "label": "SiglipVisionConfig",
-        "importPath": "modeling_siglip",
-        "description": "modeling_siglip",
-        "isExtraImport": true,
-        "detail": "modeling_siglip",
-        "documentation": {}
-    },
-    {
-        "label": "SiglipVisionModel",
-        "importPath": "modeling_siglip",
-        "description": "modeling_siglip",
-        "isExtraImport": true,
-        "detail": "modeling_siglip",
-        "documentation": {}
-    },
-    {
-        "label": "numpy",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "numpy",
-        "description": "numpy",
-        "detail": "numpy",
-        "documentation": {}
-    },
-    {
-        "label": "AutoTokenizer",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
-        "label": "AutoTokenizer",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
-        "label": "AutoTokenizer",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
-        "label": "AutoTokenizer",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
-        "label": "AutoTokenizer",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
-        "label": "AutoModel",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
-        "label": "AutoModelForSequenceClassification",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
-        "label": "AutoTokenizer",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
-        "label": "AutoTokenizer",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
-        "label": "AutoTokenizer",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
-        "label": "AutoTokenizer",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
-        "label": "AutoTokenizer",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
-        "label": "AutoTokenizer",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
-        "label": "AutoTokenizer",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
-        "label": "AutoTokenizer",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
-        "label": "AutoTokenizer",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
-        "label": "AutoTokenizer",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
-        "label": "AutoTokenizer",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
-        "label": "json",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "json",
-        "description": "json",
-        "detail": "json",
-        "documentation": {}
-    },
-    {
-        "label": "glob",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "glob",
-        "description": "glob",
-        "detail": "glob",
-        "documentation": {}
-    },
-    {
-        "label": "safe_open",
-        "importPath": "safetensors",
-        "description": "safetensors",
-        "isExtraImport": true,
-        "detail": "safetensors",
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
         "documentation": {}
     },
     {
@@ -1429,587 +2007,6 @@
         "importPath": "os",
         "description": "os",
         "detail": "os",
-        "documentation": {}
-    },
-    {
-        "label": "torch.nn.functional",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "torch.nn.functional",
-        "description": "torch.nn.functional",
-        "detail": "torch.nn.functional",
-        "documentation": {}
-    },
-    {
-        "label": "torch.utils.data",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "torch.utils.data",
-        "description": "torch.utils.data",
-        "detail": "torch.utils.data",
-        "documentation": {}
-    },
-    {
-        "label": "Dataset",
-        "importPath": "torch.utils.data",
-        "description": "torch.utils.data",
-        "isExtraImport": true,
-        "detail": "torch.utils.data",
-        "documentation": {}
-    },
-    {
-        "label": "DataLoader",
-        "importPath": "torch.utils.data",
-        "description": "torch.utils.data",
-        "isExtraImport": true,
-        "detail": "torch.utils.data",
-        "documentation": {}
-    },
-    {
-        "label": "Dataset",
-        "importPath": "torch.utils.data",
-        "description": "torch.utils.data",
-        "isExtraImport": true,
-        "detail": "torch.utils.data",
-        "documentation": {}
-    },
-    {
-        "label": "DataLoader",
-        "importPath": "torch.utils.data",
-        "description": "torch.utils.data",
-        "isExtraImport": true,
-        "detail": "torch.utils.data",
-        "documentation": {}
-    },
-    {
-        "label": "DataLoader",
-        "importPath": "torch.utils.data",
-        "description": "torch.utils.data",
-        "isExtraImport": true,
-        "detail": "torch.utils.data",
-        "documentation": {}
-    },
-    {
-        "label": "DataLoader",
-        "importPath": "torch.utils.data",
-        "description": "torch.utils.data",
-        "isExtraImport": true,
-        "detail": "torch.utils.data",
-        "documentation": {}
-    },
-    {
-        "label": "Dataset",
-        "importPath": "torch.utils.data",
-        "description": "torch.utils.data",
-        "isExtraImport": true,
-        "detail": "torch.utils.data",
-        "documentation": {}
-    },
-    {
-        "label": "Dataset",
-        "importPath": "torch.utils.data",
-        "description": "torch.utils.data",
-        "isExtraImport": true,
-        "detail": "torch.utils.data",
-        "documentation": {}
-    },
-    {
-        "label": "DataLoader",
-        "importPath": "torch.utils.data",
-        "description": "torch.utils.data",
-        "isExtraImport": true,
-        "detail": "torch.utils.data",
-        "documentation": {}
-    },
-    {
-        "label": "Dataset",
-        "importPath": "torch.utils.data",
-        "description": "torch.utils.data",
-        "isExtraImport": true,
-        "detail": "torch.utils.data",
-        "documentation": {}
-    },
-    {
-        "label": "DataLoader",
-        "importPath": "torch.utils.data",
-        "description": "torch.utils.data",
-        "isExtraImport": true,
-        "detail": "torch.utils.data",
-        "documentation": {}
-    },
-    {
-        "label": "Dataset",
-        "importPath": "torch.utils.data",
-        "description": "torch.utils.data",
-        "isExtraImport": true,
-        "detail": "torch.utils.data",
-        "documentation": {}
-    },
-    {
-        "label": "DataLoader",
-        "importPath": "torch.utils.data",
-        "description": "torch.utils.data",
-        "isExtraImport": true,
-        "detail": "torch.utils.data",
-        "documentation": {}
-    },
-    {
-        "label": "Dataset",
-        "importPath": "torch.utils.data",
-        "description": "torch.utils.data",
-        "isExtraImport": true,
-        "detail": "torch.utils.data",
-        "documentation": {}
-    },
-    {
-        "label": "DataLoader",
-        "importPath": "torch.utils.data",
-        "description": "torch.utils.data",
-        "isExtraImport": true,
-        "detail": "torch.utils.data",
-        "documentation": {}
-    },
-    {
-        "label": "autocast",
-        "importPath": "torch.cuda.amp",
-        "description": "torch.cuda.amp",
-        "isExtraImport": true,
-        "detail": "torch.cuda.amp",
-        "documentation": {}
-    },
-    {
-        "label": "GradScaler",
-        "importPath": "torch.cuda.amp",
-        "description": "torch.cuda.amp",
-        "isExtraImport": true,
-        "detail": "torch.cuda.amp",
-        "documentation": {}
-    },
-    {
-        "label": "autocast",
-        "importPath": "torch.cuda.amp",
-        "description": "torch.cuda.amp",
-        "isExtraImport": true,
-        "detail": "torch.cuda.amp",
-        "documentation": {}
-    },
-    {
-        "label": "GradScaler",
-        "importPath": "torch.cuda.amp",
-        "description": "torch.cuda.amp",
-        "isExtraImport": true,
-        "detail": "torch.cuda.amp",
-        "documentation": {}
-    },
-    {
-        "label": "autocast",
-        "importPath": "torch.cuda.amp",
-        "description": "torch.cuda.amp",
-        "isExtraImport": true,
-        "detail": "torch.cuda.amp",
-        "documentation": {}
-    },
-    {
-        "label": "GradScaler",
-        "importPath": "torch.cuda.amp",
-        "description": "torch.cuda.amp",
-        "isExtraImport": true,
-        "detail": "torch.cuda.amp",
-        "documentation": {}
-    },
-    {
-        "label": "autocast",
-        "importPath": "torch.cuda.amp",
-        "description": "torch.cuda.amp",
-        "isExtraImport": true,
-        "detail": "torch.cuda.amp",
-        "documentation": {}
-    },
-    {
-        "label": "GradScaler",
-        "importPath": "torch.cuda.amp",
-        "description": "torch.cuda.amp",
-        "isExtraImport": true,
-        "detail": "torch.cuda.amp",
-        "documentation": {}
-    },
-    {
-        "label": "autocast",
-        "importPath": "torch.cuda.amp",
-        "description": "torch.cuda.amp",
-        "isExtraImport": true,
-        "detail": "torch.cuda.amp",
-        "documentation": {}
-    },
-    {
-        "label": "GradScaler",
-        "importPath": "torch.cuda.amp",
-        "description": "torch.cuda.amp",
-        "isExtraImport": true,
-        "detail": "torch.cuda.amp",
-        "documentation": {}
-    },
-    {
-        "label": "autocast",
-        "importPath": "torch.cuda.amp",
-        "description": "torch.cuda.amp",
-        "isExtraImport": true,
-        "detail": "torch.cuda.amp",
-        "documentation": {}
-    },
-    {
-        "label": "GradScaler",
-        "importPath": "torch.cuda.amp",
-        "description": "torch.cuda.amp",
-        "isExtraImport": true,
-        "detail": "torch.cuda.amp",
-        "documentation": {}
-    },
-    {
-        "label": "autocast",
-        "importPath": "torch.cuda.amp",
-        "description": "torch.cuda.amp",
-        "isExtraImport": true,
-        "detail": "torch.cuda.amp",
-        "documentation": {}
-    },
-    {
-        "label": "GradScaler",
-        "importPath": "torch.cuda.amp",
-        "description": "torch.cuda.amp",
-        "isExtraImport": true,
-        "detail": "torch.cuda.amp",
-        "documentation": {}
-    },
-    {
-        "label": "autocast",
-        "importPath": "torch.cuda.amp",
-        "description": "torch.cuda.amp",
-        "isExtraImport": true,
-        "detail": "torch.cuda.amp",
-        "documentation": {}
-    },
-    {
-        "label": "GradScaler",
-        "importPath": "torch.cuda.amp",
-        "description": "torch.cuda.amp",
-        "isExtraImport": true,
-        "detail": "torch.cuda.amp",
-        "documentation": {}
-    },
-    {
-        "label": "random",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "random",
-        "description": "random",
-        "detail": "random",
-        "documentation": {}
-    },
-    {
-        "label": "load_dataset",
-        "importPath": "datasets",
-        "description": "datasets",
-        "isExtraImport": true,
-        "detail": "datasets",
-        "documentation": {}
-    },
-    {
-        "label": "load_dataset",
-        "importPath": "datasets",
-        "description": "datasets",
-        "isExtraImport": true,
-        "detail": "datasets",
-        "documentation": {}
-    },
-    {
-        "label": "load_dataset",
-        "importPath": "datasets",
-        "description": "datasets",
-        "isExtraImport": true,
-        "detail": "datasets",
-        "documentation": {}
-    },
-    {
-        "label": "load_dataset",
-        "importPath": "datasets",
-        "description": "datasets",
-        "isExtraImport": true,
-        "detail": "datasets",
-        "documentation": {}
-    },
-    {
-        "label": "load_dataset",
-        "importPath": "datasets",
-        "description": "datasets",
-        "isExtraImport": true,
-        "detail": "datasets",
-        "documentation": {}
-    },
-    {
-        "label": "load_dataset",
-        "importPath": "datasets",
-        "description": "datasets",
-        "isExtraImport": true,
-        "detail": "datasets",
-        "documentation": {}
-    },
-    {
-        "label": "tqdm",
-        "importPath": "tqdm",
-        "description": "tqdm",
-        "isExtraImport": true,
-        "detail": "tqdm",
-        "documentation": {}
-    },
-    {
-        "label": "tqdm",
-        "importPath": "tqdm",
-        "description": "tqdm",
-        "isExtraImport": true,
-        "detail": "tqdm",
-        "documentation": {}
-    },
-    {
-        "label": "tqdm",
-        "importPath": "tqdm",
-        "description": "tqdm",
-        "isExtraImport": true,
-        "detail": "tqdm",
-        "documentation": {}
-    },
-    {
-        "label": "tqdm",
-        "importPath": "tqdm",
-        "description": "tqdm",
-        "isExtraImport": true,
-        "detail": "tqdm",
-        "documentation": {}
-    },
-    {
-        "label": "tqdm",
-        "importPath": "tqdm",
-        "description": "tqdm",
-        "isExtraImport": true,
-        "detail": "tqdm",
-        "documentation": {}
-    },
-    {
-        "label": "tqdm",
-        "importPath": "tqdm",
-        "description": "tqdm",
-        "isExtraImport": true,
-        "detail": "tqdm",
-        "documentation": {}
-    },
-    {
-        "label": "tqdm",
-        "importPath": "tqdm",
-        "description": "tqdm",
-        "isExtraImport": true,
-        "detail": "tqdm",
-        "documentation": {}
-    },
-    {
-        "label": "tqdm",
-        "importPath": "tqdm",
-        "description": "tqdm",
-        "isExtraImport": true,
-        "detail": "tqdm",
-        "documentation": {}
-    },
-    {
-        "label": "tqdm",
-        "importPath": "tqdm",
-        "description": "tqdm",
-        "isExtraImport": true,
-        "detail": "tqdm",
-        "documentation": {}
-    },
-    {
-        "label": "tqdm",
-        "importPath": "tqdm",
-        "description": "tqdm",
-        "isExtraImport": true,
-        "detail": "tqdm",
-        "documentation": {}
-    },
-    {
-        "label": "time",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "time",
-        "description": "time",
-        "detail": "time",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "asdict",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "warnings",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "warnings",
-        "description": "warnings",
-        "detail": "warnings",
         "documentation": {}
     },
     {
@@ -2078,6 +2075,22 @@
         "documentation": {}
     },
     {
+        "label": "deque",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "deque",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
         "label": "defaultdict",
         "importPath": "collections",
         "description": "collections",
@@ -2086,12 +2099,28 @@
         "documentation": {}
     },
     {
-        "label": "sys",
+        "label": "asyncio",
         "kind": 6,
         "isExtraImport": true,
-        "importPath": "sys",
-        "description": "sys",
-        "detail": "sys",
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
         "documentation": {}
     },
     {
@@ -2104,12 +2133,21 @@
         "documentation": {}
     },
     {
-        "label": "asyncio",
+        "label": "sys",
         "kind": 6,
         "isExtraImport": true,
-        "importPath": "asyncio",
-        "description": "asyncio",
-        "detail": "asyncio",
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
         "documentation": {}
     },
     {
@@ -2214,6 +2252,46 @@
         "description": "fast_inference.utils.benchmarking",
         "isExtraImport": true,
         "detail": "fast_inference.utils.benchmarking",
+        "documentation": {}
+    },
+    {
+        "label": "create_universal_fast_inference",
+        "importPath": "fast_inference.core.engine.universal_engine",
+        "description": "fast_inference.core.engine.universal_engine",
+        "isExtraImport": true,
+        "detail": "fast_inference.core.engine.universal_engine",
+        "documentation": {}
+    },
+    {
+        "label": "create_universal_vllm_style_engine",
+        "importPath": "fast_inference.core.engine.universal_vllm_engine",
+        "description": "fast_inference.core.engine.universal_vllm_engine",
+        "isExtraImport": true,
+        "detail": "fast_inference.core.engine.universal_vllm_engine",
+        "documentation": {}
+    },
+    {
+        "label": "SchedulerPolicy",
+        "importPath": "fast_inference.core.engine.universal_vllm_engine",
+        "description": "fast_inference.core.engine.universal_vllm_engine",
+        "isExtraImport": true,
+        "detail": "fast_inference.core.engine.universal_vllm_engine",
+        "documentation": {}
+    },
+    {
+        "label": "create_vllm_style_engine",
+        "importPath": "fast_inference.core.engine.vllm_style_engine",
+        "description": "fast_inference.core.engine.vllm_style_engine",
+        "isExtraImport": true,
+        "detail": "fast_inference.core.engine.vllm_style_engine",
+        "documentation": {}
+    },
+    {
+        "label": "SchedulerPolicy",
+        "importPath": "fast_inference.core.engine.vllm_style_engine",
+        "description": "fast_inference.core.engine.vllm_style_engine",
+        "isExtraImport": true,
+        "detail": "fast_inference.core.engine.vllm_style_engine",
         "documentation": {}
     },
     {
@@ -3666,330 +3744,6 @@
         "documentation": {}
     },
     {
-        "label": "move_inputs_to_device",
-        "kind": 2,
-        "importPath": "pytorch-paligemma.inference",
-        "description": "pytorch-paligemma.inference",
-        "peekOfCode": "def move_inputs_to_device(model_inputs: dict, device: str):\n    model_inputs = {k: v.to(device) for k, v in model_inputs.items()}\n    return model_inputs\ndef get_model_inputs(\n    processor: PaliGemmaProcessor, prompt: str, image_file_path: str, device: str\n):\n    image = Image.open(image_file_path)\n    images = [image]\n    prompts = [prompt]\n    model_inputs = processor(text=prompts, images=images)",
-        "detail": "pytorch-paligemma.inference",
-        "documentation": {}
-    },
-    {
-        "label": "get_model_inputs",
-        "kind": 2,
-        "importPath": "pytorch-paligemma.inference",
-        "description": "pytorch-paligemma.inference",
-        "peekOfCode": "def get_model_inputs(\n    processor: PaliGemmaProcessor, prompt: str, image_file_path: str, device: str\n):\n    image = Image.open(image_file_path)\n    images = [image]\n    prompts = [prompt]\n    model_inputs = processor(text=prompts, images=images)\n    model_inputs = move_inputs_to_device(model_inputs, device)\n    return model_inputs\ndef test_inference(",
-        "detail": "pytorch-paligemma.inference",
-        "documentation": {}
-    },
-    {
-        "label": "test_inference",
-        "kind": 2,
-        "importPath": "pytorch-paligemma.inference",
-        "description": "pytorch-paligemma.inference",
-        "peekOfCode": "def test_inference(\n    model: PaliGemmaForConditionalGeneration,\n    processor: PaliGemmaProcessor,\n    device: str,\n    prompt: str,\n    image_file_path: str,\n    max_tokens_to_generate: int,\n    temperature: float,\n    top_p: float,\n    do_sample: bool,",
-        "detail": "pytorch-paligemma.inference",
-        "documentation": {}
-    },
-    {
-        "label": "main",
-        "kind": 2,
-        "importPath": "pytorch-paligemma.inference",
-        "description": "pytorch-paligemma.inference",
-        "peekOfCode": "def main(\n    model_path: str = None,\n    prompt: str = None,\n    image_file_path: str = None,\n    max_tokens_to_generate: int = 100,\n    temperature: float = 0.8,\n    top_p: float = 0.9,\n    do_sample: bool = False,\n    only_cpu: bool = False,\n):",
-        "detail": "pytorch-paligemma.inference",
-        "documentation": {}
-    },
-    {
-        "label": "KVCache",
-        "kind": 6,
-        "importPath": "pytorch-paligemma.modeling_gemma",
-        "description": "pytorch-paligemma.modeling_gemma",
-        "peekOfCode": "class KVCache():\n    def __init__(self) -> None:\n        self.key_cache: List[torch.Tensor] = []\n        self.value_cache: List[torch.Tensor] = []\n    def num_items(self) -> int:\n        if len(self.key_cache) == 0:\n            return 0\n        else:\n            # The shape of the key_cache is [Batch_Size, Num_Heads_KV, Seq_Len, Head_Dim]\n            return self.key_cache[0].shape[-2]",
-        "detail": "pytorch-paligemma.modeling_gemma",
-        "documentation": {}
-    },
-    {
-        "label": "GemmaConfig",
-        "kind": 6,
-        "importPath": "pytorch-paligemma.modeling_gemma",
-        "description": "pytorch-paligemma.modeling_gemma",
-        "peekOfCode": "class GemmaConfig():\n    def __init__(\n        self,\n        vocab_size,\n        hidden_size,\n        intermediate_size,\n        num_hidden_layers,\n        num_attention_heads,\n        num_key_value_heads,\n        head_dim=256,",
-        "detail": "pytorch-paligemma.modeling_gemma",
-        "documentation": {}
-    },
-    {
-        "label": "PaliGemmaConfig",
-        "kind": 6,
-        "importPath": "pytorch-paligemma.modeling_gemma",
-        "description": "pytorch-paligemma.modeling_gemma",
-        "peekOfCode": "class PaliGemmaConfig():\n    def __init__(\n        self,\n        vision_config=None,\n        text_config=None,\n        ignore_index=-100,\n        image_token_index=256000,\n        vocab_size=257152,\n        projection_dim=2048,\n        hidden_size=2048,",
-        "detail": "pytorch-paligemma.modeling_gemma",
-        "documentation": {}
-    },
-    {
-        "label": "GemmaRMSNorm",
-        "kind": 6,
-        "importPath": "pytorch-paligemma.modeling_gemma",
-        "description": "pytorch-paligemma.modeling_gemma",
-        "peekOfCode": "class GemmaRMSNorm(nn.Module):\n    def __init__(self, dim: int, eps: float = 1e-6):\n        super().__init__()\n        self.eps = eps\n        self.weight = nn.Parameter(torch.zeros(dim))\n    def _norm(self, x):\n        return x * torch.rsqrt(x.pow(2).mean(-1, keepdim=True) + self.eps)\n    def forward(self, x):\n        output = self._norm(x.float())\n        # Llama does x.to(float16) * w whilst Gemma is (x * w).to(float16)",
-        "detail": "pytorch-paligemma.modeling_gemma",
-        "documentation": {}
-    },
-    {
-        "label": "GemmaRotaryEmbedding",
-        "kind": 6,
-        "importPath": "pytorch-paligemma.modeling_gemma",
-        "description": "pytorch-paligemma.modeling_gemma",
-        "peekOfCode": "class GemmaRotaryEmbedding(nn.Module):\n    def __init__(self, dim, max_position_embeddings=2048, base=10000, device=None):\n        super().__init__()\n        self.dim = dim # it is set to the head_dim\n        self.max_position_embeddings = max_position_embeddings\n        self.base = base\n        # Calculate the theta according to the formula theta_i = base^(-2i/dim) where i = 0, 1, 2, ..., dim // 2\n        inv_freq = 1.0 / (self.base ** (torch.arange(0, self.dim, 2, dtype=torch.int64).float() / self.dim))\n        self.register_buffer(\"inv_freq\", tensor=inv_freq, persistent=False)\n    @torch.no_grad()",
-        "detail": "pytorch-paligemma.modeling_gemma",
-        "documentation": {}
-    },
-    {
-        "label": "GemmaMLP",
-        "kind": 6,
-        "importPath": "pytorch-paligemma.modeling_gemma",
-        "description": "pytorch-paligemma.modeling_gemma",
-        "peekOfCode": "class GemmaMLP(nn.Module):\n    def __init__(self, config):\n        super().__init__()\n        self.config = config\n        self.hidden_size = config.hidden_size\n        self.intermediate_size = config.intermediate_size\n        self.gate_proj = nn.Linear(self.hidden_size, self.intermediate_size, bias=False)\n        self.up_proj = nn.Linear(self.hidden_size, self.intermediate_size, bias=False)\n        self.down_proj = nn.Linear(self.intermediate_size, self.hidden_size, bias=False)\n    def forward(self, x):",
-        "detail": "pytorch-paligemma.modeling_gemma",
-        "documentation": {}
-    },
-    {
-        "label": "GemmaAttention",
-        "kind": 6,
-        "importPath": "pytorch-paligemma.modeling_gemma",
-        "description": "pytorch-paligemma.modeling_gemma",
-        "peekOfCode": "class GemmaAttention(nn.Module):\n    def __init__(self, config: GemmaConfig, layer_idx: Optional[int] = None):\n        super().__init__()\n        self.config = config\n        self.layer_idx = layer_idx\n        self.attention_dropout = config.attention_dropout\n        self.hidden_size = config.hidden_size\n        self.num_heads = config.num_attention_heads\n        self.head_dim = config.head_dim\n        self.num_key_value_heads = config.num_key_value_heads",
-        "detail": "pytorch-paligemma.modeling_gemma",
-        "documentation": {}
-    },
-    {
-        "label": "GemmaDecoderLayer",
-        "kind": 6,
-        "importPath": "pytorch-paligemma.modeling_gemma",
-        "description": "pytorch-paligemma.modeling_gemma",
-        "peekOfCode": "class GemmaDecoderLayer(nn.Module):\n    def __init__(self, config: GemmaConfig, layer_idx: int):\n        super().__init__()\n        self.hidden_size = config.hidden_size\n        self.self_attn = GemmaAttention(config=config, layer_idx=layer_idx)\n        self.mlp = GemmaMLP(config)\n        self.input_layernorm = GemmaRMSNorm(config.hidden_size, eps=config.rms_norm_eps)\n        self.post_attention_layernorm = GemmaRMSNorm(config.hidden_size, eps=config.rms_norm_eps)\n    def forward(\n        self,",
-        "detail": "pytorch-paligemma.modeling_gemma",
-        "documentation": {}
-    },
-    {
-        "label": "GemmaModel",
-        "kind": 6,
-        "importPath": "pytorch-paligemma.modeling_gemma",
-        "description": "pytorch-paligemma.modeling_gemma",
-        "peekOfCode": "class GemmaModel(nn.Module):\n    def __init__(self, config: GemmaConfig):\n        super().__init__()\n        self.config = config\n        self.padding_idx = config.pad_token_id\n        self.vocab_size = config.vocab_size\n        self.embed_tokens = nn.Embedding(config.vocab_size, config.hidden_size, self.padding_idx)\n        self.layers = nn.ModuleList(\n            [GemmaDecoderLayer(config, layer_idx) for layer_idx in range(config.num_hidden_layers)]\n        )",
-        "detail": "pytorch-paligemma.modeling_gemma",
-        "documentation": {}
-    },
-    {
-        "label": "GemmaForCausalLM",
-        "kind": 6,
-        "importPath": "pytorch-paligemma.modeling_gemma",
-        "description": "pytorch-paligemma.modeling_gemma",
-        "peekOfCode": "class GemmaForCausalLM(nn.Module):\n    def __init__(self, config):\n        super().__init__()\n        self.config = config\n        self.model = GemmaModel(config)\n        self.vocab_size = config.vocab_size\n        self.lm_head = nn.Linear(config.hidden_size, config.vocab_size, bias=False)\n    def get_input_embeddings(self):\n        return self.model.embed_tokens\n    def tie_weights(self):",
-        "detail": "pytorch-paligemma.modeling_gemma",
-        "documentation": {}
-    },
-    {
-        "label": "PaliGemmaMultiModalProjector",
-        "kind": 6,
-        "importPath": "pytorch-paligemma.modeling_gemma",
-        "description": "pytorch-paligemma.modeling_gemma",
-        "peekOfCode": "class PaliGemmaMultiModalProjector(nn.Module):\n    def __init__(self, config: PaliGemmaConfig):\n        super().__init__()\n        self.linear = nn.Linear(config.vision_config.hidden_size, config.vision_config.projection_dim, bias=True)\n    def forward(self, image_features):\n        # [Batch_Size, Num_Patches, Embed_Dim] -> [Batch_Size, Num_Patches, Projection_Dim]\n        hidden_states = self.linear(image_features)\n        return hidden_states\nclass PaliGemmaForConditionalGeneration(nn.Module):\n    def __init__(self, config: PaliGemmaConfig):",
-        "detail": "pytorch-paligemma.modeling_gemma",
-        "documentation": {}
-    },
-    {
-        "label": "PaliGemmaForConditionalGeneration",
-        "kind": 6,
-        "importPath": "pytorch-paligemma.modeling_gemma",
-        "description": "pytorch-paligemma.modeling_gemma",
-        "peekOfCode": "class PaliGemmaForConditionalGeneration(nn.Module):\n    def __init__(self, config: PaliGemmaConfig):\n        super().__init__()\n        self.config = config\n        self.vision_tower = SiglipVisionModel(config.vision_config)\n        self.multi_modal_projector = PaliGemmaMultiModalProjector(config)\n        self.vocab_size = config.vocab_size\n        language_model = GemmaForCausalLM(config.text_config)\n        self.language_model = language_model\n        self.pad_token_id = self.config.pad_token_id if self.config.pad_token_id is not None else -1",
-        "detail": "pytorch-paligemma.modeling_gemma",
-        "documentation": {}
-    },
-    {
-        "label": "rotate_half",
-        "kind": 2,
-        "importPath": "pytorch-paligemma.modeling_gemma",
-        "description": "pytorch-paligemma.modeling_gemma",
-        "peekOfCode": "def rotate_half(x):\n    # Build the [-x2, x1, -x4, x3, ...] tensor for the sin part of the positional encoding.\n    x1 = x[..., : x.shape[-1] // 2] # Takes the first half of the last dimension\n    x2 = x[..., x.shape[-1] // 2 :] # Takes the second half of the last dimension\n    return torch.cat((-x2, x1), dim=-1)\ndef apply_rotary_pos_emb(q, k, cos, sin, unsqueeze_dim=1):\n    cos = cos.unsqueeze(unsqueeze_dim) # Add the head dimension\n    sin = sin.unsqueeze(unsqueeze_dim) # Add the head dimension\n    # Apply the formula (34) of the Rotary Positional Encoding paper.\n    q_embed = (q * cos) + (rotate_half(q) * sin)",
-        "detail": "pytorch-paligemma.modeling_gemma",
-        "documentation": {}
-    },
-    {
-        "label": "apply_rotary_pos_emb",
-        "kind": 2,
-        "importPath": "pytorch-paligemma.modeling_gemma",
-        "description": "pytorch-paligemma.modeling_gemma",
-        "peekOfCode": "def apply_rotary_pos_emb(q, k, cos, sin, unsqueeze_dim=1):\n    cos = cos.unsqueeze(unsqueeze_dim) # Add the head dimension\n    sin = sin.unsqueeze(unsqueeze_dim) # Add the head dimension\n    # Apply the formula (34) of the Rotary Positional Encoding paper.\n    q_embed = (q * cos) + (rotate_half(q) * sin)\n    k_embed = (k * cos) + (rotate_half(k) * sin)\n    return q_embed, k_embed\nclass GemmaMLP(nn.Module):\n    def __init__(self, config):\n        super().__init__()",
-        "detail": "pytorch-paligemma.modeling_gemma",
-        "documentation": {}
-    },
-    {
-        "label": "repeat_kv",
-        "kind": 2,
-        "importPath": "pytorch-paligemma.modeling_gemma",
-        "description": "pytorch-paligemma.modeling_gemma",
-        "peekOfCode": "def repeat_kv(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:\n    batch, num_key_value_heads, slen, head_dim = hidden_states.shape\n    if n_rep == 1:\n        return hidden_states\n    hidden_states = hidden_states[:, :, None, :, :].expand(batch, num_key_value_heads, n_rep, slen, head_dim)\n    return hidden_states.reshape(batch, num_key_value_heads * n_rep, slen, head_dim)\nclass GemmaAttention(nn.Module):\n    def __init__(self, config: GemmaConfig, layer_idx: Optional[int] = None):\n        super().__init__()\n        self.config = config",
-        "detail": "pytorch-paligemma.modeling_gemma",
-        "documentation": {}
-    },
-    {
-        "label": "SiglipVisionConfig",
-        "kind": 6,
-        "importPath": "pytorch-paligemma.modeling_siglip",
-        "description": "pytorch-paligemma.modeling_siglip",
-        "peekOfCode": "class SiglipVisionConfig:\n    def __init__(\n        self,\n        hidden_size=768,\n        intermediate_size=3072,\n        num_hidden_layers=12,\n        num_attention_heads=12,\n        num_channels=3,\n        image_size=224,\n        patch_size=16,",
-        "detail": "pytorch-paligemma.modeling_siglip",
-        "documentation": {}
-    },
-    {
-        "label": "SiglipVisionEmbeddings",
-        "kind": 6,
-        "importPath": "pytorch-paligemma.modeling_siglip",
-        "description": "pytorch-paligemma.modeling_siglip",
-        "peekOfCode": "class SiglipVisionEmbeddings(nn.Module):\n    def __init__(self, config: SiglipVisionConfig):\n        super().__init__()\n        self.config = config\n        self.embed_dim = config.hidden_size\n        self.image_size = config.image_size\n        self.patch_size = config.patch_size\n        self.patch_embedding = nn.Conv2d(\n            in_channels=config.num_channels,\n            out_channels=self.embed_dim,",
-        "detail": "pytorch-paligemma.modeling_siglip",
-        "documentation": {}
-    },
-    {
-        "label": "SiglipAttention",
-        "kind": 6,
-        "importPath": "pytorch-paligemma.modeling_siglip",
-        "description": "pytorch-paligemma.modeling_siglip",
-        "peekOfCode": "class SiglipAttention(nn.Module):\n    \"\"\"Multi-headed attention from 'Attention Is All You Need' paper\"\"\"\n    def __init__(self, config):\n        super().__init__()\n        self.config = config\n        self.embed_dim = config.hidden_size\n        self.num_heads = config.num_attention_heads\n        self.head_dim = self.embed_dim // self.num_heads\n        self.scale = self.head_dim**-0.5 # Equivalent to 1 / sqrt(self.head_dim)\n        self.dropout = config.attention_dropout",
-        "detail": "pytorch-paligemma.modeling_siglip",
-        "documentation": {}
-    },
-    {
-        "label": "SiglipMLP",
-        "kind": 6,
-        "importPath": "pytorch-paligemma.modeling_siglip",
-        "description": "pytorch-paligemma.modeling_siglip",
-        "peekOfCode": "class SiglipMLP(nn.Module):\n    def __init__(self, config):\n        super().__init__()\n        self.config = config\n        self.fc1 = nn.Linear(config.hidden_size, config.intermediate_size)\n        self.fc2 = nn.Linear(config.intermediate_size, config.hidden_size)\n    def forward(self, hidden_states: torch.Tensor) -> torch.Tensor:\n        # [Batch_Size, Num_Patches, Embed_Dim] -> [Batch_Size, Num_Patches, Intermediate_Size]\n        hidden_states = self.fc1(hidden_states)\n        # hidden_states: [Batch_Size, Num_Patches, Intermediate_Size]",
-        "detail": "pytorch-paligemma.modeling_siglip",
-        "documentation": {}
-    },
-    {
-        "label": "SiglipEncoderLayer",
-        "kind": 6,
-        "importPath": "pytorch-paligemma.modeling_siglip",
-        "description": "pytorch-paligemma.modeling_siglip",
-        "peekOfCode": "class SiglipEncoderLayer(nn.Module):\n    def __init__(self, config: SiglipVisionConfig):\n        super().__init__()\n        self.embed_dim = config.hidden_size\n        self.self_attn = SiglipAttention(config)\n        self.layer_norm1 = nn.LayerNorm(self.embed_dim, eps=config.layer_norm_eps)\n        self.mlp = SiglipMLP(config)\n        self.layer_norm2 = nn.LayerNorm(self.embed_dim, eps=config.layer_norm_eps)\n    # Ignore copy\n    def forward(",
-        "detail": "pytorch-paligemma.modeling_siglip",
-        "documentation": {}
-    },
-    {
-        "label": "SiglipEncoder",
-        "kind": 6,
-        "importPath": "pytorch-paligemma.modeling_siglip",
-        "description": "pytorch-paligemma.modeling_siglip",
-        "peekOfCode": "class SiglipEncoder(nn.Module):\n    def __init__(self, config: SiglipVisionConfig):\n        super().__init__()\n        self.config = config\n        self.layers = nn.ModuleList(\n            [SiglipEncoderLayer(config) for _ in range(config.num_hidden_layers)]\n        )\n    # Ignore copy\n    def forward(\n        self,",
-        "detail": "pytorch-paligemma.modeling_siglip",
-        "documentation": {}
-    },
-    {
-        "label": "SiglipVisionTransformer",
-        "kind": 6,
-        "importPath": "pytorch-paligemma.modeling_siglip",
-        "description": "pytorch-paligemma.modeling_siglip",
-        "peekOfCode": "class SiglipVisionTransformer(nn.Module):\n    def __init__(self, config: SiglipVisionConfig):\n        super().__init__()\n        self.config = config\n        embed_dim = config.hidden_size\n        self.embeddings = SiglipVisionEmbeddings(config)\n        self.encoder = SiglipEncoder(config)\n        self.post_layernorm = nn.LayerNorm(embed_dim, eps=config.layer_norm_eps)\n    def forward(self, pixel_values: torch.Tensor) -> torch.Tensor:\n        # pixel_values: [Batch_Size, Channels, Height, Width] -> [Batch_Size, Num_Patches, Embed_Dim]",
-        "detail": "pytorch-paligemma.modeling_siglip",
-        "documentation": {}
-    },
-    {
-        "label": "SiglipVisionModel",
-        "kind": 6,
-        "importPath": "pytorch-paligemma.modeling_siglip",
-        "description": "pytorch-paligemma.modeling_siglip",
-        "peekOfCode": "class SiglipVisionModel(nn.Module):\n    def __init__(self, config: SiglipVisionConfig):\n        super().__init__()\n        self.config = config\n        self.vision_model = SiglipVisionTransformer(config)\n    def forward(self, pixel_values) -> Tuple:\n        # [Batch_Size, Channels, Height, Width] -> [Batch_Size, Num_Patches, Embed_Dim]\n        return self.vision_model(pixel_values=pixel_values)",
-        "detail": "pytorch-paligemma.modeling_siglip",
-        "documentation": {}
-    },
-    {
-        "label": "PaliGemmaProcessor",
-        "kind": 6,
-        "importPath": "pytorch-paligemma.processing_paligemma",
-        "description": "pytorch-paligemma.processing_paligemma",
-        "peekOfCode": "class PaliGemmaProcessor:\n    IMAGE_TOKEN = \"<image>\"\n    def __init__(self, tokenizer, num_image_tokens: int, image_size: int):\n        super().__init__()\n        self.image_seq_length = num_image_tokens\n        self.image_size = image_size\n        # Tokenizer described here: https://github.com/google-research/big_vision/blob/main/big_vision/configs/proj/paligemma/README.md#tokenizer\n        tokens_to_add = {\"additional_special_tokens\": [self.IMAGE_TOKEN]}\n        tokenizer.add_special_tokens(tokens_to_add)\n        EXTRA_TOKENS = [",
-        "detail": "pytorch-paligemma.processing_paligemma",
-        "documentation": {}
-    },
-    {
-        "label": "add_image_tokens_to_prompt",
-        "kind": 2,
-        "importPath": "pytorch-paligemma.processing_paligemma",
-        "description": "pytorch-paligemma.processing_paligemma",
-        "peekOfCode": "def add_image_tokens_to_prompt(prefix_prompt, bos_token, image_seq_len, image_token):\n    # Quoting from the blog (https://huggingface.co/blog/paligemma#detailed-inference-process):\n    #   The input text is tokenized normally.\n    #   A <bos> token is added at the beginning, and an additional newline token (\\n) is appended.\n    #   This newline token is an essential part of the input prompt the model was trained with, so adding it explicitly ensures it's always there.\n    #   The tokenized text is also prefixed with a fixed number of <image> tokens.\n    # NOTE: from the paper it looks like the `\\n` should be tokenized separately, but in the HF implementation this is not done.\n    #       ref to HF implementation: https://github.com/huggingface/transformers/blob/7f79a97399bb52aad8460e1da2f36577d5dccfed/src/transformers/models/paligemma/processing_paligemma.py#L55-L73\n    return f\"{image_token * image_seq_len}{bos_token}{prefix_prompt}\\n\"\ndef rescale(",
-        "detail": "pytorch-paligemma.processing_paligemma",
-        "documentation": {}
-    },
-    {
-        "label": "rescale",
-        "kind": 2,
-        "importPath": "pytorch-paligemma.processing_paligemma",
-        "description": "pytorch-paligemma.processing_paligemma",
-        "peekOfCode": "def rescale(\n    image: np.ndarray, scale: float, dtype: np.dtype = np.float32\n) -> np.ndarray:\n    rescaled_image = image * scale\n    rescaled_image = rescaled_image.astype(dtype)\n    return rescaled_image\ndef resize(\n    image: Image,\n    size: Tuple[int, int],\n    resample: Image.Resampling = None,",
-        "detail": "pytorch-paligemma.processing_paligemma",
-        "documentation": {}
-    },
-    {
-        "label": "resize",
-        "kind": 2,
-        "importPath": "pytorch-paligemma.processing_paligemma",
-        "description": "pytorch-paligemma.processing_paligemma",
-        "peekOfCode": "def resize(\n    image: Image,\n    size: Tuple[int, int],\n    resample: Image.Resampling = None,\n    reducing_gap: Optional[int] = None,\n) -> np.ndarray:\n    height, width = size\n    resized_image = image.resize(\n        (width, height), resample=resample, reducing_gap=reducing_gap\n    )",
-        "detail": "pytorch-paligemma.processing_paligemma",
-        "documentation": {}
-    },
-    {
-        "label": "normalize",
-        "kind": 2,
-        "importPath": "pytorch-paligemma.processing_paligemma",
-        "description": "pytorch-paligemma.processing_paligemma",
-        "peekOfCode": "def normalize(\n    image: np.ndarray,\n    mean: Union[float, Iterable[float]],\n    std: Union[float, Iterable[float]],\n) -> np.ndarray:\n    mean = np.array(mean, dtype=image.dtype)\n    std = np.array(std, dtype=image.dtype)\n    image = (image - mean) / std\n    return image\ndef process_images(",
-        "detail": "pytorch-paligemma.processing_paligemma",
-        "documentation": {}
-    },
-    {
-        "label": "process_images",
-        "kind": 2,
-        "importPath": "pytorch-paligemma.processing_paligemma",
-        "description": "pytorch-paligemma.processing_paligemma",
-        "peekOfCode": "def process_images(\n    images: List[Image.Image],\n    size: Dict[str, int] = None,\n    resample: Image.Resampling = None,\n    rescale_factor: float = None,\n    image_mean: Optional[Union[float, List[float]]] = None,\n    image_std: Optional[Union[float, List[float]]] = None,\n) -> List[np.ndarray]:\n    height, width = size[0], size[1]\n    images = [",
-        "detail": "pytorch-paligemma.processing_paligemma",
-        "documentation": {}
-    },
-    {
-        "label": "IMAGENET_STANDARD_MEAN",
-        "kind": 5,
-        "importPath": "pytorch-paligemma.processing_paligemma",
-        "description": "pytorch-paligemma.processing_paligemma",
-        "peekOfCode": "IMAGENET_STANDARD_MEAN = [0.5, 0.5, 0.5]\nIMAGENET_STANDARD_STD = [0.5, 0.5, 0.5]\ndef add_image_tokens_to_prompt(prefix_prompt, bos_token, image_seq_len, image_token):\n    # Quoting from the blog (https://huggingface.co/blog/paligemma#detailed-inference-process):\n    #   The input text is tokenized normally.\n    #   A <bos> token is added at the beginning, and an additional newline token (\\n) is appended.\n    #   This newline token is an essential part of the input prompt the model was trained with, so adding it explicitly ensures it's always there.\n    #   The tokenized text is also prefixed with a fixed number of <image> tokens.\n    # NOTE: from the paper it looks like the `\\n` should be tokenized separately, but in the HF implementation this is not done.\n    #       ref to HF implementation: https://github.com/huggingface/transformers/blob/7f79a97399bb52aad8460e1da2f36577d5dccfed/src/transformers/models/paligemma/processing_paligemma.py#L55-L73",
-        "detail": "pytorch-paligemma.processing_paligemma",
-        "documentation": {}
-    },
-    {
-        "label": "IMAGENET_STANDARD_STD",
-        "kind": 5,
-        "importPath": "pytorch-paligemma.processing_paligemma",
-        "description": "pytorch-paligemma.processing_paligemma",
-        "peekOfCode": "IMAGENET_STANDARD_STD = [0.5, 0.5, 0.5]\ndef add_image_tokens_to_prompt(prefix_prompt, bos_token, image_seq_len, image_token):\n    # Quoting from the blog (https://huggingface.co/blog/paligemma#detailed-inference-process):\n    #   The input text is tokenized normally.\n    #   A <bos> token is added at the beginning, and an additional newline token (\\n) is appended.\n    #   This newline token is an essential part of the input prompt the model was trained with, so adding it explicitly ensures it's always there.\n    #   The tokenized text is also prefixed with a fixed number of <image> tokens.\n    # NOTE: from the paper it looks like the `\\n` should be tokenized separately, but in the HF implementation this is not done.\n    #       ref to HF implementation: https://github.com/huggingface/transformers/blob/7f79a97399bb52aad8460e1da2f36577d5dccfed/src/transformers/models/paligemma/processing_paligemma.py#L55-L73\n    return f\"{image_token * image_seq_len}{bos_token}{prefix_prompt}\\n\"",
-        "detail": "pytorch-paligemma.processing_paligemma",
-        "documentation": {}
-    },
-    {
-        "label": "load_hf_model",
-        "kind": 2,
-        "importPath": "pytorch-paligemma.utils",
-        "description": "pytorch-paligemma.utils",
-        "peekOfCode": "def load_hf_model(model_path: str, device: str) -> Tuple[PaliGemmaForConditionalGeneration, AutoTokenizer]:\n    # Load the tokenizer\n    tokenizer = AutoTokenizer.from_pretrained(model_path, padding_side=\"right\")\n    assert tokenizer.padding_side == \"right\"\n    # Find all the *.safetensors files\n    safetensors_files = glob.glob(os.path.join(model_path, \"*.safetensors\"))\n    # ... and load them one by one in the tensors dictionary\n    tensors = {}\n    for safetensors_file in safetensors_files:\n        with safe_open(safetensors_file, framework=\"pt\", device=\"cpu\") as f:",
-        "detail": "pytorch-paligemma.utils",
-        "documentation": {}
-    },
-    {
         "label": "SmallModelConfig",
         "kind": 6,
         "importPath": "qwen-llm.config.qwen3_small_config",
@@ -4152,6 +3906,159 @@
         "documentation": {}
     },
     {
+        "label": "UniversalFastInference",
+        "kind": 6,
+        "importPath": "qwen-llm.fast_inference.core.engine.universal_engine",
+        "description": "qwen-llm.fast_inference.core.engine.universal_engine",
+        "peekOfCode": "class UniversalFastInference:\n    \"\"\"\n    🌐 UNIVERSAL FAST INFERENCE ENGINE\n    A universal inference engine that can work with ANY model:\n    - HuggingFace models (BERT, RoBERTa, GPT, LLaMA, etc.)\n    - Custom models (like your MinimalLLM)\n    - Any PyTorch model with transformer architecture\n    Key Features:\n    - Automatic model detection\n    - Universal KV caching",
+        "detail": "qwen-llm.fast_inference.core.engine.universal_engine",
+        "documentation": {}
+    },
+    {
+        "label": "CachedTransformerBlock",
+        "kind": 6,
+        "importPath": "qwen-llm.fast_inference.core.engine.universal_engine",
+        "description": "qwen-llm.fast_inference.core.engine.universal_engine",
+        "peekOfCode": "class CachedTransformerBlock(nn.Module):\n    \"\"\"\n    🏗️ CACHED TRANSFORMER BLOCK\n    Universal transformer block with cached attention.\n    \"\"\"\n    def __init__(self, config, kv_cache: 'SimpleKVCache'):\n        super().__init__()\n        from ..attention.cached_attention import CachedAttention\n        from pretraining.core.model.components import SwiGLUFeedForward, RMSNorm\n        self.attention = CachedAttention(config, kv_cache)",
+        "detail": "qwen-llm.fast_inference.core.engine.universal_engine",
+        "documentation": {}
+    },
+    {
+        "label": "create_universal_fast_inference",
+        "kind": 2,
+        "importPath": "qwen-llm.fast_inference.core.engine.universal_engine",
+        "description": "qwen-llm.fast_inference.core.engine.universal_engine",
+        "peekOfCode": "def create_universal_fast_inference(model: Union[nn.Module, str], tokenizer: Union[Any, str], \n                                   max_seq_len: int = 2048, model_type: str = \"auto\") -> UniversalFastInference:\n    \"\"\"\n    Create a universal fast inference engine.\n    Args:\n        model: Model instance, model path, or HuggingFace model name\n        tokenizer: Tokenizer instance, tokenizer path, or HuggingFace tokenizer name\n        max_seq_len: Maximum sequence length\n        model_type: Model type (\"auto\", \"huggingface\", \"custom\", \"minimal_llm\")\n    Returns:",
+        "detail": "qwen-llm.fast_inference.core.engine.universal_engine",
+        "documentation": {}
+    },
+    {
+        "label": "SchedulerPolicy",
+        "kind": 6,
+        "importPath": "qwen-llm.fast_inference.core.engine.universal_vllm_engine",
+        "description": "qwen-llm.fast_inference.core.engine.universal_vllm_engine",
+        "peekOfCode": "class SchedulerPolicy(Enum):\n    \"\"\"Scheduling policies for request handling.\"\"\"\n    FCFS = \"first_come_first_served\"  # First Come First Served\n    PRIORITY = \"priority\"             # Priority-based\n    MEMORY_AWARE = \"memory_aware\"     # Memory-aware scheduling\n@dataclass\nclass Block:\n    \"\"\"Represents a memory block in the cache.\"\"\"\n    block_id: int\n    ref_count: int = 0",
+        "detail": "qwen-llm.fast_inference.core.engine.universal_vllm_engine",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "qwen-llm.fast_inference.core.engine.universal_vllm_engine",
+        "description": "qwen-llm.fast_inference.core.engine.universal_vllm_engine",
+        "peekOfCode": "class Block:\n    \"\"\"Represents a memory block in the cache.\"\"\"\n    block_id: int\n    ref_count: int = 0\n    is_allocated: bool = False\n    sequence_ids: List[int] = field(default_factory=list)\n@dataclass\nclass SequenceMetadata:\n    \"\"\"Metadata for a generation sequence.\"\"\"\n    seq_id: int",
+        "detail": "qwen-llm.fast_inference.core.engine.universal_vllm_engine",
+        "documentation": {}
+    },
+    {
+        "label": "SequenceMetadata",
+        "kind": 6,
+        "importPath": "qwen-llm.fast_inference.core.engine.universal_vllm_engine",
+        "description": "qwen-llm.fast_inference.core.engine.universal_vllm_engine",
+        "peekOfCode": "class SequenceMetadata:\n    \"\"\"Metadata for a generation sequence.\"\"\"\n    seq_id: int\n    prompt: str\n    input_ids: torch.Tensor\n    output_ids: List[int] = field(default_factory=list)\n    sampling_params: Dict[str, Any] = field(default_factory=dict)\n    blocks: List[int] = field(default_factory=list)  # Allocated block IDs\n    finished: bool = False\n    prefill_done: bool = False",
+        "detail": "qwen-llm.fast_inference.core.engine.universal_vllm_engine",
+        "documentation": {}
+    },
+    {
+        "label": "UniversalPagedAttentionCache",
+        "kind": 6,
+        "importPath": "qwen-llm.fast_inference.core.engine.universal_vllm_engine",
+        "description": "qwen-llm.fast_inference.core.engine.universal_vllm_engine",
+        "peekOfCode": "class UniversalPagedAttentionCache:\n    \"\"\"\n    🌐 UNIVERSAL PAGED ATTENTION CACHE\n    Universal PagedAttention implementation that works with any model:\n    - Automatic model detection\n    - Universal block-wise memory management\n    - Memory fragmentation handling\n    - Efficient block allocation/deallocation\n    \"\"\"\n    def __init__(self, num_blocks: int, block_size: int, model_info: Dict[str, Any], ",
+        "detail": "qwen-llm.fast_inference.core.engine.universal_vllm_engine",
+        "documentation": {}
+    },
+    {
+        "label": "UniversalVLLMStyleEngine",
+        "kind": 6,
+        "importPath": "qwen-llm.fast_inference.core.engine.universal_vllm_engine",
+        "description": "qwen-llm.fast_inference.core.engine.universal_vllm_engine",
+        "peekOfCode": "class UniversalVLLMStyleEngine:\n    \"\"\"\n    🌐 UNIVERSAL VLLM-STYLE INFERENCE ENGINE\n    Combines universal model support with vLLM features:\n    - Works with ANY model (MinimalLLM, HuggingFace, custom)\n    - True PagedAttention with block-wise memory management\n    - Advanced scheduling policies\n    - Async API support\n    - Production-ready features\n    \"\"\"",
+        "detail": "qwen-llm.fast_inference.core.engine.universal_vllm_engine",
+        "documentation": {}
+    },
+    {
+        "label": "create_universal_vllm_style_engine",
+        "kind": 2,
+        "importPath": "qwen-llm.fast_inference.core.engine.universal_vllm_engine",
+        "description": "qwen-llm.fast_inference.core.engine.universal_vllm_engine",
+        "peekOfCode": "def create_universal_vllm_style_engine(model: Union[nn.Module, str], tokenizer: Union[Any, str], \n                                      **kwargs) -> UniversalVLLMStyleEngine:\n    \"\"\"\n    Create a universal vLLM-style inference engine.\n    Args:\n        model: Model instance, model path, or HuggingFace model name\n        tokenizer: Tokenizer instance, tokenizer path, or HuggingFace tokenizer name\n        **kwargs: Additional arguments\n    Returns:\n        UniversalVLLMStyleEngine instance",
+        "detail": "qwen-llm.fast_inference.core.engine.universal_vllm_engine",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "qwen-llm.fast_inference.core.engine.universal_vllm_engine",
+        "description": "qwen-llm.fast_inference.core.engine.universal_vllm_engine",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass SchedulerPolicy(Enum):\n    \"\"\"Scheduling policies for request handling.\"\"\"\n    FCFS = \"first_come_first_served\"  # First Come First Served\n    PRIORITY = \"priority\"             # Priority-based\n    MEMORY_AWARE = \"memory_aware\"     # Memory-aware scheduling\n@dataclass\nclass Block:\n    \"\"\"Represents a memory block in the cache.\"\"\"\n    block_id: int",
+        "detail": "qwen-llm.fast_inference.core.engine.universal_vllm_engine",
+        "documentation": {}
+    },
+    {
+        "label": "SchedulerPolicy",
+        "kind": 6,
+        "importPath": "qwen-llm.fast_inference.core.engine.vllm_style_engine",
+        "description": "qwen-llm.fast_inference.core.engine.vllm_style_engine",
+        "peekOfCode": "class SchedulerPolicy(Enum):\n    \"\"\"Scheduling policies for request handling.\"\"\"\n    FCFS = \"first_come_first_served\"  # First Come First Served\n    PRIORITY = \"priority\"             # Priority-based\n    MEMORY_AWARE = \"memory_aware\"     # Memory-aware scheduling\n@dataclass\nclass Block:\n    \"\"\"Represents a memory block in the cache.\"\"\"\n    block_id: int\n    ref_count: int = 0",
+        "detail": "qwen-llm.fast_inference.core.engine.vllm_style_engine",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "qwen-llm.fast_inference.core.engine.vllm_style_engine",
+        "description": "qwen-llm.fast_inference.core.engine.vllm_style_engine",
+        "peekOfCode": "class Block:\n    \"\"\"Represents a memory block in the cache.\"\"\"\n    block_id: int\n    ref_count: int = 0\n    is_allocated: bool = False\n    sequence_ids: List[int] = field(default_factory=list)\n@dataclass\nclass SequenceMetadata:\n    \"\"\"Metadata for a generation sequence.\"\"\"\n    seq_id: int",
+        "detail": "qwen-llm.fast_inference.core.engine.vllm_style_engine",
+        "documentation": {}
+    },
+    {
+        "label": "SequenceMetadata",
+        "kind": 6,
+        "importPath": "qwen-llm.fast_inference.core.engine.vllm_style_engine",
+        "description": "qwen-llm.fast_inference.core.engine.vllm_style_engine",
+        "peekOfCode": "class SequenceMetadata:\n    \"\"\"Metadata for a generation sequence.\"\"\"\n    seq_id: int\n    prompt: str\n    input_ids: torch.Tensor\n    output_ids: List[int] = field(default_factory=list)\n    sampling_params: Dict[str, Any] = field(default_factory=dict)\n    blocks: List[int] = field(default_factory=list)  # Allocated block IDs\n    finished: bool = False\n    prefill_done: bool = False",
+        "detail": "qwen-llm.fast_inference.core.engine.vllm_style_engine",
+        "documentation": {}
+    },
+    {
+        "label": "PagedAttentionCache",
+        "kind": 6,
+        "importPath": "qwen-llm.fast_inference.core.engine.vllm_style_engine",
+        "description": "qwen-llm.fast_inference.core.engine.vllm_style_engine",
+        "peekOfCode": "class PagedAttentionCache:\n    \"\"\"\n    🧠 PAGED ATTENTION CACHE\n    True vLLM-style PagedAttention implementation with:\n    - Block-wise memory management\n    - Memory fragmentation handling\n    - Efficient block allocation/deallocation\n    \"\"\"\n    def __init__(self, num_blocks: int, block_size: int, num_heads: int, head_dim: int, \n                 dtype: torch.dtype, device: str):",
+        "detail": "qwen-llm.fast_inference.core.engine.vllm_style_engine",
+        "documentation": {}
+    },
+    {
+        "label": "VLLMStyleEngine",
+        "kind": 6,
+        "importPath": "qwen-llm.fast_inference.core.engine.vllm_style_engine",
+        "description": "qwen-llm.fast_inference.core.engine.vllm_style_engine",
+        "peekOfCode": "class VLLMStyleEngine:\n    \"\"\"\n    🚀 VLLM-STYLE INFERENCE ENGINE\n    Production-ready inference engine with:\n    - True PagedAttention\n    - Advanced scheduling policies\n    - Async API support\n    - Memory management\n    - Performance monitoring\n    \"\"\"",
+        "detail": "qwen-llm.fast_inference.core.engine.vllm_style_engine",
+        "documentation": {}
+    },
+    {
+        "label": "create_vllm_style_engine",
+        "kind": 2,
+        "importPath": "qwen-llm.fast_inference.core.engine.vllm_style_engine",
+        "description": "qwen-llm.fast_inference.core.engine.vllm_style_engine",
+        "peekOfCode": "def create_vllm_style_engine(model: nn.Module, tokenizer, config, **kwargs) -> VLLMStyleEngine:\n    \"\"\"\n    Create a vLLM-style inference engine.\n    Args:\n        model: Pre-trained model\n        tokenizer: Tokenizer for the model\n        config: Model configuration\n        **kwargs: Additional arguments\n    Returns:\n        VLLMStyleEngine instance",
+        "detail": "qwen-llm.fast_inference.core.engine.vllm_style_engine",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "qwen-llm.fast_inference.core.engine.vllm_style_engine",
+        "description": "qwen-llm.fast_inference.core.engine.vllm_style_engine",
+        "peekOfCode": "logger = logging.getLogger(__name__)\nclass SchedulerPolicy(Enum):\n    \"\"\"Scheduling policies for request handling.\"\"\"\n    FCFS = \"first_come_first_served\"  # First Come First Served\n    PRIORITY = \"priority\"             # Priority-based\n    MEMORY_AWARE = \"memory_aware\"     # Memory-aware scheduling\n@dataclass\nclass Block:\n    \"\"\"Represents a memory block in the cache.\"\"\"\n    block_id: int",
+        "detail": "qwen-llm.fast_inference.core.engine.vllm_style_engine",
+        "documentation": {}
+    },
+    {
         "label": "InferenceRequest",
         "kind": 6,
         "importPath": "qwen-llm.fast_inference.examples.advanced.production_server",
@@ -4212,6 +4119,51 @@
         "description": "qwen-llm.fast_inference.examples.basic.quick_start",
         "peekOfCode": "def main():\n    \"\"\"Main function demonstrating basic usage.\"\"\"\n    print(\"🚀 Fast Inference Quick Start Example\")\n    print(\"=\" * 50)\n    # Example 1: Single text generation\n    print(\"\\n📝 Example 1: Single Text Generation\")\n    print(\"-\" * 40)\n    try:\n        # Create engine (you'll need to provide actual model paths)\n        engine = create_simple_fast_inference(",
         "detail": "qwen-llm.fast_inference.examples.basic.quick_start",
+        "documentation": {}
+    },
+    {
+        "label": "example_minimal_llm",
+        "kind": 2,
+        "importPath": "qwen-llm.fast_inference.examples.universal_example",
+        "description": "qwen-llm.fast_inference.examples.universal_example",
+        "peekOfCode": "def example_minimal_llm():\n    \"\"\"\n    🎯 EXAMPLE: Your Custom MinimalLLM Model\n    \"\"\"\n    print(\"🎯 Example 1: Your Custom MinimalLLM Model\")\n    print(\"=\" * 50)\n    # Load your trained model\n    model_path = \"models/final_model1.pt\"\n    tokenizer_path = \"HuggingFaceTB/SmolLM-135M\"\n    if not os.path.exists(model_path):",
+        "detail": "qwen-llm.fast_inference.examples.universal_example",
+        "documentation": {}
+    },
+    {
+        "label": "example_huggingface_models",
+        "kind": 2,
+        "importPath": "qwen-llm.fast_inference.examples.universal_example",
+        "description": "qwen-llm.fast_inference.examples.universal_example",
+        "peekOfCode": "def example_huggingface_models():\n    \"\"\"\n    🎯 EXAMPLE: HuggingFace Models\n    \"\"\"\n    print(\"\\n🎯 Example 2: HuggingFace Models\")\n    print(\"=\" * 50)\n    # List of HuggingFace models to try\n    models_to_try = [\n        \"microsoft/DialoGPT-small\",\n        \"gpt2\",",
+        "detail": "qwen-llm.fast_inference.examples.universal_example",
+        "documentation": {}
+    },
+    {
+        "label": "example_batch_generation",
+        "kind": 2,
+        "importPath": "qwen-llm.fast_inference.examples.universal_example",
+        "description": "qwen-llm.fast_inference.examples.universal_example",
+        "peekOfCode": "def example_batch_generation():\n    \"\"\"\n    🎯 EXAMPLE: Batch Generation\n    \"\"\"\n    print(\"\\n🎯 Example 3: Batch Generation\")\n    print(\"=\" * 50)\n    # Use a small model for batch generation\n    model_name = \"distilgpt2\"\n    try:\n        # Create universal engine",
+        "detail": "qwen-llm.fast_inference.examples.universal_example",
+        "documentation": {}
+    },
+    {
+        "label": "example_performance_comparison",
+        "kind": 2,
+        "importPath": "qwen-llm.fast_inference.examples.universal_example",
+        "description": "qwen-llm.fast_inference.examples.universal_example",
+        "peekOfCode": "def example_performance_comparison():\n    \"\"\"\n    🎯 EXAMPLE: Performance Comparison\n    \"\"\"\n    print(\"\\n🎯 Example 4: Performance Comparison\")\n    print(\"=\" * 50)\n    import time\n    # Test with a small model\n    model_name = \"distilgpt2\"\n    try:",
+        "detail": "qwen-llm.fast_inference.examples.universal_example",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.fast_inference.examples.universal_example",
+        "description": "qwen-llm.fast_inference.examples.universal_example",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN FUNCTION\n    Run all examples to demonstrate universal fast inference.\n    \"\"\"\n    print(\"🌐 UNIVERSAL FAST INFERENCE EXAMPLES\")\n    print(\"=\" * 60)\n    print(\"This example demonstrates how to use the universal fast inference\")\n    print(\"engine with different types of models.\")\n    print()",
+        "detail": "qwen-llm.fast_inference.examples.universal_example",
         "documentation": {}
     },
     {

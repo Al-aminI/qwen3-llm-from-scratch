@@ -26,6 +26,9 @@ __email__ = "team@qwen3-inference.com"
 
 # Core imports
 from .core.engine import SimpleFastInference, FastInferenceEngine
+from .core.engine.universal_engine import UniversalFastInference, create_universal_fast_inference
+from .core.engine.vllm_style_engine import VLLMStyleEngine, create_vllm_style_engine, SchedulerPolicy
+from .core.engine.universal_vllm_engine import UniversalVLLMStyleEngine, create_universal_vllm_style_engine
 from .core.cache import SimpleKVCache, PagedKVCache
 from .core.attention import CachedAttention, OptimizedAttention
 from .utils.sampling import SamplingParams, sample_tokens
@@ -37,7 +40,10 @@ from .core.engine import create_simple_fast_inference, create_fast_inference_eng
 __all__ = [
     # Core classes
     "SimpleFastInference",
-    "FastInferenceEngine", 
+    "FastInferenceEngine",
+    "UniversalFastInference",
+    "VLLMStyleEngine",
+    "UniversalVLLMStyleEngine",
     "SimpleKVCache",
     "PagedKVCache",
     "CachedAttention",
@@ -48,10 +54,14 @@ __all__ = [
     "sample_tokens",
     "benchmark_inference",
     "compare_methods",
+    "SchedulerPolicy",
     
     # Convenience functions
     "create_simple_fast_inference",
     "create_fast_inference_engine",
+    "create_universal_fast_inference",
+    "create_vllm_style_engine",
+    "create_universal_vllm_style_engine",
     
     # Version info
     "__version__",
