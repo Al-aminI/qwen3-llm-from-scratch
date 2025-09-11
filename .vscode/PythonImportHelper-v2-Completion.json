@@ -906,6 +906,102 @@
         "documentation": {}
     },
     {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
         "label": "Dict",
         "importPath": "typing",
         "description": "typing",
@@ -1285,6 +1381,22 @@
         "documentation": {}
     },
     {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
         "label": "json",
         "kind": 6,
         "isExtraImport": true,
@@ -1378,6 +1490,22 @@
         "documentation": {}
     },
     {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
         "label": "Dataset",
         "importPath": "torch.utils.data",
         "description": "torch.utils.data",
@@ -1439,6 +1567,22 @@
         "description": "torch.utils.data",
         "isExtraImport": true,
         "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "autocast",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "GradScaler",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
         "documentation": {}
     },
     {
@@ -1603,6 +1747,30 @@
         "documentation": {}
     },
     {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
         "label": "tqdm",
         "importPath": "tqdm",
         "description": "tqdm",
@@ -1701,6 +1869,30 @@
     },
     {
         "label": "asdict",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
         "importPath": "dataclasses",
         "description": "dataclasses",
         "isExtraImport": true,
@@ -3285,6 +3477,102 @@
         "description": "qwen3_core_components",
         "isExtraImport": true,
         "detail": "qwen3_core_components",
+        "documentation": {}
+    },
+    {
+        "label": "PretrainingConfig",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_cache_data",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "TextTokenDataset",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "PretrainingTrainer",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "MinimalLLM",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "generate_text",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "PretrainingConfig",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_cache_data",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "TextTokenDataset",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "PretrainingTrainer",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
         "documentation": {}
     },
     {
@@ -4896,6 +5184,195 @@
         "description": "qwen-llm.original_files.simple_fast_inference",
         "peekOfCode": "def benchmark_simple_inference(engine: SimpleFastInference, num_requests: int = 10, \n                              max_input_len: int = 100, max_output_len: int = 100):\n    \"\"\"\n    Benchmark the simple inference engine\n    Args:\n        engine: SimpleFastInference instance\n        num_requests: Number of requests to process\n        max_input_len: Maximum input length\n        max_output_len: Maximum output length\n    \"\"\"",
         "detail": "qwen-llm.original_files.simple_fast_inference",
+        "documentation": {}
+    },
+    {
+        "label": "PretrainingConfig",
+        "kind": 6,
+        "importPath": "qwen-llm.pretraining.core.config.config",
+        "description": "qwen-llm.pretraining.core.config.config",
+        "peekOfCode": "class PretrainingConfig:\n    \"\"\"\n    🎯 PRETRAINING CONFIGURATION\n    This configuration is optimized for:\n    - Fast training on CPU/limited GPU\n    - Learning the concepts without waiting hours\n    - Still demonstrating all key components\n    \"\"\"\n    # Model architecture - MUCH SMALLER\n    d_model: int = 128          # Reduced from 384 (3x smaller)",
+        "detail": "qwen-llm.pretraining.core.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "kind": 2,
+        "importPath": "qwen-llm.pretraining.core.config.config",
+        "description": "qwen-llm.pretraining.core.config.config",
+        "peekOfCode": "def set_seed(seed: int = 42):\n    \"\"\"Set all random seeds for reproducibility\"\"\"\n    random.seed(seed)\n    np.random.seed(seed)\n    torch.manual_seed(seed)\n    torch.cuda.manual_seed_all(seed)\n    torch.backends.cudnn.deterministic = True\n    torch.backends.cudnn.benchmark = False\n    print(f\"🌱 Set all seeds to {seed}\")\n@dataclass",
+        "detail": "qwen-llm.pretraining.core.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "Rotary",
+        "kind": 6,
+        "importPath": "qwen-llm.pretraining.core.model.components",
+        "description": "qwen-llm.pretraining.core.model.components",
+        "peekOfCode": "class Rotary(nn.Module):\n    \"\"\"\n    🔄 ROTARY POSITIONAL EMBEDDINGS (RoPE)\n    This is one of the most important innovations in modern transformers!\n    🎯 What RoPE does:\n    - Encodes position information by ROTATING vectors\n    - Unlike traditional positional embeddings that just ADD position info\n    - Allows the model to understand relative positions naturally\n    🧮 The Math:\n    - For each position i, we compute rotation angles based on i",
+        "detail": "qwen-llm.pretraining.core.model.components",
+        "documentation": {}
+    },
+    {
+        "label": "Qwen3Attention",
+        "kind": 6,
+        "importPath": "qwen-llm.pretraining.core.model.components",
+        "description": "qwen-llm.pretraining.core.model.components",
+        "peekOfCode": "class Qwen3Attention(nn.Module):\n    \"\"\"\n    🎯 GROUPED-QUERY ATTENTION (GQA) IMPLEMENTATION\n    This is the heart of modern transformer attention mechanisms!\n    🧠 Key Innovations:\n    1. Grouped-Query Attention: Fewer KV heads than Query heads\n    2. QK-Normalization: Normalizes queries and keys for stability\n    3. RoPE: Rotary positional embeddings\n    4. Scaled dot-product attention: The core attention mechanism\n    🔍 How it works:",
+        "detail": "qwen-llm.pretraining.core.model.components",
+        "documentation": {}
+    },
+    {
+        "label": "SwiGLUFeedForward",
+        "kind": 6,
+        "importPath": "qwen-llm.pretraining.core.model.components",
+        "description": "qwen-llm.pretraining.core.model.components",
+        "peekOfCode": "class SwiGLUFeedForward(nn.Module):\n    \"\"\"\n    🔥 SWIGLU FEED-FORWARD NETWORK\n    SwiGLU is a modern activation function that combines:\n    - Swish activation: x * sigmoid(x) (smooth, non-monotonic)\n    - GLU (Gated Linear Unit): element-wise multiplication with a gate\n    🧮 The Math:\n    SwiGLU(x) = Swish(W1(x)) ⊙ W2(x)\n    Where:\n    - W1(x) is the \"gate\" (controls information flow)",
+        "detail": "qwen-llm.pretraining.core.model.components",
+        "documentation": {}
+    },
+    {
+        "label": "TransformerBlock",
+        "kind": 6,
+        "importPath": "qwen-llm.pretraining.core.model.components",
+        "description": "qwen-llm.pretraining.core.model.components",
+        "peekOfCode": "class TransformerBlock(nn.Module):\n    \"\"\"\n    🏗️ TRANSFORMER BLOCK - THE BUILDING BLOCK OF MODERN LLMs\n    This combines all the components into a complete transformer layer:\n    🧠 Architecture:\n    1. Pre-norm attention (RMSNorm before attention)\n    2. Residual connection (x + attention(x))\n    3. Pre-norm feed-forward (RMSNorm before SwiGLU)\n    4. Residual connection (x + feedforward(x))\n    🔍 Pre-norm vs Post-norm:",
+        "detail": "qwen-llm.pretraining.core.model.components",
+        "documentation": {}
+    },
+    {
+        "label": "RMSNorm",
+        "kind": 6,
+        "importPath": "qwen-llm.pretraining.core.model.components",
+        "description": "qwen-llm.pretraining.core.model.components",
+        "peekOfCode": "class RMSNorm(nn.Module):\n    \"\"\"\n    📐 RMSNorm - ROOT MEAN SQUARE NORMALIZATION\n    This is a modern alternative to LayerNorm that's more efficient:\n    🧮 The Math:\n    RMSNorm(x) = x / sqrt(mean(x²) + ε) * g\n    Where:\n    - x is the input\n    - mean(x²) is the mean of squared values\n    - ε is a small constant (1e-6)",
+        "detail": "qwen-llm.pretraining.core.model.components",
+        "documentation": {}
+    },
+    {
+        "label": "repeat_kv",
+        "kind": 2,
+        "importPath": "qwen-llm.pretraining.core.model.components",
+        "description": "qwen-llm.pretraining.core.model.components",
+        "peekOfCode": "def repeat_kv(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:\n    \"\"\"\n    🔑 GROUPED-QUERY ATTENTION HELPER\n    This implements the key innovation in GQA:\n    - Fewer Key-Value heads than Query heads\n    - Each KV head is \"shared\" across multiple Query heads\n    - Massive memory savings with minimal performance loss\n    🧮 Example:\n    - 8 Query heads, 2 KV heads\n    - KV head 1 is used by Query heads 1,2,3,4",
+        "detail": "qwen-llm.pretraining.core.model.components",
+        "documentation": {}
+    },
+    {
+        "label": "MinimalLLM",
+        "kind": 6,
+        "importPath": "qwen-llm.pretraining.core.model.minimal_llm",
+        "description": "qwen-llm.pretraining.core.model.minimal_llm",
+        "peekOfCode": "class MinimalLLM(nn.Module):\n    \"\"\"\n    🏗️ COMPLETE QWEN3-STYLE LANGUAGE MODEL\n    This is the full language model that combines all components:\n    🧠 Architecture:\n    1. Token Embedding: Convert token IDs to vectors\n    2. Positional Dropout: Prevent overfitting on positions\n    3. Transformer Blocks: Stack of attention + feed-forward layers\n    4. Final Normalization: RMSNorm before output\n    5. Language Modeling Head: Convert vectors back to token probabilities",
+        "detail": "qwen-llm.pretraining.core.model.minimal_llm",
+        "documentation": {}
+    },
+    {
+        "label": "Muon",
+        "kind": 6,
+        "importPath": "qwen-llm.pretraining.core.training.optimizer",
+        "description": "qwen-llm.pretraining.core.training.optimizer",
+        "peekOfCode": "class Muon(torch.optim.Optimizer):\n    \"\"\"\n    🚀 MUON OPTIMIZER: MomentUm Orthogonalized by Newton-schulz\n    This is a revolutionary optimizer that combines:\n    1. Momentum (like Adam) - remembers past gradients\n    2. Orthogonalization (Newton-Schulz) - makes gradients \"well-behaved\"\n    3. Adaptive learning rates - adjusts based on matrix dimensions\n    🎯 Why Muon is special:\n    - 30-50% faster convergence than Adam\n    - More stable training (fewer gradient explosions)",
+        "detail": "qwen-llm.pretraining.core.training.optimizer",
+        "documentation": {}
+    },
+    {
+        "label": "zeropower_via_newtonschulz5",
+        "kind": 2,
+        "importPath": "qwen-llm.pretraining.core.training.optimizer",
+        "description": "qwen-llm.pretraining.core.training.optimizer",
+        "peekOfCode": "def zeropower_via_newtonschulz5(G: torch.Tensor, steps: int = 5) -> torch.Tensor:\n    \"\"\"\n    🔬 NEWTON-SCHULZ ORTHOGONALIZATION\n    This is the mathematical heart of the Muon optimizer:\n    🎯 What it does:\n    - Takes a matrix G (gradients)\n    - Makes it \"orthogonal\" (like rotating it to be perfectly aligned)\n    - Uses Newton-Schulz iteration (a fast numerical method)\n    🧮 Why orthogonalization helps:\n    - Orthogonal matrices preserve vector lengths and angles",
+        "detail": "qwen-llm.pretraining.core.training.optimizer",
+        "documentation": {}
+    },
+    {
+        "label": "setup_muon_optimizer",
+        "kind": 2,
+        "importPath": "qwen-llm.pretraining.core.training.optimizer",
+        "description": "qwen-llm.pretraining.core.training.optimizer",
+        "peekOfCode": "def setup_muon_optimizer(model: nn.Module, config):\n    \"\"\"\n    🚀 HYBRID OPTIMIZER SETUP\n    This function sets up a hybrid optimization strategy:\n    - Muon optimizer for 2D parameters (attention and feed-forward weights)\n    - AdamW optimizer for other parameters (embeddings, norms, biases)\n    🎯 Why hybrid approach:\n    - Muon works best on 2D matrices (attention, feed-forward)\n    - AdamW is better for 1D parameters (embeddings, biases)\n    - This gives us the best of both worlds",
+        "detail": "qwen-llm.pretraining.core.training.optimizer",
+        "documentation": {}
+    },
+    {
+        "label": "PretrainingTrainer",
+        "kind": 6,
+        "importPath": "qwen-llm.pretraining.core.training.trainer",
+        "description": "qwen-llm.pretraining.core.training.trainer",
+        "peekOfCode": "class PretrainingTrainer:\n    \"\"\"\n    🎯 PRETRAINING TRAINER\n    Complete training pipeline for pretraining language models.\n    \"\"\"\n    def __init__(self, config):\n        self.config = config\n        self.model = None\n        self.optimizers = None\n        self.schedulers = None",
+        "detail": "qwen-llm.pretraining.core.training.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_model",
+        "kind": 2,
+        "importPath": "qwen-llm.pretraining.core.training.trainer",
+        "description": "qwen-llm.pretraining.core.training.trainer",
+        "peekOfCode": "def evaluate_model(model: nn.Module, val_loader: DataLoader, config):\n    \"\"\"\n    📊 MODEL EVALUATION FUNCTION\n    This function evaluates the model's performance on validation data:\n    🎯 Metrics Computed:\n    1. Loss: Cross-entropy loss (lower is better)\n    2. Accuracy: Percentage of correct next-token predictions\n    3. Perplexity: exp(loss) - measures model's \"surprise\" (lower is better)\n    🔍 Why these metrics matter:\n    - Loss: Direct measure of how well the model predicts",
+        "detail": "qwen-llm.pretraining.core.training.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "load_checkpoint",
+        "kind": 2,
+        "importPath": "qwen-llm.pretraining.core.training.trainer",
+        "description": "qwen-llm.pretraining.core.training.trainer",
+        "peekOfCode": "def load_checkpoint(model_path: str, config):\n    \"\"\"\n    📦 LOAD CHECKPOINT FOR RESUMING TRAINING\n    This function loads a previously trained model checkpoint and returns\n    the model, optimizers, schedulers, and training state.\n    \"\"\"\n    print(f\"📦 Loading checkpoint from {model_path}\")\n    # Load checkpoint with safe loading to handle import path changes\n    try:\n        # Try loading with weights_only=False to handle custom classes",
+        "detail": "qwen-llm.pretraining.core.training.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.pretraining.examples.advanced.resume_training",
+        "description": "qwen-llm.pretraining.examples.advanced.resume_training",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 RESUME TRAINING EXAMPLE\n    This function demonstrates how to resume training from a checkpoint.\n    \"\"\"\n    print(\"🔄 RESUME TRAINING EXAMPLE\")\n    print(\"=\" * 50)\n    # Check if checkpoint exists\n    checkpoint_path = \"models/best_model1.pt\"\n    if not os.path.exists(checkpoint_path):",
+        "detail": "qwen-llm.pretraining.examples.advanced.resume_training",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.pretraining.examples.basic.inference_example",
+        "description": "qwen-llm.pretraining.examples.basic.inference_example",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 INFERENCE EXAMPLE\n    This function demonstrates how to load and use a trained model.\n    \"\"\"\n    print(\"🎭 INFERENCE EXAMPLE\")\n    print(\"=\" * 50)\n    # Check if model exists\n    model_path = \"models/final_model1.pt\"\n    if not os.path.exists(model_path):",
+        "detail": "qwen-llm.pretraining.examples.basic.inference_example",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.pretraining.examples.basic.train_example",
+        "description": "qwen-llm.pretraining.examples.basic.train_example",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN TRAINING FUNCTION\n    This function demonstrates the complete pretraining pipeline.\n    \"\"\"\n    print(\"🚀 PRETRAINING EXAMPLE\")\n    print(\"=\" * 50)\n    # Set seed for reproducibility\n    set_seed(42)\n    # Create configuration",
+        "detail": "qwen-llm.pretraining.examples.basic.train_example",
+        "documentation": {}
+    },
+    {
+        "label": "TextTokenDataset",
+        "kind": 6,
+        "importPath": "qwen-llm.pretraining.utils.data",
+        "description": "qwen-llm.pretraining.utils.data",
+        "peekOfCode": "class TextTokenDataset(Dataset):\n    \"\"\"\n    📚 CUSTOM DATASET FOR LANGUAGE MODELING\n    This creates training examples for our language model:\n    🎯 What it does:\n    - Takes a long sequence of tokens\n    - Creates sliding windows of fixed length\n    - Each example: input sequence + target sequence (shifted by 1)\n    📖 Example:\n    Original text: \"The cat sat on the mat\"",
+        "detail": "qwen-llm.pretraining.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_cache_data",
+        "kind": 2,
+        "importPath": "qwen-llm.pretraining.utils.data",
+        "description": "qwen-llm.pretraining.utils.data",
+        "peekOfCode": "def load_and_cache_data(config, cache_dir: str = \"data_cache\"):\n    \"\"\"\n    📦 SMART DATA LOADING WITH CACHING\n    This function demonstrates modern ML data handling:\n    🎯 Key features:\n    1. Caching: Avoids reprocessing the same data\n    2. Streaming: Loads large datasets without memory issues\n    3. Tokenization: Converts text to numbers the model can understand\n    4. Efficient storage: Uses pickle for fast loading\n    🔄 The process:",
+        "detail": "qwen-llm.pretraining.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "generate_text",
+        "kind": 2,
+        "importPath": "qwen-llm.pretraining.utils.generation",
+        "description": "qwen-llm.pretraining.utils.generation",
+        "peekOfCode": "def generate_text(model, tokenizer, prompt: str, max_length: int = 100,\n                 temperature: float = 0.8, top_k: int = 50, top_p: float = 0.9):\n    \"\"\"\n    🔮 TEXT GENERATION FUNCTION\n    This function generates text using the trained model with advanced sampling:\n    🎯 Sampling Strategies:\n    1. Temperature Scaling: Controls randomness (0.1 = focused, 2.0 = random)\n    2. Top-k Sampling: Only consider top k most likely tokens\n    3. Top-p (Nucleus) Sampling: Consider tokens until cumulative probability reaches p\n    🔍 How it works:",
+        "detail": "qwen-llm.pretraining.utils.generation",
         "documentation": {}
     },
     {
