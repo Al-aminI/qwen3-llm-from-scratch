@@ -1792,6 +1792,110 @@
         "documentation": {}
     },
     {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
         "label": "Dict",
         "importPath": "typing",
         "description": "typing",
@@ -1985,6 +2089,22 @@
     },
     {
         "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -2465,6 +2585,14 @@
         "documentation": {}
     },
     {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
         "label": "argparse",
         "kind": 6,
         "isExtraImport": true,
@@ -2475,6 +2603,22 @@
     },
     {
         "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
         "importPath": "setuptools",
         "description": "setuptools",
         "isExtraImport": true,
@@ -3654,6 +3798,24 @@
         "documentation": {}
     },
     {
+        "label": "triton",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "triton",
+        "description": "triton",
+        "detail": "triton",
+        "documentation": {}
+    },
+    {
+        "label": "triton.language",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "triton.language",
+        "description": "triton.language",
+        "detail": "triton.language",
+        "documentation": {}
+    },
+    {
         "label": "psutil",
         "kind": 6,
         "isExtraImport": true,
@@ -3741,6 +3903,23 @@
         "description": "flask",
         "isExtraImport": true,
         "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "grouped_gemm_persistent",
+        "importPath": "grouped_gemm",
+        "description": "grouped_gemm",
+        "isExtraImport": true,
+        "detail": "grouped_gemm",
+        "documentation": {}
+    },
+    {
+        "label": "torch.utils.benchmark",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.utils.benchmark",
+        "description": "torch.utils.benchmark",
+        "detail": "torch.utils.benchmark",
         "documentation": {}
     },
     {
@@ -5328,6 +5507,627 @@
         "documentation": {}
     },
     {
+        "label": "attention_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "peekOfCode": "def attention_kernel(\n    q_ptr, k_ptr, v_ptr, output_ptr,\n    seq_len, head_dim,\n    stride_qb, stride_qh, stride_qs, stride_qd,\n    stride_kb, stride_kh, stride_ks, stride_kd,\n    stride_vb, stride_vh, stride_vs, stride_vd,\n    stride_ob, stride_oh, stride_os, stride_od,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"",
+        "detail": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "optimized_attention",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "peekOfCode": "def optimized_attention(q: torch.Tensor, k: torch.Tensor, v: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🎯 OPTIMIZED ATTENTION WRAPPER\n    Wrapper function for the optimized attention kernel.\n    \"\"\"\n    batch_size, num_heads, seq_len, head_dim = q.shape\n    # Create output tensor\n    output = torch.empty_like(q)\n    # Calculate strides\n    stride_qb, stride_qh, stride_qs, stride_qd = q.stride()",
+        "detail": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "transformer_matmul_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "peekOfCode": "def transformer_matmul_kernel(\n    a_ptr, b_ptr, c_ptr,\n    M, N, K,\n    stride_am, stride_ak,\n    stride_bk, stride_bn,\n    stride_cm, stride_cn,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n    BLOCK_SIZE_K: tl.constexpr,\n):",
+        "detail": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "transformer_matmul",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "peekOfCode": "def transformer_matmul(a: torch.Tensor, b: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🎯 TRANSFORMER MATRIX MULTIPLICATION WRAPPER\n    Wrapper function for transformer matrix multiplication.\n    \"\"\"\n    # Input validation\n    assert a.is_cuda and b.is_cuda, \"Input tensors must be on GPU!\"\n    assert a.shape[1] == b.shape[0], \"Inner dimensions must match!\"\n    M, K = a.shape\n    _, N = b.shape",
+        "detail": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "layer_norm_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "peekOfCode": "def layer_norm_kernel(\n    input_ptr, output_ptr, weight_ptr, bias_ptr,\n    n_elements, eps,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🎯 LAYER NORMALIZATION KERNEL\n    Implements layer normalization:\n    y = (x - mean) / sqrt(var + eps) * weight + bias\n    \"\"\"",
+        "detail": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "layer_norm",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "peekOfCode": "def layer_norm(input_tensor: torch.Tensor, weight: torch.Tensor, bias: torch.Tensor, eps: float = 1e-5) -> torch.Tensor:\n    \"\"\"\n    🎯 LAYER NORMALIZATION WRAPPER\n    Wrapper function for layer normalization.\n    \"\"\"\n    # Input validation\n    assert input_tensor.is_cuda, \"Input tensor must be on GPU!\"\n    assert input_tensor.shape[-1] == weight.shape[0], \"Weight dimension must match input dimension!\"\n    assert input_tensor.shape[-1] == bias.shape[0], \"Bias dimension must match input dimension!\"\n    # Flatten input for kernel",
+        "detail": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "test_llm_optimizations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "peekOfCode": "def test_llm_optimizations():\n    \"\"\"\n    🧪 TEST LLM OPTIMIZATION KERNELS\n    Tests the optimized kernels and validates correctness.\n    \"\"\"\n    print(\"🧪 Testing LLM Optimization Kernels:\")\n    print(\"=\" * 50)\n    # Test attention kernel\n    print(\"\\n📊 Test: Optimized Attention\")\n    batch_size, num_heads, seq_len, head_dim = 2, 8, 128, 64",
+        "detail": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "benchmark_llm_optimizations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "peekOfCode": "def benchmark_llm_optimizations():\n    \"\"\"\n    📊 BENCHMARK LLM OPTIMIZATION KERNELS\n    Compares performance between Triton and PyTorch for LLM operations.\n    \"\"\"\n    print(\"\\n📊 Benchmarking LLM Optimization Kernels:\")\n    print(\"=\" * 50)\n    # Benchmark transformer matrix multiplication\n    print(\"\\n📈 Benchmark: Transformer Matrix Multiplication\")\n    sizes = [",
+        "detail": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN FUNCTION\n    Runs the LLM inference optimization example.\n    \"\"\"\n    print(\"🚀 LLM INFERENCE OPTIMIZATION WITH TRITON\")\n    print(\"=\" * 70)\n    print(\"This example demonstrates Triton kernels for LLM inference optimization.\")\n    # Check CUDA availability\n    if not torch.cuda.is_available():",
+        "detail": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "explain_gpu_architecture",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "peekOfCode": "def explain_gpu_architecture():\n    \"\"\"\n    📚 EXPLAINING GPU ARCHITECTURE\n    GPUs are massively parallel processors designed for:\n    - High throughput (many operations per second)\n    - High memory bandwidth (fast data access)\n    - Parallel execution (thousands of threads)\n    Key Components:\n    1. Streaming Multiprocessors (SMs) - Compute units\n    2. CUDA Cores - Individual processing units",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "documentation": {}
+    },
+    {
+        "label": "explain_memory_hierarchy",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "peekOfCode": "def explain_memory_hierarchy():\n    \"\"\"\n    📚 MEMORY HIERARCHY EXPLANATION\n    Understanding memory hierarchy is crucial for writing efficient kernels:\n    1. Registers: Fastest, private to each thread\n    2. Shared Memory: Fast, shared among threads in a block\n    3. L1 Cache: Fast, shared among threads in an SM\n    4. L2 Cache: Medium speed, shared across SMs\n    5. Global Memory: Slowest, accessible by all threads\n    Key Principles:",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "documentation": {}
+    },
+    {
+        "label": "explain_triton_concepts",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "peekOfCode": "def explain_triton_concepts():\n    \"\"\"\n    📚 TRITON LANGUAGE CONCEPTS\n    Triton is a Python-like language for writing CUDA kernels:\n    Key Concepts:\n    1. @triton.jit decorator - Marks functions as kernels\n    2. tl.constexpr - Compile-time constants\n    3. tl.program_id() - Gets the current program/block ID\n    4. tl.arange() - Creates ranges of indices\n    5. tl.load() / tl.store() - Memory operations",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "documentation": {}
+    },
+    {
+        "label": "vector_add_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "peekOfCode": "def vector_add_kernel(\n    # Input and output pointers\n    x_ptr,           # Pointer to first input vector\n    y_ptr,           # Pointer to second input vector  \n    output_ptr,      # Pointer to output vector\n    # Vector size\n    n_elements,      # Total number of elements\n    # Strides (how much to increment pointer for next element)\n    x_stride: tl.constexpr,      # Stride for x vector\n    y_stride: tl.constexpr,      # Stride for y vector",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "documentation": {}
+    },
+    {
+        "label": "vector_add",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "peekOfCode": "def vector_add(x: torch.Tensor, y: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🎯 VECTOR ADDITION WRAPPER\n    This function:\n    1. Validates inputs\n    2. Creates output tensor\n    3. Launches the kernel with appropriate grid size\n    4. Returns the result\n    Args:\n        x: First input vector (must be on GPU)",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "documentation": {}
+    },
+    {
+        "label": "test_vector_addition",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "peekOfCode": "def test_vector_addition():\n    \"\"\"\n    🧪 TEST VECTOR ADDITION KERNEL\n    Tests the kernel with various input sizes and validates correctness.\n    \"\"\"\n    print(\"\\n🧪 Testing Vector Addition Kernel:\")\n    print(\"=\" * 50)\n    test_cases = [\n        (1024, \"Power of 2 size\"),\n        (1000, \"Non-power of 2 size\"),",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "documentation": {}
+    },
+    {
+        "label": "benchmark_vector_addition",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "peekOfCode": "def benchmark_vector_addition():\n    \"\"\"\n    📊 BENCHMARK VECTOR ADDITION\n    Compares performance between Triton kernel and PyTorch.\n    \"\"\"\n    print(\"\\n📊 Benchmarking Vector Addition:\")\n    print(\"=\" * 50)\n    sizes = [1024, 4096, 16384, 65536, 262144]\n    for size in sizes:\n        print(f\"\\n📈 Size: {size:,} elements\")",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "documentation": {}
+    },
+    {
+        "label": "explain_program_ids",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "peekOfCode": "def explain_program_ids():\n    \"\"\"\n    📚 UNDERSTANDING PROGRAM IDS AND BLOCKS\n    This is crucial for understanding how parallel execution works in Triton.\n    \"\"\"\n    print(\"\\n🎓 Understanding Program IDs and Blocks:\")\n    print(\"=\" * 50)\n    print(\"\"\"\n    🧠 Key Concepts:\n    1. Grid: The entire collection of blocks that execute your kernel",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN FUNCTION\n    Runs the complete lesson 1 tutorial.\n    \"\"\"\n    print(\"🎯 LESSON 1: GPU FUNDAMENTALS & TRITON BASICS\")\n    print(\"=\" * 70)\n    print(\"Welcome to your first Triton tutorial!\")\n    print(\"This lesson will teach you the fundamentals of GPU programming with Triton.\")\n    # Check CUDA availability",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_01_gpu_fundamentals",
+        "documentation": {}
+    },
+    {
+        "label": "explain_memory_coalescing",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "peekOfCode": "def explain_memory_coalescing():\n    \"\"\"\n    📚 MEMORY COALESCING EXPLANATION\n    Memory coalescing is crucial for achieving high memory bandwidth:\n    ✅ Coalesced Access (Good):\n    - Threads access consecutive memory locations\n    - GPU can combine multiple requests into one\n    - Achieves near-peak memory bandwidth\n    ❌ Non-Coalesced Access (Bad):\n    - Threads access scattered memory locations",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "documentation": {}
+    },
+    {
+        "label": "coalesced_access_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "peekOfCode": "def coalesced_access_kernel(\n    input_ptr,\n    output_ptr,\n    n_elements,\n    stride: tl.constexpr,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🎯 COALESCED MEMORY ACCESS KERNEL\n    Demonstrates proper memory coalescing by accessing consecutive elements.",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "documentation": {}
+    },
+    {
+        "label": "non_coalesced_access_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "peekOfCode": "def non_coalesced_access_kernel(\n    input_ptr,\n    output_ptr,\n    n_elements,\n    stride: tl.constexpr,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🎯 NON-COALESCED MEMORY ACCESS KERNEL\n    Demonstrates poor memory access patterns (for comparison).",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "documentation": {}
+    },
+    {
+        "label": "benchmark_memory_access",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "peekOfCode": "def benchmark_memory_access():\n    \"\"\"\n    📊 BENCHMARK COALESCED VS NON-COALESCED ACCESS\n    Compares performance between coalesced and non-coalesced memory access.\n    \"\"\"\n    print(\"\\n📊 Benchmarking Memory Access Patterns:\")\n    print(\"=\" * 50)\n    sizes = [1024, 4096, 16384, 65536]\n    for size in sizes:\n        print(f\"\\n📈 Size: {size:,} elements\")",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "documentation": {}
+    },
+    {
+        "label": "explain_data_types",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "peekOfCode": "def explain_data_types():\n    \"\"\"\n    📚 DATA TYPES IN TRITON\n    Different data types have different characteristics:\n    - Memory usage\n    - Precision\n    - Performance\n    - Hardware support\n    \"\"\"\n    print(\"\\n🎯 Data Types in Triton:\")",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "documentation": {}
+    },
+    {
+        "label": "data_type_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "peekOfCode": "def data_type_kernel(\n    input_ptr,\n    output_ptr,\n    n_elements,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🎯 DATA TYPE DEMONSTRATION KERNEL\n    Shows how to work with different data types in Triton.\n    \"\"\"",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "documentation": {}
+    },
+    {
+        "label": "test_data_types",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "peekOfCode": "def test_data_types():\n    \"\"\"\n    🧪 TEST DIFFERENT DATA TYPES\n    Tests the kernel with different data types and compares performance.\n    \"\"\"\n    print(\"\\n🧪 Testing Different Data Types:\")\n    print(\"=\" * 50)\n    data_types = [\n        (torch.float32, \"float32\"),\n        (torch.float16, \"float16\"),",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "documentation": {}
+    },
+    {
+        "label": "explain_strides",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "peekOfCode": "def explain_strides():\n    \"\"\"\n    📚 UNDERSTANDING STRIDES\n    Strides determine how to access elements in multi-dimensional tensors:\n    - stride[i] = number of elements to skip to get to next element in dimension i\n    - Contiguous tensors have predictable stride patterns\n    - Non-contiguous tensors require careful stride handling\n    \"\"\"\n    print(\"\\n🎯 Understanding Strides:\")\n    print(\"=\" * 50)",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "documentation": {}
+    },
+    {
+        "label": "stride_aware_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "peekOfCode": "def stride_aware_kernel(\n    input_ptr,\n    output_ptr,\n    n_elements,\n    input_stride: tl.constexpr,\n    output_stride: tl.constexpr,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🎯 STRIDE-AWARE KERNEL",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "documentation": {}
+    },
+    {
+        "label": "test_strides",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "peekOfCode": "def test_strides():\n    \"\"\"\n    🧪 TEST DIFFERENT STRIDE PATTERNS\n    Tests the kernel with different stride patterns.\n    \"\"\"\n    print(\"\\n🧪 Testing Stride Patterns:\")\n    print(\"=\" * 50)\n    # Test 1: Contiguous tensor\n    print(\"\\n📊 Test 1: Contiguous Tensor\")\n    x = torch.randn(1024, device='cuda')",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "documentation": {}
+    },
+    {
+        "label": "explain_memory_bandwidth",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "peekOfCode": "def explain_memory_bandwidth():\n    \"\"\"\n    📚 MEMORY BANDWIDTH OPTIMIZATION\n    Key strategies for maximizing memory bandwidth:\n    1. Use appropriate data types\n    2. Ensure memory coalescing\n    3. Minimize memory transactions\n    4. Use shared memory when beneficial\n    5. Consider memory alignment\n    \"\"\"",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "documentation": {}
+    },
+    {
+        "label": "bandwidth_test_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "peekOfCode": "def bandwidth_test_kernel(\n    input_ptr,\n    output_ptr,\n    n_elements,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🎯 BANDWIDTH TEST KERNEL\n    Simple kernel to test memory bandwidth.\n    \"\"\"",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "documentation": {}
+    },
+    {
+        "label": "measure_memory_bandwidth",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "peekOfCode": "def measure_memory_bandwidth():\n    \"\"\"\n    📊 MEASURE MEMORY BANDWIDTH\n    Measures achieved memory bandwidth for different configurations.\n    \"\"\"\n    print(\"\\n📊 Measuring Memory Bandwidth:\")\n    print(\"=\" * 50)\n    sizes = [1024, 4096, 16384, 65536, 262144, 1048576]\n    for size in sizes:\n        print(f\"\\n📈 Size: {size:,} elements\")",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN FUNCTION\n    Runs the complete lesson 2 tutorial.\n    \"\"\"\n    print(\"🎯 LESSON 2: MEMORY MANAGEMENT & DATA TYPES\")\n    print(\"=\" * 70)\n    print(\"This lesson covers memory optimization techniques in Triton.\")\n    # Check CUDA availability\n    if not torch.cuda.is_available():",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_02_memory_management",
+        "documentation": {}
+    },
+    {
+        "label": "explain_element_wise_operations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "peekOfCode": "def explain_element_wise_operations():\n    \"\"\"\n    📚 ELEMENT-WISE OPERATIONS\n    Element-wise operations are fundamental building blocks for more complex kernels.\n    They operate on corresponding elements of tensors.\n    \"\"\"\n    print(\"🎯 Element-wise Operations:\")\n    print(\"=\" * 50)\n    print(\"\"\"\n    🧠 What are Element-wise Operations?",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "element_wise_add_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "peekOfCode": "def element_wise_add_kernel(\n    a_ptr, b_ptr, output_ptr,\n    n_elements,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🎯 ELEMENT-WISE ADDITION KERNEL\n    Adds corresponding elements of two tensors.\n    \"\"\"\n    pid = tl.program_id(axis=0)",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "element_wise_multiply_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "peekOfCode": "def element_wise_multiply_kernel(\n    a_ptr, b_ptr, output_ptr,\n    n_elements,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🎯 ELEMENT-WISE MULTIPLICATION KERNEL\n    Multiplies corresponding elements of two tensors.\n    \"\"\"\n    pid = tl.program_id(axis=0)",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "element_wise_activation_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "peekOfCode": "def element_wise_activation_kernel(\n    input_ptr, output_ptr,\n    n_elements,\n    activation_type: tl.constexpr,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🎯 ELEMENT-WISE ACTIVATION KERNEL\n    Applies activation functions element-wise.\n    \"\"\"",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "test_element_wise_operations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "peekOfCode": "def test_element_wise_operations():\n    \"\"\"\n    🧪 TEST ELEMENT-WISE OPERATIONS\n    Tests various element-wise operations and validates correctness.\n    \"\"\"\n    print(\"\\n🧪 Testing Element-wise Operations:\")\n    print(\"=\" * 50)\n    size = 1024\n    a = torch.randn(size, device='cuda', dtype=torch.float32)\n    b = torch.randn(size, device='cuda', dtype=torch.float32)",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "explain_reduction_operations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "peekOfCode": "def explain_reduction_operations():\n    \"\"\"\n    📚 REDUCTION OPERATIONS\n    Reduction operations combine multiple elements into a single result.\n    They are more complex than element-wise operations because they require\n    communication between threads.\n    \"\"\"\n    print(\"\\n🎯 Reduction Operations:\")\n    print(\"=\" * 50)\n    print(\"\"\"",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "sum_reduction_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "peekOfCode": "def sum_reduction_kernel(\n    input_ptr, output_ptr,\n    n_elements,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🎯 SUM REDUCTION KERNEL\n    Computes the sum of all elements in the input tensor.\n    \"\"\"\n    pid = tl.program_id(axis=0)",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "max_reduction_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "peekOfCode": "def max_reduction_kernel(\n    input_ptr, output_ptr,\n    n_elements,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🎯 MAX REDUCTION KERNEL\n    Finds the maximum value in the input tensor.\n    \"\"\"\n    pid = tl.program_id(axis=0)",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "mean_reduction_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "peekOfCode": "def mean_reduction_kernel(\n    input_ptr, output_ptr,\n    n_elements,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🎯 MEAN REDUCTION KERNEL\n    Computes the mean of all elements in the input tensor.\n    \"\"\"\n    pid = tl.program_id(axis=0)",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "test_reduction_operations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "peekOfCode": "def test_reduction_operations():\n    \"\"\"\n    🧪 TEST REDUCTION OPERATIONS\n    Tests various reduction operations and validates correctness.\n    \"\"\"\n    print(\"\\n🧪 Testing Reduction Operations:\")\n    print(\"=\" * 50)\n    size = 1024\n    x = torch.randn(size, device='cuda', dtype=torch.float32)\n    # Test sum reduction",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "explain_broadcasting",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "peekOfCode": "def explain_broadcasting():\n    \"\"\"\n    📚 BROADCASTING IN TRITON\n    Broadcasting allows operations between tensors of different shapes.\n    It's a powerful feature that enables efficient operations.\n    \"\"\"\n    print(\"\\n🎯 Broadcasting in Triton:\")\n    print(\"=\" * 50)\n    print(\"\"\"\n    🧠 What is Broadcasting?",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "broadcasting_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "peekOfCode": "def broadcasting_kernel(\n    a_ptr, b_ptr, output_ptr,\n    M, N,\n    stride_am, stride_an,\n    stride_bm, stride_bn,\n    stride_cm, stride_cn,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n):\n    \"\"\"",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "test_broadcasting",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "peekOfCode": "def test_broadcasting():\n    \"\"\"\n    🧪 TEST BROADCASTING\n    Tests broadcasting operations and validates correctness.\n    \"\"\"\n    print(\"\\n🧪 Testing Broadcasting:\")\n    print(\"=\" * 50)\n    # Test case 1: [3, 1] + [1, 4] = [3, 4]\n    print(\"\\n📊 Test: [3, 1] + [1, 4] = [3, 4]\")\n    a = torch.randn(3, 1, device='cuda', dtype=torch.float32)",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "explain_error_handling",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "peekOfCode": "def explain_error_handling():\n    \"\"\"\n    📚 ERROR HANDLING AND DEBUGGING\n    Debugging Triton kernels can be challenging. Here are some strategies:\n    \"\"\"\n    print(\"\\n🎯 Error Handling and Debugging:\")\n    print(\"=\" * 50)\n    print(\"\"\"\n    🐛 Common Debugging Strategies:\n    1. Validate Inputs:",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "debug_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "peekOfCode": "def debug_kernel(\n    input_ptr, output_ptr,\n    n_elements,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🎯 DEBUG KERNEL\n    Demonstrates proper error handling and debugging techniques.\n    \"\"\"\n    pid = tl.program_id(axis=0)",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "test_error_handling",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "peekOfCode": "def test_error_handling():\n    \"\"\"\n    🧪 TEST ERROR HANDLING\n    Tests error handling and edge cases.\n    \"\"\"\n    print(\"\\n🧪 Testing Error Handling:\")\n    print(\"=\" * 50)\n    # Test with edge cases\n    test_cases = [\n        (1, \"Single element\"),",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "explain_performance_optimization",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "peekOfCode": "def explain_performance_optimization():\n    \"\"\"\n    📚 PERFORMANCE OPTIMIZATION\n    Key strategies for optimizing basic operations:\n    \"\"\"\n    print(\"\\n🎯 Performance Optimization:\")\n    print(\"=\" * 50)\n    print(\"\"\"\n    🚀 Optimization Strategies:\n    1. Block Size Tuning:",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "benchmark_basic_operations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "peekOfCode": "def benchmark_basic_operations():\n    \"\"\"\n    📊 BENCHMARK BASIC OPERATIONS\n    Compares performance between Triton and PyTorch for basic operations.\n    \"\"\"\n    print(\"\\n📊 Benchmarking Basic Operations:\")\n    print(\"=\" * 50)\n    sizes = [1024, 4096, 16384, 65536]\n    for size in sizes:\n        print(f\"\\n📈 Size: {size:,} elements\")",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN FUNCTION\n    Runs the complete lesson 3 tutorial.\n    \"\"\"\n    print(\"🎯 LESSON 3: BASIC OPERATIONS & KERNELS\")\n    print(\"=\" * 70)\n    print(\"This lesson covers basic operations and kernel development in Triton.\")\n    # Check CUDA availability\n    if not torch.cuda.is_available():",
+        "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "explain_matrix_multiplication",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "peekOfCode": "def explain_matrix_multiplication():\n    \"\"\"\n    📚 MATRIX MULTIPLICATION FUNDAMENTALS\n    Matrix multiplication is one of the most important operations in deep learning.\n    Understanding the algorithms and optimization techniques is crucial.\n    \"\"\"\n    print(\"🧠 Matrix Multiplication Fundamentals:\")\n    print(\"=\" * 50)\n    print(\"\"\"\n    🎯 What is Matrix Multiplication?",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "basic_matmul_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "peekOfCode": "def basic_matmul_kernel(\n    a_ptr, b_ptr, c_ptr,\n    M, N, K,\n    stride_am, stride_ak,\n    stride_bk, stride_bn,\n    stride_cm, stride_cn,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n    BLOCK_SIZE_K: tl.constexpr,\n):",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "basic_matmul",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "peekOfCode": "def basic_matmul(a: torch.Tensor, b: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🎯 BASIC MATRIX MULTIPLICATION WRAPPER\n    Wrapper function for the basic matrix multiplication kernel.\n    \"\"\"\n    # Input validation\n    assert a.is_cuda and b.is_cuda, \"Input tensors must be on GPU!\"\n    assert a.shape[1] == b.shape[0], \"Inner dimensions must match!\"\n    M, K = a.shape\n    _, N = b.shape",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "optimized_matmul_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "peekOfCode": "def optimized_matmul_kernel(\n    a_ptr, b_ptr, c_ptr,\n    M, N, K,\n    stride_am, stride_ak,\n    stride_bk, stride_bn,\n    stride_cm, stride_cn,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n    BLOCK_SIZE_K: tl.constexpr,\n):",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "optimized_matmul",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "peekOfCode": "def optimized_matmul(a: torch.Tensor, b: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🎯 OPTIMIZED MATRIX MULTIPLICATION WRAPPER\n    Wrapper function for the optimized matrix multiplication kernel.\n    \"\"\"\n    # Input validation\n    assert a.is_cuda and b.is_cuda, \"Input tensors must be on GPU!\"\n    assert a.shape[1] == b.shape[0], \"Inner dimensions must match!\"\n    M, K = a.shape\n    _, N = b.shape",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "batch_matmul_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "peekOfCode": "def batch_matmul_kernel(\n    a_ptr, b_ptr, c_ptr,\n    B, M, N, K,\n    stride_ab, stride_am, stride_ak,\n    stride_bb, stride_bk, stride_bn,\n    stride_cb, stride_cm, stride_cn,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n    BLOCK_SIZE_K: tl.constexpr,\n):",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "batch_matmul",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "peekOfCode": "def batch_matmul(a: torch.Tensor, b: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🎯 BATCH MATRIX MULTIPLICATION WRAPPER\n    Wrapper function for batch matrix multiplication.\n    \"\"\"\n    # Input validation\n    assert a.is_cuda and b.is_cuda, \"Input tensors must be on GPU!\"\n    assert a.shape[0] == b.shape[0], \"Batch dimensions must match!\"\n    assert a.shape[2] == b.shape[1], \"Inner dimensions must match!\"\n    B, M, K = a.shape",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "matrix_transpose_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "peekOfCode": "def matrix_transpose_kernel(\n    input_ptr, output_ptr,\n    M, N,\n    stride_im, stride_in,\n    stride_om, stride_on,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n):\n    \"\"\"\n    🎯 MATRIX TRANSPOSE KERNEL",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "matrix_transpose",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "peekOfCode": "def matrix_transpose(a: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🎯 MATRIX TRANSPOSE WRAPPER\n    Wrapper function for matrix transpose.\n    \"\"\"\n    # Input validation\n    assert a.is_cuda, \"Input tensor must be on GPU!\"\n    assert a.dim() == 2, \"Input must be a 2D tensor!\"\n    M, N = a.shape\n    # Create output tensor",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "test_matrix_operations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "peekOfCode": "def test_matrix_operations():\n    \"\"\"\n    🧪 TEST MATRIX OPERATIONS\n    Tests various matrix operations and validates correctness.\n    \"\"\"\n    print(\"\\n🧪 Testing Matrix Operations:\")\n    print(\"=\" * 50)\n    # Test basic matrix multiplication\n    print(\"\\n📊 Test: Basic Matrix Multiplication\")\n    M, K, N = 256, 128, 192",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "benchmark_matrix_operations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "peekOfCode": "def benchmark_matrix_operations():\n    \"\"\"\n    📊 BENCHMARK MATRIX OPERATIONS\n    Compares performance between Triton and PyTorch for matrix operations.\n    \"\"\"\n    print(\"\\n📊 Benchmarking Matrix Operations:\")\n    print(\"=\" * 50)\n    sizes = [\n        (256, 256, 256),\n        (512, 512, 512),",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "description": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN FUNCTION\n    Runs the complete lesson 4 tutorial.\n    \"\"\"\n    print(\"🔧 LESSON 4: MATRIX OPERATIONS & TILING STRATEGIES\")\n    print(\"=\" * 70)\n    print(\"This lesson covers matrix operations and optimization techniques in Triton.\")\n    # Check CUDA availability\n    if not torch.cuda.is_available():",
+        "detail": "qwen-llm.triton_tutorials.lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.cli",
+        "description": "qwen-llm.triton_tutorials.cli",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN CLI FUNCTION\n    Provides a command-line interface for running tutorials.\n    \"\"\"\n    parser = argparse.ArgumentParser(\n        description=\"🚀 Triton Tutorials CLI - Learn Triton from beginner to expert\",\n        formatter_class=argparse.RawDescriptionHelpFormatter,\n        epilog=\"\"\"\nExamples:",
+        "detail": "qwen-llm.triton_tutorials.cli",
+        "documentation": {}
+    },
+    {
+        "label": "run_lesson",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.cli",
+        "description": "qwen-llm.triton_tutorials.cli",
+        "peekOfCode": "def run_lesson(level: str, lesson: int, force_gpu: bool):\n    \"\"\"\n    🎯 RUN A SPECIFIC LESSON\n    Args:\n        level: Tutorial level (beginner, intermediate, advanced, expert)\n        lesson: Lesson number\n        force_gpu: Force GPU usage\n    \"\"\"\n    print(f\"🚀 Running {level} lesson {lesson}\")\n    # Check CUDA availability",
+        "detail": "qwen-llm.triton_tutorials.cli",
+        "documentation": {}
+    },
+    {
+        "label": "list_lessons",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.cli",
+        "description": "qwen-llm.triton_tutorials.cli",
+        "peekOfCode": "def list_lessons(level_filter: str = None):\n    \"\"\"\n    📚 LIST ALL AVAILABLE LESSONS\n    Args:\n        level_filter: Optional level filter\n    \"\"\"\n    print(\"📚 Available Triton Tutorials:\")\n    print(\"=\" * 50)\n    lessons = {\n        'beginner': [",
+        "detail": "qwen-llm.triton_tutorials.cli",
+        "documentation": {}
+    },
+    {
+        "label": "run_benchmarks",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.cli",
+        "description": "qwen-llm.triton_tutorials.cli",
+        "peekOfCode": "def run_benchmarks(lesson: int = None, run_all: bool = False):\n    \"\"\"\n    📊 RUN PERFORMANCE BENCHMARKS\n    Args:\n        lesson: Specific lesson to benchmark\n        run_all: Run all benchmarks\n    \"\"\"\n    print(\"📊 Running Performance Benchmarks:\")\n    print(\"=\" * 50)\n    if lesson:",
+        "detail": "qwen-llm.triton_tutorials.cli",
+        "documentation": {}
+    },
+    {
+        "label": "install_dependencies",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.cli",
+        "description": "qwen-llm.triton_tutorials.cli",
+        "peekOfCode": "def install_dependencies(dev: bool = False):\n    \"\"\"\n    📦 INSTALL DEPENDENCIES\n    Args:\n        dev: Install development dependencies\n    \"\"\"\n    print(\"📦 Installing Dependencies:\")\n    print(\"=\" * 50)\n    import subprocess\n    import sys",
+        "detail": "qwen-llm.triton_tutorials.cli",
+        "documentation": {}
+    },
+    {
+        "label": "show_system_info",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.cli",
+        "description": "qwen-llm.triton_tutorials.cli",
+        "peekOfCode": "def show_system_info():\n    \"\"\"\n    ℹ️ SHOW SYSTEM INFORMATION\n    Displays system information relevant to Triton development.\n    \"\"\"\n    print(\"ℹ️ System Information:\")\n    print(\"=\" * 50)\n    # Python version\n    import sys\n    print(f\"Python version: {sys.version}\")",
+        "detail": "qwen-llm.triton_tutorials.cli",
+        "documentation": {}
+    },
+    {
         "label": "BenchmarkConfig",
         "kind": 6,
         "importPath": "qwen-llm.benchmark_quantization",
@@ -6036,6 +6836,123 @@
         "description": "qwen-llm.train_qwen3",
         "peekOfCode": "def interactive_inference(model_path: str = \"models/final_model1.pt\"):\n    \"\"\"\n    🤖 INTERACTIVE INFERENCE SESSION\n    This function allows you to interact with the trained model\n    \"\"\"\n    print(\"🤖 Starting interactive inference session\")\n    print(\"Type 'quit' to exit\")\n    # Load model\n    if not os.path.exists(model_path):\n        print(f\"❌ Model file {model_path} not found!\")",
         "detail": "qwen-llm.train_qwen3",
+        "documentation": {}
+    },
+    {
+        "label": "outerk_matmul_kernel",
+        "kind": 2,
+        "importPath": "triton-tutorials.kernels.matmul_outer_k",
+        "description": "triton-tutorials.kernels.matmul_outer_k",
+        "peekOfCode": "def outerk_matmul_kernel(\n    # input pointers\n    a_ptr,\n    b_ptr,\n    # output ptr\n    c_ptr,\n    # matrix dimensions\n    M, N, K,\n    # the stride variables represent how much to increase the ptr by when moving by 1\n    # element in a particular dimension. E.g. stride_am is how much to increase a_ptr",
+        "detail": "triton-tutorials.kernels.matmul_outer_k",
+        "documentation": {}
+    },
+    {
+        "label": "triton_outer_k_matmul",
+        "kind": 2,
+        "importPath": "triton-tutorials.kernels.matmul_outer_k",
+        "description": "triton-tutorials.kernels.matmul_outer_k",
+        "peekOfCode": "def triton_outer_k_matmul(a, b):\n    \"\"\"\n    Compute matmul of C = A @ B using Triton block tiled kernel\n    Inputs:\n    a: torch.tensor of shape (M, K)\n    b: torch.tensor of shape (K, N)\n    Returns:\n    C: shape (M, N)\n    \"\"\"\n    # verify our inputs",
+        "detail": "triton-tutorials.kernels.matmul_outer_k",
+        "documentation": {}
+    },
+    {
+        "label": "benchmark_matmul",
+        "kind": 2,
+        "importPath": "triton-tutorials.kernels.matmul_outer_k",
+        "description": "triton-tutorials.kernels.matmul_outer_k",
+        "peekOfCode": "def benchmark_matmul():\n    # Create random matrices\n    M, N, K = 8192, 8192, 4096\n    a = torch.randn((M, K), device='cuda', dtype=torch.float32)\n    b = torch.randn((K, N), device='cuda', dtype=torch.float32)\n    # Verify correctness\n    torch_output = torch.matmul(a, b)\n    triton_output = triton_outer_k_matmul(a, b)\n    assert torch.allclose(torch_output, triton_output, rtol=1e-2, atol=1e-1), \\\n        \"Triton and PyTorch matmul results don't match!\"",
+        "detail": "triton-tutorials.kernels.matmul_outer_k",
+        "documentation": {}
+    },
+    {
+        "label": "vector_addition_kernel",
+        "kind": 2,
+        "importPath": "triton-tutorials.kernels.vector_addition_tutorial",
+        "description": "triton-tutorials.kernels.vector_addition_tutorial",
+        "peekOfCode": "def vector_addition_kernel(\n    # the first two arguments are pointers to the input and output tensors\n    # we will see how to pass these arguments in the wrapper function below\n    x_ptr,\n    y_ptr,\n    output_ptr,\n    # the total count of the inputs we are summing over\n    n_elements,\n    # the stride of the input and output tensors\n    # tl.constexpr is a decorator that designates a variable as a compile-time constant",
+        "detail": "triton-tutorials.kernels.vector_addition_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "vector_addition",
+        "kind": 2,
+        "importPath": "triton-tutorials.kernels.vector_addition_tutorial",
+        "description": "triton-tutorials.kernels.vector_addition_tutorial",
+        "peekOfCode": "def vector_addition(x, y):\n    # lets' first make sure that the input tensors are on the GPU\n    assert x.is_cuda and y.is_cuda, \"Input tensors must be on GPU!\"\n    # we need to also make sure that a and b are the same size\n    assert x.numel() == y.numel(), \"Input tensors must be the same size!\"\n    # the output shape is the same as the input shape\n    output = torch.empty_like(x)\n    # the grid is the number of program blocks we need to launch to handle the entire input\n    # cdiv just means ceiling division, so it returns the smallest integer >= x / y ensuring we always\n    # launch enough program blocks to handle the entire input",
+        "detail": "triton-tutorials.kernels.vector_addition_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "construct_grouped_gemm",
+        "kind": 2,
+        "importPath": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
+        "description": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
+        "peekOfCode": "def construct_grouped_gemm(\n    M: int,\n    K: int,\n    N: int,\n    num_experts: int,\n    group_size_m: int = 128,\n    device: str = \"cuda\",\n    dtype: torch.dtype = torch.bfloat16,\n) -> Tuple[torch.Tensor, torch.Tensor, torch.Tensor]:\n    \"\"\"",
+        "detail": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
+        "documentation": {}
+    },
+    {
+        "label": "pytorch_reference_gemm",
+        "kind": 2,
+        "importPath": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
+        "description": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
+        "peekOfCode": "def pytorch_reference_gemm(\n    inputs: torch.Tensor,\n    expert_weights: torch.Tensor,\n    expert_indices: torch.Tensor,\n    group_size_m: int = 128,\n) -> torch.Tensor:\n    \"\"\"\n    Reference implementation using PyTorch for verification.\n    \"\"\"\n    M_total, K = inputs.shape",
+        "detail": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
+        "documentation": {}
+    },
+    {
+        "label": "triton_gemm_func",
+        "kind": 2,
+        "importPath": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
+        "description": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
+        "peekOfCode": "def triton_gemm_func(a, b, expert_indices):\n    return grouped_gemm_persistent(a, b, expert_indices)\ndef gemm_func_torch(a, b, expert_indices):\n    return pytorch_reference_gemm(a, b, expert_indices)\nnum_threads = torch.get_num_threads()\nprint(f'Benchmarking on {num_threads} threads')\nresults = []\nfor num_groups, m, k, n in ((4, 8192, 7168, 4096), (4, 8192, 2048, 7168), (8, 4096, 7168, 4096), (8, 4096, 2048, 7168)):\n    a, b, expert_indices = construct_grouped_gemm(m, k, n, num_groups)\n    label = 'BF16 Grouped GEMM Performance'",
+        "detail": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
+        "documentation": {}
+    },
+    {
+        "label": "gemm_func_torch",
+        "kind": 2,
+        "importPath": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
+        "description": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
+        "peekOfCode": "def gemm_func_torch(a, b, expert_indices):\n    return pytorch_reference_gemm(a, b, expert_indices)\nnum_threads = torch.get_num_threads()\nprint(f'Benchmarking on {num_threads} threads')\nresults = []\nfor num_groups, m, k, n in ((4, 8192, 7168, 4096), (4, 8192, 2048, 7168), (8, 4096, 7168, 4096), (8, 4096, 2048, 7168)):\n    a, b, expert_indices = construct_grouped_gemm(m, k, n, num_groups)\n    label = 'BF16 Grouped GEMM Performance'\n    sub_label = f'num_groups: {num_groups}, m: {m}, n: {n}, k: {k}'\n    results.append(benchmark.Timer(",
+        "detail": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
+        "documentation": {}
+    },
+    {
+        "label": "num_threads",
+        "kind": 5,
+        "importPath": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
+        "description": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
+        "peekOfCode": "num_threads = torch.get_num_threads()\nprint(f'Benchmarking on {num_threads} threads')\nresults = []\nfor num_groups, m, k, n in ((4, 8192, 7168, 4096), (4, 8192, 2048, 7168), (8, 4096, 7168, 4096), (8, 4096, 2048, 7168)):\n    a, b, expert_indices = construct_grouped_gemm(m, k, n, num_groups)\n    label = 'BF16 Grouped GEMM Performance'\n    sub_label = f'num_groups: {num_groups}, m: {m}, n: {n}, k: {k}'\n    results.append(benchmark.Timer(\n        stmt='triton_gemm_func(a, b, expert_indices)',\n        setup='from __main__ import triton_gemm_func',",
+        "detail": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
+        "documentation": {}
+    },
+    {
+        "label": "results",
+        "kind": 5,
+        "importPath": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
+        "description": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
+        "peekOfCode": "results = []\nfor num_groups, m, k, n in ((4, 8192, 7168, 4096), (4, 8192, 2048, 7168), (8, 4096, 7168, 4096), (8, 4096, 2048, 7168)):\n    a, b, expert_indices = construct_grouped_gemm(m, k, n, num_groups)\n    label = 'BF16 Grouped GEMM Performance'\n    sub_label = f'num_groups: {num_groups}, m: {m}, n: {n}, k: {k}'\n    results.append(benchmark.Timer(\n        stmt='triton_gemm_func(a, b, expert_indices)',\n        setup='from __main__ import triton_gemm_func',\n        globals={'a': a, 'b' : b, 'expert_indices': expert_indices},\n        num_threads=num_threads,",
+        "detail": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
+        "documentation": {}
+    },
+    {
+        "label": "compare",
+        "kind": 5,
+        "importPath": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
+        "description": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
+        "peekOfCode": "compare = benchmark.Compare(results)\ncompare.print()",
+        "detail": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.benchmark_grouped_gemm",
+        "documentation": {}
+    },
+    {
+        "label": "grouped_gemm_persistent",
+        "kind": 2,
+        "importPath": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.grouped_gemm",
+        "description": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.grouped_gemm",
+        "peekOfCode": "def grouped_gemm_persistent(\n    inputs: torch.Tensor,  # [M_total, K]\n    expert_weights: torch.Tensor,  # [num_experts, N, K]\n    expert_indices: torch.Tensor,  # [M_total]\n) -> torch.Tensor:\n    return _grouped_gemm_persistent(inputs, expert_weights, expert_indices)",
+        "detail": "triton-tutorials.lesson_5.triton_contiguous_group_gemm.grouped_gemm",
         "documentation": {}
     },
     {
