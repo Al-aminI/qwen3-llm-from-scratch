@@ -1584,6 +1584,22 @@
         "documentation": {}
     },
     {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
         "label": "List",
         "importPath": "typing",
         "description": "typing",
@@ -1609,6 +1625,254 @@
     },
     {
         "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
         "importPath": "typing",
         "description": "typing",
         "isExtraImport": true,
@@ -3200,147 +3464,27 @@
         "documentation": {}
     },
     {
-        "label": "basic_matmul",
-        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
-        "description": "lessons.intermediate.lesson_04_matrix_operations",
+        "label": "optimized_attention",
+        "importPath": "examples.llm_inference_optimization",
+        "description": "examples.llm_inference_optimization",
         "isExtraImport": true,
-        "detail": "lessons.intermediate.lesson_04_matrix_operations",
+        "detail": "examples.llm_inference_optimization",
         "documentation": {}
     },
     {
-        "label": "optimized_matmul",
-        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
-        "description": "lessons.intermediate.lesson_04_matrix_operations",
+        "label": "transformer_matmul",
+        "importPath": "examples.llm_inference_optimization",
+        "description": "examples.llm_inference_optimization",
         "isExtraImport": true,
-        "detail": "lessons.intermediate.lesson_04_matrix_operations",
+        "detail": "examples.llm_inference_optimization",
         "documentation": {}
     },
     {
-        "label": "batch_matmul",
-        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
-        "description": "lessons.intermediate.lesson_04_matrix_operations",
+        "label": "layer_norm",
+        "importPath": "examples.llm_inference_optimization",
+        "description": "examples.llm_inference_optimization",
         "isExtraImport": true,
-        "detail": "lessons.intermediate.lesson_04_matrix_operations",
-        "documentation": {}
-    },
-    {
-        "label": "matrix_transpose",
-        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
-        "description": "lessons.intermediate.lesson_04_matrix_operations",
-        "isExtraImport": true,
-        "detail": "lessons.intermediate.lesson_04_matrix_operations",
-        "documentation": {}
-    },
-    {
-        "label": "basic_matmul",
-        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
-        "description": "lessons.intermediate.lesson_04_matrix_operations",
-        "isExtraImport": true,
-        "detail": "lessons.intermediate.lesson_04_matrix_operations",
-        "documentation": {}
-    },
-    {
-        "label": "optimized_matmul",
-        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
-        "description": "lessons.intermediate.lesson_04_matrix_operations",
-        "isExtraImport": true,
-        "detail": "lessons.intermediate.lesson_04_matrix_operations",
-        "documentation": {}
-    },
-    {
-        "label": "batch_matmul",
-        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
-        "description": "lessons.intermediate.lesson_04_matrix_operations",
-        "isExtraImport": true,
-        "detail": "lessons.intermediate.lesson_04_matrix_operations",
-        "documentation": {}
-    },
-    {
-        "label": "matrix_transpose",
-        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
-        "description": "lessons.intermediate.lesson_04_matrix_operations",
-        "isExtraImport": true,
-        "detail": "lessons.intermediate.lesson_04_matrix_operations",
-        "documentation": {}
-    },
-    {
-        "label": "shared_memory_matmul",
-        "importPath": "lessons.intermediate.lesson_05_advanced_memory",
-        "description": "lessons.intermediate.lesson_05_advanced_memory",
-        "isExtraImport": true,
-        "detail": "lessons.intermediate.lesson_05_advanced_memory",
-        "documentation": {}
-    },
-    {
-        "label": "cache_friendly_reduction",
-        "importPath": "lessons.intermediate.lesson_05_advanced_memory",
-        "description": "lessons.intermediate.lesson_05_advanced_memory",
-        "isExtraImport": true,
-        "detail": "lessons.intermediate.lesson_05_advanced_memory",
-        "documentation": {}
-    },
-    {
-        "label": "shared_memory_matmul",
-        "importPath": "lessons.intermediate.lesson_05_advanced_memory",
-        "description": "lessons.intermediate.lesson_05_advanced_memory",
-        "isExtraImport": true,
-        "detail": "lessons.intermediate.lesson_05_advanced_memory",
-        "documentation": {}
-    },
-    {
-        "label": "cache_friendly_reduction",
-        "importPath": "lessons.intermediate.lesson_05_advanced_memory",
-        "description": "lessons.intermediate.lesson_05_advanced_memory",
-        "isExtraImport": true,
-        "detail": "lessons.intermediate.lesson_05_advanced_memory",
-        "documentation": {}
-    },
-    {
-        "label": "fused_add_multiply",
-        "importPath": "lessons.intermediate.lesson_06_kernel_fusion",
-        "description": "lessons.intermediate.lesson_06_kernel_fusion",
-        "isExtraImport": true,
-        "detail": "lessons.intermediate.lesson_06_kernel_fusion",
-        "documentation": {}
-    },
-    {
-        "label": "fused_matmul_activation",
-        "importPath": "lessons.intermediate.lesson_06_kernel_fusion",
-        "description": "lessons.intermediate.lesson_06_kernel_fusion",
-        "isExtraImport": true,
-        "detail": "lessons.intermediate.lesson_06_kernel_fusion",
-        "documentation": {}
-    },
-    {
-        "label": "fused_loop",
-        "importPath": "lessons.intermediate.lesson_06_kernel_fusion",
-        "description": "lessons.intermediate.lesson_06_kernel_fusion",
-        "isExtraImport": true,
-        "detail": "lessons.intermediate.lesson_06_kernel_fusion",
-        "documentation": {}
-    },
-    {
-        "label": "fused_add_multiply",
-        "importPath": "lessons.intermediate.lesson_06_kernel_fusion",
-        "description": "lessons.intermediate.lesson_06_kernel_fusion",
-        "isExtraImport": true,
-        "detail": "lessons.intermediate.lesson_06_kernel_fusion",
-        "documentation": {}
-    },
-    {
-        "label": "fused_matmul_activation",
-        "importPath": "lessons.intermediate.lesson_06_kernel_fusion",
-        "description": "lessons.intermediate.lesson_06_kernel_fusion",
-        "isExtraImport": true,
-        "detail": "lessons.intermediate.lesson_06_kernel_fusion",
-        "documentation": {}
-    },
-    {
-        "label": "fused_loop",
-        "importPath": "lessons.intermediate.lesson_06_kernel_fusion",
-        "description": "lessons.intermediate.lesson_06_kernel_fusion",
-        "isExtraImport": true,
-        "detail": "lessons.intermediate.lesson_06_kernel_fusion",
+        "detail": "examples.llm_inference_optimization",
         "documentation": {}
     },
     {
@@ -3368,6 +3512,158 @@
         "documentation": {}
     },
     {
+        "label": "basic_matmul",
+        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
+        "description": "lessons.intermediate.lesson_04_matrix_operations",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "optimized_matmul",
+        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
+        "description": "lessons.intermediate.lesson_04_matrix_operations",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "batch_matmul",
+        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
+        "description": "lessons.intermediate.lesson_04_matrix_operations",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "matrix_transpose",
+        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
+        "description": "lessons.intermediate.lesson_04_matrix_operations",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "basic_matmul",
+        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
+        "description": "lessons.intermediate.lesson_04_matrix_operations",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "optimized_matmul",
+        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
+        "description": "lessons.intermediate.lesson_04_matrix_operations",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "batch_matmul",
+        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
+        "description": "lessons.intermediate.lesson_04_matrix_operations",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "matrix_transpose",
+        "importPath": "lessons.intermediate.lesson_04_matrix_operations",
+        "description": "lessons.intermediate.lesson_04_matrix_operations",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_04_matrix_operations",
+        "documentation": {}
+    },
+    {
+        "label": "shared_memory_matmul",
+        "importPath": "lessons.intermediate.lesson_05_advanced_memory",
+        "description": "lessons.intermediate.lesson_05_advanced_memory",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "cache_friendly_reduction",
+        "importPath": "lessons.intermediate.lesson_05_advanced_memory",
+        "description": "lessons.intermediate.lesson_05_advanced_memory",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "shared_memory_matmul",
+        "importPath": "lessons.intermediate.lesson_05_advanced_memory",
+        "description": "lessons.intermediate.lesson_05_advanced_memory",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "cache_friendly_reduction",
+        "importPath": "lessons.intermediate.lesson_05_advanced_memory",
+        "description": "lessons.intermediate.lesson_05_advanced_memory",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_05_advanced_memory",
+        "documentation": {}
+    },
+    {
+        "label": "fused_add_multiply",
+        "importPath": "lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "lessons.intermediate.lesson_06_kernel_fusion",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "fused_matmul_activation",
+        "importPath": "lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "lessons.intermediate.lesson_06_kernel_fusion",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "fused_loop",
+        "importPath": "lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "lessons.intermediate.lesson_06_kernel_fusion",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "fused_add_multiply",
+        "importPath": "lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "lessons.intermediate.lesson_06_kernel_fusion",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "fused_matmul_activation",
+        "importPath": "lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "lessons.intermediate.lesson_06_kernel_fusion",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "fused_loop",
+        "importPath": "lessons.intermediate.lesson_06_kernel_fusion",
+        "description": "lessons.intermediate.lesson_06_kernel_fusion",
+        "isExtraImport": true,
+        "detail": "lessons.intermediate.lesson_06_kernel_fusion",
+        "documentation": {}
+    },
+    {
+        "label": "BenchmarkSuite",
+        "importPath": "utils.benchmarking",
+        "description": "utils.benchmarking",
+        "isExtraImport": true,
+        "detail": "utils.benchmarking",
+        "documentation": {}
+    },
+    {
         "label": "BenchmarkSuite",
         "importPath": "utils.benchmarking",
         "description": "utils.benchmarking",
@@ -3392,11 +3688,27 @@
         "documentation": {}
     },
     {
+        "label": "PerformanceProfiler",
+        "importPath": "utils.profiling",
+        "description": "utils.profiling",
+        "isExtraImport": true,
+        "detail": "utils.profiling",
+        "documentation": {}
+    },
+    {
         "label": "ProfileResult",
         "importPath": "utils.profiling",
         "description": "utils.profiling",
         "isExtraImport": true,
         "detail": "utils.profiling",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationSuite",
+        "importPath": "utils.validation",
+        "description": "utils.validation",
+        "isExtraImport": true,
+        "detail": "utils.validation",
         "documentation": {}
     },
     {
@@ -3432,6 +3744,30 @@
         "documentation": {}
     },
     {
+        "label": "DataGenerator",
+        "importPath": "utils.data_generation",
+        "description": "utils.data_generation",
+        "isExtraImport": true,
+        "detail": "utils.data_generation",
+        "documentation": {}
+    },
+    {
+        "label": "DataConfig",
+        "importPath": "utils.data_generation",
+        "description": "utils.data_generation",
+        "isExtraImport": true,
+        "detail": "utils.data_generation",
+        "documentation": {}
+    },
+    {
+        "label": "PerformanceAnalyzer",
+        "importPath": "utils.performance_analysis",
+        "description": "utils.performance_analysis",
+        "isExtraImport": true,
+        "detail": "utils.performance_analysis",
+        "documentation": {}
+    },
+    {
         "label": "PerformanceAnalyzer",
         "importPath": "utils.performance_analysis",
         "description": "utils.performance_analysis",
@@ -3445,6 +3781,48 @@
         "description": "utils.performance_analysis",
         "isExtraImport": true,
         "detail": "utils.performance_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "BenchmarkSuite",
+        "importPath": "triton_tutorials.utils.benchmarking",
+        "description": "triton_tutorials.utils.benchmarking",
+        "isExtraImport": true,
+        "detail": "triton_tutorials.utils.benchmarking",
+        "documentation": {}
+    },
+    {
+        "label": "PerformanceProfiler",
+        "importPath": "triton_tutorials.utils.profiling",
+        "description": "triton_tutorials.utils.profiling",
+        "isExtraImport": true,
+        "detail": "triton_tutorials.utils.profiling",
+        "documentation": {}
+    },
+    {
+        "label": "PerformanceAnalyzer",
+        "importPath": "triton_tutorials.utils.performance_analysis",
+        "description": "triton_tutorials.utils.performance_analysis",
+        "isExtraImport": true,
+        "detail": "triton_tutorials.utils.performance_analysis",
+        "documentation": {}
+    },
+    {
+        "label": "ctypes",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ctypes",
+        "description": "ctypes",
+        "detail": "ctypes",
+        "documentation": {}
+    },
+    {
+        "label": "torch.distributed",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.distributed",
+        "description": "torch.distributed",
+        "detail": "torch.distributed",
         "documentation": {}
     },
     {
@@ -5077,6 +5455,24 @@
         "documentation": {}
     },
     {
+        "label": "BenchmarkExamples",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.benchmarks.benchmark_examples",
+        "description": "qwen-llm.triton_tutorials.benchmarks.benchmark_examples",
+        "peekOfCode": "class BenchmarkExamples:\n    \"\"\"\n    📊 BENCHMARK SUITE FOR EXAMPLES\n    Benchmarks for the example implementations.\n    \"\"\"\n    def __init__(self, warmup_runs: int = 10, benchmark_runs: int = 100):\n        \"\"\"\n        Initialize the benchmark suite.\n        Args:\n            warmup_runs: Number of warmup runs",
+        "detail": "qwen-llm.triton_tutorials.benchmarks.benchmark_examples",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.benchmarks.benchmark_examples",
+        "description": "qwen-llm.triton_tutorials.benchmarks.benchmark_examples",
+        "peekOfCode": "def main():\n    \"\"\"Main function to run example benchmarks.\"\"\"\n    benchmark_suite = BenchmarkExamples()\n    benchmark_suite.run_all_benchmarks()\nif __name__ == \"__main__\":\n    main()",
+        "detail": "qwen-llm.triton_tutorials.benchmarks.benchmark_examples",
+        "documentation": {}
+    },
+    {
         "label": "BenchmarkIntermediateLessons",
         "kind": 6,
         "importPath": "qwen-llm.triton_tutorials.benchmarks.benchmark_intermediate",
@@ -5092,6 +5488,105 @@
         "description": "qwen-llm.triton_tutorials.benchmarks.benchmark_intermediate",
         "peekOfCode": "def main():\n    \"\"\"Main function to run intermediate lesson benchmarks.\"\"\"\n    benchmark_suite = BenchmarkIntermediateLessons()\n    benchmark_suite.run_all_benchmarks()\nif __name__ == \"__main__\":\n    main()",
         "detail": "qwen-llm.triton_tutorials.benchmarks.benchmark_intermediate",
+        "documentation": {}
+    },
+    {
+        "label": "BenchmarkUtilities",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.benchmarks.benchmark_utils",
+        "description": "qwen-llm.triton_tutorials.benchmarks.benchmark_utils",
+        "peekOfCode": "class BenchmarkUtilities:\n    \"\"\"\n    📊 BENCHMARK SUITE FOR UTILITIES\n    Benchmarks for the utility modules.\n    \"\"\"\n    def __init__(self, warmup_runs: int = 10, benchmark_runs: int = 100):\n        \"\"\"\n        Initialize the benchmark suite.\n        Args:\n            warmup_runs: Number of warmup runs",
+        "detail": "qwen-llm.triton_tutorials.benchmarks.benchmark_utils",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.benchmarks.benchmark_utils",
+        "description": "qwen-llm.triton_tutorials.benchmarks.benchmark_utils",
+        "peekOfCode": "def main():\n    \"\"\"Main function to run utility benchmarks.\"\"\"\n    benchmark_suite = BenchmarkUtilities()\n    benchmark_suite.run_all_benchmarks()\nif __name__ == \"__main__\":\n    main()",
+        "detail": "qwen-llm.triton_tutorials.benchmarks.benchmark_utils",
+        "documentation": {}
+    },
+    {
+        "label": "basic_attention_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "peekOfCode": "def basic_attention_kernel(\n    q_ptr, k_ptr, v_ptr, output_ptr,\n    batch_size, num_heads, seq_len, head_dim,\n    stride_qb, stride_qh, stride_qs, stride_qd,\n    stride_kb, stride_kh, stride_ks, stride_kd,\n    stride_vb, stride_vh, stride_vs, stride_vd,\n    stride_ob, stride_oh, stride_os, stride_od,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"",
+        "detail": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "basic_attention",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "peekOfCode": "def basic_attention(q: torch.Tensor, k: torch.Tensor, v: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🎯 BASIC ATTENTION WRAPPER\n    Wrapper function for basic attention mechanism.\n    \"\"\"\n    # Input validation\n    assert q.is_cuda and k.is_cuda and v.is_cuda, \"Input tensors must be on GPU!\"\n    assert q.shape == k.shape == v.shape, \"Input tensors must have the same shape!\"\n    batch_size, num_heads, seq_len, head_dim = q.shape\n    # Create output tensor",
+        "detail": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "optimized_attention_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "peekOfCode": "def optimized_attention_kernel(\n    q_ptr, k_ptr, v_ptr, output_ptr,\n    batch_size, num_heads, seq_len, head_dim,\n    stride_qb, stride_qh, stride_qs, stride_qd,\n    stride_kb, stride_kh, stride_ks, stride_kd,\n    stride_vb, stride_vh, stride_vs, stride_vd,\n    stride_ob, stride_oh, stride_os, stride_od,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n    BLOCK_SIZE_K: tl.constexpr,",
+        "detail": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "optimized_attention",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "peekOfCode": "def optimized_attention(q: torch.Tensor, k: torch.Tensor, v: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🚀 OPTIMIZED ATTENTION WRAPPER\n    Wrapper function for optimized attention mechanism.\n    \"\"\"\n    # Input validation\n    assert q.is_cuda and k.is_cuda and v.is_cuda, \"Input tensors must be on GPU!\"\n    assert q.shape == k.shape == v.shape, \"Input tensors must have the same shape!\"\n    batch_size, num_heads, seq_len, head_dim = q.shape\n    # Create output tensor",
+        "detail": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "flash_attention_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "peekOfCode": "def flash_attention_kernel(\n    q_ptr, k_ptr, v_ptr, output_ptr,\n    batch_size, num_heads, seq_len, head_dim,\n    stride_qb, stride_qh, stride_qs, stride_qd,\n    stride_kb, stride_kh, stride_ks, stride_kd,\n    stride_vb, stride_vh, stride_vs, stride_vd,\n    stride_ob, stride_oh, stride_os, stride_od,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n    BLOCK_SIZE_K: tl.constexpr,",
+        "detail": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "flash_attention",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "peekOfCode": "def flash_attention(q: torch.Tensor, k: torch.Tensor, v: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🔥 FLASH ATTENTION WRAPPER\n    Wrapper function for FlashAttention mechanism.\n    \"\"\"\n    # Input validation\n    assert q.is_cuda and k.is_cuda and v.is_cuda, \"Input tensors must be on GPU!\"\n    assert q.shape == k.shape == v.shape, \"Input tensors must have the same shape!\"\n    batch_size, num_heads, seq_len, head_dim = q.shape\n    # Create output tensor",
+        "detail": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "test_attention_mechanisms",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "peekOfCode": "def test_attention_mechanisms():\n    \"\"\"\n    🧪 TEST ATTENTION MECHANISMS\n    Tests various attention mechanisms and compares performance.\n    \"\"\"\n    print(\"🧪 Testing Attention Mechanisms:\")\n    print(\"=\" * 50)\n    # Test configuration\n    batch_size, num_heads, seq_len, head_dim = 2, 8, 128, 64\n    # Create test data",
+        "detail": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "benchmark_attention_mechanisms",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "peekOfCode": "def benchmark_attention_mechanisms():\n    \"\"\"\n    📊 BENCHMARK ATTENTION MECHANISMS\n    Benchmarks various attention mechanisms and compares performance.\n    \"\"\"\n    print(\"\\n📊 Benchmarking Attention Mechanisms:\")\n    print(\"=\" * 50)\n    # Test different configurations\n    configs = [\n        (2, 8, 128, 64),   # batch_size, num_heads, seq_len, head_dim",
+        "detail": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.attention_optimization",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN FUNCTION\n    Runs the attention optimization examples.\n    \"\"\"\n    print(\"🎯 ATTENTION OPTIMIZATION EXAMPLES\")\n    print(\"=\" * 70)\n    print(\"This module demonstrates various attention optimization techniques.\")\n    # Check CUDA availability\n    if not torch.cuda.is_available():",
+        "detail": "qwen-llm.triton_tutorials.examples.attention_optimization",
         "documentation": {}
     },
     {
@@ -5173,6 +5668,510 @@
         "description": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
         "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN FUNCTION\n    Runs the LLM inference optimization example.\n    \"\"\"\n    print(\"🚀 LLM INFERENCE OPTIMIZATION WITH TRITON\")\n    print(\"=\" * 70)\n    print(\"This example demonstrates Triton kernels for LLM inference optimization.\")\n    # Check CUDA availability\n    if not torch.cuda.is_available():",
         "detail": "qwen-llm.triton_tutorials.examples.llm_inference_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "basic_matmul_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "peekOfCode": "def basic_matmul_kernel(\n    a_ptr, b_ptr, c_ptr,\n    M, N, K,\n    stride_am, stride_ak,\n    stride_bk, stride_bn,\n    stride_cm, stride_cn,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🧠 BASIC MATRIX MULTIPLICATION KERNEL",
+        "detail": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "basic_matmul",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "peekOfCode": "def basic_matmul(a: torch.Tensor, b: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🧠 BASIC MATRIX MULTIPLICATION WRAPPER\n    Wrapper function for basic matrix multiplication.\n    \"\"\"\n    # Input validation\n    assert a.is_cuda and b.is_cuda, \"Input tensors must be on GPU!\"\n    assert a.shape[1] == b.shape[0], \"Inner dimensions must match!\"\n    M, K = a.shape\n    _, N = b.shape",
+        "detail": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "optimized_matmul_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "peekOfCode": "def optimized_matmul_kernel(\n    a_ptr, b_ptr, c_ptr,\n    M, N, K,\n    stride_am, stride_ak,\n    stride_bk, stride_bn,\n    stride_cm, stride_cn,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n    BLOCK_SIZE_K: tl.constexpr,\n):",
+        "detail": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "optimized_matmul",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "peekOfCode": "def optimized_matmul(a: torch.Tensor, b: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🚀 OPTIMIZED MATRIX MULTIPLICATION WRAPPER\n    Wrapper function for optimized matrix multiplication.\n    \"\"\"\n    # Input validation\n    assert a.is_cuda and b.is_cuda, \"Input tensors must be on GPU!\"\n    assert a.shape[1] == b.shape[0], \"Inner dimensions must match!\"\n    M, K = a.shape\n    _, N = b.shape",
+        "detail": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "fused_matmul_activation_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "peekOfCode": "def fused_matmul_activation_kernel(\n    a_ptr, b_ptr, output_ptr,\n    M, N, K,\n    stride_am, stride_ak,\n    stride_bk, stride_bn,\n    stride_cm, stride_cn,\n    activation_type: tl.constexpr,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n    BLOCK_SIZE_K: tl.constexpr,",
+        "detail": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "fused_matmul_activation",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "peekOfCode": "def fused_matmul_activation(a: torch.Tensor, b: torch.Tensor, activation: str = \"relu\") -> torch.Tensor:\n    \"\"\"\n    🔥 FUSED MATRIX MULTIPLICATION + ACTIVATION WRAPPER\n    Wrapper function for fused matrix multiplication + activation.\n    \"\"\"\n    # Input validation\n    assert a.is_cuda and b.is_cuda, \"Input tensors must be on GPU!\"\n    assert a.shape[1] == b.shape[0], \"Inner dimensions must match!\"\n    M, K = a.shape\n    _, N = b.shape",
+        "detail": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "batch_matmul_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "peekOfCode": "def batch_matmul_kernel(\n    a_ptr, b_ptr, c_ptr,\n    batch_size, M, N, K,\n    stride_ab, stride_am, stride_ak,\n    stride_bb, stride_bk, stride_bn,\n    stride_cb, stride_cm, stride_cn,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n    BLOCK_SIZE_K: tl.constexpr,\n):",
+        "detail": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "batch_matmul",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "peekOfCode": "def batch_matmul(a: torch.Tensor, b: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🎯 BATCH MATRIX MULTIPLICATION WRAPPER\n    Wrapper function for batch matrix multiplication.\n    \"\"\"\n    # Input validation\n    assert a.is_cuda and b.is_cuda, \"Input tensors must be on GPU!\"\n    assert a.shape[0] == b.shape[0], \"Batch sizes must match!\"\n    assert a.shape[2] == b.shape[1], \"Inner dimensions must match!\"\n    batch_size, M, K = a.shape",
+        "detail": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "test_matrix_operations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "peekOfCode": "def test_matrix_operations():\n    \"\"\"\n    🧪 TEST MATRIX OPERATIONS\n    Tests various matrix operations and validates correctness.\n    \"\"\"\n    print(\"🧪 Testing Matrix Operations:\")\n    print(\"=\" * 50)\n    # Test basic matrix multiplication\n    print(\"\\n📊 Test: Basic Matrix Multiplication\")\n    M, K, N = 256, 128, 192",
+        "detail": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "benchmark_matrix_operations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "peekOfCode": "def benchmark_matrix_operations():\n    \"\"\"\n    📊 BENCHMARK MATRIX OPERATIONS\n    Benchmarks various matrix operations and compares performance.\n    \"\"\"\n    print(\"\\n📊 Benchmarking Matrix Operations:\")\n    print(\"=\" * 50)\n    # Test different matrix sizes\n    sizes = [\n        (256, 256, 256),",
+        "detail": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN FUNCTION\n    Runs the matrix optimization examples.\n    \"\"\"\n    print(\"🔢 MATRIX OPTIMIZATION EXAMPLES\")\n    print(\"=\" * 70)\n    print(\"This module demonstrates various matrix optimization techniques.\")\n    # Check CUDA availability\n    if not torch.cuda.is_available():",
+        "detail": "qwen-llm.triton_tutorials.examples.matrix_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "basic_vector_add_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "peekOfCode": "def basic_vector_add_kernel(\n    a_ptr, b_ptr, output_ptr,\n    n_elements,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🧠 BASIC VECTOR ADDITION KERNEL\n    Basic vector addition implementation.\n    \"\"\"\n    pid = tl.program_id(axis=0)",
+        "detail": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "basic_vector_add",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "peekOfCode": "def basic_vector_add(a: torch.Tensor, b: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🧠 BASIC VECTOR ADDITION WRAPPER\n    Wrapper function for basic vector addition.\n    \"\"\"\n    # Input validation\n    assert a.is_cuda and b.is_cuda, \"Input tensors must be on GPU!\"\n    assert a.shape == b.shape, \"Input tensors must have the same shape!\"\n    n_elements = a.numel()\n    output = torch.empty_like(a)",
+        "detail": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "optimized_vector_add_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "peekOfCode": "def optimized_vector_add_kernel(\n    a_ptr, b_ptr, output_ptr,\n    n_elements,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🚀 OPTIMIZED VECTOR ADDITION KERNEL\n    Optimized vector addition with:\n    - Coalesced memory access\n    - Optimal block size",
+        "detail": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "optimized_vector_add",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "peekOfCode": "def optimized_vector_add(a: torch.Tensor, b: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🚀 OPTIMIZED VECTOR ADDITION WRAPPER\n    Wrapper function for optimized vector addition.\n    \"\"\"\n    # Input validation\n    assert a.is_cuda and b.is_cuda, \"Input tensors must be on GPU!\"\n    assert a.shape == b.shape, \"Input tensors must have the same shape!\"\n    n_elements = a.numel()\n    output = torch.empty_like(a)",
+        "detail": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "fused_vector_operations_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "peekOfCode": "def fused_vector_operations_kernel(\n    a_ptr, b_ptr, c_ptr, output_ptr,\n    n_elements,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🔥 FUSED VECTOR OPERATIONS KERNEL\n    Fused vector operations:\n    output = (a + b) * c + a * 2.0\n    \"\"\"",
+        "detail": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "fused_vector_operations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "peekOfCode": "def fused_vector_operations(a: torch.Tensor, b: torch.Tensor, c: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🔥 FUSED VECTOR OPERATIONS WRAPPER\n    Wrapper function for fused vector operations.\n    \"\"\"\n    # Input validation\n    assert a.is_cuda and b.is_cuda and c.is_cuda, \"Input tensors must be on GPU!\"\n    assert a.shape == b.shape == c.shape, \"Input tensors must have the same shape!\"\n    n_elements = a.numel()\n    output = torch.empty_like(a)",
+        "detail": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "autotuned_vector_add_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "peekOfCode": "def autotuned_vector_add_kernel(\n    a_ptr, b_ptr, output_ptr,\n    n_elements,\n    BLOCK_SIZE: tl.constexpr,\n    NUM_WARPS: tl.constexpr,\n):\n    \"\"\"\n    🎯 AUTOTUNED VECTOR ADDITION KERNEL\n    Autotuned vector addition with configurable parameters.\n    \"\"\"",
+        "detail": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "autotuned_vector_add",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "peekOfCode": "def autotuned_vector_add(a: torch.Tensor, b: torch.Tensor, \n                        block_size: int = 256, num_warps: int = 4) -> torch.Tensor:\n    \"\"\"\n    🎯 AUTOTUNED VECTOR ADDITION WRAPPER\n    Wrapper function for autotuned vector addition.\n    \"\"\"\n    # Input validation\n    assert a.is_cuda and b.is_cuda, \"Input tensors must be on GPU!\"\n    assert a.shape == b.shape, \"Input tensors must have the same shape!\"\n    n_elements = a.numel()",
+        "detail": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "test_performance_optimizations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "peekOfCode": "def test_performance_optimizations():\n    \"\"\"\n    🧪 TEST PERFORMANCE OPTIMIZATIONS\n    Tests various performance optimization techniques.\n    \"\"\"\n    print(\"🧪 Testing Performance Optimizations:\")\n    print(\"=\" * 50)\n    # Test basic vector addition\n    print(\"\\n📊 Test: Basic Vector Addition\")\n    size = 1024",
+        "detail": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "benchmark_performance_optimizations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "peekOfCode": "def benchmark_performance_optimizations():\n    \"\"\"\n    📊 BENCHMARK PERFORMANCE OPTIMIZATIONS\n    Benchmarks various performance optimization techniques.\n    \"\"\"\n    print(\"\\n📊 Benchmarking Performance Optimizations:\")\n    print(\"=\" * 50)\n    # Test different sizes\n    sizes = [1024, 4096, 16384, 65536, 262144]\n    for size in sizes:",
+        "detail": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "profile_performance_optimizations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "peekOfCode": "def profile_performance_optimizations():\n    \"\"\"\n    🔍 PROFILE PERFORMANCE OPTIMIZATIONS\n    Profiles various performance optimization techniques.\n    \"\"\"\n    print(\"\\n🔍 Profiling Performance Optimizations:\")\n    print(\"=\" * 50)\n    # Create profiler\n    profiler = PerformanceProfiler()\n    # Test configuration",
+        "detail": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "analyze_performance_optimizations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "peekOfCode": "def analyze_performance_optimizations():\n    \"\"\"\n    📈 ANALYZE PERFORMANCE OPTIMIZATIONS\n    Analyzes various performance optimization techniques.\n    \"\"\"\n    print(\"\\n📈 Analyzing Performance Optimizations:\")\n    print(\"=\" * 50)\n    # Create analyzer\n    analyzer = PerformanceAnalyzer()\n    # Test different sizes",
+        "detail": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "description": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN FUNCTION\n    Runs the performance optimization examples.\n    \"\"\"\n    print(\"🚀 PERFORMANCE OPTIMIZATION EXAMPLES\")\n    print(\"=\" * 70)\n    print(\"This module demonstrates various performance optimization techniques.\")\n    # Check CUDA availability\n    if not torch.cuda.is_available():",
+        "detail": "qwen-llm.triton_tutorials.examples.performance_optimization",
+        "documentation": {}
+    },
+    {
+        "label": "explain_attention_mechanisms",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "peekOfCode": "def explain_attention_mechanisms():\n    \"\"\"\n    📚 ATTENTION MECHANISMS FUNDAMENTALS\n    Advanced attention mechanisms and optimization techniques.\n    \"\"\"\n    print(\"🧠 Advanced Attention Mechanisms:\")\n    print(\"=\" * 50)\n    print(\"\"\"\n    🎯 Attention Mechanism Components:\n    1. Query (Q): What information are we looking for?",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "documentation": {}
+    },
+    {
+        "label": "advanced_attention_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "peekOfCode": "def advanced_attention_kernel(\n    q_ptr, k_ptr, v_ptr, output_ptr,\n    batch_size, num_heads, seq_len, head_dim,\n    stride_qb, stride_qh, stride_qs, stride_qd,\n    stride_kb, stride_kh, stride_ks, stride_kd,\n    stride_vb, stride_vh, stride_vs, stride_vd,\n    stride_ob, stride_oh, stride_os, stride_od,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n    BLOCK_SIZE_K: tl.constexpr,",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "documentation": {}
+    },
+    {
+        "label": "advanced_attention",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "peekOfCode": "def advanced_attention(q: torch.Tensor, k: torch.Tensor, v: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🚀 ADVANCED ATTENTION WRAPPER\n    Wrapper function for advanced attention mechanism.\n    \"\"\"\n    # Input validation\n    assert q.is_cuda and k.is_cuda and v.is_cuda, \"Input tensors must be on GPU!\"\n    assert q.shape == k.shape == v.shape, \"Input tensors must have the same shape!\"\n    batch_size, num_heads, seq_len, head_dim = q.shape\n    # Create output tensor",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "documentation": {}
+    },
+    {
+        "label": "flash_attention_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "peekOfCode": "def flash_attention_kernel(\n    q_ptr, k_ptr, v_ptr, output_ptr,\n    batch_size, num_heads, seq_len, head_dim,\n    stride_qb, stride_qh, stride_qs, stride_qd,\n    stride_kb, stride_kh, stride_ks, stride_kd,\n    stride_vb, stride_vh, stride_vs, stride_vd,\n    stride_ob, stride_oh, stride_os, stride_od,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n    BLOCK_SIZE_K: tl.constexpr,",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "documentation": {}
+    },
+    {
+        "label": "flash_attention",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "peekOfCode": "def flash_attention(q: torch.Tensor, k: torch.Tensor, v: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🔥 FLASH ATTENTION WRAPPER\n    Wrapper function for FlashAttention mechanism.\n    \"\"\"\n    # Input validation\n    assert q.is_cuda and k.is_cuda and v.is_cuda, \"Input tensors must be on GPU!\"\n    assert q.shape == k.shape == v.shape, \"Input tensors must have the same shape!\"\n    batch_size, num_heads, seq_len, head_dim = q.shape\n    # Create output tensor",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "documentation": {}
+    },
+    {
+        "label": "causal_attention_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "peekOfCode": "def causal_attention_kernel(\n    q_ptr, k_ptr, v_ptr, output_ptr,\n    batch_size, num_heads, seq_len, head_dim,\n    stride_qb, stride_qh, stride_qs, stride_qd,\n    stride_kb, stride_kh, stride_ks, stride_kd,\n    stride_vb, stride_vh, stride_vs, stride_vd,\n    stride_ob, stride_oh, stride_os, stride_od,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n    BLOCK_SIZE_K: tl.constexpr,",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "documentation": {}
+    },
+    {
+        "label": "causal_attention",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "peekOfCode": "def causal_attention(q: torch.Tensor, k: torch.Tensor, v: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🎯 CAUSAL ATTENTION WRAPPER\n    Wrapper function for causal attention mechanism.\n    \"\"\"\n    # Input validation\n    assert q.is_cuda and k.is_cuda and v.is_cuda, \"Input tensors must be on GPU!\"\n    assert q.shape == k.shape == v.shape, \"Input tensors must have the same shape!\"\n    batch_size, num_heads, seq_len, head_dim = q.shape\n    # Create output tensor",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "documentation": {}
+    },
+    {
+        "label": "test_attention_mechanisms",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "peekOfCode": "def test_attention_mechanisms():\n    \"\"\"\n    🧪 TEST ATTENTION MECHANISMS\n    Tests various attention mechanisms and validates correctness.\n    \"\"\"\n    print(\"🧪 Testing Attention Mechanisms:\")\n    print(\"=\" * 50)\n    # Test configuration\n    batch_size, num_heads, seq_len, head_dim = 2, 8, 128, 64\n    # Create test data",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "documentation": {}
+    },
+    {
+        "label": "benchmark_attention_mechanisms",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "peekOfCode": "def benchmark_attention_mechanisms():\n    \"\"\"\n    📊 BENCHMARK ATTENTION MECHANISMS\n    Benchmarks various attention mechanisms and compares performance.\n    \"\"\"\n    print(\"\\n📊 Benchmarking Attention Mechanisms:\")\n    print(\"=\" * 50)\n    # Test different configurations\n    configs = [\n        (2, 8, 128, 64),   # batch_size, num_heads, seq_len, head_dim",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN FUNCTION\n    Runs the complete lesson 7 tutorial.\n    \"\"\"\n    print(\"🚀 LESSON 7: ATTENTION MECHANISMS & FLASHATTENTION\")\n    print(\"=\" * 70)\n    print(\"This lesson covers advanced attention mechanisms and optimization techniques.\")\n    # Check CUDA availability\n    if not torch.cuda.is_available():",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_07_attention",
+        "documentation": {}
+    },
+    {
+        "label": "explain_moe_architecture",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "peekOfCode": "def explain_moe_architecture():\n    \"\"\"\n    📚 MOE ARCHITECTURE FUNDAMENTALS\n    Mixture of Experts architecture and optimization techniques.\n    \"\"\"\n    print(\"🧠 MoE Architecture Fundamentals:\")\n    print(\"=\" * 50)\n    print(\"\"\"\n    🎯 MoE Components:\n    1. Router: Determines which experts to use",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "documentation": {}
+    },
+    {
+        "label": "expert_routing_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "peekOfCode": "def expert_routing_kernel(\n    input_ptr, router_weights_ptr, expert_indices_ptr, expert_weights_ptr,\n    batch_size, seq_len, hidden_dim, num_experts, top_k,\n    stride_ib, stride_is, stride_id,\n    stride_rb, stride_rs, stride_rd,\n    stride_eib, stride_eis, stride_eik,\n    stride_ewb, stride_ews, stride_ewk,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "documentation": {}
+    },
+    {
+        "label": "expert_routing",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "peekOfCode": "def expert_routing(input_tensor: torch.Tensor, router_weights: torch.Tensor, \n                  num_experts: int, top_k: int = 2) -> Tuple[torch.Tensor, torch.Tensor]:\n    \"\"\"\n    🎯 EXPERT ROUTING WRAPPER\n    Wrapper function for expert routing.\n    \"\"\"\n    # Input validation\n    assert input_tensor.is_cuda and router_weights.is_cuda, \"Input tensors must be on GPU!\"\n    assert input_tensor.shape[2] == router_weights.shape[1], \"Hidden dimensions must match!\"\n    batch_size, seq_len, hidden_dim = input_tensor.shape",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "documentation": {}
+    },
+    {
+        "label": "expert_computation_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "peekOfCode": "def expert_computation_kernel(\n    input_ptr, expert_weights_ptr, expert_output_ptr,\n    batch_size, seq_len, hidden_dim, num_experts, top_k,\n    stride_ib, stride_is, stride_id,\n    stride_ewb, stride_ews, stride_ewk,\n    stride_eob, stride_eos, stride_eod,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🚀 EXPERT COMPUTATION KERNEL",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "documentation": {}
+    },
+    {
+        "label": "expert_computation",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "peekOfCode": "def expert_computation(input_tensor: torch.Tensor, expert_weights: torch.Tensor, \n                      num_experts: int, top_k: int = 2) -> torch.Tensor:\n    \"\"\"\n    🚀 EXPERT COMPUTATION WRAPPER\n    Wrapper function for expert computation.\n    \"\"\"\n    # Input validation\n    assert input_tensor.is_cuda and expert_weights.is_cuda, \"Input tensors must be on GPU!\"\n    assert input_tensor.shape[0] == expert_weights.shape[0], \"Batch sizes must match!\"\n    assert input_tensor.shape[1] == expert_weights.shape[1], \"Sequence lengths must match!\"",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "documentation": {}
+    },
+    {
+        "label": "load_balancing_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "peekOfCode": "def load_balancing_kernel(\n    expert_indices_ptr, expert_weights_ptr, load_balance_loss_ptr,\n    batch_size, seq_len, num_experts, top_k,\n    stride_eib, stride_eis, stride_eik,\n    stride_ewb, stride_ews, stride_ewk,\n    stride_lbb, stride_lbs,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🔥 LOAD BALANCING KERNEL",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "documentation": {}
+    },
+    {
+        "label": "load_balancing",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "peekOfCode": "def load_balancing(expert_indices: torch.Tensor, expert_weights: torch.Tensor, \n                  num_experts: int, top_k: int = 2) -> torch.Tensor:\n    \"\"\"\n    🔥 LOAD BALANCING WRAPPER\n    Wrapper function for load balancing.\n    \"\"\"\n    # Input validation\n    assert expert_indices.is_cuda and expert_weights.is_cuda, \"Input tensors must be on GPU!\"\n    assert expert_indices.shape == expert_weights.shape, \"Expert indices and weights must have the same shape!\"\n    batch_size, seq_len, _ = expert_indices.shape",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "documentation": {}
+    },
+    {
+        "label": "moe_layer",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "peekOfCode": "def moe_layer(input_tensor: torch.Tensor, router_weights: torch.Tensor, \n              num_experts: int, top_k: int = 2) -> Tuple[torch.Tensor, torch.Tensor]:\n    \"\"\"\n    🎯 COMPLETE MOE LAYER\n    Complete MoE layer implementation with:\n    - Expert routing\n    - Expert computation\n    - Load balancing\n    \"\"\"\n    # Input validation",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "documentation": {}
+    },
+    {
+        "label": "test_moe_implementation",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "peekOfCode": "def test_moe_implementation():\n    \"\"\"\n    🧪 TEST MOE IMPLEMENTATION\n    Tests MoE implementation and validates correctness.\n    \"\"\"\n    print(\"🧪 Testing MoE Implementation:\")\n    print(\"=\" * 50)\n    # Test configuration\n    batch_size, seq_len, hidden_dim = 2, 128, 512\n    num_experts = 8",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "documentation": {}
+    },
+    {
+        "label": "benchmark_moe_implementation",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "peekOfCode": "def benchmark_moe_implementation():\n    \"\"\"\n    📊 BENCHMARK MOE IMPLEMENTATION\n    Benchmarks MoE implementation and compares performance.\n    \"\"\"\n    print(\"\\n📊 Benchmarking MoE Implementation:\")\n    print(\"=\" * 50)\n    # Test different configurations\n    configs = [\n        (2, 128, 512, 8, 2),   # batch_size, seq_len, hidden_dim, num_experts, top_k",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN FUNCTION\n    Runs the complete lesson 8 tutorial.\n    \"\"\"\n    print(\"🚀 LESSON 8: MOE (MIXTURE OF EXPERTS) IMPLEMENTATION\")\n    print(\"=\" * 70)\n    print(\"This lesson covers MoE architecture and optimization techniques.\")\n    # Check CUDA availability\n    if not torch.cuda.is_available():",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_08_moe",
+        "documentation": {}
+    },
+    {
+        "label": "explain_advanced_optimizations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "peekOfCode": "def explain_advanced_optimizations():\n    \"\"\"\n    📚 ADVANCED OPTIMIZATION TECHNIQUES\n    Advanced optimization techniques and best practices.\n    \"\"\"\n    print(\"🧠 Advanced Optimization Techniques:\")\n    print(\"=\" * 50)\n    print(\"\"\"\n    🎯 Advanced Optimization Areas:\n    1. Autotuning: Automatic kernel parameter optimization",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "documentation": {}
+    },
+    {
+        "label": "autotuned_vector_add_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "peekOfCode": "def autotuned_vector_add_kernel(\n    a_ptr, b_ptr, output_ptr,\n    n_elements,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🔧 AUTOTUNED VECTOR ADDITION KERNEL\n    Implements autotuned vector addition with:\n    - Automatic block size optimization\n    - Memory access pattern tuning",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "documentation": {}
+    },
+    {
+        "label": "autotuned_vector_add",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "peekOfCode": "def autotuned_vector_add(a: torch.Tensor, b: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🔧 AUTOTUNED VECTOR ADDITION WRAPPER\n    Wrapper function with autotuning capabilities.\n    \"\"\"\n    # Input validation\n    assert a.is_cuda and b.is_cuda, \"Input tensors must be on GPU!\"\n    assert a.shape == b.shape, \"Input tensors must have the same shape!\"\n    n_elements = a.numel()\n    # Create output tensor",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "documentation": {}
+    },
+    {
+        "label": "production_optimized_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "peekOfCode": "def production_optimized_kernel(\n    input_ptr, weight_ptr, bias_ptr, output_ptr,\n    batch_size, seq_len, hidden_dim,\n    stride_ib, stride_is, stride_id,\n    stride_wb, stride_ws, stride_wd,\n    stride_bb, stride_bs, stride_bd,\n    stride_ob, stride_os, stride_od,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n    BLOCK_SIZE_K: tl.constexpr,",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "documentation": {}
+    },
+    {
+        "label": "production_optimized_layer",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "peekOfCode": "def production_optimized_layer(input_tensor: torch.Tensor, weight: torch.Tensor, \n                              bias: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🚀 PRODUCTION OPTIMIZED LAYER\n    Wrapper function for production-optimized layer.\n    \"\"\"\n    # Input validation\n    assert input_tensor.is_cuda and weight.is_cuda and bias.is_cuda, \"Input tensors must be on GPU!\"\n    assert input_tensor.shape[2] == weight.shape[1], \"Hidden dimensions must match!\"\n    batch_size, seq_len, hidden_dim = input_tensor.shape",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "documentation": {}
+    },
+    {
+        "label": "scalable_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "peekOfCode": "def scalable_kernel(\n    input_ptr, output_ptr,\n    batch_size, seq_len, hidden_dim,\n    stride_ib, stride_is, stride_id,\n    stride_ob, stride_os, stride_od,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n):\n    \"\"\"\n    🎯 SCALABLE KERNEL",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "documentation": {}
+    },
+    {
+        "label": "scalable_computation",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "peekOfCode": "def scalable_computation(input_tensor: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🎯 SCALABLE COMPUTATION\n    Wrapper function for scalable computation.\n    \"\"\"\n    # Input validation\n    assert input_tensor.is_cuda, \"Input tensor must be on GPU!\"\n    batch_size, seq_len, hidden_dim = input_tensor.shape\n    # Create output tensor\n    output = torch.empty_like(input_tensor)",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "documentation": {}
+    },
+    {
+        "label": "profile_kernel_performance",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "peekOfCode": "def profile_kernel_performance(kernel_func, *args, **kwargs):\n    \"\"\"\n    📊 PROFILE KERNEL PERFORMANCE\n    Profiles kernel performance and provides detailed analysis.\n    \"\"\"\n    print(\"📊 Kernel Performance Profiling:\")\n    print(\"=\" * 50)\n    # Warmup\n    for _ in range(10):\n        _ = kernel_func(*args, **kwargs)",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "documentation": {}
+    },
+    {
+        "label": "test_advanced_optimizations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "peekOfCode": "def test_advanced_optimizations():\n    \"\"\"\n    🧪 TEST ADVANCED OPTIMIZATIONS\n    Tests advanced optimization techniques and validates correctness.\n    \"\"\"\n    print(\"🧪 Testing Advanced Optimizations:\")\n    print(\"=\" * 50)\n    # Test configuration\n    batch_size, seq_len, hidden_dim = 2, 128, 512\n    # Create test data",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "documentation": {}
+    },
+    {
+        "label": "benchmark_advanced_optimizations",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "peekOfCode": "def benchmark_advanced_optimizations():\n    \"\"\"\n    📊 BENCHMARK ADVANCED OPTIMIZATIONS\n    Benchmarks advanced optimization techniques and compares performance.\n    \"\"\"\n    print(\"\\n📊 Benchmarking Advanced Optimizations:\")\n    print(\"=\" * 50)\n    # Test different configurations\n    configs = [\n        (2, 128, 512),   # batch_size, seq_len, hidden_dim",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "description": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN FUNCTION\n    Runs the complete lesson 9 tutorial.\n    \"\"\"\n    print(\"🚀 LESSON 9: ADVANCED OPTIMIZATION TECHNIQUES\")\n    print(\"=\" * 70)\n    print(\"This lesson covers advanced optimization techniques and best practices.\")\n    # Check CUDA availability\n    if not torch.cuda.is_available():",
+        "detail": "qwen-llm.triton_tutorials.lessons.advanced.lesson_09_advanced_optimizations",
         "documentation": {}
     },
     {
@@ -5551,6 +6550,321 @@
         "description": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
         "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN FUNCTION\n    Runs the complete lesson 3 tutorial.\n    \"\"\"\n    print(\"🎯 LESSON 3: BASIC OPERATIONS & KERNELS\")\n    print(\"=\" * 70)\n    print(\"This lesson covers basic operations and kernel development in Triton.\")\n    # Check CUDA availability\n    if not torch.cuda.is_available():",
         "detail": "qwen-llm.triton_tutorials.lessons.beginner.lesson_03_basic_operations",
+        "documentation": {}
+    },
+    {
+        "label": "explain_custom_cuda_integration",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "peekOfCode": "def explain_custom_cuda_integration():\n    \"\"\"\n    📚 CUSTOM CUDA KERNELS & TRITON INTEGRATION\n    Custom CUDA kernel development and Triton integration techniques.\n    \"\"\"\n    print(\"🧠 Custom CUDA Kernels & Triton Integration:\")\n    print(\"=\" * 50)\n    print(\"\"\"\n    🎯 Custom CUDA Development:\n    1. CUDA C++ Kernel Development:",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "documentation": {}
+    },
+    {
+        "label": "create_custom_cuda_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "peekOfCode": "def create_custom_cuda_kernel():\n    \"\"\"\n    🔧 CREATE CUSTOM CUDA KERNEL\n    Creates a custom CUDA kernel for demonstration purposes.\n    \"\"\"\n    # CUDA kernel source code\n    cuda_kernel_source = \"\"\"\n    extern \"C\" __global__ void custom_vector_add(\n        const float* a,\n        const float* b,",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "documentation": {}
+    },
+    {
+        "label": "triton_cuda_integration_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "peekOfCode": "def triton_cuda_integration_kernel(\n    a_ptr, b_ptr, output_ptr,\n    n_elements,\n    BLOCK_SIZE: tl.constexpr,\n):\n    \"\"\"\n    🔧 TRITON-CUDA INTEGRATION KERNEL\n    Implements Triton-CUDA integration with:\n    - Hybrid kernel architecture\n    - Performance optimization",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "documentation": {}
+    },
+    {
+        "label": "triton_cuda_integration",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "peekOfCode": "def triton_cuda_integration(a: torch.Tensor, b: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🔧 TRITON-CUDA INTEGRATION WRAPPER\n    Wrapper function for Triton-CUDA integration.\n    \"\"\"\n    # Input validation\n    assert a.is_cuda and b.is_cuda, \"Input tensors must be on GPU!\"\n    assert a.shape == b.shape, \"Input tensors must have the same shape!\"\n    n_elements = a.numel()\n    # Create output tensor",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "documentation": {}
+    },
+    {
+        "label": "hybrid_kernel_architecture",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "peekOfCode": "def hybrid_kernel_architecture(\n    input_ptr, weight_ptr, bias_ptr, output_ptr,\n    batch_size, seq_len, hidden_dim,\n    stride_ib, stride_is, stride_id,\n    stride_wb, stride_ws, stride_wd,\n    stride_bb, stride_bs, stride_bd,\n    stride_ob, stride_os, stride_od,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n    BLOCK_SIZE_K: tl.constexpr,",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "documentation": {}
+    },
+    {
+        "label": "hybrid_kernel_layer",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "peekOfCode": "def hybrid_kernel_layer(input_tensor: torch.Tensor, weight: torch.Tensor, \n                       bias: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🚀 HYBRID KERNEL LAYER\n    Wrapper function for hybrid kernel layer.\n    \"\"\"\n    # Input validation\n    assert input_tensor.is_cuda and weight.is_cuda and bias.is_cuda, \"Input tensors must be on GPU!\"\n    assert input_tensor.shape[2] == weight.shape[1], \"Hidden dimensions must match!\"\n    batch_size, seq_len, hidden_dim = input_tensor.shape",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "documentation": {}
+    },
+    {
+        "label": "performance_optimized_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "peekOfCode": "def performance_optimized_kernel(\n    input_ptr, output_ptr,\n    batch_size, seq_len, hidden_dim,\n    stride_ib, stride_is, stride_id,\n    stride_ob, stride_os, stride_od,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n):\n    \"\"\"\n    🎯 PERFORMANCE OPTIMIZED KERNEL",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "documentation": {}
+    },
+    {
+        "label": "performance_optimized_layer",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "peekOfCode": "def performance_optimized_layer(input_tensor: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🎯 PERFORMANCE OPTIMIZED LAYER\n    Wrapper function for performance optimized layer.\n    \"\"\"\n    # Input validation\n    assert input_tensor.is_cuda, \"Input tensor must be on GPU!\"\n    batch_size, seq_len, hidden_dim = input_tensor.shape\n    # Create output tensor\n    output = torch.empty_like(input_tensor)",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "documentation": {}
+    },
+    {
+        "label": "memory_optimized_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "peekOfCode": "def memory_optimized_kernel(\n    input_ptr, output_ptr,\n    batch_size, seq_len, hidden_dim,\n    stride_ib, stride_is, stride_id,\n    stride_ob, stride_os, stride_od,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n):\n    \"\"\"\n    🔥 MEMORY OPTIMIZED KERNEL",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "documentation": {}
+    },
+    {
+        "label": "memory_optimized_layer",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "peekOfCode": "def memory_optimized_layer(input_tensor: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🔥 MEMORY OPTIMIZED LAYER\n    Wrapper function for memory optimized layer.\n    \"\"\"\n    # Input validation\n    assert input_tensor.is_cuda, \"Input tensor must be on GPU!\"\n    batch_size, seq_len, hidden_dim = input_tensor.shape\n    # Create output tensor\n    output = torch.empty_like(input_tensor)",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "documentation": {}
+    },
+    {
+        "label": "test_custom_cuda_integration",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "peekOfCode": "def test_custom_cuda_integration():\n    \"\"\"\n    🧪 TEST CUSTOM CUDA INTEGRATION\n    Tests custom CUDA integration and validates correctness.\n    \"\"\"\n    print(\"🧪 Testing Custom CUDA Integration:\")\n    print(\"=\" * 50)\n    # Test configuration\n    batch_size, seq_len, hidden_dim = 2, 128, 512\n    # Create test data",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "documentation": {}
+    },
+    {
+        "label": "benchmark_custom_cuda_integration",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "peekOfCode": "def benchmark_custom_cuda_integration():\n    \"\"\"\n    📊 BENCHMARK CUSTOM CUDA INTEGRATION\n    Benchmarks custom CUDA integration and compares performance.\n    \"\"\"\n    print(\"\\n📊 Benchmarking Custom CUDA Integration:\")\n    print(\"=\" * 50)\n    # Test different configurations\n    configs = [\n        (2, 128, 512),   # batch_size, seq_len, hidden_dim",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN FUNCTION\n    Runs the complete lesson 10 tutorial.\n    \"\"\"\n    print(\"🚀 LESSON 10: CUSTOM CUDA KERNELS & TRITON INTEGRATION\")\n    print(\"=\" * 70)\n    print(\"This lesson covers custom CUDA kernel development and Triton integration.\")\n    # Check CUDA availability\n    if not torch.cuda.is_available():",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_10_custom_cuda",
+        "documentation": {}
+    },
+    {
+        "label": "explain_multi_gpu_distributed",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "peekOfCode": "def explain_multi_gpu_distributed():\n    \"\"\"\n    📚 MULTI-GPU & DISTRIBUTED COMPUTING\n    Multi-GPU and distributed computing fundamentals.\n    \"\"\"\n    print(\"🧠 Multi-GPU & Distributed Computing:\")\n    print(\"=\" * 50)\n    print(\"\"\"\n    🎯 Multi-GPU Computing:\n    1. Multi-GPU Architecture:",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "documentation": {}
+    },
+    {
+        "label": "multi_gpu_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "peekOfCode": "def multi_gpu_kernel(\n    input_ptr, output_ptr,\n    batch_size, seq_len, hidden_dim,\n    stride_ib, stride_is, stride_id,\n    stride_ob, stride_os, stride_od,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n):\n    \"\"\"\n    🔧 MULTI-GPU KERNEL",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "documentation": {}
+    },
+    {
+        "label": "multi_gpu_computation",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "peekOfCode": "def multi_gpu_computation(input_tensor: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🔧 MULTI-GPU COMPUTATION\n    Wrapper function for multi-GPU computation.\n    \"\"\"\n    # Input validation\n    assert input_tensor.is_cuda, \"Input tensor must be on GPU!\"\n    batch_size, seq_len, hidden_dim = input_tensor.shape\n    # Create output tensor\n    output = torch.empty_like(input_tensor)",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "documentation": {}
+    },
+    {
+        "label": "distributed_computation_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "peekOfCode": "def distributed_computation_kernel(\n    input_ptr, output_ptr,\n    batch_size, seq_len, hidden_dim,\n    stride_ib, stride_is, stride_id,\n    stride_ob, stride_os, stride_od,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n):\n    \"\"\"\n    🚀 DISTRIBUTED COMPUTATION KERNEL",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "documentation": {}
+    },
+    {
+        "label": "distributed_computation",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "peekOfCode": "def distributed_computation(input_tensor: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🚀 DISTRIBUTED COMPUTATION\n    Wrapper function for distributed computation.\n    \"\"\"\n    # Input validation\n    assert input_tensor.is_cuda, \"Input tensor must be on GPU!\"\n    batch_size, seq_len, hidden_dim = input_tensor.shape\n    # Create output tensor\n    output = torch.empty_like(input_tensor)",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "documentation": {}
+    },
+    {
+        "label": "load_balancing_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "peekOfCode": "def load_balancing_kernel(\n    input_ptr, output_ptr,\n    batch_size, seq_len, hidden_dim,\n    stride_ib, stride_is, stride_id,\n    stride_ob, stride_os, stride_od,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n):\n    \"\"\"\n    🎯 LOAD BALANCING KERNEL",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "documentation": {}
+    },
+    {
+        "label": "load_balancing_computation",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "peekOfCode": "def load_balancing_computation(input_tensor: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🎯 LOAD BALANCING COMPUTATION\n    Wrapper function for load balancing computation.\n    \"\"\"\n    # Input validation\n    assert input_tensor.is_cuda, \"Input tensor must be on GPU!\"\n    batch_size, seq_len, hidden_dim = input_tensor.shape\n    # Create output tensor\n    output = torch.empty_like(input_tensor)",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "documentation": {}
+    },
+    {
+        "label": "communication_optimization_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "peekOfCode": "def communication_optimization_kernel(\n    input_ptr, output_ptr,\n    batch_size, seq_len, hidden_dim,\n    stride_ib, stride_is, stride_id,\n    stride_ob, stride_os, stride_od,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n):\n    \"\"\"\n    🔥 COMMUNICATION OPTIMIZATION KERNEL",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "documentation": {}
+    },
+    {
+        "label": "communication_optimization",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "peekOfCode": "def communication_optimization(input_tensor: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🔥 COMMUNICATION OPTIMIZATION\n    Wrapper function for communication optimization.\n    \"\"\"\n    # Input validation\n    assert input_tensor.is_cuda, \"Input tensor must be on GPU!\"\n    batch_size, seq_len, hidden_dim = input_tensor.shape\n    # Create output tensor\n    output = torch.empty_like(input_tensor)",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "documentation": {}
+    },
+    {
+        "label": "test_multi_gpu_distributed",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "peekOfCode": "def test_multi_gpu_distributed():\n    \"\"\"\n    🧪 TEST MULTI-GPU DISTRIBUTED\n    Tests multi-GPU distributed computing and validates correctness.\n    \"\"\"\n    print(\"🧪 Testing Multi-GPU Distributed Computing:\")\n    print(\"=\" * 50)\n    # Test configuration\n    batch_size, seq_len, hidden_dim = 2, 128, 512\n    # Create test data",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "documentation": {}
+    },
+    {
+        "label": "benchmark_multi_gpu_distributed",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "peekOfCode": "def benchmark_multi_gpu_distributed():\n    \"\"\"\n    📊 BENCHMARK MULTI-GPU DISTRIBUTED\n    Benchmarks multi-GPU distributed computing and compares performance.\n    \"\"\"\n    print(\"\\n📊 Benchmarking Multi-GPU Distributed Computing:\")\n    print(\"=\" * 50)\n    # Test different configurations\n    configs = [\n        (2, 128, 512),   # batch_size, seq_len, hidden_dim",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN FUNCTION\n    Runs the complete lesson 11 tutorial.\n    \"\"\"\n    print(\"🚀 LESSON 11: MULTI-GPU & DISTRIBUTED COMPUTING\")\n    print(\"=\" * 70)\n    print(\"This lesson covers multi-GPU and distributed computing techniques.\")\n    # Check CUDA availability\n    if not torch.cuda.is_available():",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_11_multi_gpu",
+        "documentation": {}
+    },
+    {
+        "label": "PerformanceMonitor",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "peekOfCode": "class PerformanceMonitor:\n    \"\"\"\n    🎯 PERFORMANCE MONITOR\n    Monitors kernel performance and provides debugging capabilities.\n    \"\"\"\n    def __init__(self):\n        self.metrics = {}\n        self.logger = logging.getLogger(__name__)\n    def start_monitoring(self, kernel_name: str):\n        \"\"\"Start monitoring a kernel.\"\"\"",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "documentation": {}
+    },
+    {
+        "label": "ScalableSystem",
+        "kind": 6,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "peekOfCode": "class ScalableSystem:\n    \"\"\"\n    🔥 SCALABLE SYSTEM\n    Implements scalable system architecture for production deployment.\n    \"\"\"\n    def __init__(self, config: Dict[str, Any]):\n        self.config = config\n        self.monitor = PerformanceMonitor()\n        self.logger = logging.getLogger(__name__)\n    def initialize(self):",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "documentation": {}
+    },
+    {
+        "label": "explain_production_systems",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "peekOfCode": "def explain_production_systems():\n    \"\"\"\n    📚 PRODUCTION SYSTEMS & REAL-WORLD APPLICATIONS\n    Production systems and real-world application development.\n    \"\"\"\n    print(\"🧠 Production Systems & Real-World Applications:\")\n    print(\"=\" * 50)\n    print(\"\"\"\n    🎯 Production System Components:\n    1. Production-Ready Kernels:",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "documentation": {}
+    },
+    {
+        "label": "production_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "peekOfCode": "def production_kernel(\n    input_ptr, weight_ptr, bias_ptr, output_ptr,\n    batch_size, seq_len, hidden_dim,\n    stride_ib, stride_is, stride_id,\n    stride_wb, stride_ws, stride_wd,\n    stride_bb, stride_bs, stride_bd,\n    stride_ob, stride_os, stride_od,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n    BLOCK_SIZE_K: tl.constexpr,",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "documentation": {}
+    },
+    {
+        "label": "production_layer",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "peekOfCode": "def production_layer(input_tensor: torch.Tensor, weight: torch.Tensor, \n                    bias: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🔧 PRODUCTION LAYER\n    Wrapper function for production-ready layer.\n    \"\"\"\n    # Input validation\n    assert input_tensor.is_cuda and weight.is_cuda and bias.is_cuda, \"Input tensors must be on GPU!\"\n    assert input_tensor.shape[2] == weight.shape[1], \"Hidden dimensions must match!\"\n    batch_size, seq_len, hidden_dim = input_tensor.shape",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "documentation": {}
+    },
+    {
+        "label": "real_world_application_kernel",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "peekOfCode": "def real_world_application_kernel(\n    input_ptr, output_ptr,\n    batch_size, seq_len, hidden_dim,\n    stride_ib, stride_is, stride_id,\n    stride_ob, stride_os, stride_od,\n    BLOCK_SIZE_M: tl.constexpr,\n    BLOCK_SIZE_N: tl.constexpr,\n):\n    \"\"\"\n    🚀 REAL-WORLD APPLICATION KERNEL",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "documentation": {}
+    },
+    {
+        "label": "real_world_application",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "peekOfCode": "def real_world_application(input_tensor: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    🚀 REAL-WORLD APPLICATION\n    Wrapper function for real-world application optimization.\n    \"\"\"\n    # Input validation\n    assert input_tensor.is_cuda, \"Input tensor must be on GPU!\"\n    batch_size, seq_len, hidden_dim = input_tensor.shape\n    # Create output tensor\n    output = torch.empty_like(input_tensor)",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "documentation": {}
+    },
+    {
+        "label": "test_production_systems",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "peekOfCode": "def test_production_systems():\n    \"\"\"\n    🧪 TEST PRODUCTION SYSTEMS\n    Tests production systems and validates correctness.\n    \"\"\"\n    print(\"🧪 Testing Production Systems:\")\n    print(\"=\" * 50)\n    # Test configuration\n    batch_size, seq_len, hidden_dim = 2, 128, 512\n    # Create test data",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "documentation": {}
+    },
+    {
+        "label": "benchmark_production_systems",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "peekOfCode": "def benchmark_production_systems():\n    \"\"\"\n    📊 BENCHMARK PRODUCTION SYSTEMS\n    Benchmarks production systems and compares performance.\n    \"\"\"\n    print(\"\\n📊 Benchmarking Production Systems:\")\n    print(\"=\" * 50)\n    # Test different configurations\n    configs = [\n        (2, 128, 512),   # batch_size, seq_len, hidden_dim",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "description": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN FUNCTION\n    Runs the complete lesson 12 tutorial.\n    \"\"\"\n    print(\"🚀 LESSON 12: PRODUCTION SYSTEMS & REAL-WORLD APPLICATIONS\")\n    print(\"=\" * 70)\n    print(\"This lesson covers production systems and real-world applications.\")\n    # Check CUDA availability\n    if not torch.cuda.is_available():",
+        "detail": "qwen-llm.triton_tutorials.lessons.expert.lesson_12_production_systems",
         "documentation": {}
     },
     {
