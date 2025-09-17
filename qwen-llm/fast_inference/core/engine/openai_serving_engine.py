@@ -241,7 +241,10 @@ class OpenAIServingEngine:
                 model=request.model,
                 choices=[{
                     "index": 0,
-                    "delta": {},
+                    "delta": {
+                        "role": "assistant",
+                        "content": None
+                    },
                     "finish_reason": "stop"
                 }]
             )

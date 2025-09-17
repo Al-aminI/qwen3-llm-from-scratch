@@ -136,7 +136,7 @@ def main():
                        help='Directory containing the model files')
     parser.add_argument('--username', type=str, default='AlaminI', 
                        help='Your Hugging Face username')
-    parser.add_argument('--token', type=str, default='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', 
+    parser.add_argument('--token', type=str, default='huggingface token', 
                        help='Hugging Face token')
     parser.add_argument('--single-model', type=str, default=None,
                        help='Push only a specific model file (optional)')
