@@ -8,7 +8,17 @@ More sophisticated than simple cache but provides better memory management for m
 import torch
 import torch.nn as nn
 from typing import List, Tuple, Optional
-from torch.nn.attention.flex_attention import BlockMask, create_block_mask
+
+try:
+    from torch.nn.attention.flex_attention import BlockMask, create_block_mask
+    FLEX_ATTENTION_AVAILABLE = True
+except ImportError:
+    FLEX_ATTENTION_AVAILABLE = False
+    # Fallback classes
+    class BlockMask:
+        pass
+    def create_block_mask(*args, **kwargs):
+        return None
 
 
 class PagedKVCache(nn.Module):

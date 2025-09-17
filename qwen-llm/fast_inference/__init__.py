@@ -37,6 +37,20 @@ from .utils.benchmarking import benchmark_inference, compare_methods
 # Convenience functions
 from .core.engine import create_simple_fast_inference, create_fast_inference_engine
 
+# OpenAI API components (optional imports)
+try:
+    from .core.engine.openai_protocol import (
+        ChatCompletionRequest, ChatCompletionResponse,
+        CompletionRequest, CompletionResponse,
+        EmbeddingRequest, EmbeddingResponse,
+        HealthResponse, ModelList
+    )
+    from .core.engine.openai_serving_engine import OpenAIServingEngine
+    from .core.engine.openai_api_server import app as openai_api_app
+    OPENAI_API_AVAILABLE = True
+except ImportError:
+    OPENAI_API_AVAILABLE = False
+
 __all__ = [
     # Core classes
     "SimpleFastInference",
@@ -66,5 +80,21 @@ __all__ = [
     # Version info
     "__version__",
     "__author__",
-    "__email__"
+    "__email__",
+    "OPENAI_API_AVAILABLE"
 ]
+
+# Add OpenAI API components to __all__ if available
+if OPENAI_API_AVAILABLE:
+    __all__.extend([
+        "ChatCompletionRequest",
+        "ChatCompletionResponse", 
+        "CompletionRequest",
+        "CompletionResponse",
+        "EmbeddingRequest",
+        "EmbeddingResponse",
+        "HealthResponse",
+        "ModelList",
+        "OpenAIServingEngine",
+        "openai_api_app"
+    ])

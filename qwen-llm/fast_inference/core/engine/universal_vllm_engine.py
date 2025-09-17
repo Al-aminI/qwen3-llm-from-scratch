@@ -59,7 +59,7 @@ class SequenceMetadata:
     def last_token_id(self) -> int:
         return self.output_ids[-1] if self.output_ids else self.input_ids[-1].item()
 
-class UniversalPagedAttentionCache:
+class UniversalPagedAttentionCache(nn.Module):
     """
     🌐 UNIVERSAL PAGED ATTENTION CACHE
     
@@ -82,6 +82,7 @@ class UniversalPagedAttentionCache:
             dtype: Data type for cache tensors
             device: Device to store cache on
         """
+        super().__init__()
         self.num_blocks = num_blocks
         self.block_size = block_size
         self.model_info = model_info
@@ -385,7 +386,9 @@ class UniversalVLLMStyleEngine:
         # Load model
         if isinstance(model, str):
             print(f"📦 Loading model: {model}")
-            if self.model_type == "huggingface" or "huggingface" in model.lower():
+            if (self.model_type == "huggingface" or 
+                "huggingface" in model.lower() or 
+                "/" in model and not model.endswith(('.pt', '.pth', '.bin', '.safetensors'))):
                 # HuggingFace model
                 model = AutoModelForCausalLM.from_pretrained(
                     model,
@@ -568,15 +571,19 @@ class UniversalVLLMStyleEngine:
         seq_id = await self.add_request(prompt, sampling_params, priority)
         sequence = self.sequence_map[seq_id]
         
+        last_yielded_length = 0
+        
         # Wait for sequence to be processed
         while not sequence.finished:
             await asyncio.sleep(0.01)  # Small delay to prevent busy waiting
             
             # Yield new tokens
-            if len(sequence.output_ids) > 0:
-                new_tokens = sequence.output_ids[-1:]  # Get latest token
+            if len(sequence.output_ids) > last_yielded_length:
+                new_tokens = sequence.output_ids[last_yielded_length:]
                 token_text = self.tokenizer.decode(new_tokens, skip_special_tokens=True)
-                yield token_text
+                if token_text:  # Only yield non-empty text
+                    yield token_text
+                last_yielded_length = len(sequence.output_ids)
         
         # Clean up
         self.kv_cache.deallocate_blocks(seq_id)
@@ -633,25 +640,62 @@ class UniversalVLLMStyleEngine:
     
     async def _prefill_sequences_async(self, sequences: List[SequenceMetadata]):
         """Prefill phase for sequences (async)."""
-        # This would implement the actual prefill logic
-        # For now, we'll simulate it
-        for seq in sequences:
-            # Simulate prefill
-            await asyncio.sleep(0.001)
+        if not sequences:
+            return
             
-            # Add a dummy token
-            seq.output_ids.append(1)  # Dummy token
+        # Tokenize input for all sequences
+        input_ids_list = []
+        for seq in sequences:
+            input_ids = self.tokenizer.encode(seq.prompt, return_tensors="pt").to(self.device)
+            input_ids_list.append(input_ids)
+        
+        # Process sequences in batch
+        for i, seq in enumerate(sequences):
+            input_ids = input_ids_list[i]
+            
+            # Run model forward pass
+            with torch.no_grad():
+                outputs = self.model(input_ids)
+                logits = outputs.logits if hasattr(outputs, 'logits') else outputs
+                
+                # Get next token probabilities
+                next_token_logits = logits[0, -1, :]
+                
+                # Apply sampling
+                next_token_id = self._sample_token(next_token_logits, seq.sampling_params)
+                
+                # Store the generated token
+                seq.output_ids.append(next_token_id)
+                
+                # Debug: print generated token (can be removed in production)
+                # token_text = self.tokenizer.decode([next_token_id], skip_special_tokens=True)
+                # print(f"Generated token: {next_token_id} -> '{token_text}'")
     
     async def _decode_sequences_async(self, sequences: List[SequenceMetadata]):
         """Decode phase for sequences (async)."""
-        # This would implement the actual decode logic
-        # For now, we'll simulate it
-        for seq in sequences:
-            # Simulate decode
-            await asyncio.sleep(0.001)
+        if not sequences:
+            return
             
-            # Add a dummy token
-            seq.output_ids.append(2)  # Dummy token
+        # Process each sequence
+        for seq in sequences:
+            if seq.output_ids:
+                # Reconstruct full sequence for proper context
+                full_sequence = torch.cat([seq.input_ids, torch.tensor(seq.output_ids, device=self.device)])
+                
+                # Run model forward pass with full sequence
+                with torch.no_grad():
+                    outputs = self.model(full_sequence.unsqueeze(0))
+                    logits = outputs.logits if hasattr(outputs, 'logits') else outputs
+                    
+                    # Get next token probabilities (from the last position)
+                    next_token_logits = logits[0, -1, :]
+                    
+                    # Apply sampling
+                    next_token_id = self._sample_token(next_token_logits, seq.sampling_params)
+                    
+                    # Store the generated token
+                    seq.output_ids.append(next_token_id)
+                    
     
     def _check_finished(self, sequences: List[SequenceMetadata]) -> tuple[List[SequenceMetadata], List[SequenceMetadata]]:
         """Check which sequences are finished."""
@@ -672,6 +716,41 @@ class UniversalVLLMStyleEngine:
                 running.append(seq)
         
         return finished, running
+    
+    def _sample_token(self, logits: torch.Tensor, sampling_params: Dict[str, Any]) -> int:
+        """Sample next token from logits using specified sampling parameters."""
+        # Apply temperature
+        temperature = sampling_params.get('temperature', 1.0)
+        if temperature > 0:
+            logits = logits / temperature
+        
+        # Apply top-k filtering
+        top_k = sampling_params.get('top_k', -1)
+        if top_k > 0:
+            top_k = min(top_k, logits.size(-1))
+            top_k_logits, top_k_indices = torch.topk(logits, top_k)
+            logits = torch.full_like(logits, float('-inf'))
+            logits.scatter_(-1, top_k_indices, top_k_logits)
+        
+        # Apply top-p filtering
+        top_p = sampling_params.get('top_p', 1.0)
+        if top_p < 1.0:
+            sorted_logits, sorted_indices = torch.sort(logits, descending=True)
+            cumulative_probs = torch.cumsum(torch.softmax(sorted_logits, dim=-1), dim=-1)
+            
+            # Remove tokens with cumulative probability above the threshold
+            sorted_indices_to_remove = cumulative_probs > top_p
+            sorted_indices_to_remove[..., 1:] = sorted_indices_to_remove[..., :-1].clone()
+            sorted_indices_to_remove[..., 0] = 0
+            
+            indices_to_remove = sorted_indices_to_remove.scatter(0, sorted_indices, sorted_indices_to_remove)
+            logits[indices_to_remove] = float('-inf')
+        
+        # Sample from the filtered distribution
+        probs = torch.softmax(logits, dim=-1)
+        next_token_id = torch.multinomial(probs, num_samples=1).item()
+        
+        return next_token_id
     
     def get_metrics(self) -> Dict[str, Any]:
         """Get performance metrics."""

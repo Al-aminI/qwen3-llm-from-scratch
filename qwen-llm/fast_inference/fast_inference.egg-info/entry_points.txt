@@ -1,0 +1,2 @@
+[console_scripts]
+fast-inference = fast_inference.cli:main

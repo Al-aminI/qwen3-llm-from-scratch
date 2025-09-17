@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+fast_inference.egg-info/PKG-INFO
+fast_inference.egg-info/SOURCES.txt
+fast_inference.egg-info/dependency_links.txt
+fast_inference.egg-info/entry_points.txt
+fast_inference.egg-info/requires.txt
+fast_inference.egg-info/top_level.txt
