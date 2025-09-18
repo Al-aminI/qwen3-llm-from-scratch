@@ -139,6 +139,9 @@ python -m fast_inference.cli_openai \
 
 python cli_openai.py --model-path google/gemma-3-270m --tokenizer-path google/gemma-3-270m --model-name gemma-3-270m --host 0.0.0.0 --port 8000
 
+cd /Users/mac/Desktop/unhubbling/arch/qwen-llm/fast_inference && source /Users/mac/Desktop/unhubbling/arch/.venv/bin/activate && python cli_openai.py --model-path Qwen/Qwen3-0.6B --tokenizer-path Qwen/Qwen3-0.6B --model-name Qwen3-0.6B --host 0.0.0.0 --port 8000
+
+
 
 # With environment variables
 export MODEL_PATH="models/final_model1.pt"
