@@ -247,14 +247,6 @@
         "documentation": {}
     },
     {
-        "label": "tqdm",
-        "importPath": "tqdm",
-        "description": "tqdm",
-        "isExtraImport": true,
-        "detail": "tqdm",
-        "documentation": {}
-    },
-    {
         "label": "time",
         "kind": 6,
         "isExtraImport": true,
@@ -384,14 +376,6 @@
         "documentation": {}
     },
     {
-        "label": "AutoTokenizer",
-        "importPath": "transformers",
-        "description": "transformers",
-        "isExtraImport": true,
-        "detail": "transformers",
-        "documentation": {}
-    },
-    {
         "label": "dataclass",
         "importPath": "dataclasses",
         "description": "dataclasses",
@@ -449,22 +433,6 @@
     },
     {
         "label": "asdict",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
-        "isExtraImport": true,
-        "detail": "dataclasses",
-        "documentation": {}
-    },
-    {
-        "label": "dataclass",
         "importPath": "dataclasses",
         "description": "dataclasses",
         "isExtraImport": true,
@@ -1504,78 +1472,6 @@
         "documentation": {}
     },
     {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Tuple",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Optional",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Dict",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "Tuple",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
-        "label": "List",
-        "importPath": "typing",
-        "description": "typing",
-        "isExtraImport": true,
-        "detail": "typing",
-        "documentation": {}
-    },
-    {
         "label": "Optional",
         "importPath": "typing",
         "description": "typing",
@@ -2339,22 +2235,6 @@
         "documentation": {}
     },
     {
-        "label": "deque",
-        "importPath": "collections",
-        "description": "collections",
-        "isExtraImport": true,
-        "detail": "collections",
-        "documentation": {}
-    },
-    {
-        "label": "defaultdict",
-        "importPath": "collections",
-        "description": "collections",
-        "isExtraImport": true,
-        "detail": "collections",
-        "documentation": {}
-    },
-    {
         "label": "asyncio",
         "kind": 6,
         "isExtraImport": true,
@@ -3031,30 +2911,6 @@
         "documentation": {}
     },
     {
-        "label": "SmallModelConfig",
-        "importPath": "config.qwen3_small_config",
-        "description": "config.qwen3_small_config",
-        "isExtraImport": true,
-        "detail": "config.qwen3_small_config",
-        "documentation": {}
-    },
-    {
-        "label": "SmallModelConfig",
-        "importPath": "config.qwen3_small_config",
-        "description": "config.qwen3_small_config",
-        "isExtraImport": true,
-        "detail": "config.qwen3_small_config",
-        "documentation": {}
-    },
-    {
-        "label": "SmallModelConfig",
-        "importPath": "config.qwen3_small_config",
-        "description": "config.qwen3_small_config",
-        "isExtraImport": true,
-        "detail": "config.qwen3_small_config",
-        "documentation": {}
-    },
-    {
         "label": "*",
         "importPath": "config.qwen3_small_config",
         "description": "config.qwen3_small_config",
@@ -3064,38 +2920,6 @@
     },
     {
         "label": "MinimalLLM",
-        "importPath": "qwen3_complete_model",
-        "description": "qwen3_complete_model",
-        "isExtraImport": true,
-        "detail": "qwen3_complete_model",
-        "documentation": {}
-    },
-    {
-        "label": "MinimalLLM",
-        "importPath": "qwen3_complete_model",
-        "description": "qwen3_complete_model",
-        "isExtraImport": true,
-        "detail": "qwen3_complete_model",
-        "documentation": {}
-    },
-    {
-        "label": "MinimalLLM",
-        "importPath": "qwen3_complete_model",
-        "description": "qwen3_complete_model",
-        "isExtraImport": true,
-        "detail": "qwen3_complete_model",
-        "documentation": {}
-    },
-    {
-        "label": "MinimalLLM",
-        "importPath": "qwen3_complete_model",
-        "description": "qwen3_complete_model",
-        "isExtraImport": true,
-        "detail": "qwen3_complete_model",
-        "documentation": {}
-    },
-    {
-        "label": "generate_text",
         "importPath": "qwen3_complete_model",
         "description": "qwen3_complete_model",
         "isExtraImport": true,
@@ -3464,134 +3288,6 @@
         "description": "quantization_tutorial",
         "isExtraImport": true,
         "detail": "quantization_tutorial",
-        "documentation": {}
-    },
-    {
-        "label": "SimpleFastInference",
-        "importPath": "simple_fast_inference",
-        "description": "simple_fast_inference",
-        "isExtraImport": true,
-        "detail": "simple_fast_inference",
-        "documentation": {}
-    },
-    {
-        "label": "create_simple_fast_inference",
-        "importPath": "simple_fast_inference",
-        "description": "simple_fast_inference",
-        "isExtraImport": true,
-        "detail": "simple_fast_inference",
-        "documentation": {}
-    },
-    {
-        "label": "BlockMask",
-        "importPath": "torch.nn.attention.flex_attention",
-        "description": "torch.nn.attention.flex_attention",
-        "isExtraImport": true,
-        "detail": "torch.nn.attention.flex_attention",
-        "documentation": {}
-    },
-    {
-        "label": "create_block_mask",
-        "importPath": "torch.nn.attention.flex_attention",
-        "description": "torch.nn.attention.flex_attention",
-        "isExtraImport": true,
-        "detail": "torch.nn.attention.flex_attention",
-        "documentation": {}
-    },
-    {
-        "label": "Qwen3Attention",
-        "importPath": "qwen3_core_components",
-        "description": "qwen3_core_components",
-        "isExtraImport": true,
-        "detail": "qwen3_core_components",
-        "documentation": {}
-    },
-    {
-        "label": "SwiGLUFeedForward",
-        "importPath": "qwen3_core_components",
-        "description": "qwen3_core_components",
-        "isExtraImport": true,
-        "detail": "qwen3_core_components",
-        "documentation": {}
-    },
-    {
-        "label": "TransformerBlock",
-        "importPath": "qwen3_core_components",
-        "description": "qwen3_core_components",
-        "isExtraImport": true,
-        "detail": "qwen3_core_components",
-        "documentation": {}
-    },
-    {
-        "label": "RMSNorm",
-        "importPath": "qwen3_core_components",
-        "description": "qwen3_core_components",
-        "isExtraImport": true,
-        "detail": "qwen3_core_components",
-        "documentation": {}
-    },
-    {
-        "label": "Rotary",
-        "importPath": "qwen3_core_components",
-        "description": "qwen3_core_components",
-        "isExtraImport": true,
-        "detail": "qwen3_core_components",
-        "documentation": {}
-    },
-    {
-        "label": "repeat_kv",
-        "importPath": "qwen3_core_components",
-        "description": "qwen3_core_components",
-        "isExtraImport": true,
-        "detail": "qwen3_core_components",
-        "documentation": {}
-    },
-    {
-        "label": "Qwen3Attention",
-        "importPath": "qwen3_core_components",
-        "description": "qwen3_core_components",
-        "isExtraImport": true,
-        "detail": "qwen3_core_components",
-        "documentation": {}
-    },
-    {
-        "label": "SwiGLUFeedForward",
-        "importPath": "qwen3_core_components",
-        "description": "qwen3_core_components",
-        "isExtraImport": true,
-        "detail": "qwen3_core_components",
-        "documentation": {}
-    },
-    {
-        "label": "TransformerBlock",
-        "importPath": "qwen3_core_components",
-        "description": "qwen3_core_components",
-        "isExtraImport": true,
-        "detail": "qwen3_core_components",
-        "documentation": {}
-    },
-    {
-        "label": "RMSNorm",
-        "importPath": "qwen3_core_components",
-        "description": "qwen3_core_components",
-        "isExtraImport": true,
-        "detail": "qwen3_core_components",
-        "documentation": {}
-    },
-    {
-        "label": "Rotary",
-        "importPath": "qwen3_core_components",
-        "description": "qwen3_core_components",
-        "isExtraImport": true,
-        "detail": "qwen3_core_components",
-        "documentation": {}
-    },
-    {
-        "label": "repeat_kv",
-        "importPath": "qwen3_core_components",
-        "description": "qwen3_core_components",
-        "isExtraImport": true,
-        "detail": "qwen3_core_components",
         "documentation": {}
     },
     {
@@ -5891,168 +5587,6 @@
         "description": "qwen-llm.lora_qlora.utils.serving.serving",
         "peekOfCode": "class InferenceEngine:\n    \"\"\"\n    🎯 INFERENCE ENGINE\n    High-performance inference engine for LoRA and QLoRA models.\n    This class provides:\n    - Optimized inference\n    - Caching mechanisms\n    - Performance monitoring\n    - Batch processing\n    \"\"\"",
         "detail": "qwen-llm.lora_qlora.utils.serving.serving",
-        "documentation": {}
-    },
-    {
-        "label": "naive_generate_text",
-        "kind": 2,
-        "importPath": "qwen-llm.original_files.compare_inference",
-        "description": "qwen-llm.original_files.compare_inference",
-        "peekOfCode": "def naive_generate_text(model: MinimalLLM, tokenizer, prompt: str, max_length: int = 100,\n                       temperature: float = 0.8, top_k: int = 50, top_p: float = 0.9) -> str:\n    \"\"\"\n    🐌 NAIVE TEXT GENERATION (NO KV CACHE)\n    This is the original text generation method that processes the entire sequence\n    for each new token. Very slow but simple.\n    \"\"\"\n    model.eval()\n    device = next(model.parameters()).device\n    # Tokenize prompt",
-        "detail": "qwen-llm.original_files.compare_inference",
-        "documentation": {}
-    },
-    {
-        "label": "compare_inference_methods",
-        "kind": 2,
-        "importPath": "qwen-llm.original_files.compare_inference",
-        "description": "qwen-llm.original_files.compare_inference",
-        "peekOfCode": "def compare_inference_methods(model_path: str, tokenizer_path: str, \n                            test_prompts: List[str], max_new_tokens: int = 50):\n    \"\"\"\n    Compare different inference methods\n    Args:\n        model_path: Path to saved model\n        tokenizer_path: Path to tokenizer\n        test_prompts: List of test prompts\n        max_new_tokens: Maximum tokens to generate\n    \"\"\"",
-        "detail": "qwen-llm.original_files.compare_inference",
-        "documentation": {}
-    },
-    {
-        "label": "run_quick_test",
-        "kind": 2,
-        "importPath": "qwen-llm.original_files.compare_inference",
-        "description": "qwen-llm.original_files.compare_inference",
-        "peekOfCode": "def run_quick_test():\n    \"\"\"Run a quick test with simple prompts\"\"\"\n    test_prompts = [\n        \"Hello, how are you?\",\n        \"Tell me a joke about\",\n        \"Write a short story about\",\n        \"Explain the concept of\",\n        \"What is the meaning of\"\n    ]\n    # You'll need to provide actual model paths",
-        "detail": "qwen-llm.original_files.compare_inference",
-        "documentation": {}
-    },
-    {
-        "label": "run_comprehensive_benchmark",
-        "kind": 2,
-        "importPath": "qwen-llm.original_files.compare_inference",
-        "description": "qwen-llm.original_files.compare_inference",
-        "peekOfCode": "def run_comprehensive_benchmark():\n    \"\"\"Run a comprehensive benchmark with more prompts\"\"\"\n    test_prompts = [\n        \"The quick brown fox jumps over the lazy dog. This is a test of\",\n        \"In a world where artificial intelligence has become\",\n        \"The ancient library contained thousands of books about\",\n        \"As the sun set over the mountains, the travelers\",\n        \"The scientist discovered a new element that could\",\n        \"Once upon a time, in a distant galaxy\",\n        \"The recipe for the perfect chocolate cake includes\",",
-        "detail": "qwen-llm.original_files.compare_inference",
-        "documentation": {}
-    },
-    {
-        "label": "SamplingParams",
-        "kind": 6,
-        "importPath": "qwen-llm.original_files.fast_inference",
-        "description": "qwen-llm.original_files.fast_inference",
-        "peekOfCode": "class SamplingParams:\n    \"\"\"Sampling parameters for text generation\"\"\"\n    max_new_tokens: int = 100\n    temperature: float = 0.8\n    top_k: int = 50\n    top_p: float = 0.9\n    repetition_penalty: float = 1.0\n    stop_token_ids: List[int] = None\n    def __post_init__(self):\n        if self.stop_token_ids is None:",
-        "detail": "qwen-llm.original_files.fast_inference",
-        "documentation": {}
-    },
-    {
-        "label": "Sequence",
-        "kind": 6,
-        "importPath": "qwen-llm.original_files.fast_inference",
-        "description": "qwen-llm.original_files.fast_inference",
-        "peekOfCode": "class Sequence:\n    \"\"\"Represents a single generation sequence\"\"\"\n    seq_id: int\n    prompt: str\n    input_ids: torch.Tensor\n    output_ids: List[int]\n    sampling_params: SamplingParams\n    batch_idx: int = -1\n    finished: bool = False\n    prefill_done: bool = False",
-        "detail": "qwen-llm.original_files.fast_inference",
-        "documentation": {}
-    },
-    {
-        "label": "PagedKVCache",
-        "kind": 6,
-        "importPath": "qwen-llm.original_files.fast_inference",
-        "description": "qwen-llm.original_files.fast_inference",
-        "peekOfCode": "class PagedKVCache(nn.Module):\n    \"\"\"\n    🧠 PAGED KV CACHE\n    Efficient memory management for KV cache using page-based allocation.\n    Inspired by vLLM's PagedAttention but simplified for our use case.\n    \"\"\"\n    def __init__(self, n_pages: int, page_size: int, n_heads: int, head_dim: int, dtype: torch.dtype, device: str):\n        super().__init__()\n        self.n_pages = n_pages\n        self.page_size = page_size",
-        "detail": "qwen-llm.original_files.fast_inference",
-        "documentation": {}
-    },
-    {
-        "label": "OptimizedAttention",
-        "kind": 6,
-        "importPath": "qwen-llm.original_files.fast_inference",
-        "description": "qwen-llm.original_files.fast_inference",
-        "peekOfCode": "class OptimizedAttention(nn.Module):\n    \"\"\"\n    🎯 OPTIMIZED ATTENTION WITH KV CACHE\n    Combines GQA with efficient KV caching for fast inference.\n    \"\"\"\n    def __init__(self, config: SmallModelConfig, kv_cache: PagedKVCache):\n        super().__init__()\n        self.d_model = config.d_model\n        self.n_heads = config.n_heads\n        self.n_kv_heads = config.n_kv_heads",
-        "detail": "qwen-llm.original_files.fast_inference",
-        "documentation": {}
-    },
-    {
-        "label": "OptimizedTransformerBlock",
-        "kind": 6,
-        "importPath": "qwen-llm.original_files.fast_inference",
-        "description": "qwen-llm.original_files.fast_inference",
-        "peekOfCode": "class OptimizedTransformerBlock(nn.Module):\n    \"\"\"\n    🏗️ OPTIMIZED TRANSFORMER BLOCK\n    Transformer block with optimized attention and KV caching.\n    \"\"\"\n    def __init__(self, config: SmallModelConfig, kv_cache: PagedKVCache):\n        super().__init__()\n        self.attention = OptimizedAttention(config, kv_cache)\n        self.feed_forward = SwiGLUFeedForward(config.d_model, config.d_ff, config.dropout)\n        # Pre-norm architecture",
-        "detail": "qwen-llm.original_files.fast_inference",
-        "documentation": {}
-    },
-    {
-        "label": "FastInferenceEngine",
-        "kind": 6,
-        "importPath": "qwen-llm.original_files.fast_inference",
-        "description": "qwen-llm.original_files.fast_inference",
-        "peekOfCode": "class FastInferenceEngine:\n    \"\"\"\n    🚀 FAST INFERENCE ENGINE\n    High-performance inference engine with:\n    - Paged KV cache for memory efficiency\n    - Continuous batching for throughput\n    - CUDA graphs for optimization\n    - Dynamic scheduling\n    \"\"\"\n    def __init__(self, model: MinimalLLM, tokenizer, config: SmallModelConfig, ",
-        "detail": "qwen-llm.original_files.fast_inference",
-        "documentation": {}
-    },
-    {
-        "label": "create_fast_inference_engine",
-        "kind": 2,
-        "importPath": "qwen-llm.original_files.fast_inference",
-        "description": "qwen-llm.original_files.fast_inference",
-        "peekOfCode": "def create_fast_inference_engine(model_path: str, tokenizer_path: str, \n                                max_batch_size: int = 32, max_seq_len: int = 2048,\n                                n_pages: int = 1000, page_size: int = 128) -> FastInferenceEngine:\n    \"\"\"\n    Create a fast inference engine from saved model\n    Args:\n        model_path: Path to saved model\n        tokenizer_path: Path to tokenizer\n        max_batch_size: Maximum batch size\n        max_seq_len: Maximum sequence length",
-        "detail": "qwen-llm.original_files.fast_inference",
-        "documentation": {}
-    },
-    {
-        "label": "benchmark_inference_engine",
-        "kind": 2,
-        "importPath": "qwen-llm.original_files.fast_inference",
-        "description": "qwen-llm.original_files.fast_inference",
-        "peekOfCode": "def benchmark_inference_engine(engine: FastInferenceEngine, num_requests: int = 100, \n                              max_input_len: int = 512, max_output_len: int = 256):\n    \"\"\"\n    Benchmark the inference engine\n    Args:\n        engine: FastInferenceEngine instance\n        num_requests: Number of requests to process\n        max_input_len: Maximum input length\n        max_output_len: Maximum output length\n    \"\"\"",
-        "detail": "qwen-llm.original_files.fast_inference",
-        "documentation": {}
-    },
-    {
-        "label": "SimpleKVCache",
-        "kind": 6,
-        "importPath": "qwen-llm.original_files.simple_fast_inference",
-        "description": "qwen-llm.original_files.simple_fast_inference",
-        "peekOfCode": "class SimpleKVCache:\n    \"\"\"\n    🎯 SIMPLE KV CACHE\n    A straightforward KV cache implementation that stores key-value pairs\n    for each sequence position. Much simpler than paged attention but still effective.\n    \"\"\"\n    def __init__(self, max_seq_len: int, n_heads: int, head_dim: int, dtype: torch.dtype, device: str):\n        self.max_seq_len = max_seq_len\n        self.n_heads = n_heads\n        self.head_dim = head_dim",
-        "detail": "qwen-llm.original_files.simple_fast_inference",
-        "documentation": {}
-    },
-    {
-        "label": "CachedAttention",
-        "kind": 6,
-        "importPath": "qwen-llm.original_files.simple_fast_inference",
-        "description": "qwen-llm.original_files.simple_fast_inference",
-        "peekOfCode": "class CachedAttention(nn.Module):\n    \"\"\"\n    🎯 CACHED ATTENTION\n    Attention layer with simple KV caching for fast inference.\n    \"\"\"\n    def __init__(self, config: SmallModelConfig, kv_cache: SimpleKVCache):\n        super().__init__()\n        self.d_model = config.d_model\n        self.n_heads = config.n_heads\n        self.n_kv_heads = config.n_kv_heads",
-        "detail": "qwen-llm.original_files.simple_fast_inference",
-        "documentation": {}
-    },
-    {
-        "label": "CachedTransformerBlock",
-        "kind": 6,
-        "importPath": "qwen-llm.original_files.simple_fast_inference",
-        "description": "qwen-llm.original_files.simple_fast_inference",
-        "peekOfCode": "class CachedTransformerBlock(nn.Module):\n    \"\"\"\n    🏗️ CACHED TRANSFORMER BLOCK\n    Transformer block with cached attention.\n    \"\"\"\n    def __init__(self, config: SmallModelConfig, kv_cache: SimpleKVCache):\n        super().__init__()\n        self.attention = CachedAttention(config, kv_cache)\n        self.feed_forward = SwiGLUFeedForward(config.d_model, config.d_ff, config.dropout)\n        # Pre-norm architecture",
-        "detail": "qwen-llm.original_files.simple_fast_inference",
-        "documentation": {}
-    },
-    {
-        "label": "SimpleFastInference",
-        "kind": 6,
-        "importPath": "qwen-llm.original_files.simple_fast_inference",
-        "description": "qwen-llm.original_files.simple_fast_inference",
-        "peekOfCode": "class SimpleFastInference:\n    \"\"\"\n    🚀 SIMPLE FAST INFERENCE ENGINE\n    A simplified but fast inference engine that adds KV caching to your existing model.\n    Much easier to understand and integrate than full vLLM-style implementations.\n    \"\"\"\n    def __init__(self, model: MinimalLLM, tokenizer, config: SmallModelConfig, \n                 max_seq_len: int = 2048):\n        self.model = model\n        self.tokenizer = tokenizer",
-        "detail": "qwen-llm.original_files.simple_fast_inference",
-        "documentation": {}
-    },
-    {
-        "label": "create_simple_fast_inference",
-        "kind": 2,
-        "importPath": "qwen-llm.original_files.simple_fast_inference",
-        "description": "qwen-llm.original_files.simple_fast_inference",
-        "peekOfCode": "def create_simple_fast_inference(model_path: str, tokenizer_path: str, \n                                max_seq_len: int = 2048) -> SimpleFastInference:\n    \"\"\"\n    Create a simple fast inference engine from saved model\n    Args:\n        model_path: Path to saved model\n        tokenizer_path: Path to tokenizer\n        max_seq_len: Maximum sequence length\n    Returns:\n        SimpleFastInference instance",
-        "detail": "qwen-llm.original_files.simple_fast_inference",
-        "documentation": {}
-    },
-    {
-        "label": "benchmark_simple_inference",
-        "kind": 2,
-        "importPath": "qwen-llm.original_files.simple_fast_inference",
-        "description": "qwen-llm.original_files.simple_fast_inference",
-        "peekOfCode": "def benchmark_simple_inference(engine: SimpleFastInference, num_requests: int = 10, \n                              max_input_len: int = 100, max_output_len: int = 100):\n    \"\"\"\n    Benchmark the simple inference engine\n    Args:\n        engine: SimpleFastInference instance\n        num_requests: Number of requests to process\n        max_input_len: Maximum input length\n        max_output_len: Maximum output length\n    \"\"\"",
-        "detail": "qwen-llm.original_files.simple_fast_inference",
         "documentation": {}
     },
     {
