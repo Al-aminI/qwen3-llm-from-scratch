@@ -1,6 +1,4 @@
 """
-🧠 QWEN3 CORE COMPONENTS - DETAILED EXPLANATIONS
-
 This file contains the core neural network components with extensive explanations
 to help you become an expert in modern transformer architectures.
 """
@@ -12,33 +10,30 @@ import math
 from typing import List, Optional
 from dataclasses import dataclass
 
-# =============================================================================
-# 🔄 COMPONENT 1: ROTARY POSITIONAL EMBEDDINGS (RoPE)
-# =============================================================================
 
 class Rotary(nn.Module):
     """
-    🔄 ROTARY POSITIONAL EMBEDDINGS (RoPE)
+    ROTARY POSITIONAL EMBEDDINGS (RoPE)
     
     This is one of the most important innovations in modern transformers!
     
-    🎯 What RoPE does:
+    What RoPE does:
     - Encodes position information by ROTATING vectors
     - Unlike traditional positional embeddings that just ADD position info
     - Allows the model to understand relative positions naturally
     
-    🧮 The Math:
+    The Math:
     - For each position i, we compute rotation angles based on i
     - We rotate the query and key vectors by these angles
     - The dot product between rotated vectors encodes relative position
     
-    🔍 Why it's better:
+    Why it's better:
     - Extrapolates to longer sequences (can handle 100K+ tokens)
     - Relative position encoding (position 5 vs 10 is same as 15 vs 20)
     - No learned parameters (more efficient)
     - Better performance on long sequences
     
-    📐 The rotation:
+    The rotation:
     - Split embedding into pairs: [x1, x2, x3, x4] → [[x1,x2], [x3,x4]]
     - Rotate each pair by angle θ_i = i / (10000^(2j/d))
     - This creates a spiral pattern in high-dimensional space
@@ -91,20 +86,15 @@ class Rotary(nn.Module):
         # Concatenate back
         return torch.cat((y1, y2), 3).type_as(x_BTHD)
 
-# =============================================================================
-# 🎯 COMPONENT 2: GROUPED-QUERY ATTENTION (GQA)
-# =============================================================================
 
 def repeat_kv(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:
     """
-    🔑 GROUPED-QUERY ATTENTION HELPER
-    
     This implements the key innovation in GQA:
     - Fewer Key-Value heads than Query heads
     - Each KV head is "shared" across multiple Query heads
     - Massive memory savings with minimal performance loss
     
-    🧮 Example:
+    Example:
     - 8 Query heads, 2 KV heads
     - KV head 1 is used by Query heads 1,2,3,4
     - KV head 2 is used by Query heads 5,6,7,8
@@ -126,17 +116,17 @@ def repeat_kv(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:
 
 class Qwen3Attention(nn.Module):
     """
-    🎯 GROUPED-QUERY ATTENTION (GQA) IMPLEMENTATION
+    GROUPED-QUERY ATTENTION (GQA) IMPLEMENTATION
     
     This is the heart of modern transformer attention mechanisms!
     
-    🧠 Key Innovations:
+    Key Innovations:
     1. Grouped-Query Attention: Fewer KV heads than Query heads
     2. QK-Normalization: Normalizes queries and keys for stability
     3. RoPE: Rotary positional embeddings
     4. Scaled dot-product attention: The core attention mechanism
     
-    🔍 How it works:
+    How it works:
     1. Project input to Q, K, V (separate linear layers)
     2. Apply QK normalization (Qwen3 innovation)
     3. Apply RoPE for position encoding
@@ -144,7 +134,7 @@ class Qwen3Attention(nn.Module):
     5. Compute attention scores and apply to values
     6. Project back to model dimension
     
-    📊 Memory Efficiency:
+    Memory Efficiency:
     - Traditional: 8 Q heads + 8 K heads + 8 V heads = 24 heads
     - GQA: 8 Q heads + 2 K heads + 2 V heads = 12 heads
     - Savings: 50% reduction in attention memory!
@@ -213,19 +203,14 @@ class Qwen3Attention(nn.Module):
         attn_output = attn_output.transpose(1, 2).contiguous().view(batch_size, seq_len, self.d_model)
         return self.w_o(attn_output)
 
-# =============================================================================
-# 🔥 COMPONENT 3: SWIGLU FEED-FORWARD NETWORK
-# =============================================================================
 
 class SwiGLUFeedForward(nn.Module):
     """
-    🔥 SWIGLU FEED-FORWARD NETWORK
-    
     SwiGLU is a modern activation function that combines:
     - Swish activation: x * sigmoid(x) (smooth, non-monotonic)
     - GLU (Gated Linear Unit): element-wise multiplication with a gate
     
-    🧮 The Math:
+    The Math:
     SwiGLU(x) = Swish(W1(x)) ⊙ W2(x)
     Where:
     - W1(x) is the "gate" (controls information flow)
@@ -233,13 +218,13 @@ class SwiGLUFeedForward(nn.Module):
     - ⊙ is element-wise multiplication
     - Swish(x) = x * sigmoid(x)
     
-    🎯 Why SwiGLU is better:
+    Why SwiGLU is better:
     - More expressive than ReLU (can represent more complex functions)
     - Smooth gradients (better for training)
     - Gating mechanism (selective information flow)
     - Used in state-of-the-art models (PaLM, LLaMA, Qwen)
     
-    🔍 The gating mechanism:
+    The gating mechanism:
     - Gate controls how much information flows through
     - Value provides the actual transformation
     - Together they create selective, adaptive processing
@@ -274,29 +259,24 @@ class SwiGLUFeedForward(nn.Module):
         # Apply dropout and project back to model dimension
         return self.down_proj(self.dropout(gated_value))
 
-# =============================================================================
-# 🏗️ COMPONENT 4: TRANSFORMER BLOCK
-# =============================================================================
 
 class TransformerBlock(nn.Module):
     """
-    🏗️ TRANSFORMER BLOCK - THE BUILDING BLOCK OF MODERN LLMs
-    
     This combines all the components into a complete transformer layer:
     
-    🧠 Architecture:
+    Architecture:
     1. Pre-norm attention (RMSNorm before attention)
     2. Residual connection (x + attention(x))
     3. Pre-norm feed-forward (RMSNorm before SwiGLU)
     4. Residual connection (x + feedforward(x))
     
-    🔍 Pre-norm vs Post-norm:
+    Pre-norm vs Post-norm:
     - Pre-norm: norm(input) → attention → output + input
     - Post-norm: attention(input) → norm → output + input
     - Pre-norm is more stable for deep networks
     - Qwen3 uses pre-norm architecture
     
-    📊 Why this works:
+    Why this works:
     - Residual connections prevent vanishing gradients
     - Pre-norm provides stable gradients
     - Dropout prevents overfitting
@@ -333,17 +313,12 @@ class TransformerBlock(nn.Module):
         
         return x
 
-# =============================================================================
-# 🎯 COMPONENT 5: RMSNorm (Root Mean Square Normalization)
-# =============================================================================
 
 class RMSNorm(nn.Module):
     """
-    📐 RMSNorm - ROOT MEAN SQUARE NORMALIZATION
-    
     This is a modern alternative to LayerNorm that's more efficient:
     
-    🧮 The Math:
+    The Math:
     RMSNorm(x) = x / sqrt(mean(x²) + ε) * g
     
     Where:
@@ -352,13 +327,13 @@ class RMSNorm(nn.Module):
     - ε is a small constant (1e-6)
     - g is a learnable scale parameter
     
-    🎯 Why RMSNorm is better:
+    Why RMSNorm is better:
     - Simpler than LayerNorm (no centering)
     - More efficient (fewer operations)
     - Better numerical stability
     - Used in modern models (LLaMA, Qwen, etc.)
     
-    🔍 Comparison with LayerNorm:
+    Comparison with LayerNorm:
     - LayerNorm: (x - mean(x)) / std(x) * g + b
     - RMSNorm: x / sqrt(mean(x²)) * g
     - RMSNorm is simpler and often works better
@@ -387,13 +362,3 @@ class RMSNorm(nn.Module):
         
         # Apply learnable scale
         return self.weight * x
-
-if __name__ == "__main__":
-    print("🧠 Qwen3 Core Components Ready!")
-    print("\nKey Components Explained:")
-    print("1. 🔄 RoPE: Rotary Positional Embeddings for position encoding")
-    print("2. 🎯 GQA: Grouped-Query Attention for memory efficiency")
-    print("3. 🔥 SwiGLU: Modern activation function with gating")
-    print("4. 🏗️ Transformer Block: Complete transformer layer")
-    print("5. 📐 RMSNorm: Efficient normalization technique")
-    print("\nEach component is optimized for modern transformer architectures!")
