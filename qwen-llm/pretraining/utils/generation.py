@@ -1,5 +1,5 @@
 """
-🔮 TEXT GENERATION UTILITIES
+TEXT GENERATION UTILITIES
 
 This module provides utilities for text generation from trained models.
 """
@@ -11,16 +11,16 @@ from typing import Optional
 def generate_text(model, tokenizer, prompt: str, max_length: int = 100,
                  temperature: float = 0.8, top_k: int = 50, top_p: float = 0.9):
     """
-    🔮 TEXT GENERATION FUNCTION
+    TEXT GENERATION FUNCTION
     
     This function generates text using the trained model with advanced sampling:
     
-    🎯 Sampling Strategies:
+    Sampling Strategies:
     1. Temperature Scaling: Controls randomness (0.1 = focused, 2.0 = random)
     2. Top-k Sampling: Only consider top k most likely tokens
     3. Top-p (Nucleus) Sampling: Consider tokens until cumulative probability reaches p
     
-    🔍 How it works:
+    How it works:
     1. Tokenize the prompt
     2. For each position, get model predictions
     3. Apply temperature scaling to logits
@@ -29,7 +29,7 @@ def generate_text(model, tokenizer, prompt: str, max_length: int = 100,
     6. Sample from the filtered distribution
     7. Append to sequence and repeat
     
-    📊 Parameter Effects:
+    Parameter Effects:
     - Temperature: Lower = more focused, Higher = more creative
     - Top-k: Lower = more focused, Higher = more diverse
     - Top-p: Lower = more focused, Higher = more diverse
