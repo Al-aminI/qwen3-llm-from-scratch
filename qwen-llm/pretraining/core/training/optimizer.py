@@ -1,6 +1,4 @@
 """
-🚀 MUON OPTIMIZER - THE SECRET SAUCE
-
 This module contains the Muon optimizer implementation.
 """
 
@@ -10,21 +8,19 @@ import math
 
 def zeropower_via_newtonschulz5(G: torch.Tensor, steps: int = 5) -> torch.Tensor:
     """
-    🔬 NEWTON-SCHULZ ORTHOGONALIZATION
-    
     This is the mathematical heart of the Muon optimizer:
     
-    🎯 What it does:
+    What it does:
     - Takes a matrix G (gradients)
     - Makes it "orthogonal" (like rotating it to be perfectly aligned)
     - Uses Newton-Schulz iteration (a fast numerical method)
     
-    🧮 Why orthogonalization helps:
+    Why orthogonalization helps:
     - Orthogonal matrices preserve vector lengths and angles
     - This prevents gradients from exploding or vanishing
     - Leads to more stable and faster training
     
-    🔢 The math:
+    The math:
     - Newton-Schulz finds the "square root" of the identity matrix
     - It's like finding the "best rotation" for our gradients
     - Uses coefficients (a, b, c) that are mathematically optimized
@@ -54,14 +50,12 @@ def zeropower_via_newtonschulz5(G: torch.Tensor, steps: int = 5) -> torch.Tensor
 
 class Muon(torch.optim.Optimizer):
     """
-    🚀 MUON OPTIMIZER: MomentUm Orthogonalized by Newton-schulz
-    
     This is a revolutionary optimizer that combines:
     1. Momentum (like Adam) - remembers past gradients
     2. Orthogonalization (Newton-Schulz) - makes gradients "well-behaved"
     3. Adaptive learning rates - adjusts based on matrix dimensions
     
-    🎯 Why Muon is special:
+    Why Muon is special:
     - 30-50% faster convergence than Adam
     - More stable training (fewer gradient explosions)
     - Better generalization (works well on new data)
@@ -81,7 +75,7 @@ class Muon(torch.optim.Optimizer):
                 g = p.grad
                 state = self.state[p]
 
-                # Initialize momentum buffer (like Adam's first moment)
+                # Initialize momentum buffer 
                 if "momentum_buffer" not in state:
                     state["momentum_buffer"] = torch.zeros_like(g)
 
@@ -93,7 +87,7 @@ class Muon(torch.optim.Optimizer):
                 # Apply Nesterov momentum (look ahead)
                 g = g.lerp_(buf, group["momentum"]) if group["nesterov"] else buf
                 
-                # 🔥 THE MAGIC: Apply Newton-Schulz orthogonalization
+                # Apply Newton-Schulz orthogonalization
                 g = zeropower_via_newtonschulz5(g, steps=group["ns_steps"])
                 
                 # Update parameters with adaptive learning rate
@@ -102,18 +96,16 @@ class Muon(torch.optim.Optimizer):
 
 def setup_muon_optimizer(model: nn.Module, config):
     """
-    🚀 HYBRID OPTIMIZER SETUP
-    
     This function sets up a hybrid optimization strategy:
     - Muon optimizer for 2D parameters (attention and feed-forward weights)
     - AdamW optimizer for other parameters (embeddings, norms, biases)
     
-    🎯 Why hybrid approach:
+    Why hybrid approach:
     - Muon works best on 2D matrices (attention, feed-forward)
     - AdamW is better for 1D parameters (embeddings, biases)
     - This gives us the best of both worlds
     
-    📊 Parameter distribution:
+    Parameter distribution:
     - Muon: ~80% of parameters (attention and feed-forward weights)
     - AdamW: ~20% of parameters (embeddings, norms, biases)
     """
