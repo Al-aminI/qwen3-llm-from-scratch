@@ -1,5 +1,5 @@
 """
-🎯 Pretraining Package
+Pretraining Package
 
 This package contains all components for training Qwen3-style language models from scratch.
 """
