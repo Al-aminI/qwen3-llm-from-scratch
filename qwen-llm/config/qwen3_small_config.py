@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 Modified Qwen3 from Scratch - Small Configuration for Fast Training
 This version uses smaller parameters and dataset for faster training and learning.
@@ -37,53 +36,51 @@ def set_seed(seed: int = 42):
     torch.cuda.manual_seed_all(seed)
     torch.backends.cudnn.deterministic = True
     torch.backends.cudnn.benchmark = False
-    print(f"🌱 Set all seeds to {seed}")
+    print(f" Set all seeds to {seed}")
 
 @dataclass
 class SmallModelConfig:
     """
-    🎯 SMALL CONFIGURATION FOR FAST TRAINING
-    
     This configuration is optimized for:
     - Fast training on CPU/limited GPU
     - Learning the concepts without waiting hours
     - Still demonstrating all key components
     """
-    # Model architecture - MUCH SMALLER
-    d_model: int = 128          # Reduced from 384 (3x smaller)
-    n_heads: int = 4            # Reduced from 8 (2x smaller)
-    n_layers: int = 3           # Reduced from 6 (2x smaller)
-    d_ff: int = 512             # Reduced from 1536 (3x smaller)
+    # Model architecture
+    d_model: int = 128 
+    n_heads: int = 4            
+    n_layers: int = 3          
+    d_ff: int = 512          
     
-    # Training parameters - FASTER
-    batch_size: int = 8         # Reduced from 24 (3x smaller)
-    max_steps: int = 1000        # Reduced from 2000 (4x smaller)
-    gradient_accumulation_steps: int = 2  # Reduced from 4
+    # Training parameters
+    batch_size: int = 8        
+    max_steps: int = 1000        
+    gradient_accumulation_steps: int = 2  
 
-    # Qwen3-like parameters
+   
     n_kv_heads: int = 2         # For Grouped-Query Attention (GQA)
-    sliding_window: int = 1024   # Smaller context window
+    sliding_window: int = 1024   
     attention_bias: bool = False
     rms_norm_eps: float = 1e-6
 
-    # Training parameters
+
     muon_lr: float = 0.01
 
-    # Data parameters - MUCH SMALLER DATASET
-    max_seq_len: int = 256      # Reduced from 512 (2x smaller)
-    num_documents: int = 200    # Reduced from 2000 (10x smaller!)
-    max_tokens: int = 50000     # Reduced from 500000 (10x smaller!)
+    # Data parameters
+    max_seq_len: int = 256      
+    num_documents: int = 200   
+    max_tokens: int = 50000    
 
     # Evaluation
-    eval_every: int = 100       # More frequent evaluation
-    eval_steps: int = 20        # Smaller eval steps
+    eval_every: int = 100       
+    eval_steps: int = 20        
 
     # Regularization
     weight_decay: float = 0.1
     dropout: float = 0.1
     grad_clip: float = 1.0
 
-    # Technical
+   
     use_amp: bool = True
     vocab_size: Optional[int] = None
 
@@ -93,14 +90,9 @@ class SmallModelConfig:
         assert self.n_heads % self.n_kv_heads == 0, "n_heads must be divisible by n_kv_heads"
         self.n_kv_groups = self.n_heads // self.n_kv_heads
 
-# =============================================================================
-# 🧠 COMPONENT 1: GROUPED-QUERY ATTENTION (GQA) HELPER
-# =============================================================================
 
 def repeat_kv(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:
     """
-    🔑 KEY COMPONENT: Grouped-Query Attention (GQA)
-    
     GQA is a memory-efficient attention mechanism where:
     - We have fewer Key-Value heads than Query heads
     - Each KV head is "repeated" to match the number of Query heads
@@ -133,27 +125,22 @@ def repeat_kv(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:
     #     → (batch, num_kv_heads * n_rep, slen, head_dim)
     return hidden_states.reshape(batch, num_key_value_heads * n_rep, slen, head_dim)
 
-# =============================================================================
-# 🚀 COMPONENT 2: MUON OPTIMIZER - THE SECRET SAUCE
-# =============================================================================
 
 def zeropower_via_newtonschulz5(G: torch.Tensor, steps: int = 5) -> torch.Tensor:
     """
-    🔬 NEWTON-SCHULZ ORTHOGONALIZATION
-    
     This is the mathematical heart of the Muon optimizer:
     
-    🎯 What it does:
+    What it does:
     - Takes a matrix G (gradients)
     - Makes it "orthogonal" (like rotating it to be perfectly aligned)
     - Uses Newton-Schulz iteration (a fast numerical method)
     
-    🧮 Why orthogonalization helps:
+    Why orthogonalization helps:
     - Orthogonal matrices preserve vector lengths and angles
     - This prevents gradients from exploding or vanishing
     - Leads to more stable and faster training
     
-    🔢 The math:
+    The math:
     - Newton-Schulz finds the "square root" of the identity matrix
     - It's like finding the "best rotation" for our gradients
     - Uses coefficients (a, b, c) that are mathematically optimized
@@ -183,14 +170,12 @@ def zeropower_via_newtonschulz5(G: torch.Tensor, steps: int = 5) -> torch.Tensor
 
 class Muon(torch.optim.Optimizer):
     """
-    🚀 MUON OPTIMIZER: MomentUm Orthogonalized by Newton-schulz
-    
     This is a revolutionary optimizer that combines:
     1. Momentum (like Adam) - remembers past gradients
     2. Orthogonalization (Newton-Schulz) - makes gradients "well-behaved"
     3. Adaptive learning rates - adjusts based on matrix dimensions
     
-    🎯 Why Muon is special:
+    Why Muon is special:
     - 30-50% faster convergence than Adam
     - More stable training (fewer gradient explosions)
     - Better generalization (works well on new data)
@@ -210,7 +195,7 @@ class Muon(torch.optim.Optimizer):
                 g = p.grad
                 state = self.state[p]
 
-                # Initialize momentum buffer (like Adam's first moment)
+                # Initialize momentum buffer
                 if "momentum_buffer" not in state:
                     state["momentum_buffer"] = torch.zeros_like(g)
 
@@ -222,30 +207,25 @@ class Muon(torch.optim.Optimizer):
                 # Apply Nesterov momentum (look ahead)
                 g = g.lerp_(buf, group["momentum"]) if group["nesterov"] else buf
                 
-                # 🔥 THE MAGIC: Apply Newton-Schulz orthogonalization
+                # Apply Newton-Schulz orthogonalization
                 g = zeropower_via_newtonschulz5(g, steps=group["ns_steps"])
                 
                 # Update parameters with adaptive learning rate
                 # Larger matrices get higher learning rates (scales with √(height/width))
                 p.add_(g.view_as(p), alpha=-group["lr"] * max(1, p.size(-2) / p.size(-1))**0.5)
 
-# =============================================================================
-# 📊 COMPONENT 3: DATA LOADING AND CACHING
-# =============================================================================
 
 def load_and_cache_data(config: SmallModelConfig, cache_dir: str = "data_cache"):
     """
-    📦 SMART DATA LOADING WITH CACHING
-    
     This function demonstrates modern ML data handling:
     
-    🎯 Key features:
+    Key features:
     1. Caching: Avoids reprocessing the same data
     2. Streaming: Loads large datasets without memory issues
     3. Tokenization: Converts text to numbers the model can understand
     4. Efficient storage: Uses pickle for fast loading
     
-    🔄 The process:
+    The process:
     1. Check if we already processed this data (cache hit)
     2. If not, load from HuggingFace datasets
     3. Tokenize the text (convert words → numbers)
@@ -254,9 +234,9 @@ def load_and_cache_data(config: SmallModelConfig, cache_dir: str = "data_cache")
     os.makedirs(cache_dir, exist_ok=True)
     cache_file = f"{cache_dir}/tokenized_data_{config.num_documents}_{config.max_tokens}.pkl"
 
-    # Check cache first (smart optimization!)
+    # Check cache first
     if os.path.exists(cache_file):
-        print(f"📦 Loading cached data from {cache_file}")
+        print(f"Loading cached data from {cache_file}")
         with open(cache_file, 'rb') as f:
             cached_data = pickle.load(f)
 
@@ -265,29 +245,28 @@ def load_and_cache_data(config: SmallModelConfig, cache_dir: str = "data_cache")
         tokens = cached_data['tokens']
         config.vocab_size = tokenizer.vocab_size
 
-        print(f"✅ Loaded {len(texts)} documents, {len(tokens):,} tokens from cache")
+        print(f"Loaded {len(texts)} documents, {len(tokens):,} tokens from cache")
         return texts, tokenizer, tokens
 
-    print(f"🔄 Processing new data (will cache for future use)")
+    print(f"Processing new data (will cache for future use)")
 
-    # Load tokenizer (the "dictionary" that converts text ↔ numbers)
+    
     tokenizer = AutoTokenizer.from_pretrained("HuggingFaceTB/SmolLM-135M")
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
 
-    # Load dataset (streaming = memory efficient)
     dataset = load_dataset("HuggingFaceTB/smollm-corpus", "cosmopedia-v2", split="train", streaming=True)
 
-    # Load only a small subset for fast training
+    # Load only a small subset for fast experimental training
     texts = []
     for i, item in enumerate(dataset):
         if i >= config.num_documents:
             break
-        texts.append(item["text"][:3000])  # Limit text length
+        texts.append(item["text"][:3000])
 
     print(f"Loaded {len(texts)} documents")
 
-    # Tokenize (convert text to numbers)
+
     print("Tokenizing texts...")
     all_tokens = []
     for text in tqdm(texts, desc="Tokenizing"):
@@ -303,21 +282,19 @@ def load_and_cache_data(config: SmallModelConfig, cache_dir: str = "data_cache")
     with open(cache_file, 'wb') as f:
         pickle.dump(cached_data, f)
 
-    print(f"💾 Cached data to {cache_file}")
+    print(f"Cached data to {cache_file}")
     return texts, tokenizer, tokens
 
 class TextTokenDataset(Dataset):
     """
-    📚 CUSTOM DATASET FOR LANGUAGE MODELING
-    
     This creates training examples for our language model:
     
-    🎯 What it does:
+    What it does:
     - Takes a long sequence of tokens
     - Creates sliding windows of fixed length
     - Each example: input sequence + target sequence (shifted by 1)
     
-    📖 Example:
+    Example:
     Original text: "The cat sat on the mat"
     Tokens: [1, 2, 3, 4, 5, 6]
     Window size: 4
@@ -338,12 +315,3 @@ class TextTokenDataset(Dataset):
         x = torch.tensor(self.tokens[idx:idx + self.seq_len], dtype=torch.long)
         y = torch.tensor(self.tokens[idx + 1:idx + self.seq_len + 1], dtype=torch.long)
         return x, y
-
-if __name__ == "__main__":
-    print("🎯 Qwen3 Small Configuration Ready!")
-    print("This configuration is optimized for fast training and learning.")
-    print("Key changes:")
-    print("- Model: 128d, 3L, 4H (vs 384d, 6L, 8H)")
-    print("- Dataset: 200 docs, 50K tokens (vs 2000 docs, 500K tokens)")
-    print("- Training: 500 steps (vs 2000 steps)")
-    print("- All components preserved for learning!")
