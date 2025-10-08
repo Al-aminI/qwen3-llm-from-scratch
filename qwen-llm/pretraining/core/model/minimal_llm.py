@@ -1,6 +1,4 @@
 """
-🏗️ COMPLETE QWEN3 MODEL
-
 This file contains the complete language model that combines all components.
 """
 
@@ -15,11 +13,9 @@ from .components import TransformerBlock, RMSNorm
 
 class MinimalLLM(nn.Module):
     """
-    🏗️ COMPLETE QWEN3-STYLE LANGUAGE MODEL
-    
     This is the full language model that combines all components:
     
-    🧠 Architecture:
+    Architecture:
     1. Token Embedding: Convert token IDs to vectors
     2. Positional Dropout: Prevent overfitting on positions
     3. Transformer Blocks: Stack of attention + feed-forward layers
@@ -27,13 +23,13 @@ class MinimalLLM(nn.Module):
     5. Language Modeling Head: Convert vectors back to token probabilities
     6. Weight Tying: Share weights between input and output embeddings
     
-    🎯 Key Features:
+    Key Features:
     - Pre-norm architecture (more stable training)
     - Weight tying (reduces parameters, improves generalization)
     - Proper initialization (Xavier/He initialization)
     - Efficient memory usage (GQA, RMSNorm)
     
-    📊 Parameter Efficiency:
+    Parameter Efficiency:
     - Weight tying: Input and output embeddings share weights
     - GQA: Reduces attention memory by 50-75%
     - RMSNorm: More efficient than LayerNorm
@@ -62,7 +58,7 @@ class MinimalLLM(nn.Module):
         # Language modeling head: converts vectors to token probabilities
         self.lm_head = nn.Linear(config.d_model, config.vocab_size, bias=False)
         
-        # 🔑 WEIGHT TYING: Share weights between input and output embeddings
+        # WEIGHT TYING: Share weights between input and output embeddings
         # This reduces parameters and improves generalization
         self.lm_head.weight = self.token_embedding.weight
 
@@ -71,8 +67,6 @@ class MinimalLLM(nn.Module):
 
     def _init_weights(self, module):
         """
-        🎯 PROPER WEIGHT INITIALIZATION
-        
         Good initialization is crucial for training stability:
         - Linear layers: Normal distribution with std=0.02
         - Embeddings: Normal distribution with std=0.02
