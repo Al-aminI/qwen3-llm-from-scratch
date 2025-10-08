@@ -1,6 +1,4 @@
 """
-🎯 PRETRAINING TRAINER
-
 This module contains the complete training pipeline for pretraining.
 """
 
@@ -19,21 +17,19 @@ from .optimizer import setup_muon_optimizer
 
 def evaluate_model(model: nn.Module, val_loader: DataLoader, config):
     """
-    📊 MODEL EVALUATION FUNCTION
-    
     This function evaluates the model's performance on validation data:
     
-    🎯 Metrics Computed:
+    Metrics Computed:
     1. Loss: Cross-entropy loss (lower is better)
     2. Accuracy: Percentage of correct next-token predictions
     3. Perplexity: exp(loss) - measures model's "surprise" (lower is better)
     
-    🔍 Why these metrics matter:
+    Why these metrics matter:
     - Loss: Direct measure of how well the model predicts
     - Accuracy: Human-interpretable measure of correctness
     - Perplexity: How "confused" the model is (lower = more confident)
     
-    📈 Good values:
+    Good values:
     - Loss: 2-4 for language models
     - Accuracy: 0.3-0.5 (30-50% correct predictions)
     - Perplexity: 10-50 (depends on vocabulary size)
@@ -45,7 +41,7 @@ def evaluate_model(model: nn.Module, val_loader: DataLoader, config):
 
     device = next(model.parameters()).device
 
-    with torch.no_grad():  # Disable gradients for evaluation
+    with torch.no_grad():  
         for i, (x, y) in enumerate(val_loader):
             if i >= config.eval_steps:
                 break
@@ -75,14 +71,11 @@ def evaluate_model(model: nn.Module, val_loader: DataLoader, config):
 
 def load_checkpoint(model_path: str, config):
     """
-    📦 LOAD CHECKPOINT FOR RESUMING TRAINING
-    
     This function loads a previously trained model checkpoint and returns
     the model, optimizers, schedulers, and training state.
     """
-    print(f"📦 Loading checkpoint from {model_path}")
+    print(f"Loading checkpoint from {model_path}")
     
-    # Load checkpoint with safe loading to handle import path changes
     try:
         # Try loading with weights_only=False to handle custom classes
         checkpoint = torch.load(model_path, map_location='cpu', weights_only=False)
@@ -95,7 +88,6 @@ def load_checkpoint(model_path: str, config):
         except Exception as e2:
             print(f"⚠️ Alternative loading also failed: {e2}")
             print("🔄 Trying to load only the model state dict...")
-            # Last resort: try to extract just the model state dict
             import zipfile
             import io
             with zipfile.ZipFile(model_path, 'r') as zip_file:
@@ -109,14 +101,13 @@ def load_checkpoint(model_path: str, config):
                 else:
                     raise Exception("Could not find model state dict in checkpoint")
     
-    # Create model with current config (ignore old config from checkpoint)
+    
     model = MinimalLLM(config)
     model.load_state_dict(checkpoint['model_state_dict'])
     
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model = model.to(device)
     
-    # Extract training state
     start_step = checkpoint.get('step', 0)
     best_val_loss = checkpoint.get('best_val_loss', float('inf'))
     
@@ -128,8 +119,6 @@ def load_checkpoint(model_path: str, config):
 
 class PretrainingTrainer:
     """
-    🎯 PRETRAINING TRAINER
-    
     Complete training pipeline for pretraining language models.
     """
     
@@ -143,21 +132,19 @@ class PretrainingTrainer:
     
     def setup_model(self):
         """Setup the model for training."""
-        print("🏗️ Setting up model...")
+        print("Setting up model...")
         
         self.model = MinimalLLM(self.config)
         self.model = self.model.to(self.device)
         
         total_params = sum(p.numel() for p in self.model.parameters())
-        print(f"  📊 Total parameters: {total_params:,}")
+        print(f"   Total parameters: {total_params:,}")
         
         return self.model
     
     def setup_optimizers(self):
         """Setup optimizers and schedulers."""
-        print("🚀 Setting up optimizers...")
         
-        # Setup optimizers
         self.optimizers = setup_muon_optimizer(self.model, self.config)
         
         # Learning rate scheduling
@@ -181,11 +168,9 @@ class PretrainingTrainer:
     
     def train(self, train_loader: DataLoader, val_loader: DataLoader, resume_from: Optional[str] = None):
         """
-        🔄 COMPLETE TRAINING LOOP
-        
         This is the heart of the training process, implementing:
         
-        🎯 Key Features:
+        Key Features:
         1. Gradient Accumulation: Simulate larger batch sizes
         2. Mixed Precision: Faster training with minimal accuracy loss
         3. Learning Rate Scheduling: Warmup + cosine decay
@@ -193,7 +178,7 @@ class PretrainingTrainer:
         5. Model Checkpointing: Save best model
         6. Progress Tracking: Real-time metrics
         
-        📊 Training Process:
+        Training Process:
         1. Forward pass: Compute predictions and loss
         2. Backward pass: Compute gradients
         3. Gradient accumulation: Accumulate gradients over multiple steps
@@ -204,9 +189,9 @@ class PretrainingTrainer:
         """
         print(f"\n🚀 Training Small Qwen3 model with Muon optimizer")
         
-        # Setup model and optimizers
+      
         if resume_from:
-            print(f"🔄 Resuming training from {resume_from}...")
+            print(f" Resuming training from {resume_from}...")
             self.model, start_step, best_val_loss = load_checkpoint(resume_from, self.config)
         else:
             self.setup_model()
@@ -215,7 +200,6 @@ class PretrainingTrainer:
         
         self.setup_optimizers()
         
-        # Training loop
         self.model.train()
         step = start_step
         start_time = time.time()
@@ -295,7 +279,7 @@ class PretrainingTrainer:
                             'best_val_loss': best_val_loss,
                             'final_metrics': eval_metrics
                         }, 'models/best_model1.pt')
-                        print(f"💾 Saved best model with val_loss: {best_val_loss:.4f}")
+                        print(f" Saved best model with val_loss: {best_val_loss:.4f}")
 
                 step += 1
                 if step % 10 == 0:
@@ -304,11 +288,11 @@ class PretrainingTrainer:
         pbar.close()
 
         training_time = time.time() - start_time
-        print(f"  ⏱️ Training completed in {training_time:.1f} seconds")
+        print(f"   Training completed in {training_time:.1f} seconds")
 
         # Final evaluation
         final_eval = evaluate_model(self.model, val_loader, self.config)
-        print(f"  📊 Final - Loss: {final_eval['val_loss']:.4f}, "
+        print(f"   Final - Loss: {final_eval['val_loss']:.4f}, "
               f"Acc: {final_eval['val_accuracy']:.4f}, PPL: {final_eval['val_perplexity']:.2f}")
 
         # Save final model
@@ -318,6 +302,6 @@ class PretrainingTrainer:
             'step': step,
             'final_metrics': final_eval
         }, 'models/final_model1.pt')
-        print(f"💾 Saved final model to final_model1.pt")
+        print(f" Saved final model to final_model1.pt")
 
         return self.model, final_eval
