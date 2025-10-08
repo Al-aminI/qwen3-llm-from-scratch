@@ -1,5 +1,5 @@
 """
-📊 DATA LOADING AND CACHING UTILITIES
+DATA LOADING AND CACHING UTILITIES
 
 This module provides utilities for loading and processing training data.
 """
@@ -14,17 +14,15 @@ from transformers import AutoTokenizer
 
 def load_and_cache_data(config, cache_dir: str = "data_cache"):
     """
-    📦 SMART DATA LOADING WITH CACHING
-    
     This function demonstrates modern ML data handling:
     
-    🎯 Key features:
+    Key features:
     1. Caching: Avoids reprocessing the same data
     2. Streaming: Loads large datasets without memory issues
     3. Tokenization: Converts text to numbers the model can understand
     4. Efficient storage: Uses pickle for fast loading
     
-    🔄 The process:
+    The process:
     1. Check if we already processed this data (cache hit)
     2. If not, load from HuggingFace datasets
     3. Tokenize the text (convert words → numbers)
@@ -44,7 +42,7 @@ def load_and_cache_data(config, cache_dir: str = "data_cache"):
         tokens = cached_data['tokens']
         config.vocab_size = tokenizer.vocab_size
 
-        print(f"✅ Loaded {len(texts)} documents, {len(tokens):,} tokens from cache")
+        print(f"Loaded {len(texts)} documents, {len(tokens):,} tokens from cache")
         return texts, tokenizer, tokens
 
     print(f"🔄 Processing new data (will cache for future use)")
@@ -82,21 +80,19 @@ def load_and_cache_data(config, cache_dir: str = "data_cache"):
     with open(cache_file, 'wb') as f:
         pickle.dump(cached_data, f)
 
-    print(f"💾 Cached data to {cache_file}")
+    print(f"Cached data to {cache_file}")
     return texts, tokenizer, tokens
 
 class TextTokenDataset(Dataset):
     """
-    📚 CUSTOM DATASET FOR LANGUAGE MODELING
-    
     This creates training examples for our language model:
     
-    🎯 What it does:
+    What it does:
     - Takes a long sequence of tokens
     - Creates sliding windows of fixed length
     - Each example: input sequence + target sequence (shifted by 1)
     
-    📖 Example:
+    Example:
     Original text: "The cat sat on the mat"
     Tokens: [1, 2, 3, 4, 5, 6]
     Window size: 4
