@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Script to push multiple fine-tuned Qwen models to Hugging Face Hub.
 """
@@ -9,7 +8,6 @@ from pathlib import Path
 from huggingface_hub import HfApi, login, create_repo
 import glob
 
-# Optional imports - only needed for usage examples
 try:
     from transformers import AutoTokenizer, AutoModelForCausalLM
     from peft import PeftModel
@@ -27,18 +25,15 @@ def push_single_file_to_hub(
     
     print(f"Pushing file {file_path} to {repo_id}...")
     
-    # Login to Hugging Face
     login(token=token)
     api = HfApi()
     
-    # Create repository if it doesn't exist
     try:
         create_repo(repo_id=repo_id, token=token, exist_ok=True)
         print(f"✅ Repository {repo_id} is ready")
     except Exception as e:
         print(f"⚠️  Repository creation issue: {e}")
     
-    # Upload the single file
     try:
         api.upload_file(
             path_or_fileobj=file_path,
@@ -63,18 +58,15 @@ def push_model_to_hub(
     
     print(f"Pushing model from {model_path} to {repo_id}...")
     
-    # Login to Hugging Face
     login(token=token)
     api = HfApi()
     
-    # Create repository if it doesn't exist
     try:
         create_repo(repo_id=repo_id, token=token, exist_ok=True)
         print(f"✅ Repository {repo_id} is ready")
     except Exception as e:
         print(f"⚠️  Repository creation issue: {e}")
     
-    # Upload the model files
     try:
         api.upload_folder(
             folder_path=model_path,
@@ -92,7 +84,6 @@ def get_model_mapping(models_dir: str, username: str):
     """Generate proper repository names for each model."""
     model_mapping = {}
     
-    # Define mapping for different model types
     model_patterns = {
         'imdb_sentiment_classifier.pt': f'{username}/qwen3-imdb-sentiment-classifier',
         'lora_sentiment_classifier.pt': f'{username}/qwen3-lora-sentiment-classifier',
@@ -104,7 +95,6 @@ def get_model_mapping(models_dir: str, username: str):
         'final_model_converted.pt': f'{username}/qwen3-final-model-converted'
     }
     
-    # Check which models exist and create mapping
     for filename, repo_name in model_patterns.items():
         file_path = os.path.join(models_dir, filename)
         if os.path.exists(file_path):
@@ -145,7 +135,6 @@ def main():
     
     args = parser.parse_args()
     
-    # Check if models directory exists
     if not Path(args.models_dir).exists():
         print(f"❌ Models directory {args.models_dir} does not exist!")
         return
@@ -166,7 +155,6 @@ def main():
         print("\n🔍 Dry run mode - no models will be pushed")
         return
     
-    # Push single model if specified
     if args.single_model:
         single_file_path = os.path.join(args.models_dir, args.single_model)
         if single_file_path in model_mapping:
@@ -186,7 +174,6 @@ def main():
             print(f"❌ Model {args.single_model} not found!")
         return
     
-    # Push all models
     print(f"\n🚀 Starting to push {len(model_mapping)} models...")
     successful_pushes = []
     failed_pushes = []
@@ -209,7 +196,6 @@ def main():
         else:
             failed_pushes.append(info)
     
-    # Summary
     print(f"\n{'='*60}")
     print(f"📊 PUSH SUMMARY")
     print(f"{'='*60}")
