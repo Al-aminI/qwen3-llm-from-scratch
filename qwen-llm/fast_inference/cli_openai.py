@@ -11,7 +11,6 @@ import sys
 import logging
 from pathlib import Path
 
-# Add the parent directory to the path to import fast_inference
 sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from fast_inference.core.engine.openai_api_server import main
