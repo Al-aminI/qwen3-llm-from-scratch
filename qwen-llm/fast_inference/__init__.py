@@ -1,6 +1,4 @@
 """
-🚀 Fast Inference Engine for Qwen3
-
 A high-performance inference engine with KV caching for fast text generation.
 Provides 10-100x speedup over naive inference methods.
 
