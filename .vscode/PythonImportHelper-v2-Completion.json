@@ -92,6 +92,86 @@
         "documentation": {}
     },
     {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "autocast",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "GradScaler",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "autocast",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
+        "label": "GradScaler",
+        "importPath": "torch.cuda.amp",
+        "description": "torch.cuda.amp",
+        "isExtraImport": true,
+        "detail": "torch.cuda.amp",
+        "documentation": {}
+    },
+    {
         "label": "autocast",
         "importPath": "torch.cuda.amp",
         "description": "torch.cuda.amp",
@@ -204,6 +284,78 @@
         "description": "datasets",
         "isExtraImport": true,
         "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "concatenate_datasets",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "Audio",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_from_disk",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "interleave_datasets",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
         "documentation": {}
     },
     {
@@ -376,6 +528,86 @@
         "documentation": {}
     },
     {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "GPT2Tokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "GPT2Tokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AutoTokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "AdamW",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "get_linear_schedule_with_warmup",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "GPT2Tokenizer",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "GPT2LMHeadModel",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
+        "label": "GPT2Config",
+        "importPath": "transformers",
+        "description": "transformers",
+        "isExtraImport": true,
+        "detail": "transformers",
+        "documentation": {}
+    },
+    {
         "label": "dataclass",
         "importPath": "dataclasses",
         "description": "dataclasses",
@@ -433,6 +665,30 @@
     },
     {
         "label": "asdict",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
         "importPath": "dataclasses",
         "description": "dataclasses",
         "isExtraImport": true,
@@ -2176,6 +2432,214 @@
         "documentation": {}
     },
     {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
         "label": "warnings",
         "kind": 6,
         "isExtraImport": true,
@@ -2871,6 +3335,22 @@
         "documentation": {}
     },
     {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
         "label": "SmallModelConfig",
         "importPath": "config.qwen3_small_config",
         "description": "config.qwen3_small_config",
@@ -2904,14 +3384,6 @@
     },
     {
         "label": "SmallModelConfig",
-        "importPath": "config.qwen3_small_config",
-        "description": "config.qwen3_small_config",
-        "isExtraImport": true,
-        "detail": "config.qwen3_small_config",
-        "documentation": {}
-    },
-    {
-        "label": "*",
         "importPath": "config.qwen3_small_config",
         "description": "config.qwen3_small_config",
         "isExtraImport": true,
@@ -3288,6 +3760,102 @@
         "description": "quantization_tutorial",
         "isExtraImport": true,
         "detail": "quantization_tutorial",
+        "documentation": {}
+    },
+    {
+        "label": "PretrainingConfig",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_cache_data",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "TextTokenDataset",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "PretrainingTrainer",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "MinimalLLM",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "generate_text",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "PretrainingConfig",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_cache_data",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "TextTokenDataset",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
+        "documentation": {}
+    },
+    {
+        "label": "PretrainingTrainer",
+        "importPath": "pretraining",
+        "description": "pretraining",
+        "isExtraImport": true,
+        "detail": "pretraining",
         "documentation": {}
     },
     {
@@ -3874,6 +4442,129 @@
         "documentation": {}
     },
     {
+        "label": "torchaudio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torchaudio",
+        "description": "torchaudio",
+        "detail": "torchaudio",
+        "documentation": {}
+    },
+    {
+        "label": "SNAC",
+        "importPath": "snac",
+        "description": "snac",
+        "isExtraImport": true,
+        "detail": "snac",
+        "documentation": {}
+    },
+    {
+        "label": "SNAC",
+        "importPath": "snac",
+        "description": "snac",
+        "isExtraImport": true,
+        "detail": "snac",
+        "documentation": {}
+    },
+    {
+        "label": "librosa",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "librosa",
+        "description": "librosa",
+        "detail": "librosa",
+        "documentation": {}
+    },
+    {
+        "label": "soundfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "soundfile",
+        "description": "soundfile",
+        "detail": "soundfile",
+        "documentation": {}
+    },
+    {
+        "label": "MultimodalPretrainingConfig",
+        "importPath": "pretraining.core.config.config",
+        "description": "pretraining.core.config.config",
+        "isExtraImport": true,
+        "detail": "pretraining.core.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "MultimodalPretrainingConfig",
+        "importPath": "pretraining.core.config.config",
+        "description": "pretraining.core.config.config",
+        "isExtraImport": true,
+        "detail": "pretraining.core.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "MultimodalPretrainingConfig",
+        "importPath": "pretraining.core.config.config",
+        "description": "pretraining.core.config.config",
+        "isExtraImport": true,
+        "detail": "pretraining.core.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "MultimodalLLM",
+        "importPath": "pretraining.core.model.minimal_llm",
+        "description": "pretraining.core.model.minimal_llm",
+        "isExtraImport": true,
+        "detail": "pretraining.core.model.minimal_llm",
+        "documentation": {}
+    },
+    {
+        "label": "MultimodalLLM",
+        "importPath": "pretraining.core.model.minimal_llm",
+        "description": "pretraining.core.model.minimal_llm",
+        "isExtraImport": true,
+        "detail": "pretraining.core.model.minimal_llm",
+        "documentation": {}
+    },
+    {
+        "label": "SNACTokenizer",
+        "importPath": "pretraining.core.audio.snac_tokenizer",
+        "description": "pretraining.core.audio.snac_tokenizer",
+        "isExtraImport": true,
+        "detail": "pretraining.core.audio.snac_tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "SNACTokenizer",
+        "importPath": "pretraining.core.audio.snac_tokenizer",
+        "description": "pretraining.core.audio.snac_tokenizer",
+        "isExtraImport": true,
+        "detail": "pretraining.core.audio.snac_tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "MultimodalPretrainingTrainer",
+        "importPath": "pretraining.core.training.multimodal_trainer",
+        "description": "pretraining.core.training.multimodal_trainer",
+        "isExtraImport": true,
+        "detail": "pretraining.core.training.multimodal_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_cache_librispeech_simplified",
+        "importPath": "pretraining.utils.data_simplified",
+        "description": "pretraining.utils.data_simplified",
+        "isExtraImport": true,
+        "detail": "pretraining.utils.data_simplified",
+        "documentation": {}
+    },
+    {
+        "label": "LibriSpeechSimplifiedDataset",
+        "importPath": "pretraining.utils.data_simplified",
+        "description": "pretraining.utils.data_simplified",
+        "isExtraImport": true,
+        "detail": "pretraining.utils.data_simplified",
+        "documentation": {}
+    },
+    {
         "label": "HfApi",
         "importPath": "huggingface_hub",
         "description": "huggingface_hub",
@@ -3898,12 +4589,45 @@
         "documentation": {}
     },
     {
+        "label": "login",
+        "importPath": "huggingface_hub",
+        "description": "huggingface_hub",
+        "isExtraImport": true,
+        "detail": "huggingface_hub",
+        "documentation": {}
+    },
+    {
         "label": "glob",
         "kind": 6,
         "isExtraImport": true,
         "importPath": "glob",
         "description": "glob",
         "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "wandb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "wandb",
+        "description": "wandb",
+        "detail": "wandb",
+        "documentation": {}
+    },
+    {
+        "label": "CosineAnnealingWarmRestarts",
+        "importPath": "torch.optim.lr_scheduler",
+        "description": "torch.optim.lr_scheduler",
+        "isExtraImport": true,
+        "detail": "torch.optim.lr_scheduler",
+        "documentation": {}
+    },
+    {
+        "label": "Audio",
+        "importPath": "IPython.display",
+        "description": "IPython.display",
+        "isExtraImport": true,
+        "detail": "IPython.display",
         "documentation": {}
     },
     {
@@ -7921,12 +8645,363 @@
         "documentation": {}
     },
     {
-        "label": "convert_checkpoint",
+        "label": "SNACTokenizer",
+        "kind": 6,
+        "importPath": "qwen-omni.pretraining.core.audio.snac_tokenizer",
+        "description": "qwen-omni.pretraining.core.audio.snac_tokenizer",
+        "peekOfCode": "class SNACTokenizer:\n    \"\"\"\n    🎵 SNAC Audio Tokenizer\n    Handles audio tokenization using the SNAC model for multimodal training.\n    Features:\n    - Audio encoding to discrete tokens\n    - Audio decoding from tokens\n    - Multi-scale audio representation\n    - Efficient audio processing\n    \"\"\"",
+        "detail": "qwen-omni.pretraining.core.audio.snac_tokenizer",
+        "documentation": {}
+    },
+    {
+        "label": "MultimodalPretrainingConfig",
+        "kind": 6,
+        "importPath": "qwen-omni.pretraining.core.config.config",
+        "description": "qwen-omni.pretraining.core.config.config",
+        "peekOfCode": "class MultimodalPretrainingConfig:\n    \"\"\"\n    🎯 MULTIMODAL PRETRAINING CONFIGURATION\n    This configuration is optimized for:\n    - Multimodal training with text and audio\n    - Fast training on CPU/limited GPU\n    - Learning the concepts without waiting hours\n    - Still demonstrating all key components\n    \"\"\"\n    # Model architecture - MUCH SMALLER",
+        "detail": "qwen-omni.pretraining.core.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
         "kind": 2,
-        "importPath": "convert_checkpoint",
-        "description": "convert_checkpoint",
-        "peekOfCode": "def convert_checkpoint(old_path: str, new_path: str):\n    \"\"\"\n    Convert old checkpoint to new format\n    \"\"\"\n    print(f\"🔄 Converting checkpoint from {old_path} to {new_path}\")\n    try:\n        # Try to load the old checkpoint\n        print(\"📦 Loading old checkpoint...\")\n        checkpoint = torch.load(old_path, map_location='cpu', weights_only=False)\n        # Extract only the essential data",
-        "detail": "convert_checkpoint",
+        "importPath": "qwen-omni.pretraining.core.config.config",
+        "description": "qwen-omni.pretraining.core.config.config",
+        "peekOfCode": "def set_seed(seed: int = 42):\n    \"\"\"Set all random seeds for reproducibility\"\"\"\n    random.seed(seed)\n    np.random.seed(seed)\n    torch.manual_seed(seed)\n    torch.cuda.manual_seed_all(seed)\n    torch.backends.cudnn.deterministic = True\n    torch.backends.cudnn.benchmark = False\n    print(f\"🌱 Set all seeds to {seed}\")\n@dataclass",
+        "detail": "qwen-omni.pretraining.core.config.config",
+        "documentation": {}
+    },
+    {
+        "label": "MultimodalDataset",
+        "kind": 6,
+        "importPath": "qwen-omni.pretraining.core.dataset.multimodal_dataset",
+        "description": "qwen-omni.pretraining.core.dataset.multimodal_dataset",
+        "peekOfCode": "class MultimodalDataset(Dataset):\n    \"\"\"\n    🎵 Multimodal Dataset for Audio-Text Training\n    Handles audio-text pairs for training multimodal language models.\n    Features:\n    - Audio preprocessing and tokenization\n    - Text tokenization\n    - Sequence padding and truncation\n    - Special token handling\n    - Efficient data loading",
+        "detail": "qwen-omni.pretraining.core.dataset.multimodal_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "LibriSpeechDataset",
+        "kind": 6,
+        "importPath": "qwen-omni.pretraining.core.dataset.multimodal_dataset",
+        "description": "qwen-omni.pretraining.core.dataset.multimodal_dataset",
+        "peekOfCode": "class LibriSpeechDataset(MultimodalDataset):\n    \"\"\"\n    📚 LibriSpeech Dataset for Audio-Text Training\n    Specialized dataset for LibriSpeech audio-text pairs.\n    \"\"\"\n    def __init__(\n        self,\n        data_path: str,\n        text_tokenizer: AutoTokenizer,\n        audio_tokenizer: SNACTokenizer,",
+        "detail": "qwen-omni.pretraining.core.dataset.multimodal_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "create_multimodal_dataloader",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.core.dataset.multimodal_dataset",
+        "description": "qwen-omni.pretraining.core.dataset.multimodal_dataset",
+        "peekOfCode": "def create_multimodal_dataloader(\n    dataset: MultimodalDataset,\n    batch_size: int = 8,\n    shuffle: bool = True,\n    num_workers: int = 4\n) -> torch.utils.data.DataLoader:\n    \"\"\"\n    Create dataloader for multimodal training\n    Args:\n        dataset: Multimodal dataset",
+        "detail": "qwen-omni.pretraining.core.dataset.multimodal_dataset",
+        "documentation": {}
+    },
+    {
+        "label": "Rotary",
+        "kind": 6,
+        "importPath": "qwen-omni.pretraining.core.model.components",
+        "description": "qwen-omni.pretraining.core.model.components",
+        "peekOfCode": "class Rotary(nn.Module):\n    \"\"\"\n    🔄 ROTARY POSITIONAL EMBEDDINGS (RoPE)\n    This is one of the most important innovations in modern transformers!\n    🎯 What RoPE does:\n    - Encodes position information by ROTATING vectors\n    - Unlike traditional positional embeddings that just ADD position info\n    - Allows the model to understand relative positions naturally\n    🧮 The Math:\n    - For each position i, we compute rotation angles based on i",
+        "detail": "qwen-omni.pretraining.core.model.components",
+        "documentation": {}
+    },
+    {
+        "label": "Qwen3Attention",
+        "kind": 6,
+        "importPath": "qwen-omni.pretraining.core.model.components",
+        "description": "qwen-omni.pretraining.core.model.components",
+        "peekOfCode": "class Qwen3Attention(nn.Module):\n    \"\"\"\n    🎯 GROUPED-QUERY ATTENTION (GQA) IMPLEMENTATION\n    This is the heart of modern transformer attention mechanisms!\n    🧠 Key Innovations:\n    1. Grouped-Query Attention: Fewer KV heads than Query heads\n    2. QK-Normalization: Normalizes queries and keys for stability\n    3. RoPE: Rotary positional embeddings\n    4. Scaled dot-product attention: The core attention mechanism\n    🔍 How it works:",
+        "detail": "qwen-omni.pretraining.core.model.components",
+        "documentation": {}
+    },
+    {
+        "label": "SwiGLUFeedForward",
+        "kind": 6,
+        "importPath": "qwen-omni.pretraining.core.model.components",
+        "description": "qwen-omni.pretraining.core.model.components",
+        "peekOfCode": "class SwiGLUFeedForward(nn.Module):\n    \"\"\"\n    🔥 SWIGLU FEED-FORWARD NETWORK\n    SwiGLU is a modern activation function that combines:\n    - Swish activation: x * sigmoid(x) (smooth, non-monotonic)\n    - GLU (Gated Linear Unit): element-wise multiplication with a gate\n    🧮 The Math:\n    SwiGLU(x) = Swish(W1(x)) ⊙ W2(x)\n    Where:\n    - W1(x) is the \"gate\" (controls information flow)",
+        "detail": "qwen-omni.pretraining.core.model.components",
+        "documentation": {}
+    },
+    {
+        "label": "TransformerBlock",
+        "kind": 6,
+        "importPath": "qwen-omni.pretraining.core.model.components",
+        "description": "qwen-omni.pretraining.core.model.components",
+        "peekOfCode": "class TransformerBlock(nn.Module):\n    \"\"\"\n    🏗️ TRANSFORMER BLOCK - THE BUILDING BLOCK OF MODERN LLMs\n    This combines all the components into a complete transformer layer:\n    🧠 Architecture:\n    1. Pre-norm attention (RMSNorm before attention)\n    2. Residual connection (x + attention(x))\n    3. Pre-norm feed-forward (RMSNorm before SwiGLU)\n    4. Residual connection (x + feedforward(x))\n    🔍 Pre-norm vs Post-norm:",
+        "detail": "qwen-omni.pretraining.core.model.components",
+        "documentation": {}
+    },
+    {
+        "label": "RMSNorm",
+        "kind": 6,
+        "importPath": "qwen-omni.pretraining.core.model.components",
+        "description": "qwen-omni.pretraining.core.model.components",
+        "peekOfCode": "class RMSNorm(nn.Module):\n    \"\"\"\n    📐 RMSNorm - ROOT MEAN SQUARE NORMALIZATION\n    This is a modern alternative to LayerNorm that's more efficient:\n    🧮 The Math:\n    RMSNorm(x) = x / sqrt(mean(x²) + ε) * g\n    Where:\n    - x is the input\n    - mean(x²) is the mean of squared values\n    - ε is a small constant (1e-6)",
+        "detail": "qwen-omni.pretraining.core.model.components",
+        "documentation": {}
+    },
+    {
+        "label": "repeat_kv",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.core.model.components",
+        "description": "qwen-omni.pretraining.core.model.components",
+        "peekOfCode": "def repeat_kv(hidden_states: torch.Tensor, n_rep: int) -> torch.Tensor:\n    \"\"\"\n    🔑 GROUPED-QUERY ATTENTION HELPER\n    This implements the key innovation in GQA:\n    - Fewer Key-Value heads than Query heads\n    - Each KV head is \"shared\" across multiple Query heads\n    - Massive memory savings with minimal performance loss\n    🧮 Example:\n    - 8 Query heads, 2 KV heads\n    - KV head 1 is used by Query heads 1,2,3,4",
+        "detail": "qwen-omni.pretraining.core.model.components",
+        "documentation": {}
+    },
+    {
+        "label": "MultimodalLLM",
+        "kind": 6,
+        "importPath": "qwen-omni.pretraining.core.model.minimal_llm",
+        "description": "qwen-omni.pretraining.core.model.minimal_llm",
+        "peekOfCode": "class MultimodalLLM(nn.Module):\n    \"\"\"\n    🏗️ MULTIMODAL QWEN3-STYLE LANGUAGE MODEL\n    This is the full multimodal language model that can process both text and audio:\n    🧠 Architecture:\n    1. Token Embedding: Convert token IDs to vectors (text + audio)\n    2. Positional Dropout: Prevent overfitting on positions\n    3. Transformer Blocks: Stack of attention + feed-forward layers\n    4. Final Normalization: RMSNorm before output\n    5. Language Modeling Head: Convert vectors back to token probabilities",
+        "detail": "qwen-omni.pretraining.core.model.minimal_llm",
+        "documentation": {}
+    },
+    {
+        "label": "MultimodalPretrainingTrainer",
+        "kind": 6,
+        "importPath": "qwen-omni.pretraining.core.training.multimodal_trainer",
+        "description": "qwen-omni.pretraining.core.training.multimodal_trainer",
+        "peekOfCode": "class MultimodalPretrainingTrainer:\n    \"\"\"\n    🎯 MULTIMODAL PRETRAINING TRAINER\n    Complete training pipeline for multimodal pretraining with text and audio.\n    \"\"\"\n    def __init__(self, config):\n        self.config = config\n        self.model = None\n        self.optimizer = None\n        self.scheduler = None",
+        "detail": "qwen-omni.pretraining.core.training.multimodal_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "compute_weighted_loss_eval",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.core.training.multimodal_trainer",
+        "description": "qwen-omni.pretraining.core.training.multimodal_trainer",
+        "peekOfCode": "def compute_weighted_loss_eval(logits, labels, weights, config):\n    \"\"\"Compute weighted loss for multimodal evaluation\"\"\"\n    # Flatten all tensors\n    logits_flat = logits.view(-1, config.vocab_size)\n    labels_flat = labels.view(-1)\n    weights_flat = weights.view(-1)\n    # Compute cross entropy loss\n    loss = F.cross_entropy(logits_flat, labels_flat, ignore_index=config.pad_token_id, reduction='none')\n    # Apply weights\n    weighted_loss = loss * weights_flat",
+        "detail": "qwen-omni.pretraining.core.training.multimodal_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_multimodal_model",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.core.training.multimodal_trainer",
+        "description": "qwen-omni.pretraining.core.training.multimodal_trainer",
+        "peekOfCode": "def evaluate_multimodal_model(model: nn.Module, val_loader: DataLoader, config):\n    \"\"\"\n    📊 MULTIMODAL MODEL EVALUATION FUNCTION\n    This function evaluates the model's performance on validation data:\n    🎯 Metrics Computed:\n    1. Loss: Cross-entropy loss (lower is better)\n    2. Accuracy: Percentage of correct next-token predictions\n    3. Perplexity: exp(loss) - measures model's \"surprise\" (lower is better)\n    4. Audio Loss: Loss specifically on audio tokens\n    5. Text Loss: Loss specifically on text tokens",
+        "detail": "qwen-omni.pretraining.core.training.multimodal_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "load_multimodal_checkpoint",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.core.training.multimodal_trainer",
+        "description": "qwen-omni.pretraining.core.training.multimodal_trainer",
+        "peekOfCode": "def load_multimodal_checkpoint(model_path: str, config):\n    \"\"\"\n    📦 LOAD CHECKPOINT FOR RESUMING MULTIMODAL TRAINING\n    This function loads a previously trained multimodal model checkpoint and returns\n    the model, optimizers, schedulers, and training state.\n    \"\"\"\n    print(f\"📦 Loading multimodal checkpoint from {model_path}\")\n    # Load checkpoint with safe loading to handle import path changes\n    try:\n        # Try loading with weights_only=False to handle custom classes",
+        "detail": "qwen-omni.pretraining.core.training.multimodal_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "Muon",
+        "kind": 6,
+        "importPath": "qwen-omni.pretraining.core.training.optimizer",
+        "description": "qwen-omni.pretraining.core.training.optimizer",
+        "peekOfCode": "class Muon(torch.optim.Optimizer):\n    \"\"\"\n    🚀 MUON OPTIMIZER: MomentUm Orthogonalized by Newton-schulz\n    This is a revolutionary optimizer that combines:\n    1. Momentum (like Adam) - remembers past gradients\n    2. Orthogonalization (Newton-Schulz) - makes gradients \"well-behaved\"\n    3. Adaptive learning rates - adjusts based on matrix dimensions\n    🎯 Why Muon is special:\n    - 30-50% faster convergence than Adam\n    - More stable training (fewer gradient explosions)",
+        "detail": "qwen-omni.pretraining.core.training.optimizer",
+        "documentation": {}
+    },
+    {
+        "label": "zeropower_via_newtonschulz5",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.core.training.optimizer",
+        "description": "qwen-omni.pretraining.core.training.optimizer",
+        "peekOfCode": "def zeropower_via_newtonschulz5(G: torch.Tensor, steps: int = 5) -> torch.Tensor:\n    \"\"\"\n    🔬 NEWTON-SCHULZ ORTHOGONALIZATION\n    This is the mathematical heart of the Muon optimizer:\n    🎯 What it does:\n    - Takes a matrix G (gradients)\n    - Makes it \"orthogonal\" (like rotating it to be perfectly aligned)\n    - Uses Newton-Schulz iteration (a fast numerical method)\n    🧮 Why orthogonalization helps:\n    - Orthogonal matrices preserve vector lengths and angles",
+        "detail": "qwen-omni.pretraining.core.training.optimizer",
+        "documentation": {}
+    },
+    {
+        "label": "setup_muon_optimizer",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.core.training.optimizer",
+        "description": "qwen-omni.pretraining.core.training.optimizer",
+        "peekOfCode": "def setup_muon_optimizer(model: nn.Module, config):\n    \"\"\"\n    🚀 HYBRID OPTIMIZER SETUP\n    This function sets up a hybrid optimization strategy:\n    - Muon optimizer for 2D parameters (attention and feed-forward weights)\n    - AdamW optimizer for other parameters (embeddings, norms, biases)\n    🎯 Why hybrid approach:\n    - Muon works best on 2D matrices (attention, feed-forward)\n    - AdamW is better for 1D parameters (embeddings, biases)\n    - This gives us the best of both worlds",
+        "detail": "qwen-omni.pretraining.core.training.optimizer",
+        "documentation": {}
+    },
+    {
+        "label": "PretrainingTrainer",
+        "kind": 6,
+        "importPath": "qwen-omni.pretraining.core.training.trainer",
+        "description": "qwen-omni.pretraining.core.training.trainer",
+        "peekOfCode": "class PretrainingTrainer:\n    \"\"\"\n    🎯 PRETRAINING TRAINER\n    Complete training pipeline for pretraining language models.\n    \"\"\"\n    def __init__(self, config):\n        self.config = config\n        self.model = None\n        self.optimizers = None\n        self.schedulers = None",
+        "detail": "qwen-omni.pretraining.core.training.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_model",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.core.training.trainer",
+        "description": "qwen-omni.pretraining.core.training.trainer",
+        "peekOfCode": "def evaluate_model(model: nn.Module, val_loader: DataLoader, config):\n    \"\"\"\n    📊 MODEL EVALUATION FUNCTION\n    This function evaluates the model's performance on validation data:\n    🎯 Metrics Computed:\n    1. Loss: Cross-entropy loss (lower is better)\n    2. Accuracy: Percentage of correct next-token predictions\n    3. Perplexity: exp(loss) - measures model's \"surprise\" (lower is better)\n    🔍 Why these metrics matter:\n    - Loss: Direct measure of how well the model predicts",
+        "detail": "qwen-omni.pretraining.core.training.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "load_checkpoint",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.core.training.trainer",
+        "description": "qwen-omni.pretraining.core.training.trainer",
+        "peekOfCode": "def load_checkpoint(model_path: str, config):\n    \"\"\"\n    📦 LOAD CHECKPOINT FOR RESUMING TRAINING\n    This function loads a previously trained model checkpoint and returns\n    the model, optimizers, schedulers, and training state.\n    \"\"\"\n    print(f\"📦 Loading checkpoint from {model_path}\")\n    # Load checkpoint with safe loading to handle import path changes\n    try:\n        # Try loading with weights_only=False to handle custom classes",
+        "detail": "qwen-omni.pretraining.core.training.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.examples.advanced.resume_training",
+        "description": "qwen-omni.pretraining.examples.advanced.resume_training",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 RESUME TRAINING EXAMPLE\n    This function demonstrates how to resume training from a checkpoint.\n    \"\"\"\n    print(\"🔄 RESUME TRAINING EXAMPLE\")\n    print(\"=\" * 50)\n    # Check if checkpoint exists\n    checkpoint_path = \"models/best_model1.pt\"\n    if not os.path.exists(checkpoint_path):",
+        "detail": "qwen-omni.pretraining.examples.advanced.resume_training",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.examples.basic.inference_example",
+        "description": "qwen-omni.pretraining.examples.basic.inference_example",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 INFERENCE EXAMPLE\n    This function demonstrates how to load and use a trained model.\n    \"\"\"\n    print(\"🎭 INFERENCE EXAMPLE\")\n    print(\"=\" * 50)\n    # Check if model exists\n    model_path = \"models/final_model1.pt\"\n    if not os.path.exists(model_path):",
+        "detail": "qwen-omni.pretraining.examples.basic.inference_example",
+        "documentation": {}
+    },
+    {
+        "label": "load_trained_model",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.examples.basic.multimodal_inference_example",
+        "description": "qwen-omni.pretraining.examples.basic.multimodal_inference_example",
+        "peekOfCode": "def load_trained_model(model_path=\"models/final_multimodal_model.pt\"):\n    \"\"\"\n    Load the trained multimodal model\n    \"\"\"\n    print(\"📦 Loading trained multimodal model...\")\n    if not os.path.exists(model_path):\n        print(f\"❌ Model not found at {model_path}\")\n        print(\"   Please train a model first using the training examples\")\n        return None, None, None\n    # Load checkpoint",
+        "detail": "qwen-omni.pretraining.examples.basic.multimodal_inference_example",
+        "documentation": {}
+    },
+    {
+        "label": "setup_tokenizers",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.examples.basic.multimodal_inference_example",
+        "description": "qwen-omni.pretraining.examples.basic.multimodal_inference_example",
+        "peekOfCode": "def setup_tokenizers(config):\n    \"\"\"\n    Setup text and audio tokenizers\n    \"\"\"\n    print(\"🔤 Setting up tokenizers...\")\n    # Text tokenizer (GPT2Tokenizer like training)\n    text_tokenizer = GPT2Tokenizer.from_pretrained('gpt2', add_bos_token=True, pad_token_id=50257)\n    text_tokenizer.add_special_tokens({'pad_token': '[PAD]'})  # add pad token which is [50257]\n    text_tokenizer.add_tokens([\"SPACER\"])\n    # Audio tokenizer (SNAC)",
+        "detail": "qwen-omni.pretraining.examples.basic.multimodal_inference_example",
+        "documentation": {}
+    },
+    {
+        "label": "generate_audio_from_text",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.examples.basic.multimodal_inference_example",
+        "description": "qwen-omni.pretraining.examples.basic.multimodal_inference_example",
+        "peekOfCode": "def generate_audio_from_text(model, text_tokenizer, audio_tokenizer, config, text, output_path, max_audio_tokens=50):\n    \"\"\"Generate audio from text using the trained model\"\"\"\n    print(f\"🎵 Generating audio for: '{text}'\")\n    try:\n        # Tokenize text\n        text_tokens = text_tokenizer.encode(text, add_special_tokens=True)\n        print(f\"   Text tokens: {text_tokens}\")\n        # Create input sequence with text + audio start token\n        audio_start_token = config.audio_start_token\n        audio_end_token = config.audio_end_token",
+        "detail": "qwen-omni.pretraining.examples.basic.multimodal_inference_example",
+        "documentation": {}
+    },
+    {
+        "label": "test_text_to_audio_generation",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.examples.basic.multimodal_inference_example",
+        "description": "qwen-omni.pretraining.examples.basic.multimodal_inference_example",
+        "peekOfCode": "def test_text_to_audio_generation():\n    \"\"\"\n    Test text-to-audio generation with multiple samples\n    \"\"\"\n    print(\"🎯 TEXT-TO-AUDIO GENERATION TEST\")\n    print(\"=\" * 50)\n    # Load trained model\n    model, config, checkpoint = load_trained_model()\n    if model is None:\n        return",
+        "detail": "qwen-omni.pretraining.examples.basic.multimodal_inference_example",
+        "documentation": {}
+    },
+    {
+        "label": "test_model_forward_pass",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.examples.basic.multimodal_inference_example",
+        "description": "qwen-omni.pretraining.examples.basic.multimodal_inference_example",
+        "peekOfCode": "def test_model_forward_pass():\n    \"\"\"\n    Test the model's forward pass with different inputs\n    \"\"\"\n    print(\"\\n🧠 Testing model forward pass...\")\n    # Load model\n    model, config, checkpoint = load_trained_model()\n    if model is None:\n        return\n    # Setup tokenizer",
+        "detail": "qwen-omni.pretraining.examples.basic.multimodal_inference_example",
+        "documentation": {}
+    },
+    {
+        "label": "test_text_generation",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.examples.basic.multimodal_inference_example",
+        "description": "qwen-omni.pretraining.examples.basic.multimodal_inference_example",
+        "peekOfCode": "def test_text_generation():\n    \"\"\"\n    Test text generation with the trained model\n    \"\"\"\n    print(\"\\n📝 TEXT GENERATION TEST\")\n    print(\"=\" * 50)\n    # Load trained model\n    model, config, checkpoint = load_trained_model()\n    if model is None:\n        return",
+        "detail": "qwen-omni.pretraining.examples.basic.multimodal_inference_example",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.examples.basic.multimodal_inference_example",
+        "description": "qwen-omni.pretraining.examples.basic.multimodal_inference_example",
+        "peekOfCode": "def main():\n    \"\"\"\n    Main function for multimodal inference\n    \"\"\"\n    print(\"🎵 MULTIMODAL INFERENCE EXAMPLE\")\n    print(\"=\" * 50)\n    # Test model forward pass first\n    # test_model_forward_pass()\n    # Test text generation\n    # test_text_generation()",
+        "detail": "qwen-omni.pretraining.examples.basic.multimodal_inference_example",
+        "documentation": {}
+    },
+    {
+        "label": "create_multimodal_wrapper",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.examples.basic.multimodal_training_example",
+        "description": "qwen-omni.pretraining.examples.basic.multimodal_training_example",
+        "peekOfCode": "def create_multimodal_wrapper(dataset):\n    \"\"\"\n    Create a wrapper to convert (x, y) tuples to multimodal format\n    \"\"\"\n    class MultimodalWrapper:\n        def __init__(self, dataset):\n            self.dataset = dataset\n        def __len__(self):\n            return len(self.dataset)\n        def __getitem__(self, idx):",
+        "detail": "qwen-omni.pretraining.examples.basic.multimodal_training_example",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.examples.basic.multimodal_training_example",
+        "description": "qwen-omni.pretraining.examples.basic.multimodal_training_example",
+        "peekOfCode": "def main():\n    \"\"\"\n    Main training function\n    \"\"\"\n    print(\"🎯 MULTIMODAL TRAINING EXAMPLE\")\n    print(\"=\" * 50)\n    # Set seed for reproducibility\n    torch.manual_seed(42)\n    np.random.seed(42)\n    # Create configuration",
+        "detail": "qwen-omni.pretraining.examples.basic.multimodal_training_example",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.examples.basic.train_example",
+        "description": "qwen-omni.pretraining.examples.basic.train_example",
+        "peekOfCode": "def main():\n    \"\"\"\n    🎯 MAIN TRAINING FUNCTION\n    This function demonstrates the complete pretraining pipeline.\n    \"\"\"\n    print(\"🚀 PRETRAINING EXAMPLE\")\n    print(\"=\" * 50)\n    # Set seed for reproducibility\n    set_seed(42)\n    # Create configuration",
+        "detail": "qwen-omni.pretraining.examples.basic.train_example",
+        "documentation": {}
+    },
+    {
+        "label": "TextTokenDataset",
+        "kind": 6,
+        "importPath": "qwen-omni.pretraining.utils.data_simplified",
+        "description": "qwen-omni.pretraining.utils.data_simplified",
+        "peekOfCode": "class TextTokenDataset(Dataset):\n    \"\"\"Dataset for text-only tokenized data\"\"\"\n    def __init__(self, tokens, max_seq_len):\n        self.tokens = tokens\n        self.max_seq_len = max_seq_len\n    def __len__(self):\n        return len(self.tokens)\n    def __getitem__(self, idx):\n        tokens = self.tokens[idx]\n        if len(tokens) > self.max_seq_len:",
+        "detail": "qwen-omni.pretraining.utils.data_simplified",
+        "documentation": {}
+    },
+    {
+        "label": "LibriSpeechSimplifiedDataset",
+        "kind": 6,
+        "importPath": "qwen-omni.pretraining.utils.data_simplified",
+        "description": "qwen-omni.pretraining.utils.data_simplified",
+        "peekOfCode": "class LibriSpeechSimplifiedDataset(Dataset):\n    \"\"\"Dataset for LibriSpeech simplified audio-text pairs with real SNAC tokenization\"\"\"\n    def __init__(self, audio_text_pairs, text_tokenizer, audio_tokenizer, config, max_seq_len=256):\n        self.audio_text_pairs = audio_text_pairs\n        self.text_tokenizer = text_tokenizer\n        self.audio_tokenizer = audio_tokenizer\n        self.config = config\n        self.max_seq_len = max_seq_len\n        # Special tokens\n        self.audio_start_token = config.audio_start_token",
+        "detail": "qwen-omni.pretraining.utils.data_simplified",
+        "documentation": {}
+    },
+    {
+        "label": "load_and_cache_librispeech_simplified",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.utils.data_simplified",
+        "description": "qwen-omni.pretraining.utils.data_simplified",
+        "peekOfCode": "def load_and_cache_librispeech_simplified(config: MultimodalPretrainingConfig, cache_dir: str = \"data_cache\"):\n    \"\"\"\n    Load LibriSpeech dataset from simplified JSON with actual audio data\n    \"\"\"\n    cache_path = os.path.join(cache_dir, f\"librispeech_simplified_{config.num_documents}_{config.max_tokens}.pkl\")\n    # Check if cached data exists\n    if os.path.exists(cache_path):\n        print(f\"📦 Loading cached LibriSpeech simplified data from {cache_path}\")\n        try:\n            with open(cache_path, 'rb') as f:",
+        "detail": "qwen-omni.pretraining.utils.data_simplified",
+        "documentation": {}
+    },
+    {
+        "label": "create_multimodal_dataloader",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.utils.data_simplified",
+        "description": "qwen-omni.pretraining.utils.data_simplified",
+        "peekOfCode": "def create_multimodal_dataloader(dataset, batch_size=2, shuffle=True):\n    \"\"\"Create a DataLoader for multimodal dataset\"\"\"\n    return torch.utils.data.DataLoader(\n        dataset, \n        batch_size=batch_size, \n        shuffle=shuffle,\n        collate_fn=lambda batch: {\n            'input_ids': torch.stack([item['input_ids'] for item in batch]),\n            'attention_mask': torch.stack([item['attention_mask'] for item in batch]),\n            'labels': torch.stack([item['labels'] for item in batch]),",
+        "detail": "qwen-omni.pretraining.utils.data_simplified",
+        "documentation": {}
+    },
+    {
+        "label": "generate_text",
+        "kind": 2,
+        "importPath": "qwen-omni.pretraining.utils.generation",
+        "description": "qwen-omni.pretraining.utils.generation",
+        "peekOfCode": "def generate_text(model, tokenizer, prompt: str, max_length: int = 100,\n                 temperature: float = 0.8, top_k: int = 50, top_p: float = 0.9):\n    \"\"\"\n    🔮 TEXT GENERATION FUNCTION\n    This function generates text using the trained model with advanced sampling:\n    🎯 Sampling Strategies:\n    1. Temperature Scaling: Controls randomness (0.1 = focused, 2.0 = random)\n    2. Top-k Sampling: Only consider top k most likely tokens\n    3. Top-p (Nucleus) Sampling: Consider tokens until cumulative probability reaches p\n    🔍 How it works:",
+        "detail": "qwen-omni.pretraining.utils.generation",
         "documentation": {}
     },
     {
@@ -7972,6 +9047,510 @@
         "description": "push_model",
         "peekOfCode": "def main():\n    parser = argparse.ArgumentParser(description='Push multiple fine-tuned Qwen models to Hugging Face Hub')\n    parser.add_argument('--models-dir', type=str, default='qwen-llm/models', \n                       help='Directory containing the model files')\n    parser.add_argument('--username', type=str, default='AlaminI', \n                       help='Your Hugging Face username')\n    parser.add_argument('--token', type=str, default='huggingface token', \n                       help='Hugging Face token')\n    parser.add_argument('--single-model', type=str, default=None,\n                       help='Push only a specific model file (optional)')",
         "detail": "push_model",
+        "documentation": {}
+    },
+    {
+        "label": "CustomDataSet",
+        "kind": 6,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "class CustomDataSet(Dataset):\n    def __init__(self, dataset, model):\n        self.ds = dataset\n        self.model = model.to(device)\n        super().__init__()\n    def __len__(self):\n        return len(self.ds)\n    def __getitem__(self, idx):\n        codes = None\n        audio = torch.tensor(self.ds[idx][\"audio\"][\"array\"], dtype=torch.float32).to(device)",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_tensors_adjusted",
+        "kind": 2,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "def flatten_tensors_adjusted(tensors):\n    \"\"\"Safely flattens a list of tensors into a flat list of integers.\"\"\"\n    flattened_list = []\n    if len(tensors)==3:\n      for i in range(tensors[0].size()[1]):\n        flattened_list.append(50258)\n        flattened_list.append(tensors[0][0][i].item())\n        for j in range(2):\n          flattened_list.append(tensors[1][0][j+i*2].item())\n          for k in range(2):",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "find_last_instance_of_seperator",
+        "kind": 2,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "def find_last_instance_of_seperator(lst, element=50256):\n    reversed_list = lst[::-1]\n    try:\n        reversed_index = reversed_list.index(element)\n        return len(lst) - 1 - reversed_index\n    except ValueError:\n        raise ValueError\n# %%\ndef reconstruct_tensors(flattened_output):\n    \"\"\"Reconstructs the list of tensors from the flattened output.\"\"\"",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "reconstruct_tensors",
+        "kind": 2,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "def reconstruct_tensors(flattened_output):\n    \"\"\"Reconstructs the list of tensors from the flattened output.\"\"\"\n    def count_elements_between_hashes(lst):\n        try:\n            # Find the index of the first '#'\n            first_index = lst.index(50258)\n            # Find the index of the second '#' after the first\n            second_index = lst.index(50258, first_index + 1)\n            # Count the elements between the two indices\n            return second_index - first_index - 1",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "training",
+        "kind": 2,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "def training(model):\n    optimizer = AdamW(model.parameters(), lr=learning_rate, betas=(0.9, 0.95), weight_decay=0.1)\n    # Learning Rate Scheduler: Cosine Annealing with Warm Restarts\n    T_0 = 500  # Number of steps for the first restart (warm-up steps)\n    T_mult = 1  # A factor increases T_i after a restart\n    eta_min = 1e-7  # Minimum learning rate\n    scheduler = CosineAnnealingWarmRestarts(optimizer, T_0=T_0, T_mult=T_mult, eta_min=eta_min)\n    epoch_start = 1\n    global_step = 0\n    continue_training = True",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "dataone",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "dataone = load_from_disk('/kaggle/input/libri-tts-hf-10s/libritts.hf')\ndatatwo = load_from_disk('/kaggle/input/librispeech-hf-10s/hifitts.hf')\ndatathree = load_from_disk('/kaggle/input/hifi-tts-10s/hifitts.hf')\ndata_four = load_from_disk('/kaggle/input/globe-tts-25/globe25.hf')\ndata_five = load_from_disk('/kaggle/input/globe-2550-tts/globe25_50.hf')\ndata_six = load_from_disk('/kaggle/input/globe-50-75/globe50_75.hf')\ndata_seven = load_from_disk('/kaggle/input/globe-75-100tt/globe75:100_hf')\n# %%\ndataone = dataone.select_columns(['audio', 'text_normalized',])\ndataone",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "datatwo",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "datatwo = load_from_disk('/kaggle/input/librispeech-hf-10s/hifitts.hf')\ndatathree = load_from_disk('/kaggle/input/hifi-tts-10s/hifitts.hf')\ndata_four = load_from_disk('/kaggle/input/globe-tts-25/globe25.hf')\ndata_five = load_from_disk('/kaggle/input/globe-2550-tts/globe25_50.hf')\ndata_six = load_from_disk('/kaggle/input/globe-50-75/globe50_75.hf')\ndata_seven = load_from_disk('/kaggle/input/globe-75-100tt/globe75:100_hf')\n# %%\ndataone = dataone.select_columns(['audio', 'text_normalized',])\ndataone\n# %%",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "datathree",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "datathree = load_from_disk('/kaggle/input/hifi-tts-10s/hifitts.hf')\ndata_four = load_from_disk('/kaggle/input/globe-tts-25/globe25.hf')\ndata_five = load_from_disk('/kaggle/input/globe-2550-tts/globe25_50.hf')\ndata_six = load_from_disk('/kaggle/input/globe-50-75/globe50_75.hf')\ndata_seven = load_from_disk('/kaggle/input/globe-75-100tt/globe75:100_hf')\n# %%\ndataone = dataone.select_columns(['audio', 'text_normalized',])\ndataone\n# %%\ndatatwo  = concatenate_datasets([datatwo['train.100'], datatwo['train.360'], datatwo['test'], datatwo['validation'],])",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "data_four",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "data_four = load_from_disk('/kaggle/input/globe-tts-25/globe25.hf')\ndata_five = load_from_disk('/kaggle/input/globe-2550-tts/globe25_50.hf')\ndata_six = load_from_disk('/kaggle/input/globe-50-75/globe50_75.hf')\ndata_seven = load_from_disk('/kaggle/input/globe-75-100tt/globe75:100_hf')\n# %%\ndataone = dataone.select_columns(['audio', 'text_normalized',])\ndataone\n# %%\ndatatwo  = concatenate_datasets([datatwo['train.100'], datatwo['train.360'], datatwo['test'], datatwo['validation'],])\ndatatwo = datatwo.rename_column(\"text\", \"text_normalized\")",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "data_five",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "data_five = load_from_disk('/kaggle/input/globe-2550-tts/globe25_50.hf')\ndata_six = load_from_disk('/kaggle/input/globe-50-75/globe50_75.hf')\ndata_seven = load_from_disk('/kaggle/input/globe-75-100tt/globe75:100_hf')\n# %%\ndataone = dataone.select_columns(['audio', 'text_normalized',])\ndataone\n# %%\ndatatwo  = concatenate_datasets([datatwo['train.100'], datatwo['train.360'], datatwo['test'], datatwo['validation'],])\ndatatwo = datatwo.rename_column(\"text\", \"text_normalized\")\ndatatwo = datatwo.select_columns(['audio', 'text_normalized',])",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "data_six",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "data_six = load_from_disk('/kaggle/input/globe-50-75/globe50_75.hf')\ndata_seven = load_from_disk('/kaggle/input/globe-75-100tt/globe75:100_hf')\n# %%\ndataone = dataone.select_columns(['audio', 'text_normalized',])\ndataone\n# %%\ndatatwo  = concatenate_datasets([datatwo['train.100'], datatwo['train.360'], datatwo['test'], datatwo['validation'],])\ndatatwo = datatwo.rename_column(\"text\", \"text_normalized\")\ndatatwo = datatwo.select_columns(['audio', 'text_normalized',])\ndatatwo",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "data_seven",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "data_seven = load_from_disk('/kaggle/input/globe-75-100tt/globe75:100_hf')\n# %%\ndataone = dataone.select_columns(['audio', 'text_normalized',])\ndataone\n# %%\ndatatwo  = concatenate_datasets([datatwo['train.100'], datatwo['train.360'], datatwo['test'], datatwo['validation'],])\ndatatwo = datatwo.rename_column(\"text\", \"text_normalized\")\ndatatwo = datatwo.select_columns(['audio', 'text_normalized',])\ndatatwo\n# %%",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "dataone",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "dataone = dataone.select_columns(['audio', 'text_normalized',])\ndataone\n# %%\ndatatwo  = concatenate_datasets([datatwo['train.100'], datatwo['train.360'], datatwo['test'], datatwo['validation'],])\ndatatwo = datatwo.rename_column(\"text\", \"text_normalized\")\ndatatwo = datatwo.select_columns(['audio', 'text_normalized',])\ndatatwo\n# %%\ndatathree = concatenate_datasets([datathree['train'], datathree['dev'], datathree['test'],])\ndatathree = datathree.select_columns(['audio', 'text_normalized',])",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "datatwo",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "datatwo = datatwo.rename_column(\"text\", \"text_normalized\")\ndatatwo = datatwo.select_columns(['audio', 'text_normalized',])\ndatatwo\n# %%\ndatathree = concatenate_datasets([datathree['train'], datathree['dev'], datathree['test'],])\ndatathree = datathree.select_columns(['audio', 'text_normalized',])\ndatathree\n# %%\ndata_four = data_four.rename_column(\"transcript\", \"text_normalized\")\ndata_four = data_four.select_columns(['audio', 'text_normalized',])",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "datatwo",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "datatwo = datatwo.select_columns(['audio', 'text_normalized',])\ndatatwo\n# %%\ndatathree = concatenate_datasets([datathree['train'], datathree['dev'], datathree['test'],])\ndatathree = datathree.select_columns(['audio', 'text_normalized',])\ndatathree\n# %%\ndata_four = data_four.rename_column(\"transcript\", \"text_normalized\")\ndata_four = data_four.select_columns(['audio', 'text_normalized',])\n# %%",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "datathree",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "datathree = concatenate_datasets([datathree['train'], datathree['dev'], datathree['test'],])\ndatathree = datathree.select_columns(['audio', 'text_normalized',])\ndatathree\n# %%\ndata_four = data_four.rename_column(\"transcript\", \"text_normalized\")\ndata_four = data_four.select_columns(['audio', 'text_normalized',])\n# %%\ndata_five = data_five.rename_column(\"transcript\", \"text_normalized\")\ndata_five = data_five.select_columns(['audio', 'text_normalized',])\n# %%",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "datathree",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "datathree = datathree.select_columns(['audio', 'text_normalized',])\ndatathree\n# %%\ndata_four = data_four.rename_column(\"transcript\", \"text_normalized\")\ndata_four = data_four.select_columns(['audio', 'text_normalized',])\n# %%\ndata_five = data_five.rename_column(\"transcript\", \"text_normalized\")\ndata_five = data_five.select_columns(['audio', 'text_normalized',])\n# %%\ndata_six = data_six.rename_column(\"transcript\", \"text_normalized\")",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "data_four",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "data_four = data_four.rename_column(\"transcript\", \"text_normalized\")\ndata_four = data_four.select_columns(['audio', 'text_normalized',])\n# %%\ndata_five = data_five.rename_column(\"transcript\", \"text_normalized\")\ndata_five = data_five.select_columns(['audio', 'text_normalized',])\n# %%\ndata_six = data_six.rename_column(\"transcript\", \"text_normalized\")\ndata_six = data_six.select_columns(['audio', 'text_normalized',])\n# %%\ndata_seven = data_seven.rename_column(\"transcript\", \"text_normalized\")",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "data_four",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "data_four = data_four.select_columns(['audio', 'text_normalized',])\n# %%\ndata_five = data_five.rename_column(\"transcript\", \"text_normalized\")\ndata_five = data_five.select_columns(['audio', 'text_normalized',])\n# %%\ndata_six = data_six.rename_column(\"transcript\", \"text_normalized\")\ndata_six = data_six.select_columns(['audio', 'text_normalized',])\n# %%\ndata_seven = data_seven.rename_column(\"transcript\", \"text_normalized\")\ndata_seven = data_seven.select_columns(['audio', 'text_normalized',])",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "data_five",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "data_five = data_five.rename_column(\"transcript\", \"text_normalized\")\ndata_five = data_five.select_columns(['audio', 'text_normalized',])\n# %%\ndata_six = data_six.rename_column(\"transcript\", \"text_normalized\")\ndata_six = data_six.select_columns(['audio', 'text_normalized',])\n# %%\ndata_seven = data_seven.rename_column(\"transcript\", \"text_normalized\")\ndata_seven = data_seven.select_columns(['audio', 'text_normalized',])\n# %%\naudio_data = interleave_datasets([dataone, datatwo, datathree, data_four, data_five, data_six, data_seven],stopping_strategy=\"all_exhausted\", seed=42)",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "data_five",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "data_five = data_five.select_columns(['audio', 'text_normalized',])\n# %%\ndata_six = data_six.rename_column(\"transcript\", \"text_normalized\")\ndata_six = data_six.select_columns(['audio', 'text_normalized',])\n# %%\ndata_seven = data_seven.rename_column(\"transcript\", \"text_normalized\")\ndata_seven = data_seven.select_columns(['audio', 'text_normalized',])\n# %%\naudio_data = interleave_datasets([dataone, datatwo, datathree, data_four, data_five, data_six, data_seven],stopping_strategy=\"all_exhausted\", seed=42)\n# %%",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "data_six",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "data_six = data_six.rename_column(\"transcript\", \"text_normalized\")\ndata_six = data_six.select_columns(['audio', 'text_normalized',])\n# %%\ndata_seven = data_seven.rename_column(\"transcript\", \"text_normalized\")\ndata_seven = data_seven.select_columns(['audio', 'text_normalized',])\n# %%\naudio_data = interleave_datasets([dataone, datatwo, datathree, data_four, data_five, data_six, data_seven],stopping_strategy=\"all_exhausted\", seed=42)\n# %%\naudio_data\n# %%",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "data_six",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "data_six = data_six.select_columns(['audio', 'text_normalized',])\n# %%\ndata_seven = data_seven.rename_column(\"transcript\", \"text_normalized\")\ndata_seven = data_seven.select_columns(['audio', 'text_normalized',])\n# %%\naudio_data = interleave_datasets([dataone, datatwo, datathree, data_four, data_five, data_six, data_seven],stopping_strategy=\"all_exhausted\", seed=42)\n# %%\naudio_data\n# %%\n# Step 2: Calculate split sizes",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "data_seven",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "data_seven = data_seven.rename_column(\"transcript\", \"text_normalized\")\ndata_seven = data_seven.select_columns(['audio', 'text_normalized',])\n# %%\naudio_data = interleave_datasets([dataone, datatwo, datathree, data_four, data_five, data_six, data_seven],stopping_strategy=\"all_exhausted\", seed=42)\n# %%\naudio_data\n# %%\n# Step 2: Calculate split sizes\ntotal_samples = len(audio_data)\nsplit_size = total_samples // 12 # Integer division to get roughly equal splits",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "data_seven",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "data_seven = data_seven.select_columns(['audio', 'text_normalized',])\n# %%\naudio_data = interleave_datasets([dataone, datatwo, datathree, data_four, data_five, data_six, data_seven],stopping_strategy=\"all_exhausted\", seed=42)\n# %%\naudio_data\n# %%\n# Step 2: Calculate split sizes\ntotal_samples = len(audio_data)\nsplit_size = total_samples // 12 # Integer division to get roughly equal splits\n# Step 3: Split the dataset into 8 parts",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "audio_data",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "audio_data = interleave_datasets([dataone, datatwo, datathree, data_four, data_five, data_six, data_seven],stopping_strategy=\"all_exhausted\", seed=42)\n# %%\naudio_data\n# %%\n# Step 2: Calculate split sizes\ntotal_samples = len(audio_data)\nsplit_size = total_samples // 12 # Integer division to get roughly equal splits\n# Step 3: Split the dataset into 8 parts\ndataset_splits = []\nstart_idx = 0",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "total_samples",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "total_samples = len(audio_data)\nsplit_size = total_samples // 12 # Integer division to get roughly equal splits\n# Step 3: Split the dataset into 8 parts\ndataset_splits = []\nstart_idx = 0\nfor i in range(11):  # Create 7 parts\n    dataset_splits.append(audio_data.select(list(range(start_idx, start_idx + split_size))))\n    start_idx += split_size\n# Add the last part to ensure all examples are included\ndataset_splits.append(audio_data.select(list(range(start_idx, total_samples))))",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "split_size",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "split_size = total_samples // 12 # Integer division to get roughly equal splits\n# Step 3: Split the dataset into 8 parts\ndataset_splits = []\nstart_idx = 0\nfor i in range(11):  # Create 7 parts\n    dataset_splits.append(audio_data.select(list(range(start_idx, start_idx + split_size))))\n    start_idx += split_size\n# Add the last part to ensure all examples are included\ndataset_splits.append(audio_data.select(list(range(start_idx, total_samples))))\n# %%",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "dataset_splits",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "dataset_splits = []\nstart_idx = 0\nfor i in range(11):  # Create 7 parts\n    dataset_splits.append(audio_data.select(list(range(start_idx, start_idx + split_size))))\n    start_idx += split_size\n# Add the last part to ensure all examples are included\ndataset_splits.append(audio_data.select(list(range(start_idx, total_samples))))\n# %%\n# %%\naudio_data_part = dataset_splits[11] ",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "start_idx",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "start_idx = 0\nfor i in range(11):  # Create 7 parts\n    dataset_splits.append(audio_data.select(list(range(start_idx, start_idx + split_size))))\n    start_idx += split_size\n# Add the last part to ensure all examples are included\ndataset_splits.append(audio_data.select(list(range(start_idx, total_samples))))\n# %%\n# %%\naudio_data_part = dataset_splits[11] \n# %%",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "audio_data_part",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "audio_data_part = dataset_splits[11] \n# %%\naudio_data_part\n# %%\naudio_data_part.save_to_disk('picked_data')\n# %%\naudio_data_part = load_from_disk(\"/kaggle/working/picked_data\")\n# %%\n!pip install librosa\nimport librosa",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "audio_data_part",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "audio_data_part = load_from_disk(\"/kaggle/working/picked_data\")\n# %%\n!pip install librosa\nimport librosa\n# use 🤗 Datasets' `filter` method to apply the filtering function\naudio_data_part = audio_data_part.filter(lambda example: librosa.get_duration(y = example['audio']['array'], sr = 24000) <= 10 )\n# %%\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\n# %%\nfrom transformers import GPT2Tokenizer, GPT2LMHeadModel, GPT2Config",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "audio_data_part",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "audio_data_part = audio_data_part.filter(lambda example: librosa.get_duration(y = example['audio']['array'], sr = 24000) <= 10 )\n# %%\ndevice = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\n# %%\nfrom transformers import GPT2Tokenizer, GPT2LMHeadModel, GPT2Config\ntokenizer = GPT2Tokenizer.from_pretrained('gpt2', add_bos_token = True, pad_token_id=50257)\nconfig = GPT2Config(vocab_size=tokenizer.vocab_size, n_ctx=1024, n_layer = 20, n_embd = 1024, n_head = 16)\nconfig.max_position_embeddings = 1024\nmodel = GPT2LMHeadModel(config)\ntokenizer.add_special_tokens({'pad_token': '[PAD]'}) ## add pad token which is [50257]",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "device",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "device = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\n# %%\nfrom transformers import GPT2Tokenizer, GPT2LMHeadModel, GPT2Config\ntokenizer = GPT2Tokenizer.from_pretrained('gpt2', add_bos_token = True, pad_token_id=50257)\nconfig = GPT2Config(vocab_size=tokenizer.vocab_size, n_ctx=1024, n_layer = 20, n_embd = 1024, n_head = 16)\nconfig.max_position_embeddings = 1024\nmodel = GPT2LMHeadModel(config)\ntokenizer.add_special_tokens({'pad_token': '[PAD]'}) ## add pad token which is [50257]\ntokenizer.add_tokens([\"SPACER\"])\n## resize embedding according to docs ",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "tokenizer",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "tokenizer = GPT2Tokenizer.from_pretrained('gpt2', add_bos_token = True, pad_token_id=50257)\nconfig = GPT2Config(vocab_size=tokenizer.vocab_size, n_ctx=1024, n_layer = 20, n_embd = 1024, n_head = 16)\nconfig.max_position_embeddings = 1024\nmodel = GPT2LMHeadModel(config)\ntokenizer.add_special_tokens({'pad_token': '[PAD]'}) ## add pad token which is [50257]\ntokenizer.add_tokens([\"SPACER\"])\n## resize embedding according to docs \nmodel.resize_token_embeddings(len(tokenizer))\nmodel.to(device)\n# %%",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "config = GPT2Config(vocab_size=tokenizer.vocab_size, n_ctx=1024, n_layer = 20, n_embd = 1024, n_head = 16)\nconfig.max_position_embeddings = 1024\nmodel = GPT2LMHeadModel(config)\ntokenizer.add_special_tokens({'pad_token': '[PAD]'}) ## add pad token which is [50257]\ntokenizer.add_tokens([\"SPACER\"])\n## resize embedding according to docs \nmodel.resize_token_embeddings(len(tokenizer))\nmodel.to(device)\n# %%\n# Load the SNAC model",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "config.max_position_embeddings",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "config.max_position_embeddings = 1024\nmodel = GPT2LMHeadModel(config)\ntokenizer.add_special_tokens({'pad_token': '[PAD]'}) ## add pad token which is [50257]\ntokenizer.add_tokens([\"SPACER\"])\n## resize embedding according to docs \nmodel.resize_token_embeddings(len(tokenizer))\nmodel.to(device)\n# %%\n# Load the SNAC model\nsnac_model = SNAC.from_pretrained(\"hubertsiuzdak/snac_24khz\").eval()",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "model = GPT2LMHeadModel(config)\ntokenizer.add_special_tokens({'pad_token': '[PAD]'}) ## add pad token which is [50257]\ntokenizer.add_tokens([\"SPACER\"])\n## resize embedding according to docs \nmodel.resize_token_embeddings(len(tokenizer))\nmodel.to(device)\n# %%\n# Load the SNAC model\nsnac_model = SNAC.from_pretrained(\"hubertsiuzdak/snac_24khz\").eval()\n# %%",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "snac_model",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "snac_model = SNAC.from_pretrained(\"hubertsiuzdak/snac_24khz\").eval()\n# %%\ndef flatten_tensors_adjusted(tensors):\n    \"\"\"Safely flattens a list of tensors into a flat list of integers.\"\"\"\n    flattened_list = []\n    if len(tensors)==3:\n      for i in range(tensors[0].size()[1]):\n        flattened_list.append(50258)\n        flattened_list.append(tensors[0][0][i].item())\n        for j in range(2):",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "batch_size",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "batch_size = 1\nlearning_rate = 1e-4\nn_layers = 12\n# %%\nmax_position_embeddings = model.config.max_position_embeddings\nmax_position_embeddings\n# %%\nfrom tqdm import tqdm\n# %%\nimport wandb",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "learning_rate",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "learning_rate = 1e-4\nn_layers = 12\n# %%\nmax_position_embeddings = model.config.max_position_embeddings\nmax_position_embeddings\n# %%\nfrom tqdm import tqdm\n# %%\nimport wandb\nwandb.login(key = '')",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "n_layers",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "n_layers = 12\n# %%\nmax_position_embeddings = model.config.max_position_embeddings\nmax_position_embeddings\n# %%\nfrom tqdm import tqdm\n# %%\nimport wandb\nwandb.login(key = '')\nwandb.init(project=\"text to speech\", name=\"SNAC GPT_2-36th epoch-pass3\", id = 'nec68627', resume = 'must',  )",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "max_position_embeddings",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "max_position_embeddings = model.config.max_position_embeddings\nmax_position_embeddings\n# %%\nfrom tqdm import tqdm\n# %%\nimport wandb\nwandb.login(key = '')\nwandb.init(project=\"text to speech\", name=\"SNAC GPT_2-36th epoch-pass3\", id = 'nec68627', resume = 'must',  )\n    # Initialize WandB configuration\nwandb.config.batch_size = batch_size",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "wandb.login(key",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "wandb.login(key = '')\nwandb.init(project=\"text to speech\", name=\"SNAC GPT_2-36th epoch-pass3\", id = 'nec68627', resume = 'must',  )\n    # Initialize WandB configuration\nwandb.config.batch_size = batch_size\nwandb.config.learning_rate = 0.0001 #actually 1e-7\nwandb.config.n_layers = n_layers\n# %%\ncontinue_training = True\nif continue_training:\n    checkpoint = torch.load(\"/kaggle/input/big-snac-pass3-b/tts_transformer-epoch-36.pt\",map_location=torch.device('cpu'))",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "wandb.config.batch_size",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "wandb.config.batch_size = batch_size\nwandb.config.learning_rate = 0.0001 #actually 1e-7\nwandb.config.n_layers = n_layers\n# %%\ncontinue_training = True\nif continue_training:\n    checkpoint = torch.load(\"/kaggle/input/big-snac-pass3-b/tts_transformer-epoch-36.pt\",map_location=torch.device('cpu'))\n    model.load_state_dict(checkpoint['model_state_dict'], strict=False)\n#     optimizer.load_state_dict(checkpoint['optimizer_state_dict'])\n#     epoch_start = checkpoint['epoch']",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "wandb.config.learning_rate",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "wandb.config.learning_rate = 0.0001 #actually 1e-7\nwandb.config.n_layers = n_layers\n# %%\ncontinue_training = True\nif continue_training:\n    checkpoint = torch.load(\"/kaggle/input/big-snac-pass3-b/tts_transformer-epoch-36.pt\",map_location=torch.device('cpu'))\n    model.load_state_dict(checkpoint['model_state_dict'], strict=False)\n#     optimizer.load_state_dict(checkpoint['optimizer_state_dict'])\n#     epoch_start = checkpoint['epoch']\n#     loss = checkpoint['loss']",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "wandb.config.n_layers",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "wandb.config.n_layers = n_layers\n# %%\ncontinue_training = True\nif continue_training:\n    checkpoint = torch.load(\"/kaggle/input/big-snac-pass3-b/tts_transformer-epoch-36.pt\",map_location=torch.device('cpu'))\n    model.load_state_dict(checkpoint['model_state_dict'], strict=False)\n#     optimizer.load_state_dict(checkpoint['optimizer_state_dict'])\n#     epoch_start = checkpoint['epoch']\n#     loss = checkpoint['loss']\n# %%",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "continue_training",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "continue_training = True\nif continue_training:\n    checkpoint = torch.load(\"/kaggle/input/big-snac-pass3-b/tts_transformer-epoch-36.pt\",map_location=torch.device('cpu'))\n    model.load_state_dict(checkpoint['model_state_dict'], strict=False)\n#     optimizer.load_state_dict(checkpoint['optimizer_state_dict'])\n#     epoch_start = checkpoint['epoch']\n#     loss = checkpoint['loss']\n# %%\nfrom torch.optim.lr_scheduler import CosineAnnealingWarmRestarts\n# %%",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "train_ds",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "train_ds = CustomDataSet(audio_data_part,snac_model)\n    # val_ds = CustomDataSet(val_dataset,snac_model)\ntrain_loader = DataLoader(train_ds, batch_size=batch_size, shuffle=True)\n    # val_loader = DataLoader(val_ds, batch_size=batch_size, shuffle=False)\ndef training(model):\n    optimizer = AdamW(model.parameters(), lr=learning_rate, betas=(0.9, 0.95), weight_decay=0.1)\n    # Learning Rate Scheduler: Cosine Annealing with Warm Restarts\n    T_0 = 500  # Number of steps for the first restart (warm-up steps)\n    T_mult = 1  # A factor increases T_i after a restart\n    eta_min = 1e-7  # Minimum learning rate",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "train_loader",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "train_loader = DataLoader(train_ds, batch_size=batch_size, shuffle=True)\n    # val_loader = DataLoader(val_ds, batch_size=batch_size, shuffle=False)\ndef training(model):\n    optimizer = AdamW(model.parameters(), lr=learning_rate, betas=(0.9, 0.95), weight_decay=0.1)\n    # Learning Rate Scheduler: Cosine Annealing with Warm Restarts\n    T_0 = 500  # Number of steps for the first restart (warm-up steps)\n    T_mult = 1  # A factor increases T_i after a restart\n    eta_min = 1e-7  # Minimum learning rate\n    scheduler = CosineAnnealingWarmRestarts(optimizer, T_0=T_0, T_mult=T_mult, eta_min=eta_min)\n    epoch_start = 1",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "input_text",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "input_text = \"in being modern\"\n#             # Tokenize the input text\n# tokenizer.pad_token_id = 50257   \noutput_ids = None\ninput_ids = tokenizer(input_text, return_tensors='pt').to(device)\ninput_ids['input_ids'] = torch.cat((input_ids['input_ids'], torch.tensor([[50258]]), ), dim =1)\ninput_ids['attention_mask'] = torch.cat((input_ids['attention_mask'], torch.tensor([[1]]), ), dim =1)\nprint(input_ids['input_ids'])\nprint(tokenizer.pad_token_id)\nwith torch.no_grad():",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "output_ids",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "output_ids = None\ninput_ids = tokenizer(input_text, return_tensors='pt').to(device)\ninput_ids['input_ids'] = torch.cat((input_ids['input_ids'], torch.tensor([[50258]]), ), dim =1)\ninput_ids['attention_mask'] = torch.cat((input_ids['attention_mask'], torch.tensor([[1]]), ), dim =1)\nprint(input_ids['input_ids'])\nprint(tokenizer.pad_token_id)\nwith torch.no_grad():\n    output_ids = model.generate(input_ids['input_ids'],attention_mask=input_ids['attention_mask'],max_length = 1024, )\n    print(output_ids[0][0:100]) \n    reconstructed_codes = reconstruct_tensors(output_ids.squeeze(0).tolist())",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "input_ids",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "input_ids = tokenizer(input_text, return_tensors='pt').to(device)\ninput_ids['input_ids'] = torch.cat((input_ids['input_ids'], torch.tensor([[50258]]), ), dim =1)\ninput_ids['attention_mask'] = torch.cat((input_ids['attention_mask'], torch.tensor([[1]]), ), dim =1)\nprint(input_ids['input_ids'])\nprint(tokenizer.pad_token_id)\nwith torch.no_grad():\n    output_ids = model.generate(input_ids['input_ids'],attention_mask=input_ids['attention_mask'],max_length = 1024, )\n    print(output_ids[0][0:100]) \n    reconstructed_codes = reconstruct_tensors(output_ids.squeeze(0).tolist())\n    import soundfile as sf",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "input_ids['input_ids']",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "input_ids['input_ids'] = torch.cat((input_ids['input_ids'], torch.tensor([[50258]]), ), dim =1)\ninput_ids['attention_mask'] = torch.cat((input_ids['attention_mask'], torch.tensor([[1]]), ), dim =1)\nprint(input_ids['input_ids'])\nprint(tokenizer.pad_token_id)\nwith torch.no_grad():\n    output_ids = model.generate(input_ids['input_ids'],attention_mask=input_ids['attention_mask'],max_length = 1024, )\n    print(output_ids[0][0:100]) \n    reconstructed_codes = reconstruct_tensors(output_ids.squeeze(0).tolist())\n    import soundfile as sf\n#     with torch.inference_mode():",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "input_ids['attention_mask']",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "input_ids['attention_mask'] = torch.cat((input_ids['attention_mask'], torch.tensor([[1]]), ), dim =1)\nprint(input_ids['input_ids'])\nprint(tokenizer.pad_token_id)\nwith torch.no_grad():\n    output_ids = model.generate(input_ids['input_ids'],attention_mask=input_ids['attention_mask'],max_length = 1024, )\n    print(output_ids[0][0:100]) \n    reconstructed_codes = reconstruct_tensors(output_ids.squeeze(0).tolist())\n    import soundfile as sf\n#     with torch.inference_mode():\n    audio_hat = snac_model.to(device).decode(reconstructed_codes)",
+        "detail": "tts-snac-base",
+        "documentation": {}
+    },
+    {
+        "label": "reconstructed_codes",
+        "kind": 5,
+        "importPath": "tts-snac-base",
+        "description": "tts-snac-base",
+        "peekOfCode": "reconstructed_codes = reconstruct_tensors(output_ids.squeeze(0).tolist())",
+        "detail": "tts-snac-base",
         "documentation": {}
     }
 ]
